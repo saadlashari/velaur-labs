@@ -1,0 +1,290 @@
+[
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "rgb(56, 92, 214)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "rgb(131, 150, 198)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "rgb(131, 150, 198)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "rgb(131, 150, 198)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "rgb(131, 150, 198)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "light",
+    "width": 1102
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "oklab(0.649279 -0.00782932 -0.0885839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.649279 -0.00782932 -0.0885839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "rgb(66, 108, 225)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.649279 -0.00782932 -0.0885839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.649279 -0.00782932 -0.0885839)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1102
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "oklab(0.585564 -0.0192226 -0.121621)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.585564 -0.0192226 -0.121621)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "rgb(89, 146, 251)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.585564 -0.0192226 -0.121621)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.585564 -0.0192226 -0.121621)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "light",
+    "width": 1280
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "oklab(0.576953 -0.0207626 -0.126086)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.576953 -0.0207626 -0.126086)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "rgb(92, 151, 254)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.576953 -0.0207626 -0.126086)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.576953 -0.0207626 -0.126086)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1280
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "rgb(89, 146, 251)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.585376 -0.0192563 -0.121719)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "oklab(0.585376 -0.0192563 -0.121719)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.585376 -0.0192563 -0.121719)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.585376 -0.0192563 -0.121719)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "rgb(92, 151, 254)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.576952 -0.0207627 -0.126087)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "oklab(0.576952 -0.0207627 -0.126087)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.576952 -0.0207627 -0.126087)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.576952 -0.0207627 -0.126087)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "rgb(93, 152, 255)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.575279 -0.0210619 -0.126954)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "oklab(0.575279 -0.0210619 -0.126954)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.575279 -0.0210619 -0.126954)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.575279 -0.0210619 -0.126954)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "light",
+    "width": 1920
+  },
+  {
+    "paths": [
+      {
+        "crosses": [],
+        "index": 0,
+        "stroke": "rgb(92, 151, 254)",
+        "width": "2.25px"
+      },
+      {
+        "crosses": [],
+        "index": 1,
+        "stroke": "oklab(0.57743 -0.0206772 -0.125839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 2,
+        "stroke": "oklab(0.57743 -0.0206772 -0.125839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 3,
+        "stroke": "oklab(0.57743 -0.0206772 -0.125839)",
+        "width": "1.5px"
+      },
+      {
+        "crosses": [],
+        "index": 4,
+        "stroke": "oklab(0.57743 -0.0206772 -0.125839)",
+        "width": "1.5px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1920
+  }
+]

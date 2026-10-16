@@ -1,0 +1,182 @@
+[
+  {
+    "arc": 0,
+    "hover": true,
+    "index": 0,
+    "kind": "arc",
+    "label": 0,
+    "line": 0,
+    "theme": "light"
+  },
+  {
+    "arc": 0,
+    "hover": true,
+    "index": 0,
+    "kind": "label",
+    "label": 0,
+    "line": 0,
+    "theme": "light"
+  },
+  {
+    "arc": 1,
+    "hover": true,
+    "index": 1,
+    "kind": "arc",
+    "label": 1,
+    "line": 1,
+    "theme": "light"
+  },
+  {
+    "arc": 1,
+    "hover": true,
+    "index": 1,
+    "kind": "label",
+    "label": 1,
+    "line": 1,
+    "theme": "light"
+  },
+  {
+    "arc": 2,
+    "hover": true,
+    "index": 2,
+    "kind": "arc",
+    "label": 2,
+    "line": 2,
+    "theme": "light"
+  },
+  {
+    "arc": 2,
+    "hover": true,
+    "index": 2,
+    "kind": "label",
+    "label": 2,
+    "line": 2,
+    "theme": "light"
+  },
+  {
+    "arc": 3,
+    "hover": true,
+    "index": 3,
+    "kind": "arc",
+    "label": 3,
+    "line": 3,
+    "theme": "light"
+  },
+  {
+    "arc": 3,
+    "hover": true,
+    "index": 3,
+    "kind": "label",
+    "label": 3,
+    "line": 3,
+    "theme": "light"
+  },
+  {
+    "arc": 4,
+    "hover": true,
+    "index": 4,
+    "kind": "arc",
+    "label": 4,
+    "line": 4,
+    "theme": "light"
+  },
+  {
+    "arc": 4,
+    "hover": true,
+    "index": 4,
+    "kind": "label",
+    "label": 4,
+    "line": 4,
+    "theme": "light"
+  },
+  {
+    "arc": 0,
+    "hover": true,
+    "index": 0,
+    "kind": "arc",
+    "label": 0,
+    "line": 0,
+    "theme": "dark"
+  },
+  {
+    "arc": 0,
+    "hover": true,
+    "index": 0,
+    "kind": "label",
+    "label": 0,
+    "line": 0,
+    "theme": "dark"
+  },
+  {
+    "arc": 1,
+    "hover": true,
+    "index": 1,
+    "kind": "arc",
+    "label": 1,
+    "line": 1,
+    "theme": "dark"
+  },
+  {
+    "arc": 1,
+    "hover": true,
+    "index": 1,
+    "kind": "label",
+    "label": 1,
+    "line": 1,
+    "theme": "dark"
+  },
+  {
+    "arc": 2,
+    "hover": true,
+    "index": 2,
+    "kind": "arc",
+    "label": 2,
+    "line": 2,
+    "theme": "dark"
+  },
+  {
+    "arc": 2,
+    "hover": true,
+    "index": 2,
+    "kind": "label",
+    "label": 2,
+    "line": 2,
+    "theme": "dark"
+  },
+  {
+    "arc": 3,
+    "hover": true,
+    "index": 3,
+    "kind": "arc",
+    "label": 3,
+    "line": 3,
+    "theme": "dark"
+  },
+  {
+    "arc": 3,
+    "hover": true,
+    "index": 3,
+    "kind": "label",
+    "label": 3,
+    "line": 3,
+    "theme": "dark"
+  },
+  {
+    "arc": 4,
+    "hover": true,
+    "index": 4,
+    "kind": "arc",
+    "label": 4,
+    "line": 4,
+    "theme": "dark"
+  },
+  {
+    "arc": 4,
+    "hover": true,
+    "index": 4,
+    "kind": "label",
+    "label": 4,
+    "line": 4,
+    "theme": "dark"
+  }
+]

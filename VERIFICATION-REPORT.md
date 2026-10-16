@@ -1,43 +1,30 @@
-# VELAUR LABS — Public interaction and grid-border fixes
+# Process connectors, linked hover and card alignment — 17 October 2026
 
-16 October 2026. Consolidated source release, including the premium sharing image/admin controls and earlier approved website changes. No production deployment performed.
+The requested connector lines remain in the delivery diagram. Instead of disconnected, fixed-angle CSS strokes, a responsive SVG layer now measures each phase heading and its matching segment. Elbow paths and endpoint dots stay outside the content bounds. A ResizeObserver updates their positions when labels wrap, fonts/layout change, or the viewport resizes. Desktop labels use a consistent heading area; tablet/mobile cards align their heading, deliverable and paragraph tracks.
 
-## Fixed
+Hovering any of the five arc segments highlights the matching segment, phase heading and connector. Hovering the text phase highlights the same trio. Pointer leave restores the scroll-selected phase, or current keyboard focus. Keyboard focus takes precedence over a stationary previous hover. Selecting a segment also changes the active phase for mobile-width use. The existing scroll observer remains active. Original content, supporting detail lists, admin design IDs and CMS inputs remain in place.
 
-- The reported L-shaped line came from the legacy `.services-grid` rule: a top border and a left border with no matching right/bottom border. The owner explicitly approved removing this outer grid border while preserving the individual rounded card borders. That source rule is now `border:0`; every rendered service grid in the responsive matrix had zero outer borders, while individual cards retain their borders.
-- Added one shared public interaction stylesheet, loaded after theme/refinement styles. It covers service/scope cards, portfolio categories/projects, homepage capability/featured/reason/article cards, informational panels, primary/secondary actions, navigation, text links, related-service pills, filters, sharing controls and disclosures. Existing colors and layout are reused.
-- Stronger light-theme text rules no longer suppress text-link/main-navigation hover colors. Hover feedback uses restrained accent borders, shadows, underline/color changes and small elevation on suitable cards/actions.
-- Service-group disclosure labels already used the accent color, so changing only their color produced no visible hover feedback. A subtle underline now makes that state apparent; it was retested in both themes.
-- Keyboard focus remains visible, with card `focus-within` feedback and clear disclosure focus styles. Disabled buttons do not elevate or brighten. Touch/no-hover and reduced-motion branches suppress hover movement; informational panels are not given fake click actions.
-- Footer social PNGs keep their normal muted appearance and reveal original brand colors on hover/focus. This behavior was specifically checked rather than replaced with a generic link color effect.
-- The admin visual editor's public preview loads the same shared styles. No extra content setting, database migration or dependency was needed. Admin-only layout/styles were not redesigned in this change.
+Shared CSS subgrid tracks align headings, descriptions and CTA endpoints within card rows: service cards, capability cards, reasons, article previews, category cards, growth/related service cards, portfolio project cards, delivery detail cards and featured projects. The original featured portfolio image quadrants remain; their text uses a consistent left or right column. No copy is shortened, no line clamping is added, and the 30px section gap is preserved. Existing layouts remain the fallback on browsers without CSS subgrid support; that fallback is not claimed to have identical row alignment.
 
-## Verification
+## Verified
 
-| Check | Result |
-| --- | --- |
-| Production build | Passed on Next.js 15.5.27 |
-| Standalone type check | Passed |
-| Lint | 0 errors, 23 warnings; not warning-free |
-| Regression suites | 14/14 passed, including the existing 182-check actual CMS/API integration suite |
-| Real pointer feedback | 24 shared component families × light/dark = 48 verified states; each target matched `:hover` and changed at least one visual property |
-| Keyboard focus | Visible focus/outline observed in both themes |
-| Responsive geometry | 498 cases: all 83 public pages at actual CSS widths 390/820/1440 in light and dark modes |
-| Grid borders | Zero outer borders on all rendered service grids; individual card borders preserved |
-| Layout preservation | No horizontal overflow, clipped checked text or broken loaded images; shared section gap stayed 30px in all 498 cases |
-| Public route/SEO/image regression | 83 routes, internal destinations, optimized project images, canonical/schema checks and premium sharing metadata passed |
-| Fresh browser console recheck | All 83 pages visited again with no captured error/warning messages |
+- Final production build and standalone TypeScript check passed.
+- Lint: zero errors, 23 existing warnings.
+- Full regression suite: 14/14 passed. Process/CMS regression suite now has 46 checks, including hover in both directions, scroll restoration, keyboard focus overriding a stationary pointer, original copy preservation, and CMS copy updates.
+- Browser layout matrix: all 83 public routes at actual CSS widths 390, 820 and 1440px, in light and dark themes: 498 cases. No horizontal overflow or measured row-alignment failures. Across these cases, 500 multi-card rows were compared for heading/copy/CTA alignment. Text overflow and section-gap checks were additionally recorded for the mobile/tablet cases.
+- Real pointer: all five arc segments and all five text phases in both themes, 20 distinct cases; matching arc, heading state and connector agreed. Screenshots are retained alongside the raw measurements.
+- Connector routing: five paths at actual desktop widths 1102, 1280, 1440 and 1920px, in both themes; sampled segments crossed no phase text bounds. The first requested size rounded to 1102px because of browser zoom. Paths retain visible normal and highlighted strokes.
+- Mobile-width selection: selecting stage four at 390px activated its matching phase in both themes; no overflow. Long desktop leader lines remain hidden in the existing compact mobile/tablet layout.
+- Real keyboard Tab check: visible focus on phase two and matching arc/heading state on the final build.
+- No warning/error console entries captured in the final process/layout QA tab.
+- Preserved data hashes: original process copy/details, approved portfolio/service/solution data, sharing image, schema and dependency manifests match the previous release.
 
-Pointer tests used actual browser pointer movement via native input, followed by read-only computed-style observations. Coverage includes service cards and links, scope cards, primary/secondary/header actions, related-service pills, FAQs, service disclosures, category/portfolio cards, filters, article sharing, footer links, social PNGs, homepage capability/featured/reason/article cards and links, mission cards, navigation links and theme controls. Theme-control samples used the visible navigation control. Early samples with off-screen/hidden-target geometry were retried with visible targets; raw attempts are retained. The final deduplicated results are in `verification/hover-pointer-summary.json`.
+Evidence is in `verification/process-*.json`, `process-alignment-*.log`, `process-desktop-*.png`, `process-mobile-*.png`, `cards-desktop-light.png` and the current `automated-tests.json`/`.log`. Browser zoom was accounted for in actual CSS viewport sizes and screenshot coordinate scaling.
 
-The responsive viewport dimensions were calibrated against actual `innerWidth`/`innerHeight` because browser zoom affected requested dimensions. These are Chromium viewport checks, not certification on every physical device or browser. Touch/no-hover and reduced-motion fallback rules are implemented, but physical touch devices and an OS reduced-motion session were not separately exercised. Disabled/loading state behavior remains covered by the existing form/CMS suites; not every possible disabled control was physically hovered.
+31 initial navigation samples were read before the public root/theme was present. Those incomplete samples were repeated after network idle and replaced with complete measurements, marked `recheckedAfterLoad` in the final matrix. The final coverage assertion requires all 83 routes in each requested width/theme combination.
 
-Two messages were captured during the long mixed pointer/viewport session: an animation-property exception and a React #418 hydration message. Neither was reproduced in a fresh complete 83-page console recheck. Their cause was not established, and they are **not claimed fixed** or silently discarded. The original observations are retained in `verification/hover-console.json`; the fresh per-page results are in `verification/hover-fresh-console.json`. React's [official #418 explanation](https://react.dev/errors/418) describes the hydration message; no unrelated hydration suppression was added.
+## Limits and local preview
 
-Evidence: `verification/hover-pointer-cases.json`, `hover-pointer-summary.json`, `hover-keyboard-cases.json`, `hover-responsive.json`, `hover-console.json`, `hover-fresh-console.json`, `hover-grid-line-before.png`, `hover-grid-after-light.png`, `hover-grid-after-dark.png`, `hover-preservation.json`, `hover-build.log`, `hover-typecheck.log`, `hover-lint.log`, `hover-tests.log`, `automated-tests.json`, `seo-audit-http.json` and `sharing-image-http.json`.
+These are Chromium viewport and pointer/keyboard checks, plus React component/CMS/API regression tests. Mobile selection was exercised through browser input at a mobile viewport; a physical touch device and other browser engines were not separately certified. Arbitrary future CMS content may require a new layout review. No production deployment, real provider email/upload, real Neon access, or external social sharing-cache test was performed. The existing database-backed settings and admin preview use the same shared component/styles; no new database migration or content field was required. Local QA uses disposable data and contains no production credentials.
 
-## Preserved and deployment limits
-
-Approved portfolio/service/solution data, original process content/component, original logos, premium “Your Digital Partner” sharing image, DB schema and package manifests match the previous release hashes. The base stylesheet differs only by the approved outer-grid border removal; interaction rules are isolated in `app/interaction-polish.css`. The 30px section rhythm and image framing were preserved.
-
-The corrected local service page is available at `/services/digital-marketing-growth#category-services`. Review before production deployment through the existing workflow. Keep production credentials/data. This package does not include private database dumps, local test databases, real environment secrets, or a deployment. No Neon schema update is required. Real provider uploads, email delivery, external platform caching, Google rankings and real-device field performance are not newly certified by this CSS change.
+Open `http://127.0.0.1:3000/#process` for live review. The consolidated ZIP includes earlier approved updates. GitHub source is synchronized separately after package verification. Older reports and evidence remain as history; their dates and limitations still apply to their original releases.

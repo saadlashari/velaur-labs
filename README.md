@@ -1,3 +1,7 @@
+# Current release: Process connectors and card alignment — 17 October 2026
+
+Read `PROCESS-ALIGNMENT-REPORT.md` for the current release. Connected phase lines, linked arc/heading hover, keyboard focus and mobile-width selection are implemented with unchanged process content. Shared card tracks align headings, copy and CTAs. Final build, TypeScript, 14 suites, 20 distinct linked hover cases and 498 responsive page/theme/width cases passed. Lint has zero errors and 23 warnings. No production deployment or database migration performed. Historical reports follow below.
+
 # Current release: Hover and grid-border fixes — 16 October 2026
 
 Read `HOVER-INTERACTION-REPORT.md` for this update and its verification limits. Shared public hover/focus feedback is consistent across cards, actions, links, menus and disclosures. The owner-approved extra top/left service-grid line is removed while card borders remain. Production build, 14 suites, 48 pointer states across 24 component families and 498 responsive cases passed. Two long-session console observations did not recur in a fresh 83-page recheck; they are documented rather than claimed fixed. No production deployment or Neon migration performed. Older release reports below are historical.

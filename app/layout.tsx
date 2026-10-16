@@ -15,6 +15,7 @@ import './process-arc.css';
 import './website-changes-5.css';
 import './seo-workspace.css';
 import './interaction-polish.css';
+import './process-alignment.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://velaurlabs.com'),

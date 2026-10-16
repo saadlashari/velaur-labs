@@ -10,7 +10,7 @@ test-reference-redesign.mjs (exit 0)
 {"suite":"Reference redesign content and persistence regressions","passed":22}
 
 test-refinement-ui.mjs (exit 0)
-{"suite":"Scroll process, CMS fields, social validation and icon regressions","passed":38}
+{"suite":"Scroll process, CMS fields, social validation and icon regressions","passed":46}
 
 test-bespoke-page-preservation.mjs (exit 0)
 PASS: about preserves bespoke content and appends optional CMS sections

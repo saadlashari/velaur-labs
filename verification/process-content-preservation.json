@@ -1,0 +1,38 @@
+[
+  {
+    "path": "lib/homepage-content.ts",
+    "unchanged": true
+  },
+  {
+    "path": "lib/site-expansion.ts",
+    "unchanged": true
+  },
+  {
+    "path": "data/portfolio.json",
+    "unchanged": true
+  },
+  {
+    "path": "data/agency-services.json",
+    "unchanged": true
+  },
+  {
+    "path": "data/growth-solutions.json",
+    "unchanged": true
+  },
+  {
+    "path": "public/brand/social-preview-premium.png",
+    "unchanged": true
+  },
+  {
+    "path": "db/schema.sql",
+    "unchanged": true
+  },
+  {
+    "path": "package.json",
+    "unchanged": true
+  },
+  {
+    "path": "package-lock.json",
+    "unchanged": true
+  }
+]
