@@ -1,0 +1,2624 @@
+{
+  "completedAt": "2026-10-14T09:24:29.127Z",
+  "routes": 61,
+  "measurements": [
+    {
+      "route": "/about",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "About Us | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Services | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Our Work | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/websites",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Websites | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/web-applications",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Web Applications | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/mobile-apps",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Mobile Apps | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/blog",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Insights | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/contact",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "14px",
+        "16px",
+        "14px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Contact | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/privacy-policy",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Privacy Policy | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/terms-of-service",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Terms of Service | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/ai-development",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "AI Development | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/web-development",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Web Development | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Mobile App Development | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/ai-automation",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "AI Automation | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/ai-integration",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "AI Integration | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "UI/UX Design | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/software-testing",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Software Testing | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Deployment & Maintenance | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "How AI Automation Is Transforming Modern Businesses | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Website vs Web Application: What Does Your Business Actually Need? | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Building a Successful Mobile App: From Idea to Launch | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "AI Agents vs Traditional Chatbots: Understanding the Difference | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Cakes and Bakes | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "KIPS Publications | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "BodyTalk System | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Booksy | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "SalesFox | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Cadence | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "VELAUR | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "MyYogi | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Actimus Rehabilitation | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Her Golf | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "TJ's Pizza | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "RootPointers — Our Team | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "The Ufaq | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Top Music | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Evolve Training App | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Stellar Driveway | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Trader Metrix | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "NextBanka | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "IBA LMS | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "IBA LMS Admin | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "LEC CRM | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Kit Shoes POS | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Animation Project | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "My LumMo Shop | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Embold | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Sudduth Realty CRM | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Wevoz CRM | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "TopMusic | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Evolve Training App | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "OPARKO | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "HelloBible | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "F.R.Y. | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "The Octagon by Champs MMA | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "RootsCare Patient App | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "MyYogi App | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "ServeU | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "Actimus App | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "SalesFox | VELAUR LABS",
+      "width": 390
+    },
+    {
+      "route": "/",
+      "client": 375,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "17px",
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "17px",
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "17px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 375,
+      "small": [],
+      "title": "VELAUR LABS | Where Creativity Meets Technology",
+      "width": 390
+    },
+    {
+      "route": "/",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "20px",
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "VELAUR LABS | Where Creativity Meets Technology",
+      "width": 1440
+    },
+    {
+      "route": "/about",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "About Us | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Services | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Our Work | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/websites",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Websites | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/web-applications",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Web Applications | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/mobile-apps",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Mobile Apps | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/blog",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Insights | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/contact",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "14px",
+        "16px",
+        "14px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Contact | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/privacy-policy",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Privacy Policy | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/terms-of-service",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Terms of Service | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/ai-development",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "AI Development | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/web-development",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Web Development | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Mobile App Development | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/ai-automation",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "AI Automation | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/ai-integration",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "AI Integration | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "UI/UX Design | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/software-testing",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Software Testing | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "14px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Deployment & Maintenance | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Cakes and Bakes | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "KIPS Publications | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "BodyTalk System | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Booksy | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "SalesFox | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Cadence | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "VELAUR | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "MyYogi | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Actimus Rehabilitation | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Her Golf | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "TJ's Pizza | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "RootPointers — Our Team | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "The Ufaq | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Top Music | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Evolve Training App | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Stellar Driveway | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Trader Metrix | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "NextBanka | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "IBA LMS | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "IBA LMS Admin | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "LEC CRM | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Kit Shoes POS | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Animation Project | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "My LumMo Shop | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Embold | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Sudduth Realty CRM | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Wevoz CRM | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "TopMusic | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Evolve Training App | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "OPARKO | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "HelloBible | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "F.R.Y. | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "The Octagon by Champs MMA | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "RootsCare Patient App | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "MyYogi App | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "ServeU | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Actimus App | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "SalesFox | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "How AI Automation Is Transforming Modern Businesses | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Website vs Web Application: What Does Your Business Actually Need? | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "Building a Successful Mobile App: From Idea to Launch | VELAUR LABS",
+      "width": 1440
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "client": 1425,
+      "clipped": [],
+      "headerTop": 0,
+      "paragraphMin": [
+        "20px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "scroll": 1425,
+      "small": [],
+      "title": "AI Agents vs Traditional Chatbots: Understanding the Difference | VELAUR LABS",
+      "width": 1440
+    }
+  ],
+  "checks": 122,
+  "passed": true,
+  "additionalBreakpoints": [
+    {
+      "route": "/",
+      "width": 320,
+      "scroll": 305,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/work",
+      "width": 320,
+      "scroll": 305,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "scroll": 305,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/services/web-development",
+      "width": 320,
+      "scroll": 305,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "width": 320,
+      "scroll": 305,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scroll": 753,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/work",
+      "width": 768,
+      "scroll": 753,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "scroll": 753,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/services/web-development",
+      "width": 768,
+      "scroll": 753,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "width": 768,
+      "scroll": 753,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "scroll": 1009,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/work",
+      "width": 1024,
+      "scroll": 1009,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/contact",
+      "width": 1024,
+      "scroll": 1009,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/services/web-development",
+      "width": 1024,
+      "scroll": 1009,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "width": 1024,
+      "scroll": 1009,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "scroll": 1905,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/work",
+      "width": 1920,
+      "scroll": 1905,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/contact",
+      "width": 1920,
+      "scroll": 1905,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/services/web-development",
+      "width": 1920,
+      "scroll": 1905,
+      "small": [],
+      "clipped": []
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "width": 1920,
+      "scroll": 1905,
+      "small": [],
+      "clipped": []
+    }
+  ],
+  "limitations": [
+    "DOM geometry and computed typography checked in Chromium development preview",
+    "Decorative illustration text and compact mobile CTA excluded from 14px label target",
+    "Final production representative checks stored separately",
+    "No authenticated admin or provider browser session available"
+  ]
+}

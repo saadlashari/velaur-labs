@@ -1,0 +1,1 @@
+Service detail CMS extension: per-service process (up to six steps) and outcomes (up to eight), with validation and public page fallbacks. No schema migration; reuses services.content JSONB. Build and live DB/browser tests remain unverified.

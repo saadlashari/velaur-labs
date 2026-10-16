@@ -1,0 +1,15 @@
+import {brandIconKeys} from '@/lib/brand-icons';
+export type CapabilityCard={title:string;description:string;href:string;icon:string;visible:boolean};
+export const defaultCapabilityCards:CapabilityCard[]=[
+ {title:'AI & Software Development',description:'Design, build and support intelligent applications, websites and mobile products around the work your business needs.',href:'/services/ai-software-development',icon:'brain',visible:true},
+ {title:'Business Development',description:'Connect account research, relevant outreach, appointment setting and CRM workflows into a considered sales process.',href:'/services/business-development',icon:'workflow',visible:true},
+ {title:'Digital Marketing & Growth',description:'Bring paid campaigns, search, content, brand direction and conversion journeys together around your audience.',href:'/services/digital-marketing-growth',icon:'palette',visible:true},
+ {title:'Growth Solutions',description:'Combine technology, business development and marketing into a coordinated engagement with clear priorities and scope.',href:'/growth-solutions',icon:'blocks',visible:true},
+];
+export const defaultPresentation={heroTopPadding:28,heroBottomPadding:24,reasonHeaderBackground:'#354b9b',reasonHeaderText:'#ffffff',reasonIconColor:'#d4dfff',portfolioImageSize:220};
+export type HomePresentation=typeof defaultPresentation;
+export function validCapabilities(value:unknown):value is CapabilityCard[]{return Array.isArray(value)&&value.length===4&&value.every(item=>item&&typeof item==='object'&&!Array.isArray(item)&&typeof item.title==='string'&&item.title.trim()&&item.title.length<=100&&typeof item.description==='string'&&item.description.trim()&&item.description.length<=400&&typeof item.href==='string'&&/^\/(?:services\/[a-z0-9-]+|growth-solutions)$/.test(item.href)&&brandIconKeys.includes(item.icon)&&typeof item.visible==='boolean');}
+export function validPresentation(value:unknown):value is HomePresentation{if(!value||typeof value!=='object'||Array.isArray(value))return false;const v=value as Record<string,unknown>;return Object.keys(v).sort().join(',')===Object.keys(defaultPresentation).sort().join(',')&&['reasonHeaderBackground','reasonHeaderText','reasonIconColor'].every(key=>typeof v[key]==='string'&&(v[key]===''||/^#[0-9a-f]{6}$/i.test(v[key] as string)))&&['heroTopPadding','heroBottomPadding'].every(key=>Number.isInteger(v[key])&&Number(v[key])>=12&&Number(v[key])<=64)&&Number.isInteger(v.portfolioImageSize)&&Number(v.portfolioImageSize)>=140&&Number(v.portfolioImageSize)<=260;}
+export function parseCapabilities(raw:unknown):CapabilityCard[]{try{const v=typeof raw==='string'?JSON.parse(raw):raw;return validCapabilities(v)?v:structuredClone(defaultCapabilityCards);}catch{return structuredClone(defaultCapabilityCards);}}
+export function parsePresentation(raw:unknown):HomePresentation{try{const v=typeof raw==='string'?JSON.parse(raw):raw;return validPresentation(v)?v:{...defaultPresentation};}catch{return {...defaultPresentation};}}
+

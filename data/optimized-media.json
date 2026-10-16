@@ -1,0 +1,408 @@
+{
+  "/project-media/actimus-mobile-app-1.webp": {
+    "url": "/project-media/actimus-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 28276,
+    "originalBytes": 30858
+  },
+  "/project-media/actimus-mobile-app-2.webp": {
+    "url": "/project-media/actimus-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 32032,
+    "originalBytes": 34534
+  },
+  "/project-media/actimus-mobile-app-3.webp": {
+    "url": "/project-media/actimus-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 32618,
+    "originalBytes": 35172
+  },
+  "/project-media/actimus-website-public.jpg": {
+    "url": "/project-media/actimus-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 48960,
+    "originalBytes": 204816
+  },
+  "/project-media/animation-project-web-app-public.jpg": {
+    "url": "/project-media/animation-project-web-app-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 44626,
+    "originalBytes": 291198
+  },
+  "/project-media/bodytalk-system-website-public.jpg": {
+    "url": "/project-media/bodytalk-system-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 48142,
+    "originalBytes": 197887
+  },
+  "/project-media/booksy-website-public.jpg": {
+    "url": "/project-media/booksy-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 48846,
+    "originalBytes": 190561
+  },
+  "/project-media/cadence-website-public.jpg": {
+    "url": "/project-media/cadence-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 43724,
+    "originalBytes": 147482
+  },
+  "/project-media/cakes-and-bakes-website-public.jpg": {
+    "url": "/project-media/cakes-and-bakes-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 13638,
+    "originalBytes": 81852
+  },
+  "/project-media/embold-web-app-public.jpg": {
+    "url": "/project-media/embold-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 47116,
+    "originalBytes": 189632
+  },
+  "/project-media/evolve-training-mobile-app-1.webp": {
+    "url": "/project-media/evolve-training-mobile-app-1-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 26636,
+    "originalBytes": 29926
+  },
+  "/project-media/evolve-training-mobile-app-2.webp": {
+    "url": "/project-media/evolve-training-mobile-app-2-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 22232,
+    "originalBytes": 24632
+  },
+  "/project-media/evolve-training-mobile-app-3.webp": {
+    "url": "/project-media/evolve-training-mobile-app-3-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 25218,
+    "originalBytes": 27252
+  },
+  "/project-media/evolve-training-website-public.jpg": {
+    "url": "/project-media/evolve-training-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 32362,
+    "originalBytes": 125844
+  },
+  "/project-media/f-r-y-mobile-app-1.webp": {
+    "url": "/project-media/f-r-y-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 14888,
+    "originalBytes": 17690
+  },
+  "/project-media/f-r-y-mobile-app-2.webp": {
+    "url": "/project-media/f-r-y-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 20768,
+    "originalBytes": 23072
+  },
+  "/project-media/f-r-y-mobile-app-3.webp": {
+    "url": "/project-media/f-r-y-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 31746,
+    "originalBytes": 33544
+  },
+  "/project-media/hellobible-mobile-app-1.webp": {
+    "url": "/project-media/hellobible-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 40540,
+    "originalBytes": 42346
+  },
+  "/project-media/hellobible-mobile-app-2.webp": {
+    "url": "/project-media/hellobible-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 46816,
+    "originalBytes": 48956
+  },
+  "/project-media/hellobible-mobile-app-3.webp": {
+    "url": "/project-media/hellobible-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 48232,
+    "originalBytes": 52564
+  },
+  "/project-media/her-golf-website-public.jpg": {
+    "url": "/project-media/her-golf-website-public-optimized.webp",
+    "width": 786,
+    "height": 553,
+    "bytes": 36566,
+    "originalBytes": 424271
+  },
+  "/project-media/iba-lms-admin-web-app-public.jpg": {
+    "url": "/project-media/iba-lms-admin-web-app-public-optimized.webp",
+    "width": 668,
+    "height": 470,
+    "bytes": 41708,
+    "originalBytes": 469966
+  },
+  "/project-media/iba-lms-web-app-public.jpg": {
+    "url": "/project-media/iba-lms-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 48142,
+    "originalBytes": 197887
+  },
+  "/project-media/kips-publications-website-public.jpg": {
+    "url": "/project-media/kips-publications-website-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 45026,
+    "originalBytes": 277498
+  },
+  "/project-media/kit-shoes-pos-web-app-public.jpg": {
+    "url": "/project-media/kit-shoes-pos-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 16392,
+    "originalBytes": 76298
+  },
+  "/project-media/lec-crm-web-app-public.jpg": {
+    "url": "/project-media/lec-crm-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 9600,
+    "originalBytes": 48962
+  },
+  "/project-media/my-lummo-shop-web-app-public.jpg": {
+    "url": "/project-media/my-lummo-shop-web-app-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 41078,
+    "originalBytes": 222240
+  },
+  "/project-media/myyogi-mobile-app-1.webp": {
+    "url": "/project-media/myyogi-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 48764,
+    "originalBytes": 49734
+  },
+  "/project-media/myyogi-mobile-app-2.webp": {
+    "url": "/project-media/myyogi-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 43330,
+    "originalBytes": 45614
+  },
+  "/project-media/myyogi-mobile-app-3.webp": {
+    "url": "/project-media/myyogi-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 21154,
+    "originalBytes": 23878
+  },
+  "/project-media/myyogi-website-public.jpg": {
+    "url": "/project-media/myyogi-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 46378,
+    "originalBytes": 151307
+  },
+  "/project-media/nextbanka-web-app-public.jpg": {
+    "url": "/project-media/nextbanka-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 49060,
+    "originalBytes": 172301
+  },
+  "/project-media/oparko-mobile-app-1.webp": {
+    "url": "/project-media/oparko-mobile-app-1-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 24650,
+    "originalBytes": 27394
+  },
+  "/project-media/oparko-mobile-app-2.webp": {
+    "url": "/project-media/oparko-mobile-app-2-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 21134,
+    "originalBytes": 23528
+  },
+  "/project-media/oparko-mobile-app-3.webp": {
+    "url": "/project-media/oparko-mobile-app-3-optimized.webp",
+    "width": 555,
+    "height": 1200,
+    "bytes": 23598,
+    "originalBytes": 26114
+  },
+  "/project-media/rootscare-mobile-app-play-1.jpg": {
+    "url": "/project-media/rootscare-mobile-app-play-1-optimized.webp",
+    "width": 198,
+    "height": 296,
+    "bytes": 5182,
+    "originalBytes": 15976
+  },
+  "/project-media/rootscare-mobile-app-play-2.jpg": {
+    "url": "/project-media/rootscare-mobile-app-play-2-optimized.webp",
+    "width": 198,
+    "height": 296,
+    "bytes": 7758,
+    "originalBytes": 20024
+  },
+  "/project-media/rootscare-mobile-app-play-3.jpg": {
+    "url": "/project-media/rootscare-mobile-app-play-3-optimized.webp",
+    "width": 198,
+    "height": 296,
+    "bytes": 6098,
+    "originalBytes": 19201
+  },
+  "/project-media/salesfox-mobile-app-1.webp": {
+    "url": "/project-media/salesfox-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 35534,
+    "originalBytes": 38336
+  },
+  "/project-media/salesfox-mobile-app-2.webp": {
+    "url": "/project-media/salesfox-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 39776,
+    "originalBytes": 41960
+  },
+  "/project-media/salesfox-mobile-app-3.webp": {
+    "url": "/project-media/salesfox-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 36146,
+    "originalBytes": 39062
+  },
+  "/project-media/salesfox-user-dashboard.png": {
+    "url": "/project-media/salesfox-user-dashboard-optimized.webp",
+    "width": 1321,
+    "height": 1131,
+    "bytes": 41048,
+    "originalBytes": 322857
+  },
+  "/project-media/serveu-mobile-app-1.webp": {
+    "url": "/project-media/serveu-mobile-app-1-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 8214,
+    "originalBytes": 11848
+  },
+  "/project-media/serveu-mobile-app-2.webp": {
+    "url": "/project-media/serveu-mobile-app-2-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 35222,
+    "originalBytes": 38050
+  },
+  "/project-media/serveu-mobile-app-3.webp": {
+    "url": "/project-media/serveu-mobile-app-3-optimized.webp",
+    "width": 554,
+    "height": 1200,
+    "bytes": 40862,
+    "originalBytes": 42694
+  },
+  "/project-media/stellar-driveway-web-app-public.jpg": {
+    "url": "/project-media/stellar-driveway-web-app-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 43128,
+    "originalBytes": 253747
+  },
+  "/project-media/sudduth-realty-crm-web-app-public.jpg": {
+    "url": "/project-media/sudduth-realty-crm-web-app-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 39774,
+    "originalBytes": 256022
+  },
+  "/project-media/the-octagon-mobile-app-1.webp": {
+    "url": "/project-media/the-octagon-mobile-app-1-optimized.webp",
+    "width": 552,
+    "height": 1200,
+    "bytes": 20258,
+    "originalBytes": 23370
+  },
+  "/project-media/the-octagon-mobile-app-2.webp": {
+    "url": "/project-media/the-octagon-mobile-app-2-optimized.webp",
+    "width": 552,
+    "height": 1200,
+    "bytes": 37092,
+    "originalBytes": 38502
+  },
+  "/project-media/the-octagon-mobile-app-3.webp": {
+    "url": "/project-media/the-octagon-mobile-app-3-optimized.webp",
+    "width": 552,
+    "height": 1200,
+    "bytes": 16934,
+    "originalBytes": 19544
+  },
+  "/project-media/the-ufaq-website-public.jpg": {
+    "url": "/project-media/the-ufaq-website-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 44998,
+    "originalBytes": 280526
+  },
+  "/project-media/tj-s-pizza-website-public.jpg": {
+    "url": "/project-media/tj-s-pizza-website-public-optimized.webp",
+    "width": 1088,
+    "height": 765,
+    "bytes": 49036,
+    "originalBytes": 265093
+  },
+  "/project-media/top-music-website-public.jpg": {
+    "url": "/project-media/top-music-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 37056,
+    "originalBytes": 134608
+  },
+  "/project-media/topmusic-mobile-app-play-1.png": {
+    "url": "/project-media/topmusic-mobile-app-play-1-optimized.webp",
+    "width": 166,
+    "height": 296,
+    "bytes": 6344,
+    "originalBytes": 30966
+  },
+  "/project-media/topmusic-mobile-app-play-2.png": {
+    "url": "/project-media/topmusic-mobile-app-play-2-optimized.webp",
+    "width": 166,
+    "height": 296,
+    "bytes": 5130,
+    "originalBytes": 22371
+  },
+  "/project-media/topmusic-mobile-app-play-3.png": {
+    "url": "/project-media/topmusic-mobile-app-play-3-optimized.webp",
+    "width": 166,
+    "height": 296,
+    "bytes": 8060,
+    "originalBytes": 41256
+  },
+  "/project-media/velaur-website-public.jpg": {
+    "url": "/project-media/velaur-website-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 20310,
+    "originalBytes": 91028
+  },
+  "/project-media/wevoz-crm-web-app-public.jpg": {
+    "url": "/project-media/wevoz-crm-web-app-public-optimized.webp",
+    "width": 1280,
+    "height": 900,
+    "bytes": 7194,
+    "originalBytes": 47843
+  }
+}

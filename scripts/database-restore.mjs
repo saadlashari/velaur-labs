@@ -1,0 +1,15 @@
+import fs from 'node:fs';import path from 'node:path';import {createHash} from 'node:crypto';import {spawnSync} from 'node:child_process';
+const archive=process.argv[2]&&path.resolve(process.argv[2]);
+if(!archive||!fs.existsSync(archive))throw Error('Usage: node scripts/database-restore.mjs <archive.dump>');
+if(process.env.VELAUR_CONFIRM_RESTORE!=='RESTORE_AND_REPLACE_TARGET_DATABASE')throw Error('Refusing destructive restore. Review the target and set VELAUR_CONFIRM_RESTORE=RESTORE_AND_REPLACE_TARGET_DATABASE.');
+if(!process.env.DATABASE_URL)throw Error('Configure the target DATABASE_URL securely.');
+if(!fs.existsSync(archive+'.sha256'))throw Error('A checksum sidecar is required before a destructive restore.');
+const expected=fs.readFileSync(archive+'.sha256','utf8').trim().split(/\s+/)[0];
+if(!/^[a-f0-9]{64}$/.test(expected)||createHash('sha256').update(fs.readFileSync(archive)).digest('hex')!==expected)throw Error('Backup checksum mismatch.');
+const env={...process.env,PGDATABASE:process.env.DATABASE_URL};delete env.DATABASE_URL;
+if(spawnSync('pg_restore',['--list',archive],{env,stdio:'ignore',windowsHide:true}).status!==0)throw Error('Invalid archive or missing PostgreSQL tools.');
+const pre=spawnSync(process.execPath,['scripts/database-backup.mjs',process.env.VELAUR_PRE_RESTORE_BACKUP_DIR||'private-backups/pre-restore'],{env:process.env,stdio:'inherit',windowsHide:true});
+if(pre.status!==0)throw Error('Pre-restore backup failed. Target was not modified.');
+const restore=spawnSync('pg_restore',['--clean','--if-exists','--no-owner','--no-privileges','--single-transaction','--exit-on-error',archive],{env,stdio:['ignore','inherit','ignore'],windowsHide:true});
+if(restore.status!==0)throw Error('Restore failed. Transaction should have rolled back; review the target and pre-restore archive.');
+console.log('Restore completed. Check authentication, record counts, media and public routes before re-opening traffic.');

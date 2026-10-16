@@ -1,0 +1,1178 @@
+[
+  {
+    "slug": "ai-development",
+    "title": "AI Development",
+    "headline": "Build AI around a real business problem.",
+    "description": "Design intelligent applications and assistants around your users, knowledge and operating constraints.",
+    "detail": "Design intelligent applications and assistants around your users, knowledge and operating constraints.",
+    "deliverables": [
+      "AI application scope",
+      "Agent and assistant workflows",
+      "Retrieval and knowledge design",
+      "Evaluation and handover"
+    ],
+    "problems": [
+      "Unstructured knowledge is hard to use",
+      "A promising AI idea lacks a practical product plan",
+      "Model outputs need measurable evaluation"
+    ],
+    "audience": [
+      "Software houses building AI features",
+      "Startups validating an intelligent product",
+      "Teams with internal knowledge workflows"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Map the task and data boundaries"
+      },
+      {
+        "title": "Step 2",
+        "description": "Prototype the highest-risk interaction"
+      },
+      {
+        "title": "Step 3",
+        "description": "Build and evaluate the application"
+      },
+      {
+        "title": "Step 4",
+        "description": "Release with monitoring and human review"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you build around our private knowledge?",
+        "answer": "We first review access rules, data sensitivity and retrieval needs. Private material is integrated only under an agreed access and hosting approach."
+      },
+      {
+        "question": "How do you assess output quality?",
+        "answer": "We agree representative examples and acceptance criteria, test failure cases and define where human review remains necessary."
+      }
+    ],
+    "related": [
+      "ai-integration",
+      "ai-automation",
+      "web-development"
+    ]
+  },
+  {
+    "slug": "web-development",
+    "title": "Web Development",
+    "headline": "Turn your next website or platform into a useful product.",
+    "description": "Develop clear marketing websites, connected portals and web applications that fit your business workflows.",
+    "detail": "Develop clear marketing websites, connected portals and web applications that fit your business workflows.",
+    "deliverables": [
+      "Website or application architecture",
+      "Responsive frontend implementation",
+      "Backend and API connections",
+      "Testing and release documentation"
+    ],
+    "problems": [
+      "An existing website no longer reflects the business",
+      "Manual processes need a customer or team portal",
+      "A growing platform is difficult to maintain"
+    ],
+    "audience": [
+      "Software houses needing delivery capacity",
+      "Brands upgrading a website",
+      "Startups building a connected platform"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Clarify journeys and integrations"
+      },
+      {
+        "title": "Step 2",
+        "description": "Design responsive screens and architecture"
+      },
+      {
+        "title": "Step 3",
+        "description": "Implement and test the working platform"
+      },
+      {
+        "title": "Step 4",
+        "description": "Launch with documentation and agreed support"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you improve an existing website?",
+        "answer": "Yes. We inspect its framework and working features first, then agree changes that preserve useful content and existing URLs."
+      },
+      {
+        "question": "Will we be able to update content?",
+        "answer": "We can use your existing CMS or agree an appropriate editing workflow as part of the scope."
+      }
+    ],
+    "related": [
+      "ui-ux-design",
+      "software-testing",
+      "deployment-maintenance"
+    ]
+  },
+  {
+    "slug": "mobile-app-development",
+    "title": "Mobile App Development",
+    "headline": "Build a mobile experience people can use with confidence.",
+    "description": "Plan and develop iOS and Android experiences around the tasks, devices and connections your audience relies on.",
+    "detail": "Plan and develop iOS and Android experiences around the tasks, devices and connections your audience relies on.",
+    "deliverables": [
+      "Mobile journeys and feature scope",
+      "Cross-platform application build",
+      "Authentication and API integration",
+      "Device testing and store preparation"
+    ],
+    "problems": [
+      "A product needs a reliable mobile workflow",
+      "Desktop experiences do not fit on-the-go use",
+      "App integrations need a coherent release plan"
+    ],
+    "audience": [
+      "Startups with a mobile product idea",
+      "Service businesses with field teams",
+      "Software houses extending an existing platform"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Prioritize mobile journeys"
+      },
+      {
+        "title": "Step 2",
+        "description": "Design device-aware flows"
+      },
+      {
+        "title": "Step 3",
+        "description": "Build and test across agreed devices"
+      },
+      {
+        "title": "Step 4",
+        "description": "Prepare store assets and release handover"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you support both iOS and Android?",
+        "answer": "We review the required platform capabilities and audience before recommending a cross-platform or platform-specific implementation."
+      },
+      {
+        "question": "Is app-store approval guaranteed?",
+        "answer": "No. Store review is controlled by Apple and Google. We can support preparation and respond to review feedback within the agreed scope."
+      }
+    ],
+    "related": [
+      "ui-ux-design",
+      "ai-integration",
+      "software-testing"
+    ]
+  },
+  {
+    "slug": "ai-automation",
+    "title": "AI Automation",
+    "headline": "Give repetitive work a traceable automation workflow.",
+    "description": "Connect business rules, tools and AI-assisted tasks with clear review points and exception handling.",
+    "detail": "Connect business rules, tools and AI-assisted tasks with clear review points and exception handling.",
+    "deliverables": [
+      "Workflow and exception map",
+      "Connected automation steps",
+      "Human approval checkpoints",
+      "Monitoring and operating guide"
+    ],
+    "problems": [
+      "Repeated data handling slows delivery",
+      "Exceptions disappear between disconnected tools",
+      "Teams need oversight of AI-assisted decisions"
+    ],
+    "audience": [
+      "Agencies with repeatable delivery tasks",
+      "Operations teams coordinating multiple tools",
+      "Local businesses improving back-office work"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Map repeated tasks and exceptions"
+      },
+      {
+        "title": "Step 2",
+        "description": "Design approvals and system boundaries"
+      },
+      {
+        "title": "Step 3",
+        "description": "Connect and test the automation"
+      },
+      {
+        "title": "Step 4",
+        "description": "Monitor failures and hand over controls"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which tasks should stay with a person?",
+        "answer": "Judgment-heavy or sensitive decisions should have defined review points. We map these before introducing automation."
+      },
+      {
+        "question": "What happens when a connected tool fails?",
+        "answer": "The workflow can include retries, failure alerts and a manual recovery path suited to the tools involved."
+      }
+    ],
+    "related": [
+      "crm-sales-automation",
+      "ai-integration",
+      "ai-development"
+    ]
+  },
+  {
+    "slug": "ai-integration",
+    "title": "AI Integration",
+    "headline": "Bring useful AI into the software you already use.",
+    "description": "Add AI capabilities to existing applications without losing sight of permissions, reliability and the current user experience.",
+    "detail": "Add AI capabilities to existing applications without losing sight of permissions, reliability and the current user experience.",
+    "deliverables": [
+      "Existing-system integration review",
+      "Model API and retrieval connection",
+      "Access and error-handling rules",
+      "Integration and regression tests"
+    ],
+    "problems": [
+      "An existing product needs an intelligent feature",
+      "AI pilots sit outside the main workflow",
+      "Data access and reliability are unclear"
+    ],
+    "audience": [
+      "Software houses enhancing client products",
+      "Businesses with established internal systems",
+      "Startups adding search or assistance"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Audit the current interface and data access"
+      },
+      {
+        "title": "Step 2",
+        "description": "Choose an integration boundary"
+      },
+      {
+        "title": "Step 3",
+        "description": "Connect and evaluate the capability"
+      },
+      {
+        "title": "Step 4",
+        "description": "Document operation and regression checks"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do we need to replace our current software?",
+        "answer": "Usually the first step is to inspect supported APIs and extension points. Replacement is considered only if the existing constraints require it."
+      },
+      {
+        "question": "Can providers be changed later?",
+        "answer": "Provider abstraction and portability can be included in the design when they are requirements of the agreed scope."
+      }
+    ],
+    "related": [
+      "ai-development",
+      "web-development",
+      "ai-automation"
+    ]
+  },
+  {
+    "slug": "ui-ux-design",
+    "title": "UI/UX Design",
+    "headline": "Make complex products feel clear and considered.",
+    "description": "Translate requirements into accessible user journeys, focused interfaces and a practical design handover.",
+    "detail": "Translate requirements into accessible user journeys, focused interfaces and a practical design handover.",
+    "deliverables": [
+      "User journeys and information architecture",
+      "Wireframes and interface direction",
+      "Clickable prototypes",
+      "Reusable components and handover"
+    ],
+    "problems": [
+      "People cannot find the next step",
+      "Screens have inconsistent patterns",
+      "A new product lacks a tested interaction model"
+    ],
+    "audience": [
+      "Startups validating a product concept",
+      "Agencies needing product design support",
+      "Established teams improving a dashboard"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Map users and key tasks"
+      },
+      {
+        "title": "Step 2",
+        "description": "Explore wireframes and structure"
+      },
+      {
+        "title": "Step 3",
+        "description": "Prototype and review critical journeys"
+      },
+      {
+        "title": "Step 4",
+        "description": "Deliver implementation-ready design guidance"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you use our existing brand?",
+        "answer": "Yes. Existing brand assets, component conventions and accessibility requirements are reviewed before design work begins."
+      },
+      {
+        "question": "Do you also implement the designs?",
+        "answer": "Implementation can be combined with web or mobile development, or handed over to your existing engineering team."
+      }
+    ],
+    "related": [
+      "web-development",
+      "mobile-app-development",
+      "branding-creative-strategy"
+    ]
+  },
+  {
+    "slug": "software-testing",
+    "title": "Software Testing & QA",
+    "headline": "Find release risks before your users do.",
+    "description": "Test critical workflows, document reproducible failures and help your team make informed release decisions.",
+    "detail": "Test critical workflows, document reproducible failures and help your team make informed release decisions.",
+    "deliverables": [
+      "Risk-based test plan",
+      "Functional and regression scenarios",
+      "Reproducible defect reports",
+      "Release-readiness summary"
+    ],
+    "problems": [
+      "Regressions recur after releases",
+      "Critical user journeys lack repeatable checks",
+      "Bug reports are difficult for developers to reproduce"
+    ],
+    "audience": [
+      "Software houses preparing releases",
+      "Startups with fast-changing products",
+      "Agencies handing over client applications"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Identify critical flows and environments"
+      },
+      {
+        "title": "Step 2",
+        "description": "Prepare test data and scenarios"
+      },
+      {
+        "title": "Step 3",
+        "description": "Execute and document defects"
+      },
+      {
+        "title": "Step 4",
+        "description": "Retest fixes and summarize release risks"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does testing guarantee a bug-free product?",
+        "answer": "No. Testing reduces uncertainty within agreed coverage; the report explains what was tested and what remains outside that scope."
+      },
+      {
+        "question": "Can you work with our developers?",
+        "answer": "Yes. Defects can be logged in your existing tracking system with reproduction steps, evidence and retest status."
+      }
+    ],
+    "related": [
+      "web-development",
+      "mobile-app-development",
+      "deployment-maintenance"
+    ]
+  },
+  {
+    "slug": "deployment-maintenance",
+    "title": "Deployment & Maintenance",
+    "headline": "Launch carefully. Keep your product maintainable.",
+    "description": "Prepare environments, coordinate releases and support the operational work needed after launch.",
+    "detail": "Prepare environments, coordinate releases and support the operational work needed after launch.",
+    "deliverables": [
+      "Environment and release checklist",
+      "Deployment configuration",
+      "Monitoring and recovery guidance",
+      "Agreed maintenance backlog"
+    ],
+    "problems": [
+      "Releases depend on undocumented manual steps",
+      "Teams lack a clear rollback approach",
+      "Small maintenance tasks accumulate after launch"
+    ],
+    "audience": [
+      "Software houses launching client products",
+      "Startups moving to production",
+      "Businesses supporting an existing application"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review hosting and dependencies"
+      },
+      {
+        "title": "Step 2",
+        "description": "Prepare deployment and recovery steps"
+      },
+      {
+        "title": "Step 3",
+        "description": "Release and verify critical journeys"
+      },
+      {
+        "title": "Step 4",
+        "description": "Agree monitoring and maintenance ownership"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Are hosting costs included?",
+        "answer": "Hosting and third-party subscriptions are identified separately unless explicitly included in the engagement."
+      },
+      {
+        "question": "Do you provide continuous support?",
+        "answer": "Coverage, response expectations and maintenance responsibilities are agreed for the selected support arrangement."
+      }
+    ],
+    "related": [
+      "software-testing",
+      "web-development",
+      "ai-integration"
+    ]
+  },
+  {
+    "slug": "b2b-lead-generation",
+    "title": "B2B Lead Generation",
+    "headline": "Find businesses that fit your offer.",
+    "description": "Develop a researched prospect pipeline using a clear ideal customer profile, relevant buying signals and usable sales data.",
+    "detail": "Develop a researched prospect pipeline using a clear ideal customer profile, relevant buying signals and usable sales data.",
+    "deliverables": [
+      "Ideal customer profile and exclusions",
+      "Account and contact research",
+      "Source and qualification notes",
+      "Deduplicated CRM-ready prospect lists"
+    ],
+    "problems": [
+      "Prospect lists do not match the offer",
+      "Sales spends time fixing poor research",
+      "Qualification is inconsistent across the team"
+    ],
+    "audience": [
+      "Software houses selling development services",
+      "B2B agencies refining their niche",
+      "Service businesses entering a new market"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Define fit and exclusion criteria"
+      },
+      {
+        "title": "Step 2",
+        "description": "Research accounts and relevant contacts"
+      },
+      {
+        "title": "Step 3",
+        "description": "Validate sources and qualification notes"
+      },
+      {
+        "title": "Step 4",
+        "description": "Deliver and refine the prospect workflow"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you guarantee leads will become clients?",
+        "answer": "No. Research identifies potential fit. Sales outcomes depend on the offer, timing, outreach quality and the prospect’s needs."
+      },
+      {
+        "question": "How do you handle prospect information?",
+        "answer": "We agree appropriate sources, access rules, data minimization and retention before research. Sensitive personal data is not part of a standard prospect list."
+      }
+    ],
+    "related": [
+      "linkedin-outreach",
+      "cold-email-outreach",
+      "crm-sales-automation"
+    ]
+  },
+  {
+    "slug": "linkedin-outreach",
+    "title": "LinkedIn Outreach",
+    "headline": "Start relevant professional conversations.",
+    "description": "Shape a LinkedIn outreach process around a defined audience, a credible profile and messages that reflect the recipient’s context.",
+    "detail": "Shape a LinkedIn outreach process around a defined audience, a credible profile and messages that reflect the recipient’s context.",
+    "deliverables": [
+      "Audience and positioning review",
+      "Profile messaging recommendations",
+      "Connection and follow-up copy",
+      "Reply classification and handoff guide"
+    ],
+    "problems": [
+      "Connection requests have no clear audience",
+      "Messages sound generic or overly promotional",
+      "Relevant replies lack a consistent next step"
+    ],
+    "audience": [
+      "Agency founders developing relationships",
+      "Software houses reaching decision-makers",
+      "B2B consultants with a focused offer"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review positioning and audience fit"
+      },
+      {
+        "title": "Step 2",
+        "description": "Create a relevant message sequence"
+      },
+      {
+        "title": "Step 3",
+        "description": "Run a measured human-reviewed workflow"
+      },
+      {
+        "title": "Step 4",
+        "description": "Classify replies and improve the approach"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Will you use aggressive automation?",
+        "answer": "No aggressive automation is assumed. Execution must respect platform rules, account permissions and the agreed human review process."
+      },
+      {
+        "question": "Who handles replies?",
+        "answer": "Reply ownership, tone and escalation are defined during setup. Interested prospects can be handed to your sales team or appointment-setting workflow."
+      }
+    ],
+    "related": [
+      "b2b-lead-generation",
+      "appointment-setting",
+      "branding-creative-strategy"
+    ]
+  },
+  {
+    "slug": "cold-email-outreach",
+    "title": "Cold Email Outreach",
+    "headline": "Make outbound email relevant and manageable.",
+    "description": "Plan carefully targeted outbound campaigns with mailbox readiness, relevant copy, suppression controls and a clear response workflow.",
+    "detail": "Plan carefully targeted outbound campaigns with mailbox readiness, relevant copy, suppression controls and a clear response workflow.",
+    "deliverables": [
+      "Audience and source review",
+      "Sender and authentication checklist",
+      "Campaign copy and sequence planning",
+      "Suppression and reply-routing process"
+    ],
+    "problems": [
+      "Outbound messages lack relevance",
+      "Sender configuration has not been reviewed",
+      "Opt-outs and responses are handled inconsistently"
+    ],
+    "audience": [
+      "Software houses with a defined B2B offer",
+      "Agencies testing a new market",
+      "B2B service teams building an outbound process"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review audience sources and sender setup"
+      },
+      {
+        "title": "Step 2",
+        "description": "Write focused messages and follow-ups"
+      },
+      {
+        "title": "Step 3",
+        "description": "Validate suppression and routing controls"
+      },
+      {
+        "title": "Step 4",
+        "description": "Review responses and adjust the campaign"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you guarantee inbox placement?",
+        "answer": "No. Delivery depends on mailbox configuration, reputation, recipient systems and campaign behavior. We review readiness and avoid promised deliverability rates."
+      },
+      {
+        "question": "How are opt-outs handled?",
+        "answer": "The agreed workflow must record opt-outs and suppress further outreach. Audience suitability and applicable communication requirements are reviewed before sending."
+      }
+    ],
+    "related": [
+      "b2b-lead-generation",
+      "appointment-setting",
+      "email-marketing-automation"
+    ]
+  },
+  {
+    "slug": "appointment-setting",
+    "title": "Appointment Setting",
+    "headline": "Turn interested replies into prepared conversations.",
+    "description": "Organize qualification, scheduling and handover so your sales team can spend discovery calls understanding the prospect.",
+    "detail": "Organize qualification, scheduling and handover so your sales team can spend discovery calls understanding the prospect.",
+    "deliverables": [
+      "Qualification questions and boundaries",
+      "Response and scheduling playbook",
+      "Calendar and confirmation workflow",
+      "Meeting notes and sales handoff"
+    ],
+    "problems": [
+      "Interested replies wait too long for follow-up",
+      "Calls are booked without fit or context",
+      "Sales handoffs lose the original conversation"
+    ],
+    "audience": [
+      "Software houses with active outreach",
+      "Agencies managing inbound interest",
+      "B2B founders who need a scheduling workflow"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Define qualification and availability"
+      },
+      {
+        "title": "Step 2",
+        "description": "Prepare approved response guidance"
+      },
+      {
+        "title": "Step 3",
+        "description": "Coordinate scheduling and reminders"
+      },
+      {
+        "title": "Step 4",
+        "description": "Hand over context and review meeting quality"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you promise a number of appointments?",
+        "answer": "No appointment volume is guaranteed. Scope and reporting are agreed around the available audience, response handling and qualification criteria."
+      },
+      {
+        "question": "Will you make commercial commitments for us?",
+        "answer": "Only approved information is shared. Pricing exceptions, contractual terms and commitments are escalated to your authorized team."
+      }
+    ],
+    "related": [
+      "linkedin-outreach",
+      "cold-email-outreach",
+      "crm-sales-automation"
+    ]
+  },
+  {
+    "slug": "upwork-profile-bidding-management",
+    "title": "Upwork Profile & Bidding Management",
+    "headline": "Present your expertise with focused proposals.",
+    "description": "Refine positioning, project selection and proposal quality for an Upwork workflow built around your actual capabilities.",
+    "detail": "Refine positioning, project selection and proposal quality for an Upwork workflow built around your actual capabilities.",
+    "deliverables": [
+      "Profile and portfolio positioning review",
+      "Opportunity-fit checklist",
+      "Tailored proposal frameworks",
+      "Pipeline and proposal review process"
+    ],
+    "problems": [
+      "The profile lists skills without a clear offer",
+      "Bids are sent to poor-fit projects",
+      "Proposals repeat generic claims without evidence"
+    ],
+    "audience": [
+      "Freelancers building a clear specialization",
+      "Small agencies improving marketplace positioning",
+      "Software houses evaluating suitable opportunities"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review truthful experience and service focus"
+      },
+      {
+        "title": "Step 2",
+        "description": "Define project-fit and bidding criteria"
+      },
+      {
+        "title": "Step 3",
+        "description": "Draft tailored proposals for review"
+      },
+      {
+        "title": "Step 4",
+        "description": "Track responses and refine positioning"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you guarantee jobs or rankings?",
+        "answer": "No. Client selection and marketplace visibility are outside our control. The work focuses on accurate positioning and proposal relevance."
+      },
+      {
+        "question": "Will you need unrestricted account access?",
+        "answer": "Access and permissions are agreed only if needed and must follow platform rules. No account sharing, impersonation or submission without an agreed authorization process is assumed."
+      }
+    ],
+    "related": [
+      "branding-creative-strategy",
+      "b2b-lead-generation",
+      "appointment-setting"
+    ]
+  },
+  {
+    "slug": "crm-sales-automation",
+    "title": "CRM & Sales Automation",
+    "headline": "Keep your pipeline connected from inquiry to follow-up.",
+    "description": "Organize sales stages, ownership and automation around how your team actually qualifies and follows up with prospects.",
+    "detail": "Organize sales stages, ownership and automation around how your team actually qualifies and follows up with prospects.",
+    "deliverables": [
+      "Pipeline and lifecycle mapping",
+      "CRM fields and ownership rules",
+      "Routing and reminder workflows",
+      "Dashboard and handover documentation"
+    ],
+    "problems": [
+      "Prospects are scattered across spreadsheets",
+      "Follow-ups depend on individual memory",
+      "Sales stages mean different things to different people"
+    ],
+    "audience": [
+      "Software houses scaling sales operations",
+      "Agencies sharing a prospect pipeline",
+      "Local businesses managing repeat inquiries"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Audit the existing pipeline and tools"
+      },
+      {
+        "title": "Step 2",
+        "description": "Define stages and required information"
+      },
+      {
+        "title": "Step 3",
+        "description": "Configure and test routing and reminders"
+      },
+      {
+        "title": "Step 4",
+        "description": "Train owners and document ongoing maintenance"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do we have to buy a particular CRM?",
+        "answer": "No. We first review your current tools and requirements. Any new subscription is discussed before implementation."
+      },
+      {
+        "question": "Can this connect to our website inquiries?",
+        "answer": "Yes, where supported APIs or integration methods exist. Consent, access controls and failure handling are part of the integration scope."
+      }
+    ],
+    "related": [
+      "ai-automation",
+      "appointment-setting",
+      "b2b-lead-generation"
+    ]
+  },
+  {
+    "slug": "meta-ads-management",
+    "title": "Meta Ads Management",
+    "headline": "Connect Meta campaigns to a clear customer journey.",
+    "description": "Plan and manage Meta advertising around audience fit, creative hypotheses, conversion tracking and a considered landing experience.",
+    "detail": "Plan and manage Meta advertising around audience fit, creative hypotheses, conversion tracking and a considered landing experience.",
+    "deliverables": [
+      "Campaign and account review",
+      "Audience and creative test plan",
+      "Tracking readiness checks",
+      "Campaign management and reporting"
+    ],
+    "problems": [
+      "Ads and landing pages tell different stories",
+      "Creative decisions lack a test plan",
+      "Teams cannot interpret conversion signals"
+    ],
+    "audience": [
+      "E-commerce brands with a defined offer",
+      "Local businesses generating inquiries",
+      "Startups testing acquisition messaging"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review offer and account readiness"
+      },
+      {
+        "title": "Step 2",
+        "description": "Plan audiences and creative variations"
+      },
+      {
+        "title": "Step 3",
+        "description": "Launch approved campaigns and inspect signals"
+      },
+      {
+        "title": "Step 4",
+        "description": "Review spend and prioritize the next tests"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is advertising spend included?",
+        "answer": "Media spend and third-party costs are separate unless explicitly agreed. Budgets and account ownership are confirmed before launch."
+      },
+      {
+        "question": "Do you guarantee sales or return on ad spend?",
+        "answer": "No. Results depend on the offer, market, tracking quality and customer journey. Reporting explains observed performance without guaranteed returns."
+      }
+    ],
+    "related": [
+      "landing-pages-conversion-rate-optimization",
+      "branding-creative-strategy",
+      "email-marketing-automation"
+    ]
+  },
+  {
+    "slug": "google-ads-management",
+    "title": "Google Ads Management",
+    "headline": "Meet demand with a focused search campaign.",
+    "description": "Organize Google Ads around search intent, useful landing pages, conversion measurement and disciplined campaign review.",
+    "detail": "Organize Google Ads around search intent, useful landing pages, conversion measurement and disciplined campaign review.",
+    "deliverables": [
+      "Intent and keyword research",
+      "Campaign and ad-group structure",
+      "Ad copy and exclusion plan",
+      "Conversion checks and reporting"
+    ],
+    "problems": [
+      "Budget is spent on irrelevant searches",
+      "Campaign structure hides what is working",
+      "Search intent does not match the landing page"
+    ],
+    "audience": [
+      "Local service businesses",
+      "B2B teams with identifiable search demand",
+      "E-commerce brands with relevant product demand"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Map search intent and business priorities"
+      },
+      {
+        "title": "Step 2",
+        "description": "Build campaigns and conversion checks"
+      },
+      {
+        "title": "Step 3",
+        "description": "Launch with agreed budgets and exclusions"
+      },
+      {
+        "title": "Step 4",
+        "description": "Review search terms and improve alignment"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you work with our current account?",
+        "answer": "Yes. An account and conversion-tracking review helps determine what to preserve, adjust or rebuild within the campaign scope."
+      },
+      {
+        "question": "Can you predict exact lead costs?",
+        "answer": "No exact acquisition cost is promised. Budget decisions are based on available data, observed demand and agreed testing limits."
+      }
+    ],
+    "related": [
+      "landing-pages-conversion-rate-optimization",
+      "seo-content-marketing",
+      "crm-sales-automation"
+    ]
+  },
+  {
+    "slug": "email-marketing-automation",
+    "title": "Email Marketing & Automation",
+    "headline": "Build useful lifecycle messages around customer needs.",
+    "description": "Connect permission-based email journeys, audience segments and timely messages across acquisition, onboarding and retention.",
+    "detail": "Connect permission-based email journeys, audience segments and timely messages across acquisition, onboarding and retention.",
+    "deliverables": [
+      "Lifecycle and segmentation map",
+      "Email content and template direction",
+      "Trigger and suppression workflows",
+      "Testing and performance review"
+    ],
+    "problems": [
+      "The same message is sent to every subscriber",
+      "Onboarding ends after the first confirmation",
+      "Automations ignore customer actions or consent changes"
+    ],
+    "audience": [
+      "E-commerce brands with customer journeys",
+      "Startups onboarding new users",
+      "Businesses with permission-based mailing lists"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Audit consent and lifecycle touchpoints"
+      },
+      {
+        "title": "Step 2",
+        "description": "Plan segments and message objectives"
+      },
+      {
+        "title": "Step 3",
+        "description": "Build and test triggers and templates"
+      },
+      {
+        "title": "Step 4",
+        "description": "Review engagement and maintain suppression rules"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this different from cold outreach?",
+        "answer": "Yes. Lifecycle marketing normally serves subscribers or customers with an appropriate communication basis. Cold outreach uses a separate audience and sender-readiness workflow."
+      },
+      {
+        "question": "Can we use our existing email platform?",
+        "answer": "We review its segmentation, API and automation capabilities first. New subscriptions are proposed only when the requirements justify them."
+      }
+    ],
+    "related": [
+      "cold-email-outreach",
+      "crm-sales-automation",
+      "landing-pages-conversion-rate-optimization"
+    ]
+  },
+  {
+    "slug": "social-media-management",
+    "title": "Social Media Management",
+    "headline": "Give your channels a consistent, useful voice.",
+    "description": "Build a practical publishing rhythm with clear content themes, brand direction and an agreed review and community workflow.",
+    "detail": "Build a practical publishing rhythm with clear content themes, brand direction and an agreed review and community workflow.",
+    "deliverables": [
+      "Channel and audience review",
+      "Content pillars and calendar",
+      "Post copy and creative briefs",
+      "Publishing and community response guidance"
+    ],
+    "problems": [
+      "Posts are created without a consistent direction",
+      "Approvals delay the content calendar",
+      "Community questions have no defined owner"
+    ],
+    "audience": [
+      "Local businesses improving their presence",
+      "E-commerce brands planning content",
+      "Agencies needing a reliable publishing process"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review channels and audience questions"
+      },
+      {
+        "title": "Step 2",
+        "description": "Agree pillars and editorial direction"
+      },
+      {
+        "title": "Step 3",
+        "description": "Create and approve a content calendar"
+      },
+      {
+        "title": "Step 4",
+        "description": "Publish and review audience responses"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does this include paid advertising?",
+        "answer": "Paid campaigns are a separate service. Organic planning can be coordinated with Meta or Google Ads when included in the scope."
+      },
+      {
+        "question": "Will you respond to every message?",
+        "answer": "Community coverage, response times and escalation rules are agreed explicitly. Sensitive or commercial requests go to the authorized business contact."
+      }
+    ],
+    "related": [
+      "branding-creative-strategy",
+      "meta-ads-management",
+      "seo-content-marketing"
+    ]
+  },
+  {
+    "slug": "seo-content-marketing",
+    "title": "SEO & Content Marketing",
+    "headline": "Help the right audience find useful answers.",
+    "description": "Improve technical foundations, search intent coverage and editorial planning without stuffing pages with repetitive keywords.",
+    "detail": "Improve technical foundations, search intent coverage and editorial planning without stuffing pages with repetitive keywords.",
+    "deliverables": [
+      "Technical and content audit",
+      "Search-intent and topic map",
+      "On-page and internal-link recommendations",
+      "Editorial briefs and measurement plan"
+    ],
+    "problems": [
+      "Useful pages are difficult to discover",
+      "Content repeats keywords without answering questions",
+      "Technical issues obscure crawl and indexing signals"
+    ],
+    "audience": [
+      "Local businesses building useful service content",
+      "Startups explaining a new product",
+      "Agencies and brands improving organic discovery"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Audit crawlability and content gaps"
+      },
+      {
+        "title": "Step 2",
+        "description": "Map topics to audience intent"
+      },
+      {
+        "title": "Step 3",
+        "description": "Implement agreed technical and on-page improvements"
+      },
+      {
+        "title": "Step 4",
+        "description": "Review indexing and content usefulness"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you guarantee first-page rankings?",
+        "answer": "No. Search rankings and indexing are controlled by search engines. We focus on sound technical signals and content that addresses real audience needs."
+      },
+      {
+        "question": "Will you replace all our existing content?",
+        "answer": "No. Existing useful pages and URLs are reviewed first. Updates, consolidation or redirects are proposed only where there is a clear reason."
+      }
+    ],
+    "related": [
+      "web-development",
+      "landing-pages-conversion-rate-optimization",
+      "social-media-management"
+    ]
+  },
+  {
+    "slug": "landing-pages-conversion-rate-optimization",
+    "title": "Landing Pages & Conversion Rate Optimization",
+    "headline": "Give every campaign a clearer next step.",
+    "description": "Design focused landing experiences and evaluate friction across the path from a first visit to a genuine inquiry or purchase.",
+    "detail": "Design focused landing experiences and evaluate friction across the path from a first visit to a genuine inquiry or purchase.",
+    "deliverables": [
+      "Journey and friction review",
+      "Landing-page structure and copy",
+      "Responsive implementation",
+      "Measurement and experiment plan"
+    ],
+    "problems": [
+      "Campaign visitors arrive on an unfocused page",
+      "Forms ask for information without clear context",
+      "Teams change layouts without understanding the journey"
+    ],
+    "audience": [
+      "E-commerce brands refining product journeys",
+      "B2B agencies generating inquiries",
+      "Startups validating a focused offer"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Map the visitor intent and desired action"
+      },
+      {
+        "title": "Step 2",
+        "description": "Design a focused message and page structure"
+      },
+      {
+        "title": "Step 3",
+        "description": "Implement and verify the conversion path"
+      },
+      {
+        "title": "Step 4",
+        "description": "Measure behavior and prioritize experiments"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you promise a conversion-rate increase?",
+        "answer": "No uplift is guaranteed. We agree measurable hypotheses and interpret results according to traffic quality, sample size and the available measurement setup."
+      },
+      {
+        "question": "Can you use our current website?",
+        "answer": "Yes. We can work within the existing design system, CMS and analytics approach, subject to technical access and the agreed scope."
+      }
+    ],
+    "related": [
+      "meta-ads-management",
+      "google-ads-management",
+      "ui-ux-design"
+    ]
+  },
+  {
+    "slug": "branding-creative-strategy",
+    "title": "Branding & Creative Strategy",
+    "headline": "Make your offer easier to recognize and understand.",
+    "description": "Shape positioning, messaging and creative direction around the audience you serve and the strengths you can substantiate.",
+    "detail": "Shape positioning, messaging and creative direction around the audience you serve and the strengths you can substantiate.",
+    "deliverables": [
+      "Audience and positioning workshop",
+      "Messaging and value-proposition framework",
+      "Visual and creative direction",
+      "Channel-ready brand guidance"
+    ],
+    "problems": [
+      "The offer is hard to explain consistently",
+      "Visuals vary across sales and marketing",
+      "Creative work begins without a useful brief"
+    ],
+    "audience": [
+      "Startups clarifying a launch message",
+      "Agencies specializing their offer",
+      "Brands aligning campaigns and customer experience"
+    ],
+    "process": [
+      {
+        "title": "Step 1",
+        "description": "Review audience and existing identity"
+      },
+      {
+        "title": "Step 2",
+        "description": "Agree positioning and messaging priorities"
+      },
+      {
+        "title": "Step 3",
+        "description": "Develop and review creative direction"
+      },
+      {
+        "title": "Step 4",
+        "description": "Document practical rules for ongoing use"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Will you replace our logo?",
+        "answer": "Only if logo work is explicitly requested and scoped. Existing identity can be retained while improving messaging and creative consistency."
+      },
+      {
+        "question": "Do you invent testimonials or claims for campaigns?",
+        "answer": "No. Proof must come from factual material you can substantiate. Unavailable evidence is left out rather than replaced with fabricated claims."
+      }
+    ],
+    "related": [
+      "ui-ux-design",
+      "social-media-management",
+      "upwork-profile-bidding-management"
+    ]
+  }
+]

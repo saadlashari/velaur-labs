@@ -1,0 +1,10 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const base=process.env.VELAUR_TEST_BASE_URL||'http://127.0.0.1:3000';
+const catalog=JSON.parse(fs.readFileSync('data/portfolio.json','utf8'));
+const articleSource=fs.readFileSync('lib/launch-articles.ts','utf8');
+const articles=[...articleSource.matchAll(/['"]?slug['"]?:\s*['"]([^'"]+)['"]/g)].map(match=>'/blog/'+match[1]);
+const services=JSON.parse(fs.readFileSync('data/agency-services.json','utf8')).map(item=>item.slug);const categories=['ai-software-development','business-development','digital-marketing-growth'];const solutions=JSON.parse(fs.readFileSync('data/growth-solutions.json','utf8')).map(item=>item.slug);
+const routes=['/','/about','/services','/work','/work/websites','/work/web-applications','/work/mobile-apps','/blog','/contact','/privacy-policy','/terms-of-service',...services.map(slug=>'/services/'+slug),...categories.map(slug=>'/services/'+slug),'/growth-solutions',...solutions.map(slug=>'/growth-solutions/'+slug),...catalog.map(p=>'/work/projects/'+p.slug),...articles,'/sitemap.xml','/robots.txt'];
+const checks=[];for(const route of routes){const response=await fetch(base+route,{signal:AbortSignal.timeout(15000)}),body=await response.text();assert.equal(response.status,200,route);if(!route.endsWith('.xml')&&!route.endsWith('.txt')){assert(body.includes('VELAUR LABS'),route);assert(!body.includes('Internal Server Error'),route);}checks.push({route,status:response.status});}
+for(const route of ['/api/admin/design','/api/admin/pages','/api/admin/content/projects','/api/admin/media']){const response=await fetch(base+route,{redirect:'manual'});assert.equal(response.status,401,route+' anonymous access');checks.push({route,status:response.status,expected:'anonymous denied'});}
+const result={completedAt:new Date().toISOString(),checks:checks.length,passed:true,base,results:checks,limitations:'Local production rendering and anonymous API rejection tested; hosted provider credentials are not exercised.'};fs.writeFileSync('verification/production-http.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));

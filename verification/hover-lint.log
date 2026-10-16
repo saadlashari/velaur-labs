@@ -1,0 +1,60 @@
+
+> velaur-labs-platform@0.1.0 lint
+> eslint .
+
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\admin\content\page.tsx
+  45:102  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\admin\media\page.tsx
+  11:1231  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\admin\pages\media-picker.tsx
+  65:7    warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  77:176  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\admin\profile\page.tsx
+  13:563  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\blog\[slug]\page.tsx
+  22:2725  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\blog\page.tsx
+  18:1532  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\components\block-renderer.tsx
+  20:346  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\components\portfolio-browser.tsx
+  48:11  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\components\portfolio-category.tsx
+  20:501  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\components\section-renderer.tsx
+  54:154  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\page.tsx
+  106:108  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  123:966  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\app\work\projects\[slug]\page.tsx
+  18:2741  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\scripts\test-builder-ui.mjs
+  12:53  warning  'priority' is defined but never used                     @typescript-eslint/no-unused-vars
+  12:62  warning  'fill' is defined but never used                         @typescript-eslint/no-unused-vars
+  66:30  warning  'parseElementDesign' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\scripts\test-public-rendering.mjs
+  8:53  warning  'priority' is defined but never used     @typescript-eslint/no-unused-vars
+  8:62  warning  'fill' is defined but never used         @typescript-eslint/no-unused-vars
+  8:67  warning  'unoptimized' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\scripts\test-refinement-ui.mjs
+   9:22  warning  'within' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  12:53  warning  'priority' is defined but never used         @typescript-eslint/no-unused-vars
+  12:62  warning  'fill' is defined but never used             @typescript-eslint/no-unused-vars
+
+✖ 23 problems (0 errors, 23 warnings)
+

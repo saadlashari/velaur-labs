@@ -1,0 +1,360 @@
+{
+  "completedAt": "2026-10-14T14:39:07.527Z",
+  "build": "production",
+  "cases": 44,
+  "results": [
+    {
+      "route": "/admin",
+      "errors": [],
+      "heading": "Welcome, Local QA",
+      "scrollWidth": 1440,
+      "theme": "dark",
+      "width": 1440
+    },
+    {
+      "route": "/admin/content",
+      "errors": [],
+      "heading": "Content Management",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/pages",
+      "errors": [],
+      "heading": "Pages & Sections ",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/media",
+      "errors": [],
+      "heading": "Media Library",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/inquiries",
+      "errors": [],
+      "heading": "Inquiries",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/approvals",
+      "errors": [],
+      "heading": "Publishing approvals",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/users",
+      "errors": [],
+      "heading": "Users & Roles",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/operations",
+      "errors": [],
+      "heading": "Security, Audit & Exports",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/profile",
+      "errors": [],
+      "heading": "My Profile",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/design",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin/settings",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/admin",
+      "errors": [],
+      "heading": "Welcome, Local QA",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/content",
+      "errors": [],
+      "heading": "Content Management",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/pages",
+      "errors": [],
+      "heading": "Pages & Sections ",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/media",
+      "errors": [],
+      "heading": "Media Library",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/inquiries",
+      "errors": [],
+      "heading": "Inquiries",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/approvals",
+      "errors": [],
+      "heading": "Publishing approvals",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/users",
+      "errors": [],
+      "heading": "Users & Roles",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/operations",
+      "errors": [],
+      "heading": "Security, Audit & Exports",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/profile",
+      "errors": [],
+      "heading": "My Profile",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/design",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin/settings",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 1425,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/admin",
+      "errors": [],
+      "heading": "Welcome, Local QA",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/content",
+      "errors": [],
+      "heading": "Content Management",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/pages",
+      "errors": [],
+      "heading": "Pages & Sections ",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/media",
+      "errors": [],
+      "heading": "Media Library",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/inquiries",
+      "errors": [],
+      "heading": "Inquiries",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/approvals",
+      "errors": [],
+      "heading": "Publishing approvals",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/users",
+      "errors": [],
+      "heading": "Users & Roles",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/operations",
+      "errors": [],
+      "heading": "Security, Audit & Exports",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/profile",
+      "errors": [],
+      "heading": "My Profile",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/design",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin/settings",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 375,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/admin",
+      "errors": [],
+      "heading": "Welcome, Local QA",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/content",
+      "errors": [],
+      "heading": "Content Management",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/pages",
+      "errors": [],
+      "heading": "Pages & Sections ",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/media",
+      "errors": [],
+      "heading": "Media Library",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/inquiries",
+      "errors": [],
+      "heading": "Inquiries",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/approvals",
+      "errors": [],
+      "heading": "Publishing approvals",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/users",
+      "errors": [],
+      "heading": "Users & Roles",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/operations",
+      "errors": [],
+      "heading": "Security, Audit & Exports",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/profile",
+      "errors": [],
+      "heading": "My Profile",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/design",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/admin/settings",
+      "errors": [],
+      "heading": "Visual site designer ",
+      "scrollWidth": 375,
+      "theme": "light",
+      "width": 375
+    }
+  ],
+  "limits": "Disposable local fixture account; no live Neon or external uploads tested"
+}

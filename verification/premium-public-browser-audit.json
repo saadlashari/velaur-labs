@@ -1,0 +1,2205 @@
+{
+  "completedAt": "2026-10-14T14:36:04.946Z",
+  "build": "production",
+  "database": "disposable local PostgreSQL-compatible PGlite",
+  "cases": 244,
+  "results": [
+    {
+      "route": "/",
+      "clipped": 0,
+      "heading": "Where Creativity Meets Technology.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/about",
+      "clipped": 0,
+      "heading": "Technology with purpose.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services",
+      "clipped": 0,
+      "heading": "The right expertise. Built around your goals.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work",
+      "clipped": 0,
+      "heading": "Built with purpose. Explore our work.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/websites",
+      "clipped": 0,
+      "heading": "Websites",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/web-applications",
+      "clipped": 0,
+      "heading": "Web Applications",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/mobile-apps",
+      "clipped": 0,
+      "heading": "Mobile Apps",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/blog",
+      "clipped": 0,
+      "heading": "Ideas worth putting to work.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/contact",
+      "clipped": 0,
+      "heading": "Let’s build something meaningful.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/privacy-policy",
+      "clipped": 0,
+      "heading": "Privacy Policy.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/terms-of-service",
+      "clipped": 0,
+      "heading": "Terms of Service.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-development",
+      "clipped": 0,
+      "heading": "AI Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/web-development",
+      "clipped": 0,
+      "heading": "Web Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "clipped": 0,
+      "heading": "Mobile App Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-automation",
+      "clipped": 0,
+      "heading": "AI Automation",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-integration",
+      "clipped": 0,
+      "heading": "AI Integration",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "clipped": 0,
+      "heading": "UI/UX Design",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/software-testing",
+      "clipped": 0,
+      "heading": "Software Testing",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "clipped": 0,
+      "heading": "Deployment & Maintenance",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "clipped": 0,
+      "heading": "Cakes and Bakes",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "clipped": 0,
+      "heading": "KIPS Publications",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "clipped": 0,
+      "heading": "BodyTalk System",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "clipped": 0,
+      "heading": "Booksy",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "clipped": 0,
+      "heading": "Cadence",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "clipped": 0,
+      "heading": "VELAUR",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "clipped": 0,
+      "heading": "MyYogi",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "clipped": 0,
+      "heading": "Actimus Rehabilitation",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "clipped": 0,
+      "heading": "Her Golf",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "clipped": 0,
+      "heading": "TJ's Pizza",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "clipped": 0,
+      "heading": "RootPointers — Our Team",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "clipped": 0,
+      "heading": "The Ufaq",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "clipped": 0,
+      "heading": "Top Music",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "clipped": 0,
+      "heading": "Stellar Driveway",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "clipped": 0,
+      "heading": "Trader Metrix",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "clipped": 0,
+      "heading": "NextBanka",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS Admin",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "clipped": 0,
+      "heading": "LEC CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "clipped": 0,
+      "heading": "Kit Shoes POS",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "clipped": 0,
+      "heading": "Animation Project",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "clipped": 0,
+      "heading": "My LumMo Shop",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "clipped": 0,
+      "heading": "Embold",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "clipped": 0,
+      "heading": "Sudduth Realty CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "clipped": 0,
+      "heading": "Wevoz CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "clipped": 0,
+      "heading": "TopMusic",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "clipped": 0,
+      "heading": "OPARKO",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "clipped": 0,
+      "heading": "HelloBible",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "clipped": 0,
+      "heading": "F.R.Y.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "clipped": 0,
+      "heading": "The Octagon by Champs MMA",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "clipped": 0,
+      "heading": "RootsCare Patient App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "clipped": 0,
+      "heading": "MyYogi App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "clipped": 0,
+      "heading": "ServeU",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "clipped": 0,
+      "heading": "Actimus App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "clipped": 0,
+      "heading": "How AI Automation Is Transforming Modern Businesses",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "clipped": 0,
+      "heading": "Website vs Web Application: What Does Your Business Actually Need?",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "clipped": 0,
+      "heading": "Building a Successful Mobile App: From Idea to Launch",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "clipped": 0,
+      "heading": "AI Agents vs Traditional Chatbots: Understanding the Difference",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "route": "/",
+      "clipped": 0,
+      "heading": "Where Creativity Meets Technology.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/about",
+      "clipped": 0,
+      "heading": "Technology with purpose.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services",
+      "clipped": 0,
+      "heading": "The right expertise. Built around your goals.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work",
+      "clipped": 0,
+      "heading": "Built with purpose. Explore our work.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/websites",
+      "clipped": 0,
+      "heading": "Websites",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/web-applications",
+      "clipped": 0,
+      "heading": "Web Applications",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/mobile-apps",
+      "clipped": 0,
+      "heading": "Mobile Apps",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/blog",
+      "clipped": 0,
+      "heading": "Ideas worth putting to work.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/contact",
+      "clipped": 0,
+      "heading": "Let’s build something meaningful.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/privacy-policy",
+      "clipped": 0,
+      "heading": "Privacy Policy.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/terms-of-service",
+      "clipped": 0,
+      "heading": "Terms of Service.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-development",
+      "clipped": 0,
+      "heading": "AI Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/web-development",
+      "clipped": 0,
+      "heading": "Web Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "clipped": 0,
+      "heading": "Mobile App Development",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-automation",
+      "clipped": 0,
+      "heading": "AI Automation",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/ai-integration",
+      "clipped": 0,
+      "heading": "AI Integration",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "clipped": 0,
+      "heading": "UI/UX Design",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/software-testing",
+      "clipped": 0,
+      "heading": "Software Testing",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "clipped": 0,
+      "heading": "Deployment & Maintenance",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "clipped": 0,
+      "heading": "Cakes and Bakes",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "clipped": 0,
+      "heading": "KIPS Publications",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "clipped": 0,
+      "heading": "BodyTalk System",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "clipped": 0,
+      "heading": "Booksy",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "clipped": 0,
+      "heading": "Cadence",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "clipped": 0,
+      "heading": "VELAUR",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "clipped": 0,
+      "heading": "MyYogi",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "clipped": 0,
+      "heading": "Actimus Rehabilitation",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "clipped": 0,
+      "heading": "Her Golf",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "clipped": 0,
+      "heading": "TJ's Pizza",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "clipped": 0,
+      "heading": "RootPointers — Our Team",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "clipped": 0,
+      "heading": "The Ufaq",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "clipped": 0,
+      "heading": "Top Music",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "clipped": 0,
+      "heading": "Stellar Driveway",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "clipped": 0,
+      "heading": "Trader Metrix",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "clipped": 0,
+      "heading": "NextBanka",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS Admin",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "clipped": 0,
+      "heading": "LEC CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "clipped": 0,
+      "heading": "Kit Shoes POS",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "clipped": 0,
+      "heading": "Animation Project",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "clipped": 0,
+      "heading": "My LumMo Shop",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "clipped": 0,
+      "heading": "Embold",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "clipped": 0,
+      "heading": "Sudduth Realty CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "clipped": 0,
+      "heading": "Wevoz CRM",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "clipped": 0,
+      "heading": "TopMusic",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "clipped": 0,
+      "heading": "OPARKO",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "clipped": 0,
+      "heading": "HelloBible",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "clipped": 0,
+      "heading": "F.R.Y.",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "clipped": 0,
+      "heading": "The Octagon by Champs MMA",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "clipped": 0,
+      "heading": "RootsCare Patient App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "clipped": 0,
+      "heading": "MyYogi App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "clipped": 0,
+      "heading": "ServeU",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "clipped": 0,
+      "heading": "Actimus App",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "clipped": 0,
+      "heading": "How AI Automation Is Transforming Modern Businesses",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "clipped": 0,
+      "heading": "Website vs Web Application: What Does Your Business Actually Need?",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "clipped": 0,
+      "heading": "Building a Successful Mobile App: From Idea to Launch",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "clipped": 0,
+      "heading": "AI Agents vs Traditional Chatbots: Understanding the Difference",
+      "scrollWidth": 1425,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 1425
+    },
+    {
+      "route": "/",
+      "clipped": 0,
+      "heading": "Where Creativity Meets Technology.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/about",
+      "clipped": 0,
+      "heading": "Technology with purpose.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services",
+      "clipped": 0,
+      "heading": "The right expertise. Built around your goals.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work",
+      "clipped": 0,
+      "heading": "Built with purpose. Explore our work.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/websites",
+      "clipped": 0,
+      "heading": "Websites",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/web-applications",
+      "clipped": 0,
+      "heading": "Web Applications",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/mobile-apps",
+      "clipped": 0,
+      "heading": "Mobile Apps",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/blog",
+      "clipped": 0,
+      "heading": "Ideas worth putting to work.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/contact",
+      "clipped": 0,
+      "heading": "Let’s build something meaningful.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/privacy-policy",
+      "clipped": 0,
+      "heading": "Privacy Policy.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/terms-of-service",
+      "clipped": 0,
+      "heading": "Terms of Service.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-development",
+      "clipped": 0,
+      "heading": "AI Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/web-development",
+      "clipped": 0,
+      "heading": "Web Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "clipped": 0,
+      "heading": "Mobile App Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-automation",
+      "clipped": 0,
+      "heading": "AI Automation",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-integration",
+      "clipped": 0,
+      "heading": "AI Integration",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "clipped": 0,
+      "heading": "UI/UX Design",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/software-testing",
+      "clipped": 0,
+      "heading": "Software Testing",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "clipped": 0,
+      "heading": "Deployment & Maintenance",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "clipped": 0,
+      "heading": "Cakes and Bakes",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "clipped": 0,
+      "heading": "KIPS Publications",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "clipped": 0,
+      "heading": "BodyTalk System",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "clipped": 0,
+      "heading": "Booksy",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "clipped": 0,
+      "heading": "Cadence",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "clipped": 0,
+      "heading": "VELAUR",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "clipped": 0,
+      "heading": "MyYogi",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "clipped": 0,
+      "heading": "Actimus Rehabilitation",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "clipped": 0,
+      "heading": "Her Golf",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "clipped": 0,
+      "heading": "TJ's Pizza",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "clipped": 0,
+      "heading": "RootPointers — Our Team",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "clipped": 0,
+      "heading": "The Ufaq",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "clipped": 0,
+      "heading": "Top Music",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "clipped": 0,
+      "heading": "Stellar Driveway",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "clipped": 0,
+      "heading": "Trader Metrix",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "clipped": 0,
+      "heading": "NextBanka",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS Admin",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "clipped": 0,
+      "heading": "LEC CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "clipped": 0,
+      "heading": "Kit Shoes POS",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "clipped": 0,
+      "heading": "Animation Project",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "clipped": 0,
+      "heading": "My LumMo Shop",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "clipped": 0,
+      "heading": "Embold",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "clipped": 0,
+      "heading": "Sudduth Realty CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "clipped": 0,
+      "heading": "Wevoz CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "clipped": 0,
+      "heading": "TopMusic",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "clipped": 0,
+      "heading": "OPARKO",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "clipped": 0,
+      "heading": "HelloBible",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "clipped": 0,
+      "heading": "F.R.Y.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "clipped": 0,
+      "heading": "The Octagon by Champs MMA",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "clipped": 0,
+      "heading": "RootsCare Patient App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "clipped": 0,
+      "heading": "MyYogi App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "clipped": 0,
+      "heading": "ServeU",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "clipped": 0,
+      "heading": "Actimus App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "clipped": 0,
+      "heading": "How AI Automation Is Transforming Modern Businesses",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "clipped": 0,
+      "heading": "Website vs Web Application: What Does Your Business Actually Need?",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "clipped": 0,
+      "heading": "Building a Successful Mobile App: From Idea to Launch",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "clipped": 0,
+      "heading": "AI Agents vs Traditional Chatbots: Understanding the Difference",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "light",
+      "width": 375
+    },
+    {
+      "route": "/",
+      "clipped": 0,
+      "heading": "Where Creativity Meets Technology.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/about",
+      "clipped": 0,
+      "heading": "Technology with purpose.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services",
+      "clipped": 0,
+      "heading": "The right expertise. Built around your goals.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work",
+      "clipped": 0,
+      "heading": "Built with purpose. Explore our work.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/websites",
+      "clipped": 0,
+      "heading": "Websites",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/web-applications",
+      "clipped": 0,
+      "heading": "Web Applications",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/mobile-apps",
+      "clipped": 0,
+      "heading": "Mobile Apps",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/blog",
+      "clipped": 0,
+      "heading": "Ideas worth putting to work.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/contact",
+      "clipped": 0,
+      "heading": "Let’s build something meaningful.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/privacy-policy",
+      "clipped": 0,
+      "heading": "Privacy Policy.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/terms-of-service",
+      "clipped": 0,
+      "heading": "Terms of Service.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-development",
+      "clipped": 0,
+      "heading": "AI Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/web-development",
+      "clipped": 0,
+      "heading": "Web Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "clipped": 0,
+      "heading": "Mobile App Development",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-automation",
+      "clipped": 0,
+      "heading": "AI Automation",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/ai-integration",
+      "clipped": 0,
+      "heading": "AI Integration",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "clipped": 0,
+      "heading": "UI/UX Design",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/software-testing",
+      "clipped": 0,
+      "heading": "Software Testing",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "clipped": 0,
+      "heading": "Deployment & Maintenance",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/cakes-and-bakes-website",
+      "clipped": 0,
+      "heading": "Cakes and Bakes",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/kips-publications-website",
+      "clipped": 0,
+      "heading": "KIPS Publications",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/bodytalk-system-website",
+      "clipped": 0,
+      "heading": "BodyTalk System",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/booksy-website",
+      "clipped": 0,
+      "heading": "Booksy",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/salesfox-website",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/cadence-website",
+      "clipped": 0,
+      "heading": "Cadence",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/velaur-website",
+      "clipped": 0,
+      "heading": "VELAUR",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/myyogi-website",
+      "clipped": 0,
+      "heading": "MyYogi",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/actimus-website",
+      "clipped": 0,
+      "heading": "Actimus Rehabilitation",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/her-golf-website",
+      "clipped": 0,
+      "heading": "Her Golf",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/tj-s-pizza-website",
+      "clipped": 0,
+      "heading": "TJ's Pizza",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/rootpointers-website",
+      "clipped": 0,
+      "heading": "RootPointers — Our Team",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/the-ufaq-website",
+      "clipped": 0,
+      "heading": "The Ufaq",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/top-music-website",
+      "clipped": 0,
+      "heading": "Top Music",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/evolve-training-website",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/stellar-driveway-web-app",
+      "clipped": 0,
+      "heading": "Stellar Driveway",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/trader-metrix-web-app",
+      "clipped": 0,
+      "heading": "Trader Metrix",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/nextbanka-web-app",
+      "clipped": 0,
+      "heading": "NextBanka",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/iba-lms-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "clipped": 0,
+      "heading": "IBA LMS Admin",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/lec-crm-web-app",
+      "clipped": 0,
+      "heading": "LEC CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "clipped": 0,
+      "heading": "Kit Shoes POS",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/animation-project-web-app",
+      "clipped": 0,
+      "heading": "Animation Project",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "clipped": 0,
+      "heading": "My LumMo Shop",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/embold-web-app",
+      "clipped": 0,
+      "heading": "Embold",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "clipped": 0,
+      "heading": "Sudduth Realty CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/wevoz-crm-web-app",
+      "clipped": 0,
+      "heading": "Wevoz CRM",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/topmusic-mobile-app",
+      "clipped": 0,
+      "heading": "TopMusic",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/evolve-training-mobile-app",
+      "clipped": 0,
+      "heading": "Evolve Training App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/oparko-mobile-app",
+      "clipped": 0,
+      "heading": "OPARKO",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/hellobible-mobile-app",
+      "clipped": 0,
+      "heading": "HelloBible",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/f-r-y-mobile-app",
+      "clipped": 0,
+      "heading": "F.R.Y.",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/the-octagon-mobile-app",
+      "clipped": 0,
+      "heading": "The Octagon by Champs MMA",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/rootscare-mobile-app",
+      "clipped": 0,
+      "heading": "RootsCare Patient App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/myyogi-mobile-app",
+      "clipped": 0,
+      "heading": "MyYogi App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/serveu-mobile-app",
+      "clipped": 0,
+      "heading": "ServeU",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/actimus-mobile-app",
+      "clipped": 0,
+      "heading": "Actimus App",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/work/projects/salesfox-mobile-app",
+      "clipped": 0,
+      "heading": "SalesFox",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "clipped": 0,
+      "heading": "How AI Automation Is Transforming Modern Businesses",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "clipped": 0,
+      "heading": "Website vs Web Application: What Does Your Business Actually Need?",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "clipped": 0,
+      "heading": "Building a Successful Mobile App: From Idea to Launch",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    },
+    {
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "clipped": 0,
+      "heading": "AI Agents vs Traditional Chatbots: Understanding the Difference",
+      "scrollWidth": 375,
+      "smallParagraphs": 0,
+      "theme": "dark",
+      "width": 375
+    }
+  ],
+  "limits": "Chromium geometry and text size checks, not complete accessibility or cross-browser qualification"
+}

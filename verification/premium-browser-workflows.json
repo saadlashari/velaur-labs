@@ -1,0 +1,24 @@
+{
+  "completedAt": "2026-10-14T14:42:59.97Z",
+  "environment": "Local production build with disposable PGlite database; actual authentication cookies",
+  "passed": [
+    "Sign in using existing test-only account",
+    "Default service Hide returns public 404; Show restores page",
+    "Default article Hide returns public 404; Show restores article",
+    "New published custom service loads its public detail URL; hidden afterward",
+    "Public and admin theme controls persist through route changes",
+    "Mobile public and admin menus open and close",
+    "Final dashboard counts 38 projects and 4 original articles",
+    "Double-click original paragraph and type inline inside actual preview iframe",
+    "Save draft remains private: matching public text count 0",
+    "Publish changes updates actual public page",
+    "Reset element and publish restores original public text",
+    "Final production inspector has full-width styled fields and focus borders",
+    "New published content displays New content published feedback"
+  ],
+  "limits": [
+    "No production database or user content modified",
+    "Provider credentials unavailable; no hosted upload, email or native Neon backup drill",
+    "UI deletion not exercised; API and React deletion and restore behavior tested"
+  ]
+}

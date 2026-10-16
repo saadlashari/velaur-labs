@@ -1,0 +1,18 @@
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+const require=createRequire(import.meta.url);
+const ts=require('typescript');
+const source=readFileSync('app/components/portfolio-browser.tsx','utf8');
+const file=ts.createSourceFile('portfolio-browser.tsx',source,ts.ScriptTarget.Latest,true,ts.ScriptKind.TSX);
+const fn=file.statements.find(s=>ts.isFunctionDeclaration(s)&&s.name?.text==='matchesPortfolioFilter');
+assert.ok(fn,'Filter logic must be present');
+const js=ts.transpileModule(`type PortfolioBrowserProject = {slug:string;title:string;summary:string;category:'WEBSITE'|'WEB_APPLICATION'|'MOBILE_APP';cover:null};type Filter='ALL'|'WEBSITE'|'WEB_APPLICATION'|'MOBILE_APP';${fn.getText(file)};globalThis.check=matchesPortfolioFilter`,{compilerOptions:{target:ts.ScriptTarget.ES2021,module:ts.ModuleKind.None}}).outputText;
+const context={exports:{}}; const vm=await import('node:vm');vm.runInNewContext(js,context);
+const item={slug:'crm',title:'LEC CRM',summary:'Sales platform',category:'WEB_APPLICATION',cover:null};
+assert.equal(context.check(item,'ALL',''),true);
+assert.equal(context.check(item,'WEB_APPLICATION','crm'),true);
+assert.equal(context.check(item,'WEBSITE','crm'),false);
+assert.equal(context.check(item,'ALL',' sales '),true);
+assert.equal(context.check(item,'ALL','no match'),false);
+console.log('5 portfolio filtering tests passed');

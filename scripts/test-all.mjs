@@ -1,0 +1,6 @@
+import {spawnSync} from 'node:child_process';import fs from 'node:fs';
+const scripts=['verify-source.mjs','test-reference-redesign.mjs','test-refinement-ui.mjs','test-bespoke-page-preservation.mjs','test-bespoke-settings.mjs','test-blog-content.mjs','test-home-section-style-wiring.mjs','test-section-content-validation.mjs','test-export-integrity.mjs','test-restore-content.mjs','test-portfolio-browser.mjs','test-integration.mjs','test-builder-ui.mjs','test-public-rendering.mjs'];
+fs.mkdirSync('verification',{recursive:true});let log='',failed=0;const results=[];
+for(const script of scripts){const run=spawnSync(process.execPath,['scripts/'+script],{encoding:'utf8',windowsHide:true,maxBuffer:8*1024*1024});const text=(run.stdout||'')+(run.stderr||'');log+='\n'+script+' (exit '+run.status+')\n'+text;results.push({script,exitCode:run.status});if(run.status!==0)failed++;console.log((run.status===0?'PASS ':'FAIL ')+script);if(run.status!==0)console.log(text.slice(-3000));}
+fs.writeFileSync('verification/automated-tests.log',log);fs.writeFileSync('verification/automated-tests.json',JSON.stringify({completedAt:new Date().toISOString(),suites:scripts.length,passedSuites:scripts.length-failed,results},null,2));
+process.exitCode=failed?1:0;

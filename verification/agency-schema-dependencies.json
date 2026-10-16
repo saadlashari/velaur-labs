@@ -1,0 +1,7 @@
+{
+  "comparedWith": "VELAUR-LABS-Consolidated-20261014.zip",
+  "schemaUnchanged": true,
+  "dependencyLockUnchanged": true,
+  "schemaSha256": "678a1e2f7f2cbd573ffc17b5a19188be50108eac1c53c08191c15bfe50cc8c3f",
+  "noDatabaseMigrationIntroduced": true
+}

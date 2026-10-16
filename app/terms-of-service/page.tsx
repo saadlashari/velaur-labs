@@ -1,0 +1,11 @@
+import {Breadcrumbs} from '@/app/components/agency-sections';
+import {metadataForPath} from '@/lib/seo';
+
+import {designId} from '@/lib/design-ids';
+export const dynamic='force-dynamic';
+import {getSiteSettings} from '@/lib/site-settings';
+import type { Metadata } from 'next';
+import { PublicLayout } from '../components/site-chrome';
+import PageHero from '../components/page-hero';
+export async function generateMetadata():Promise<Metadata>{return metadataForPath('/terms-of-service');}
+export default async function TermsPage() { const settings=await getSiteSettings(); return <PublicLayout><Breadcrumbs items={[{label:"Home",href:"/"},{label:'Terms of Service'}]}/><PageHero eyebrow="LEGAL" title="Terms of" highlight="Service." copy={settings.terms_hero_copy}/><section data-design-id={designId("app/terms-of-service/page.tsx:502")} className="inner-section legal-copy"><h2 data-design-id={designId("app/terms-of-service/page.tsx:548")}>Website information</h2><p data-design-id={designId("app/terms-of-service/page.tsx:576")}>Website content is provided for general information about VELAUR LABS and its services. Project scope, deliverables, fees, timelines and support obligations must be agreed separately in writing.</p><h2 data-design-id={designId("app/terms-of-service/page.tsx:777")}>Intellectual property</h2><p data-design-id={designId("app/terms-of-service/page.tsx:807")}>Ownership and permitted use of deliverables, materials and third-party assets should be defined in the applicable project agreement.</p><h2 data-design-id={designId("app/terms-of-service/page.tsx:946")}>Third-party services</h2><p data-design-id={designId("app/terms-of-service/page.tsx:975")}>External links may lead to services operated by third parties. Their own terms and policies apply when you use those services.</p><h2 data-design-id={designId("app/terms-of-service/page.tsx:1108")}>Availability and changes</h2><p data-design-id={designId("app/terms-of-service/page.tsx:1141")}>Website content and availability may change. Any warranties, liability limitations, governing law and dispute provisions require appropriate legal review for the operating business.</p><h2 data-design-id={designId("app/terms-of-service/page.tsx:1329")}>Contact</h2><p data-design-id={designId("app/terms-of-service/page.tsx:1345")}>{settings.terms_contact_copy}</p></section></PublicLayout> }

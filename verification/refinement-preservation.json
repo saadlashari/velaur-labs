@@ -1,0 +1,8 @@
+{
+  "db/schema.sql": true,
+  "package-lock.json": true,
+  "lib/homepage-content.ts": true,
+  "lib/why-content.ts": true,
+  "lib/launch-articles.ts": true,
+  "allOriginalProjectFieldsPreserved": true
+}

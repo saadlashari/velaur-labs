@@ -1,0 +1,675 @@
+{
+  "completedAt": "2026-10-16T13:41:13.556Z",
+  "passed": true,
+  "managedPages": 83,
+  "distinctSearchPhrases": 290,
+  "publicRoutes": 83,
+  "internalDestinations": 83,
+  "results": [
+    {
+      "path": "/services/ai-development",
+      "status": 200,
+      "title": "AI Development Services for Remote Teams | VELAUR LABS",
+      "description": "Build practical AI products with VELAUR LABS: AI application development, LLM workflows, intelligent assistants and evaluation for remote teams.",
+      "canonical": "https://velaurlabs.com/services/ai-development",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/web-development",
+      "status": 200,
+      "title": "Web Development Services for Your Business | VELAUR LABS",
+      "description": "Custom website and web application development for startups, agencies and businesses. Work remotely with VELAUR LABS from planning through launch.",
+      "canonical": "https://velaurlabs.com/services/web-development",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/mobile-app-development",
+      "status": 200,
+      "title": "Mobile App Development Services Worldwide | VELAUR LABS",
+      "description": "Plan, design and develop mobile apps for iOS and Android with VELAUR LABS. Remote collaboration, connected backends, testing and release support.",
+      "canonical": "https://velaurlabs.com/services/mobile-app-development",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/ai-automation",
+      "status": 200,
+      "title": "AI Automation Services for Business Teams | VELAUR LABS",
+      "description": "Connect repetitive business workflows with practical AI automation. VELAUR LABS helps scope document processing, routing, handoffs and review steps.",
+      "canonical": "https://velaurlabs.com/services/ai-automation",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/ai-integration",
+      "status": 200,
+      "title": "AI Integration Services for Your Software | VELAUR LABS",
+      "description": "Add AI capabilities to your existing website, application or CRM. VELAUR LABS scopes APIs, data access, evaluation and human review with your team.",
+      "canonical": "https://velaurlabs.com/services/ai-integration",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/ui-ux-design",
+      "status": 200,
+      "title": "UI/UX Design Services for Digital Products | VELAUR LABS",
+      "description": "User experience research, interface design and responsive product flows for websites and applications. Collaborate remotely with VELAUR LABS designers.",
+      "canonical": "https://velaurlabs.com/services/ui-ux-design",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/software-testing",
+      "status": 200,
+      "title": "Software Testing Services & Quality Assurance | VELAUR LABS",
+      "description": "Practical software testing and quality assurance for web applications, mobile apps and releases. Define coverage, reproduce issues and review fixes remotely.",
+      "canonical": "https://velaurlabs.com/services/software-testing",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/deployment-maintenance",
+      "status": 200,
+      "title": "Website Maintenance Services & Deployment | VELAUR LABS",
+      "description": "Launch and maintain websites and applications with a clear operational plan. VELAUR LABS scopes deployments, updates, backups and ongoing support.",
+      "canonical": "https://velaurlabs.com/services/deployment-maintenance",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/b2b-lead-generation",
+      "status": 200,
+      "title": "B2B Lead Generation Services for Agencies | VELAUR LABS",
+      "description": "Build a focused B2B prospecting pipeline with VELAUR LABS: ideal customer research, account lists, qualification criteria and sales handoff support.",
+      "canonical": "https://velaurlabs.com/services/b2b-lead-generation",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/linkedin-outreach",
+      "status": 200,
+      "title": "LinkedIn Outreach Services for B2B Teams | VELAUR LABS",
+      "description": "Plan relevant LinkedIn prospecting and outreach for B2B services. VELAUR LABS supports audience research, messaging, response workflows and sales handoffs.",
+      "canonical": "https://velaurlabs.com/services/linkedin-outreach",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/cold-email-outreach",
+      "status": 200,
+      "title": "Cold Email Outreach Services for B2B Teams | VELAUR LABS",
+      "description": "Plan B2B cold email campaigns with audience research, offer messaging, deliverability review and response workflows. Work remotely with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/cold-email-outreach",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/appointment-setting",
+      "status": 200,
+      "title": "Appointment Setting Services for B2B Sales | VELAUR LABS",
+      "description": "Create a clear route from prospect interest to a qualified sales conversation. VELAUR LABS supports appointment setting, scheduling and CRM handoffs.",
+      "canonical": "https://velaurlabs.com/services/appointment-setting",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/upwork-profile-bidding-management",
+      "status": 200,
+      "title": "Upwork Handling Services & Proposal Support | VELAUR LABS",
+      "description": "Upwork handling for freelancers and agencies: profile positioning, opportunity research, proposal writing and bidding support through authorized workflows.",
+      "canonical": "https://velaurlabs.com/services/upwork-profile-bidding-management",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/crm-sales-automation",
+      "status": 200,
+      "title": "CRM Automation Services for Sales Teams | VELAUR LABS",
+      "description": "Connect lead capture, pipeline stages, follow-ups and sales handoffs. VELAUR LABS scopes CRM setup, workflow automation and reporting for remote teams.",
+      "canonical": "https://velaurlabs.com/services/crm-sales-automation",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/meta-ads-management",
+      "status": 200,
+      "title": "Meta Ads Management Services for Businesses | VELAUR LABS",
+      "description": "Plan and manage Facebook and Instagram advertising with VELAUR LABS. Audience strategy, creative testing, landing-page alignment and reporting.",
+      "canonical": "https://velaurlabs.com/services/meta-ads-management",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/google-ads-management",
+      "status": 200,
+      "title": "Google Ads Management Services for Brands | VELAUR LABS",
+      "description": "Google Ads campaign planning, search intent mapping, landing-page alignment and conversion measurement support for businesses working with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/google-ads-management",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/email-marketing-automation",
+      "status": 200,
+      "title": "Email Marketing Services & Automation | VELAUR LABS",
+      "description": "Plan lifecycle emails, newsletters and automated customer journeys with VELAUR LABS. Segmentation, message design, workflow setup and reporting.",
+      "canonical": "https://velaurlabs.com/services/email-marketing-automation",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/social-media-management",
+      "status": 200,
+      "title": "Social Media Management Services for Brands | VELAUR LABS",
+      "description": "Organize social content, brand messaging and publishing workflows with VELAUR LABS. Practical social media management for remote businesses and teams.",
+      "canonical": "https://velaurlabs.com/services/social-media-management",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/seo-content-marketing",
+      "status": 200,
+      "title": "SEO Services & Content Marketing Strategy | VELAUR LABS",
+      "description": "Technical SEO, search intent planning and useful website content for businesses, agencies and startups. Build a focused organic discovery plan with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/seo-content-marketing",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/landing-pages-conversion-rate-optimization",
+      "status": 200,
+      "title": "Landing Page Design Services & CRO Support | VELAUR LABS",
+      "description": "Improve the path from campaign click to qualified inquiry with VELAUR LABS landing-page design, form UX and conversion rate optimization support.",
+      "canonical": "https://velaurlabs.com/services/landing-pages-conversion-rate-optimization",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/branding-creative-strategy",
+      "status": 200,
+      "title": "Branding Services & Digital Creative Strategy | VELAUR LABS",
+      "description": "Clarify positioning, messaging and visual direction with VELAUR LABS. Branding and creative strategy for startups, agencies, brands and product launches.",
+      "canonical": "https://velaurlabs.com/services/branding-creative-strategy",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/growth-solutions/b2b-client-acquisition-system",
+      "status": 200,
+      "title": "B2B Client Acquisition Systems for Agencies | VELAUR LABS",
+      "description": "Connect B2B lead research, outreach, appointment setting and CRM workflows with VELAUR LABS. Plan a scoped remote client acquisition engagement for your team.",
+      "canonical": "https://velaurlabs.com/growth-solutions/b2b-client-acquisition-system",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/growth-solutions/e-commerce-growth-system",
+      "status": 200,
+      "title": "Ecommerce Growth Services for Online Stores | VELAUR LABS",
+      "description": "Connect e-commerce landing pages, paid campaigns, lifecycle emails and measurement in a scoped growth engagement for online brands with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/e-commerce-growth-system",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/growth-solutions/startup-launch-system",
+      "status": 200,
+      "title": "Startup Launch Services for Digital Products | VELAUR LABS",
+      "description": "Plan a startup launch with connected product development, branding, landing pages and go-to-market support. Scope the next phase remotely with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/startup-launch-system",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/growth-solutions/ai-powered-business-automation",
+      "status": 200,
+      "title": "AI-Powered Business Automation Services | VELAUR LABS",
+      "description": "Plan AI-assisted business automation across CRM, applications and operational workflows. Work with VELAUR LABS on scoped pilots and human review.",
+      "canonical": "https://velaurlabs.com/growth-solutions/ai-powered-business-automation",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/growth-solutions/agency-freelancer-growth-system",
+      "status": 200,
+      "title": "Agency Growth Services & Freelancer Support | VELAUR LABS",
+      "description": "Connect positioning, portfolio presentation, Upwork support, B2B outreach and CRM workflows for agencies and freelancers working with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/agency-freelancer-growth-system",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/ai-software-development",
+      "status": 200,
+      "title": "AI & Software Development Services Worldwide | VELAUR LABS",
+      "description": "Explore AI and software development with VELAUR LABS: websites, mobile apps, automation, integrations, UI/UX, testing and maintenance for remote teams.",
+      "canonical": "https://velaurlabs.com/services/ai-software-development",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/business-development",
+      "status": 200,
+      "title": "Business Development Services for B2B Teams | VELAUR LABS",
+      "description": "Explore business development services from VELAUR LABS: B2B lead generation, outreach, appointment setting, Upwork handling and CRM support for remote teams.",
+      "canonical": "https://velaurlabs.com/services/business-development",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/services/digital-marketing-growth",
+      "status": 200,
+      "title": "Digital Marketing Services for Remote Brands | VELAUR LABS",
+      "description": "Explore digital marketing from VELAUR LABS: paid ads, email, social media, SEO, landing pages and branding. Plan a scoped remote engagement for your business.",
+      "canonical": "https://velaurlabs.com/services/digital-marketing-growth",
+      "contentBlocks": 2
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Remote Software & Digital Growth Agency | VELAUR LABS",
+      "description": "VELAUR LABS connects AI and software development, B2B business development and digital marketing for international startups, agencies and brands.",
+      "canonical": "https://velaurlabs.com/",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "title": "Software, Business & Digital Growth Services | VELAUR LABS",
+      "description": "Explore 21 services across AI and software, B2B business development and digital marketing, plus connected Growth Solutions for remote teams.",
+      "canonical": "https://velaurlabs.com/services",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/growth-solutions",
+      "status": 200,
+      "title": "Business Growth Solutions for Remote Teams | VELAUR LABS",
+      "description": "Explore five VELAUR LABS growth solutions for B2B acquisition, e-commerce, startup launch, AI automation and agency growth. Plan a scoped remote engagement.",
+      "canonical": "https://velaurlabs.com/growth-solutions",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "title": "About Our Remote Software & Growth Agency | VELAUR LABS",
+      "description": "Meet VELAUR LABS and our approach to software development, business development and digital growth for agencies, brands and startups worldwide.",
+      "canonical": "https://velaurlabs.com/about",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "title": "Website, Web App & Mobile Project Portfolio | VELAUR LABS",
+      "description": "Explore VELAUR LABS website, web application and mobile app projects. Review available screenshots, live references and service context for your next project.",
+      "canonical": "https://velaurlabs.com/work",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "title": "Software & Digital Business Growth Insights | VELAUR LABS",
+      "description": "Read practical VELAUR LABS insights on AI, software development, B2B client acquisition and digital marketing for product and business teams.",
+      "canonical": "https://velaurlabs.com/blog",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "title": "Contact Our Remote Software & Growth Team | VELAUR LABS",
+      "description": "Contact VELAUR LABS about development, Upwork support, B2B outreach, automation or digital marketing. Start a remote discovery conversation.",
+      "canonical": "https://velaurlabs.com/contact",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/websites",
+      "status": 200,
+      "title": "Business Website Design & Project Portfolio | VELAUR LABS",
+      "description": "Review VELAUR LABS website projects, including business websites and brand experiences. Explore screenshots, project context and available live reference links.",
+      "canonical": "https://velaurlabs.com/work/websites",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/web-applications",
+      "status": 200,
+      "title": "Web Application, CRM & LMS Project Portfolio | VELAUR LABS",
+      "description": "Explore VELAUR LABS web application projects across CRM, LMS, POS and dashboards. Review available screenshots, project context and approved reference links.",
+      "canonical": "https://velaurlabs.com/work/web-applications",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/mobile-apps",
+      "status": 200,
+      "title": "Mobile App Design & Development Portfolio | VELAUR LABS",
+      "description": "Browse VELAUR LABS mobile application projects and approved app-store links across available iOS and Android products Discuss the scope with our remote team.",
+      "canonical": "https://velaurlabs.com/work/mobile-apps",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/privacy-policy",
+      "status": 200,
+      "title": "Privacy Policy & Business Contact Details | VELAUR LABS",
+      "description": "Review the published VELAUR LABS privacy information and contact details for questions about data practices Discuss the scope with our remote team.",
+      "canonical": "https://velaurlabs.com/privacy-policy",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/terms-of-service",
+      "status": 200,
+      "title": "Terms of Service & Project Enquiry Information | VELAUR LABS",
+      "description": "Review the published VELAUR LABS service terms and contact information before discussing a project engagement Discuss the scope with our remote team.",
+      "canonical": "https://velaurlabs.com/terms-of-service",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/cakes-and-bakes-website",
+      "status": 200,
+      "title": "Cakes and Bakes Website Design & Development | VELAUR LABS",
+      "description": "Review the Cakes and Bakes website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/cakes-and-bakes-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/kips-publications-website",
+      "status": 200,
+      "title": "KIPS Publications Website Design & Development | VELAUR LABS",
+      "description": "Review the KIPS Publications website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/kips-publications-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/bodytalk-system-website",
+      "status": 200,
+      "title": "BodyTalk System Website Design & Development | VELAUR LABS",
+      "description": "Review the BodyTalk System website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/bodytalk-system-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/booksy-website",
+      "status": 200,
+      "title": "Booksy Website Development Portfolio | VELAUR LABS",
+      "description": "Review the Booksy website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/booksy-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/salesfox-website",
+      "status": 200,
+      "title": "SalesFox Website Design & Development | VELAUR LABS",
+      "description": "Review the SalesFox website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/salesfox-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/cadence-website",
+      "status": 200,
+      "title": "Cadence Website Design & Development | VELAUR LABS",
+      "description": "Review the Cadence website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/cadence-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/velaur-website",
+      "status": 200,
+      "title": "VELAUR Website Development Portfolio | VELAUR LABS",
+      "description": "Review the VELAUR website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/velaur-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/myyogi-website",
+      "status": 200,
+      "title": "MyYogi Website Development Portfolio | VELAUR LABS",
+      "description": "Review the MyYogi website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/myyogi-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/actimus-website",
+      "status": 200,
+      "title": "Actimus Rehabilitation Website Portfolio | VELAUR LABS",
+      "description": "Explore Actimus Rehabilitation: a website project in the VELAUR LABS portfolio. Review screenshots, the published project overview and available external links.",
+      "canonical": "https://velaurlabs.com/work/projects/actimus-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/her-golf-website",
+      "status": 200,
+      "title": "Her Golf Website Design & Development | VELAUR LABS",
+      "description": "Review the Her Golf website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/her-golf-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/tj-s-pizza-website",
+      "status": 200,
+      "title": "TJ's Pizza Website Design & Development | VELAUR LABS",
+      "description": "Review the TJ's Pizza website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/tj-s-pizza-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/rootpointers-website",
+      "status": 200,
+      "title": "RootPointers Team Website Project Portfolio | VELAUR LABS",
+      "description": "Review the RootPointers team website project in the VELAUR LABS portfolio. Explore its published overview, available screenshots and approved reference link.",
+      "canonical": "https://velaurlabs.com/work/projects/rootpointers-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/the-ufaq-website",
+      "status": 200,
+      "title": "The Ufaq Website Design & Development | VELAUR LABS",
+      "description": "Review the The Ufaq website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/the-ufaq-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/top-music-website",
+      "status": 200,
+      "title": "Top Music Website Design & Development | VELAUR LABS",
+      "description": "Review the Top Music website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/top-music-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/evolve-training-website",
+      "status": 200,
+      "title": "Evolve Training App Website Portfolio Project | VELAUR LABS",
+      "description": "Review the Evolve Training App website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/evolve-training-website",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/stellar-driveway-web-app",
+      "status": 200,
+      "title": "Stellar Driveway Web App Design & Development | VELAUR LABS",
+      "description": "Review the Stellar Driveway web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/stellar-driveway-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/trader-metrix-web-app",
+      "status": 200,
+      "title": "Trader Metrix Web App Design & Development | VELAUR LABS",
+      "description": "Review the Trader Metrix web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/trader-metrix-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/nextbanka-web-app",
+      "status": 200,
+      "title": "NextBanka Web App Design & Development | VELAUR LABS",
+      "description": "Review the NextBanka web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/nextbanka-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/iba-lms-web-app",
+      "status": 200,
+      "title": "IBA LMS Web App Design & Development | VELAUR LABS",
+      "description": "Review the IBA LMS web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/iba-lms-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/iba-lms-admin-web-app",
+      "status": 200,
+      "title": "IBA LMS Admin Web App Design & Development | VELAUR LABS",
+      "description": "Review the IBA LMS Admin web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/iba-lms-admin-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/lec-crm-web-app",
+      "status": 200,
+      "title": "LEC CRM Web App Design & Development | VELAUR LABS",
+      "description": "Review the LEC CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/lec-crm-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/kit-shoes-pos-web-app",
+      "status": 200,
+      "title": "Kit Shoes POS Web App Design & Development | VELAUR LABS",
+      "description": "Review the Kit Shoes POS web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/kit-shoes-pos-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/animation-project-web-app",
+      "status": 200,
+      "title": "Animation Project Web App Design & Development | VELAUR LABS",
+      "description": "Review the Animation Project web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/animation-project-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/my-lummo-shop-web-app",
+      "status": 200,
+      "title": "My LumMo Shop Web App Design & Development | VELAUR LABS",
+      "description": "Review the My LumMo Shop web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/my-lummo-shop-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/embold-web-app",
+      "status": 200,
+      "title": "Embold Web App Development Portfolio | VELAUR LABS",
+      "description": "Review the Embold web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/embold-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/sudduth-realty-crm-web-app",
+      "status": 200,
+      "title": "Sudduth Realty CRM Web App Portfolio Project | VELAUR LABS",
+      "description": "Review the Sudduth Realty CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/sudduth-realty-crm-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/wevoz-crm-web-app",
+      "status": 200,
+      "title": "Wevoz CRM Web App Design & Development | VELAUR LABS",
+      "description": "Review the Wevoz CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/wevoz-crm-web-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/topmusic-mobile-app",
+      "status": 200,
+      "title": "TopMusic Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the TopMusic mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/topmusic-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/evolve-training-mobile-app",
+      "status": 200,
+      "title": "Evolve Training Mobile App Project Portfolio | VELAUR LABS",
+      "description": "Explore Evolve Training App: a mobile app project in the VELAUR LABS portfolio. Review screenshots, the published project overview and available external links.",
+      "canonical": "https://velaurlabs.com/work/projects/evolve-training-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/oparko-mobile-app",
+      "status": 200,
+      "title": "OPARKO Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the OPARKO mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/oparko-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/hellobible-mobile-app",
+      "status": 200,
+      "title": "HelloBible Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the HelloBible mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/hellobible-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/f-r-y-mobile-app",
+      "status": 200,
+      "title": "F.R.Y. Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the F.R.Y. mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/f-r-y-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/the-octagon-mobile-app",
+      "status": 200,
+      "title": "The Octagon by Champs MMA App Portfolio | VELAUR LABS",
+      "description": "Review The Octagon by Champs MMA mobile app in the VELAUR LABS portfolio, including the published project overview, screenshots and approved app-store links.",
+      "canonical": "https://velaurlabs.com/work/projects/the-octagon-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/rootscare-mobile-app",
+      "status": 200,
+      "title": "RootsCare Patient App Development Portfolio | VELAUR LABS",
+      "description": "Explore the RootsCare Patient App in the VELAUR LABS mobile portfolio. Review its published project overview, available screenshots and approved store links.",
+      "canonical": "https://velaurlabs.com/work/projects/rootscare-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/myyogi-mobile-app",
+      "status": 200,
+      "title": "MyYogi App Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the MyYogi App mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/myyogi-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/serveu-mobile-app",
+      "status": 200,
+      "title": "ServeU Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the ServeU mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/serveu-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/actimus-mobile-app",
+      "status": 200,
+      "title": "Actimus App Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the Actimus App mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/actimus-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/work/projects/salesfox-mobile-app",
+      "status": 200,
+      "title": "SalesFox Mobile App Design & Development | VELAUR LABS",
+      "description": "Review the SalesFox mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+      "canonical": "https://velaurlabs.com/work/projects/salesfox-mobile-app",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "status": 200,
+      "title": "AI Automation for Business: A Practical Guide | VELAUR LABS",
+      "description": "Plan a practical AI automation project with VELAUR LABS. Learn how to choose workflows, define human review, check reliability and evaluate a scoped pilot.",
+      "canonical": "https://velaurlabs.com/blog/how-ai-automation-is-transforming-modern-businesses",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/blog/website-vs-web-application-what-does-your-business-need",
+      "status": 200,
+      "title": "Website vs Web Application: A Business Guide | VELAUR LABS",
+      "description": "Compare a website and web application by user needs, account access, workflows and maintenance. Use this practical VELAUR LABS guide to scope your project.",
+      "canonical": "https://velaurlabs.com/blog/website-vs-web-application-what-does-your-business-need",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "status": 200,
+      "title": "Mobile App Development: From Idea to Launch | VELAUR LABS",
+      "description": "Plan mobile app development from user research to release. Review product scope, prototypes, accessibility, testing and ownership with this VELAUR LABS guide.",
+      "canonical": "https://velaurlabs.com/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "contentBlocks": 0
+    },
+    {
+      "path": "/blog/ai-agents-vs-traditional-chatbots",
+      "status": 200,
+      "title": "AI Agents vs Chatbots: A Practical Comparison | VELAUR LABS",
+      "description": "Compare AI agents and chatbots by workflow, tool access and review needs. Learn how to scope a useful business application with this VELAUR LABS guide.",
+      "canonical": "https://velaurlabs.com/blog/ai-agents-vs-traditional-chatbots",
+      "contentBlocks": 0
+    }
+  ],
+  "limits": "Rendered local production HTML and HTTP checks. Search volume, ranking, Google recrawling and external account configuration were not tested."
+}

@@ -1,0 +1,32 @@
+{
+  "completedAt": "2026-10-15T10:28:44.918Z",
+  "localFixture": true,
+  "processDraftAndPublish": true,
+  "contextualIconPublish": true,
+  "homepageDescriptionPublish": true,
+  "approvedValuesRestored": true,
+  "adminPhoneGeometry": [
+    {
+      "fields": 0,
+      "scrollWidth": 375,
+      "theme": null,
+      "width": 375
+    },
+    {
+      "fields": 0,
+      "scrollWidth": 375,
+      "width": 375
+    }
+  ],
+  "adminLightAndDarkChecked": true,
+  "desktopEditingChecked": true,
+  "processPlaybackObserved": "Deployment & Support",
+  "keyboardEndObserved": "Deployment & Support",
+  "finalLabelFix": {
+    "label": "rgb(23, 34, 56)",
+    "mode": "light",
+    "scroll": 375,
+    "width": 375
+  },
+  "finalLabelFixPassed": true
+}

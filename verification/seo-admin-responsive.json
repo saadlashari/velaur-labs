@@ -1,0 +1,66 @@
+[
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "light",
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "dark",
+    "width": 320
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "h1": 1,
+    "logoBackground": "rgba(0, 0, 0, 0)",
+    "logoFilter": "none",
+    "overflow": false,
+    "theme": "dark",
+    "width": 1440
+  }
+]

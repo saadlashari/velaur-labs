@@ -1,0 +1,32 @@
+{
+  "completedAt": "2026-10-16T11:09:02.733Z",
+  "passed": true,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "canonical": "https://velaurlabs.com/",
+      "passed": true
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "canonical": "https://velaurlabs.com/work",
+      "passed": true
+    },
+    {
+      "path": "/services/web-development",
+      "status": 200,
+      "canonical": "https://velaurlabs.com/services/web-development",
+      "passed": true
+    },
+    {
+      "path": "/favicon-512.png",
+      "status": 200,
+      "width": 512,
+      "height": 512,
+      "passed": true
+    }
+  ],
+  "adminProfilePropagation": true
+}

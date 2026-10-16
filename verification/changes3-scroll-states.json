@@ -1,0 +1,182 @@
+[
+  {
+    "width": 1440,
+    "theme": "light",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "light",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "light",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "light",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "light",
+    "phase": 4,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "phase": 4,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "light",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "light",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "light",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "light",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "light",
+    "phase": 4,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "phase": 4,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "dark",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "dark",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "dark",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "dark",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 820,
+    "theme": "dark",
+    "phase": 4,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "phase": 0,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "phase": 1,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "phase": 2,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "phase": 3,
+    "active": true
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "phase": 4,
+    "active": true
+  }
+]

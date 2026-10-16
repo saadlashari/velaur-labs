@@ -1,0 +1,325 @@
+[
+  {
+    "slug": "b2b-client-acquisition-system",
+    "title": "B2B Client Acquisition System",
+    "headline": "Connect your offer, outreach and sales handoff.",
+    "description": "A coordinated acquisition workflow for software houses and B2B agencies, from account research to prepared discovery conversations.",
+    "detail": "A coordinated acquisition workflow for software houses and B2B agencies, from account research to prepared discovery conversations.",
+    "services": [
+      "b2b-lead-generation",
+      "linkedin-outreach",
+      "cold-email-outreach",
+      "appointment-setting",
+      "crm-sales-automation"
+    ],
+    "related": [
+      "b2b-lead-generation",
+      "linkedin-outreach",
+      "cold-email-outreach",
+      "appointment-setting",
+      "crm-sales-automation"
+    ],
+    "problems": [
+      "A clear offer is not reaching suitable businesses",
+      "Outreach and sales use disconnected information",
+      "Interested replies lose momentum before a call"
+    ],
+    "audience": [
+      "Software houses",
+      "B2B agencies",
+      "Specialist service businesses"
+    ],
+    "deliverables": [
+      "Audience and offer definition",
+      "Prospect research and outreach playbooks",
+      "Qualification and scheduling workflow",
+      "CRM pipeline and ownership documentation"
+    ],
+    "process": [
+      {
+        "title": "Phase 1",
+        "description": "Define the ideal customer and offer"
+      },
+      {
+        "title": "Phase 2",
+        "description": "Prepare research and outreach workflows"
+      },
+      {
+        "title": "Phase 3",
+        "description": "Connect qualification, calendar and CRM"
+      },
+      {
+        "title": "Phase 4",
+        "description": "Review conversation quality and handoff gaps"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is every listed service required?",
+        "answer": "No. Discovery establishes priorities, access and budget. We agree the components and sequence appropriate to your situation rather than assuming every channel is suitable."
+      },
+      {
+        "question": "Are growth or revenue outcomes guaranteed?",
+        "answer": "No. Results depend on the offer, audience, market and execution. We agree scope and reporting without promising client numbers, rankings or financial returns."
+      }
+    ]
+  },
+  {
+    "slug": "e-commerce-growth-system",
+    "title": "E-commerce Growth System",
+    "headline": "Connect acquisition with the shopping experience.",
+    "description": "Bring paid acquisition, landing journeys, brand creative and customer email flows into one considered plan for an e-commerce brand.",
+    "detail": "Bring paid acquisition, landing journeys, brand creative and customer email flows into one considered plan for an e-commerce brand.",
+    "services": [
+      "meta-ads-management",
+      "google-ads-management",
+      "email-marketing-automation",
+      "landing-pages-conversion-rate-optimization",
+      "branding-creative-strategy"
+    ],
+    "related": [
+      "meta-ads-management",
+      "google-ads-management",
+      "email-marketing-automation",
+      "landing-pages-conversion-rate-optimization",
+      "branding-creative-strategy"
+    ],
+    "problems": [
+      "Ads do not match the product-page message",
+      "Customer email journeys are disconnected",
+      "Teams cannot separate creative and funnel problems"
+    ],
+    "audience": [
+      "E-commerce brands",
+      "Retail startups",
+      "Agencies supporting online stores"
+    ],
+    "deliverables": [
+      "Store and customer-journey review",
+      "Channel and creative test plan",
+      "Landing and lifecycle improvements",
+      "Measurement and reporting framework"
+    ],
+    "process": [
+      {
+        "title": "Phase 1",
+        "description": "Review the offer and shopping journey"
+      },
+      {
+        "title": "Phase 2",
+        "description": "Plan channel and creative priorities"
+      },
+      {
+        "title": "Phase 3",
+        "description": "Implement agreed campaigns and lifecycle flows"
+      },
+      {
+        "title": "Phase 4",
+        "description": "Review behavior and prioritize experiments"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is every listed service required?",
+        "answer": "No. Discovery establishes priorities, access and budget. We agree the components and sequence appropriate to your situation rather than assuming every channel is suitable."
+      },
+      {
+        "question": "Are growth or revenue outcomes guaranteed?",
+        "answer": "No. Results depend on the offer, audience, market and execution. We agree scope and reporting without promising client numbers, rankings or financial returns."
+      }
+    ]
+  },
+  {
+    "slug": "startup-launch-system",
+    "title": "Startup Launch System",
+    "headline": "Take a clear first product to market.",
+    "description": "Combine product discovery, identity, a working digital experience and focused launch activity without trying to build every idea at once.",
+    "detail": "Combine product discovery, identity, a working digital experience and focused launch activity without trying to build every idea at once.",
+    "services": [
+      "ui-ux-design",
+      "web-development",
+      "mobile-app-development",
+      "branding-creative-strategy",
+      "seo-content-marketing"
+    ],
+    "related": [
+      "ui-ux-design",
+      "web-development",
+      "mobile-app-development",
+      "branding-creative-strategy",
+      "seo-content-marketing"
+    ],
+    "problems": [
+      "The first release has no focused audience",
+      "Product and launch messaging are being planned separately",
+      "A long feature list obscures what to validate"
+    ],
+    "audience": [
+      "Early-stage founders",
+      "Startup product teams",
+      "Businesses validating a new offering"
+    ],
+    "deliverables": [
+      "Audience and launch-scope workshop",
+      "Product and brand direction",
+      "Agreed website or application release",
+      "Launch-content and measurement plan"
+    ],
+    "process": [
+      {
+        "title": "Phase 1",
+        "description": "Choose the audience and first useful outcome"
+      },
+      {
+        "title": "Phase 2",
+        "description": "Design the core product and launch message"
+      },
+      {
+        "title": "Phase 3",
+        "description": "Build and verify the agreed first release"
+      },
+      {
+        "title": "Phase 4",
+        "description": "Launch and review the next priorities"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is every listed service required?",
+        "answer": "No. Discovery establishes priorities, access and budget. We agree the components and sequence appropriate to your situation rather than assuming every channel is suitable."
+      },
+      {
+        "question": "Are growth or revenue outcomes guaranteed?",
+        "answer": "No. Results depend on the offer, audience, market and execution. We agree scope and reporting without promising client numbers, rankings or financial returns."
+      }
+    ]
+  },
+  {
+    "slug": "ai-powered-business-automation",
+    "title": "AI-Powered Business Automation",
+    "headline": "Connect people, systems and intelligent workflows.",
+    "description": "Map repetitive work, introduce appropriate automation and keep human oversight visible across the business process.",
+    "detail": "Map repetitive work, introduce appropriate automation and keep human oversight visible across the business process.",
+    "services": [
+      "ai-automation",
+      "ai-integration",
+      "ai-development",
+      "crm-sales-automation"
+    ],
+    "related": [
+      "ai-automation",
+      "ai-integration",
+      "ai-development",
+      "crm-sales-automation"
+    ],
+    "problems": [
+      "Manual work moves between disconnected tools",
+      "AI experiments lack a controlled operational workflow",
+      "Exception handling depends on individual memory"
+    ],
+    "audience": [
+      "Operations teams",
+      "Software houses",
+      "Agencies and local businesses"
+    ],
+    "deliverables": [
+      "Workflow and system-access map",
+      "Automation and AI integration plan",
+      "Human review and exception controls",
+      "Monitoring and operating documentation"
+    ],
+    "process": [
+      {
+        "title": "Phase 1",
+        "description": "Map tasks, permissions and exception risks"
+      },
+      {
+        "title": "Phase 2",
+        "description": "Choose a bounded workflow to improve"
+      },
+      {
+        "title": "Phase 3",
+        "description": "Integrate and test with human review points"
+      },
+      {
+        "title": "Phase 4",
+        "description": "Hand over monitoring and recovery procedures"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is every listed service required?",
+        "answer": "No. Discovery establishes priorities, access and budget. We agree the components and sequence appropriate to your situation rather than assuming every channel is suitable."
+      },
+      {
+        "question": "Are growth or revenue outcomes guaranteed?",
+        "answer": "No. Results depend on the offer, audience, market and execution. We agree scope and reporting without promising client numbers, rankings or financial returns."
+      }
+    ]
+  },
+  {
+    "slug": "agency-freelancer-growth-system",
+    "title": "Agency & Freelancer Growth System",
+    "headline": "Turn your expertise into a focused growth workflow.",
+    "description": "Align positioning, portfolio presentation, marketplace proposals and direct business development around the work you can credibly deliver.",
+    "detail": "Align positioning, portfolio presentation, marketplace proposals and direct business development around the work you can credibly deliver.",
+    "services": [
+      "branding-creative-strategy",
+      "upwork-profile-bidding-management",
+      "linkedin-outreach",
+      "b2b-lead-generation",
+      "crm-sales-automation"
+    ],
+    "related": [
+      "branding-creative-strategy",
+      "upwork-profile-bidding-management",
+      "linkedin-outreach",
+      "b2b-lead-generation",
+      "crm-sales-automation"
+    ],
+    "problems": [
+      "A broad service list makes the offer hard to understand",
+      "Proposal effort is spent on poor-fit opportunities",
+      "Sales follow-up lacks a shared process"
+    ],
+    "audience": [
+      "Independent specialists",
+      "Small digital agencies",
+      "Software-house founders"
+    ],
+    "deliverables": [
+      "Positioning and offer framework",
+      "Truthful portfolio presentation guidance",
+      "Proposal and outreach workflow",
+      "Opportunity tracking and review cadence"
+    ],
+    "process": [
+      {
+        "title": "Phase 1",
+        "description": "Clarify expertise and target engagements"
+      },
+      {
+        "title": "Phase 2",
+        "description": "Improve profiles and proposal relevance"
+      },
+      {
+        "title": "Phase 3",
+        "description": "Organize direct outreach and opportunity tracking"
+      },
+      {
+        "title": "Phase 4",
+        "description": "Review fit and refine the service offer"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is every listed service required?",
+        "answer": "No. Discovery establishes priorities, access and budget. We agree the components and sequence appropriate to your situation rather than assuming every channel is suitable."
+      },
+      {
+        "question": "Are growth or revenue outcomes guaranteed?",
+        "answer": "No. Results depend on the offer, audience, market and execution. We agree scope and reporting without promising client numbers, rankings or financial returns."
+      }
+    ]
+  }
+]

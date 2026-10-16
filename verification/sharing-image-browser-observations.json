@@ -1,0 +1,92 @@
+{
+  "provenance": "Transcribed from successful CUA tool results before the app/browser reset. The temporary raw matrix and screenshot became unavailable. Final browser retest was blocked by the browser URL policy; it was not bypassed.",
+  "responsiveCases": [
+    {
+      "width": 320,
+      "theme": "dark",
+      "columns": "223.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "columns": "223.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "columns": "293.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "columns": "293.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 820,
+      "theme": "dark",
+      "columns": "723.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 820,
+      "theme": "light",
+      "columns": "723.333px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "columns": "544.406px 494.927px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "columns": "544.406px 494.927px",
+      "imageFits": true,
+      "imageLoaded": true,
+      "overflow": false,
+      "panelOverflow": false
+    }
+  ],
+  "observedInteractions": {
+    "mediaPickerOpened": true,
+    "mediaPickerClosed": true,
+    "httpsImageUrlChangedPreview": true,
+    "customDemoImageLoaded": {
+      "width": 864,
+      "height": 576
+    },
+    "saveDraftSuccessMessage": true
+  },
+  "notCompleted": [
+    "Final browser public-image publication/restoration check after the reset",
+    "Hosted media upload with real provider credentials",
+    "Actual WhatsApp or LinkedIn message preview"
+  ]
+}

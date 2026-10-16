@@ -1,0 +1,63 @@
+{
+  "completedAt": "2026-10-16T18:14:10.932Z",
+  "suites": 14,
+  "passedSuites": 14,
+  "results": [
+    {
+      "script": "verify-source.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-reference-redesign.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-refinement-ui.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-bespoke-page-preservation.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-bespoke-settings.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-blog-content.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-home-section-style-wiring.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-section-content-validation.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-export-integrity.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-restore-content.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-portfolio-browser.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-integration.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-builder-ui.mjs",
+      "exitCode": 0
+    },
+    {
+      "script": "test-public-rendering.mjs",
+      "exitCode": 0
+    }
+  ]
+}

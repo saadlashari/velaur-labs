@@ -1,0 +1,46 @@
+[
+  {
+    "file": "changes5-proof-social-normal-light.png",
+    "theme": "light",
+    "state": "Normal",
+    "rect": {
+      "height": 210.1041717529297,
+      "width": 688.3333740234375,
+      "x": 102.33333587646484,
+      "y": 359.66668701171875
+    }
+  },
+  {
+    "file": "changes5-proof-social-original-light.png",
+    "theme": "light",
+    "state": "Original color on hover / focus",
+    "rect": {
+      "height": 210.1041717529297,
+      "width": 688.3333740234375,
+      "x": 102.33333587646484,
+      "y": 357
+    }
+  },
+  {
+    "file": "changes5-proof-social-normal-dark.png",
+    "theme": "dark",
+    "state": "Normal",
+    "rect": {
+      "height": 210.1041717529297,
+      "width": 688.3333740234375,
+      "x": 102.33333587646484,
+      "y": 359.66668701171875
+    }
+  },
+  {
+    "file": "changes5-proof-social-original-dark.png",
+    "theme": "dark",
+    "state": "Original color on hover / focus",
+    "rect": {
+      "height": 210.1041717529297,
+      "width": 688.3333740234375,
+      "x": 102.33333587646484,
+      "y": 357
+    }
+  }
+]

@@ -1,0 +1,2001 @@
+[
+  {
+    "path": "/services/ai-development",
+    "label": "AI Development",
+    "group": "AI & Software Development",
+    "title": "AI Development Services for Remote Teams",
+    "description": "Build practical AI products with VELAUR LABS: AI application development, LLM workflows, intelligent assistants and evaluation for remote teams.",
+    "keywords": [
+      "AI development services",
+      "AI development company",
+      "custom AI software development",
+      "LLM application development",
+      "AI chatbot development",
+      "generative AI solutions",
+      "remote AI development team"
+    ],
+    "sections": [
+      {
+        "heading": "What do ai development services include?",
+        "body": "An AI development engagement starts with the decision or workflow your product needs to support. We review the available data, user journeys, model constraints and integration points before choosing an implementation. Scope may include an AI assistant, document search or an intelligent feature inside an existing application. Evaluation criteria, human review and operating costs are discussed before release."
+      },
+      {
+        "heading": "Working with an external AI development team",
+        "body": "For international product teams, clear access boundaries and shared acceptance criteria matter as much as a model demo. We agree how requirements, example inputs, evaluation feedback and release decisions will be exchanged remotely. Where the application depends on sensitive information, we discuss data handling and provider choices before connecting production systems. Capabilities and limitations are documented for the team taking ownership."
+      }
+    ],
+    "noIndex": false,
+    "headline": "AI development services",
+    "definition": "An AI development engagement starts with the decision or workflow your product needs to support.",
+    "answer": "An AI development engagement starts with the decision or workflow your product needs to support. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "AI application development around a real task",
+      "Working with an external AI development team",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/web-development",
+    "label": "Web Development",
+    "group": "AI & Software Development",
+    "title": "Web Development Services for Your Business",
+    "description": "Custom website and web application development for startups, agencies and businesses. Work remotely with VELAUR LABS from planning through launch.",
+    "keywords": [
+      "web development services",
+      "custom website development",
+      "web application development company",
+      "remote web development team",
+      "agency web development partner",
+      "business website development",
+      "website redesign services"
+    ],
+    "sections": [
+      {
+        "heading": "What do web development services include?",
+        "body": "A marketing website and an operational web application solve different problems. We define the audience, content model, user permissions and important journeys before choosing the build approach. Work can include a responsive business website, a CMS-backed experience or a custom application with connected workflows. Existing pages, search URLs and integrations are reviewed when the engagement involves a redesign or migration."
+      },
+      {
+        "heading": "A remote development partner for agencies and product teams",
+        "body": "Work with us on an agreed project scope or a defined part of your existing delivery pipeline. We discuss ownership of source code, environments, content and approvals at the start. Design feedback, implementation reviews and launch preparation happen through shared milestones. Relevant website projects are linked on this page so you can review actual interfaces alongside the proposed service scope."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Web development services",
+    "definition": "A marketing website and an operational web application solve different problems.",
+    "answer": "A marketing website and an operational web application solve different problems. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Website development and application engineering",
+      "A remote development partner for agencies and product teams",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/mobile-app-development",
+    "label": "Mobile App Development",
+    "group": "AI & Software Development",
+    "title": "Mobile App Development Services Worldwide",
+    "description": "Plan, design and develop mobile apps for iOS and Android with VELAUR LABS. Remote collaboration, connected backends, testing and release support.",
+    "keywords": [
+      "mobile app development services",
+      "iOS app development",
+      "Android app development",
+      "cross platform app development",
+      "custom mobile application",
+      "remote app development team",
+      "mobile app UI design"
+    ],
+    "sections": [
+      {
+        "heading": "What do mobile app development services include?",
+        "body": "Mobile app development involves more than translating a website into small screens. We review navigation, device capabilities, account access, API connections and the actions users need to complete on the move. The platform approach depends on requirements, existing systems and maintenance plans. App store preparation and supported device testing are scoped with the product features rather than assumed to be automatic."
+      },
+      {
+        "heading": "Coordinate product, backend and mobile delivery remotely",
+        "body": "Distributed teams need a shared picture of API readiness, designs, test builds and release responsibilities. We agree review checkpoints and a practical feedback channel for your team. Existing backend dependencies and store-account ownership are discussed before development starts. Public mobile portfolio links provide examples of available work; app-specific outcomes and commercial results are only included when there is approved evidence."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Mobile app development services",
+    "definition": "Mobile app development involves more than translating a website into small screens.",
+    "answer": "Mobile app development involves more than translating a website into small screens. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Mobile applications from user journey to release",
+      "Coordinate product, backend and mobile delivery remotely",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/ai-automation",
+    "label": "AI Automation",
+    "group": "AI & Software Development",
+    "title": "AI Automation Services for Business Teams",
+    "description": "Connect repetitive business workflows with practical AI automation. VELAUR LABS helps scope document processing, routing, handoffs and review steps.",
+    "keywords": [
+      "AI automation services",
+      "business process automation",
+      "AI workflow automation",
+      "automate business operations",
+      "intelligent document workflows",
+      "AI automation agency",
+      "remote automation partner"
+    ],
+    "sections": [
+      {
+        "heading": "What do ai automation services include?",
+        "body": "We map how information moves between people and systems before proposing automation. Suitable workflows might involve classifying requests, preparing a draft response, extracting information or routing a task for approval. The scope includes exceptions and human handoffs so the system has a defined response when inputs are incomplete or uncertain. Success criteria relate to the agreed workflow rather than an assumed saving."
+      },
+      {
+        "heading": "Start with a bounded automation pilot",
+        "body": "A remote automation engagement can begin with one repeatable process and an agreed set of example inputs. We review access, existing tools and the people who own each step. After a pilot is evaluated, the team can decide whether to expand, adjust or stop that workflow. Documentation explains operational responsibilities, monitoring and when a person should review a result."
+      }
+    ],
+    "noIndex": false,
+    "headline": "AI automation services",
+    "definition": "We map how information moves between people and systems before proposing automation.",
+    "answer": "We map how information moves between people and systems before proposing automation. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Automate the handoffs that slow your business down",
+      "Start with a bounded automation pilot",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/ai-integration",
+    "label": "AI Integration",
+    "group": "AI & Software Development",
+    "title": "AI Integration Services for Your Software",
+    "description": "Add AI capabilities to your existing website, application or CRM. VELAUR LABS scopes APIs, data access, evaluation and human review with your team.",
+    "keywords": [
+      "AI integration services",
+      "AI API integration",
+      "integrate AI into software",
+      "LLM integration services",
+      "AI CRM integration",
+      "AI features for web applications",
+      "AI systems integration"
+    ],
+    "sections": [
+      {
+        "heading": "What do ai integration services include?",
+        "body": "AI integration starts with the existing application's permissions, data flows and user expectations. We identify where a model or AI API can support an actual task, then define how inputs, outputs and errors will be handled. The work may involve an assistant, search experience or document workflow. Existing business rules remain part of the integration design rather than being delegated to an unrestricted model response."
+      },
+      {
+        "heading": "Plan provider access, testing and operational ownership",
+        "body": "External AI providers introduce service dependencies, usage costs and data-handling decisions. We review those considerations with the system owner before enabling production access. A remote delivery plan covers integration checkpoints, representative test cases and a fallback or human-review path where appropriate. The agreed implementation is documented so your internal team understands what is connected and what needs ongoing review."
+      }
+    ],
+    "noIndex": false,
+    "headline": "AI integration services",
+    "definition": "AI integration starts with the existing application's permissions, data flows and user expectations.",
+    "answer": "AI integration starts with the existing application's permissions, data flows and user expectations. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Connect AI capabilities without losing product context",
+      "Plan provider access, testing and operational ownership",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/ui-ux-design",
+    "label": "UI/UX Design",
+    "group": "AI & Software Development",
+    "title": "UI/UX Design Services for Digital Products",
+    "description": "User experience research, interface design and responsive product flows for websites and applications. Collaborate remotely with VELAUR LABS designers.",
+    "keywords": [
+      "UI UX design services",
+      "website UI design",
+      "mobile app UX design",
+      "product interface design",
+      "UX audit services",
+      "remote product design team",
+      "responsive website design"
+    ],
+    "sections": [
+      {
+        "heading": "What do ui/ux design services include?",
+        "body": "We begin with the people using your product and the tasks they need to complete. Depending on scope, design work can include a UX review, user flows, wireframes, visual interfaces and component guidance. Accessibility, responsive behavior and content hierarchy are considered during design. The result is an agreed interface direction with enough detail for the implementation team to understand important states and interactions."
+      },
+      {
+        "heading": "Design collaboration that supports implementation",
+        "body": "Remote design delivery works best when feedback is tied to clear decisions. We agree reviewers, review rounds and the format of handoff materials at the start. Existing brand assets and product constraints guide the work. Developers can review component behavior, breakpoints and error states before implementation, reducing uncertainty about what a static mockup is intended to do."
+      }
+    ],
+    "noIndex": false,
+    "headline": "UI/UX design services",
+    "definition": "We begin with the people using your product and the tasks they need to complete.",
+    "answer": "We begin with the people using your product and the tasks they need to complete. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "UI and UX design grounded in user tasks",
+      "Design collaboration that supports implementation",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/software-testing",
+    "label": "Software Testing & QA",
+    "group": "AI & Software Development",
+    "title": "Software Testing Services & Quality Assurance",
+    "description": "Practical software testing and quality assurance for web applications, mobile apps and releases. Define coverage, reproduce issues and review fixes remotely.",
+    "keywords": [
+      "software testing services",
+      "QA testing services",
+      "web application testing",
+      "mobile app testing",
+      "software quality assurance",
+      "regression testing services",
+      "remote QA team"
+    ],
+    "sections": [
+      {
+        "heading": "What do software testing services include?",
+        "body": "Software quality assurance starts with the journeys that matter most to users and the business. We review requirements, environments and known risks before agreeing test coverage. A scope may include functional testing, regression checks, responsive checks or targeted accessibility review. Issues are documented with reproducible steps and expected behavior so engineering teams can evaluate and fix the actual problem."
+      },
+      {
+        "heading": "An independent view alongside your development team",
+        "body": "Remote QA can support an existing release process without replacing the product owner's acceptance decisions. We agree access, supported devices, test data and reporting responsibilities. Retesting focuses on identified changes and related risks. Test reports describe what was exercised and what remains unverified; a passed set of checks is not presented as proof that every possible defect has been removed."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Software testing services",
+    "definition": "Software quality assurance starts with the journeys that matter most to users and the business.",
+    "answer": "Software quality assurance starts with the journeys that matter most to users and the business. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "QA coverage based on the risks of your release",
+      "An independent view alongside your development team",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/deployment-maintenance",
+    "label": "Deployment & Maintenance",
+    "group": "AI & Software Development",
+    "title": "Website Maintenance Services & Deployment",
+    "description": "Launch and maintain websites and applications with a clear operational plan. VELAUR LABS scopes deployments, updates, backups and ongoing support.",
+    "keywords": [
+      "website maintenance services",
+      "application maintenance support",
+      "software deployment services",
+      "website support retainer",
+      "deployment and maintenance",
+      "web application support",
+      "backup and restore planning"
+    ],
+    "sections": [
+      {
+        "heading": "What do website maintenance services include?",
+        "body": "Deployment work connects the finished application to the environment where it will operate. We review build requirements, environment configuration, domain setup and the release process with the owner. Backup and rollback arrangements are discussed before a production change. Exact tasks depend on the stack and hosting environment; production access and external provider configuration are agreed rather than assumed."
+      },
+      {
+        "heading": "Maintenance support after the first release",
+        "body": "A maintenance engagement defines which systems are covered, how changes are requested and how issues are prioritized. Scope can include dependency updates, targeted fixes, backup checks or planned improvements. Support hours and response expectations are stated in the agreement. Remote collaboration keeps the owner informed about completed work, outstanding dependencies and any action requiring provider or account access."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Website maintenance services",
+    "definition": "Deployment work connects the finished application to the environment where it will operate.",
+    "answer": "Deployment work connects the finished application to the environment where it will operate. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Prepare a launch with clear responsibilities",
+      "Maintenance support after the first release",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/b2b-lead-generation",
+    "label": "B2B Lead Generation",
+    "group": "Business Development",
+    "title": "B2B Lead Generation Services for Agencies",
+    "description": "Build a focused B2B prospecting pipeline with VELAUR LABS: ideal customer research, account lists, qualification criteria and sales handoff support.",
+    "keywords": [
+      "B2B lead generation services",
+      "lead generation for software companies",
+      "lead generation for agencies",
+      "B2B prospect research",
+      "outsourced business development",
+      "B2B sales pipeline",
+      "international client acquisition"
+    ],
+    "sections": [
+      {
+        "heading": "What do b2b lead generation services include?",
+        "body": "A useful lead generation process starts with the kind of business you can help and the person responsible for the relevant problem. We agree industry, company fit, location scope and qualification signals before researching accounts. Prospect data is reviewed for relevance and a usable handoff format. A researched contact list is kept distinct from an interested or qualified sales opportunity."
+      },
+      {
+        "heading": "Connect research with your sales workflow",
+        "body": "For software houses, agencies and B2B teams, prospect research needs a clear next step. We discuss who will contact each account, how responses will be recorded and what makes an opportunity ready for sales. Remote reviews refine the target profile using actual feedback. Outreach volumes, meetings and revenue are not guaranteed; the deliverable is the agreed research and pipeline process."
+      }
+    ],
+    "noIndex": false,
+    "headline": "B2B lead generation services",
+    "definition": "A useful lead generation process starts with the kind of business you can help and the person responsible for the relevant problem.",
+    "answer": "A useful lead generation process starts with the kind of business you can help and the person responsible for the relevant problem. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "B2B prospecting for a defined customer profile",
+      "Connect research with your sales workflow",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/linkedin-outreach",
+    "label": "LinkedIn Outreach",
+    "group": "Business Development",
+    "title": "LinkedIn Outreach Services for B2B Teams",
+    "description": "Plan relevant LinkedIn prospecting and outreach for B2B services. VELAUR LABS supports audience research, messaging, response workflows and sales handoffs.",
+    "keywords": [
+      "LinkedIn outreach services",
+      "LinkedIn lead generation",
+      "B2B LinkedIn prospecting",
+      "LinkedIn outreach for agencies",
+      "LinkedIn messaging strategy",
+      "LinkedIn appointment setting",
+      "remote sales outreach support"
+    ],
+    "sections": [
+      {
+        "heading": "What do linkedin outreach services include?",
+        "body": "LinkedIn outreach should give a relevant person a clear reason to start a conversation. We review your offer, audience and public profile before planning account research and message themes. The work can include connection messaging, follow-up drafts and response categorization. Account ownership, approved access and the platform's current rules are discussed before any outreach activity is undertaken."
+      },
+      {
+        "heading": "Move from replies to an organized sales handoff",
+        "body": "A response is useful only when the team knows what happens next. We define reply categories, qualification questions and a handoff process for interested prospects. Outreach reviews use real feedback to adjust targeting and messaging. The engagement does not promise a fixed response rate or authorize spam, identity misrepresentation or tools that violate the relevant platform's policies."
+      }
+    ],
+    "noIndex": false,
+    "headline": "LinkedIn outreach services",
+    "definition": "LinkedIn outreach should give a relevant person a clear reason to start a conversation.",
+    "answer": "LinkedIn outreach should give a relevant person a clear reason to start a conversation. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "LinkedIn outreach built around professional relevance",
+      "Move from replies to an organized sales handoff",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/cold-email-outreach",
+    "label": "Cold Email Outreach",
+    "group": "Business Development",
+    "title": "Cold Email Outreach Services for B2B Teams",
+    "description": "Plan B2B cold email campaigns with audience research, offer messaging, deliverability review and response workflows. Work remotely with VELAUR LABS.",
+    "keywords": [
+      "cold email outreach services",
+      "B2B cold email agency",
+      "cold email campaign management",
+      "email outreach for software companies",
+      "B2B email prospecting",
+      "outbound email strategy",
+      "cold email copywriting"
+    ],
+    "sections": [
+      {
+        "heading": "What do cold email outreach services include?",
+        "body": "Cold email planning connects a clear business offer to an appropriate prospect segment. We review account research, message relevance, sender setup and the intended response before drafting a campaign. List sources, recipient location and applicable outreach requirements need review by the business owner. Scope can include campaign structure, follow-up drafts and an agreed process for handling replies and opt-outs."
+      },
+      {
+        "heading": "Deliverability and response handling are part of the plan",
+        "body": "An email campaign depends on more than a subject line. We discuss sending-domain configuration, provider capabilities, suppression handling and ownership of prospect data before launch. Replies are categorized so interested conversations can reach the appropriate person. Testing and reporting describe the actual campaign activity; inbox placement, meeting counts and commercial outcomes are not guaranteed."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Cold email outreach services",
+    "definition": "Cold email planning connects a clear business offer to an appropriate prospect segment.",
+    "answer": "Cold email planning connects a clear business offer to an appropriate prospect segment. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Build an outbound email process around audience fit",
+      "Deliverability and response handling are part of the plan",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/appointment-setting",
+    "label": "Appointment Setting",
+    "group": "Business Development",
+    "title": "Appointment Setting Services for B2B Sales",
+    "description": "Create a clear route from prospect interest to a qualified sales conversation. VELAUR LABS supports appointment setting, scheduling and CRM handoffs.",
+    "keywords": [
+      "appointment setting services",
+      "B2B appointment setting",
+      "outsourced appointment setting",
+      "qualified meeting scheduling",
+      "sales appointment support",
+      "appointment setting for agencies",
+      "remote sales development support"
+    ],
+    "sections": [
+      {
+        "heading": "What do appointment setting services include?",
+        "body": "Appointment setting needs a shared definition of who should meet your sales team and why. We agree audience fit, interest signals, qualification questions and situations that should not be booked. Scope can include reply handling, scheduling workflows, confirmation messages and CRM updates. A scheduled meeting is kept distinct from a completed meeting, an accepted opportunity or a signed client."
+      },
+      {
+        "heading": "Scheduling across remote teams and time zones",
+        "body": "For international teams, calendar access, time zones and the handoff owner need to be clear. We agree booking availability, meeting context and the information passed to the salesperson. Follow-up and rescheduling responsibilities are included in the scope discussion. Reporting reflects actual booking activity and available outcomes without promising a fixed number of meetings or customers."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Appointment setting services",
+    "definition": "Appointment setting needs a shared definition of who should meet your sales team and why.",
+    "answer": "Appointment setting needs a shared definition of who should meet your sales team and why. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Define a qualified appointment before outreach begins",
+      "Scheduling across remote teams and time zones",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/upwork-profile-bidding-management",
+    "label": "Upwork Profile & Bidding Management",
+    "group": "Business Development",
+    "title": "Upwork Handling Services & Proposal Support",
+    "description": "Upwork handling for freelancers and agencies: profile positioning, opportunity research, proposal writing and bidding support through authorized workflows.",
+    "keywords": [
+      "Upwork handling services",
+      "Upwork profile optimization",
+      "Upwork bidding management",
+      "Upwork proposal writing services",
+      "Upwork agency management",
+      "Upwork account management support",
+      "Upwork business development",
+      "Upwork bidder services"
+    ],
+    "sections": [
+      {
+        "heading": "What do upwork handling services include?",
+        "body": "Our Upwork support focuses on presenting your real capabilities clearly and selecting opportunities that fit them. Scope may include a profile review, portfolio organization, job research, proposal drafts and a bid review process. Proposals should address the client's actual brief and accurately describe your experience. We do not invent work history, qualifications, client feedback or delivery capacity to improve a profile."
+      },
+      {
+        "heading": "An authorized workflow for freelancers and agencies",
+        "body": "Freelancers retain control of their own accounts and can review and submit prepared proposal drafts themselves. Where an agency uses Upwork's supported business-manager roles, proposal responsibilities can be assigned through those permissions. We agree the workflow before starting and do not request shared passwords or impersonate a freelancer. Connects, platform charges and contract outcomes remain separate from the agreed support scope."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Upwork handling services",
+    "definition": "Our Upwork support focuses on presenting your real capabilities clearly and selecting opportunities that fit them.",
+    "answer": "Our Upwork support focuses on presenting your real capabilities clearly and selecting opportunities that fit them. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Upwork handling, profile positioning and proposal support",
+      "An authorized workflow for freelancers and agencies",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/crm-sales-automation",
+    "label": "CRM & Sales Automation",
+    "group": "Business Development",
+    "title": "CRM Automation Services for Sales Teams",
+    "description": "Connect lead capture, pipeline stages, follow-ups and sales handoffs. VELAUR LABS scopes CRM setup, workflow automation and reporting for remote teams.",
+    "keywords": [
+      "CRM automation services",
+      "sales automation services",
+      "CRM setup for agencies",
+      "sales pipeline automation",
+      "lead follow up automation",
+      "CRM integration services",
+      "B2B CRM workflows"
+    ],
+    "sections": [
+      {
+        "heading": "What do crm automation services include?",
+        "body": "CRM implementation begins with how leads enter the business and move toward a decision. We define useful stages, required information, ownership and follow-up actions before configuring workflows. Existing contact data and connected forms are reviewed for quality and access needs. Automation is introduced where the rules are clear, with a visible exception path for records that need attention."
+      },
+      {
+        "heading": "Connect sales tools without creating hidden handoffs",
+        "body": "Remote sales teams need to see who owns a prospect and what happened last. We review the relevant integrations, notifications and reporting views so handoffs are explicit. The scope can include lead routing, reminders or selected data synchronization. Subscription costs, provider limitations and data migration responsibilities are discussed before implementation, with documentation for the people maintaining the system."
+      }
+    ],
+    "noIndex": false,
+    "headline": "CRM automation services",
+    "definition": "CRM implementation begins with how leads enter the business and move toward a decision.",
+    "answer": "CRM implementation begins with how leads enter the business and move toward a decision. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Build a CRM process your team can actually use",
+      "Connect sales tools without creating hidden handoffs",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/meta-ads-management",
+    "label": "Meta Ads Management",
+    "group": "Digital Marketing & Growth",
+    "title": "Meta Ads Management Services for Businesses",
+    "description": "Plan and manage Facebook and Instagram advertising with VELAUR LABS. Audience strategy, creative testing, landing-page alignment and reporting.",
+    "keywords": [
+      "Meta ads management services",
+      "Facebook ads management",
+      "Instagram ads management",
+      "Meta advertising agency",
+      "ecommerce Facebook advertising",
+      "paid social campaign management",
+      "Facebook campaign strategy"
+    ],
+    "sections": [
+      {
+        "heading": "What do meta ads management services include?",
+        "body": "Meta campaign planning starts with the product, audience and action a visitor should take. We review account readiness, approved creative assets, landing pages and available measurement before selecting a campaign structure. Creative testing is organized around specific messages and formats. Existing campaign history can inform decisions, but a previous account's results are not used as a promise for your business."
+      },
+      {
+        "heading": "Separate campaign management from media spend",
+        "body": "A paid social engagement defines who approves creative, controls advertising accounts and funds media spend. We agree reporting access, review frequency and the campaign changes covered by management. Measurement depends on the events and consent setup that can be implemented legitimately. Budget and performance are reviewed against actual data; leads, sales and return on advertising spend are not guaranteed."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Meta ads management services",
+    "definition": "Meta campaign planning starts with the product, audience and action a visitor should take.",
+    "answer": "Meta campaign planning starts with the product, audience and action a visitor should take. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Facebook and Instagram campaigns around a clear offer",
+      "Separate campaign management from media spend",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/google-ads-management",
+    "label": "Google Ads Management",
+    "group": "Digital Marketing & Growth",
+    "title": "Google Ads Management Services for Brands",
+    "description": "Google Ads campaign planning, search intent mapping, landing-page alignment and conversion measurement support for businesses working with VELAUR LABS.",
+    "keywords": [
+      "Google Ads management services",
+      "PPC management services",
+      "Google search advertising",
+      "Google Ads agency",
+      "search campaign management",
+      "paid search for B2B",
+      "Google Ads conversion tracking"
+    ],
+    "sections": [
+      {
+        "heading": "What do google ads management services include?",
+        "body": "Google Ads planning connects search intent with an offer and a landing page that answers the query. We review the account, keyword themes, exclusions and conversion goals before proposing a campaign structure. Scope can include search campaign setup, ad drafts and ongoing adjustments. Decisions are tied to the available budget and real business priorities rather than a promise to dominate every search term."
+      },
+      {
+        "heading": "Review the whole path after an ad click",
+        "body": "Campaign performance depends on landing-page clarity, inquiry handling and the quality of measurement as well as bidding. We discuss account access, approved budgets and the events used to evaluate activity. Remote reviews cover the actual campaign data and suggested next steps. Advertising spend is separate from management fees unless the agreement expressly says otherwise."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Google Ads management services",
+    "definition": "Google Ads planning connects search intent with an offer and a landing page that answers the query.",
+    "answer": "Google Ads planning connects search intent with an offer and a landing page that answers the query. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Match paid search campaigns to buyer intent",
+      "Review the whole path after an ad click",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/email-marketing-automation",
+    "label": "Email Marketing & Automation",
+    "group": "Digital Marketing & Growth",
+    "title": "Email Marketing Services & Automation",
+    "description": "Plan lifecycle emails, newsletters and automated customer journeys with VELAUR LABS. Segmentation, message design, workflow setup and reporting.",
+    "keywords": [
+      "email marketing services",
+      "email automation services",
+      "lifecycle email marketing",
+      "ecommerce email marketing",
+      "newsletter management",
+      "welcome email automation",
+      "customer email journeys"
+    ],
+    "sections": [
+      {
+        "heading": "What do email marketing services include?",
+        "body": "Email marketing works best when messages reflect the recipient's relationship with your business. We review signup sources, audience segments and the stages where email can provide useful information. Scope might include a welcome series, newsletter format or post-purchase journey. List permissions, unsubscribe handling and existing provider capabilities are reviewed before activating new workflows."
+      },
+      {
+        "heading": "Keep content, automation and measurement connected",
+        "body": "An automated journey needs clear entry rules, message timing and exit conditions. We document those decisions so your team understands who receives each email and why. Remote content reviews help maintain brand consistency across campaigns. Reporting uses the available delivery and conversion data, with appropriate limits around attribution and without a guaranteed revenue claim."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Email marketing services",
+    "definition": "Email marketing works best when messages reflect the recipient's relationship with your business.",
+    "answer": "Email marketing works best when messages reflect the recipient's relationship with your business. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Build email journeys around the customer lifecycle",
+      "Keep content, automation and measurement connected",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/social-media-management",
+    "label": "Social Media Management",
+    "group": "Digital Marketing & Growth",
+    "title": "Social Media Management Services for Brands",
+    "description": "Organize social content, brand messaging and publishing workflows with VELAUR LABS. Practical social media management for remote businesses and teams.",
+    "keywords": [
+      "social media management services",
+      "social media management agency",
+      "business social media content",
+      "Instagram content management",
+      "Facebook page management",
+      "social content calendar",
+      "outsourced social media management"
+    ],
+    "sections": [
+      {
+        "heading": "What do social media management services include?",
+        "body": "Social media management starts with what your audience needs to understand about the business. We define content themes, platform priorities and a review process before preparing a calendar. Scope can include post copy, creative briefs, scheduling and agreed community-response tasks. Brand assets and approved source information guide the content rather than invented results or unsupported claims."
+      },
+      {
+        "heading": "A manageable approval workflow for distributed teams",
+        "body": "Remote collaboration needs one clear place for content feedback and publishing approvals. We agree the account permissions, review deadlines and topics that require the owner's input. Reporting considers the available engagement and inquiry data in context. Paid media, production shoots and after-hours community coverage are separate scope decisions, and follower growth is not guaranteed."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Social media management services",
+    "definition": "Social media management starts with what your audience needs to understand about the business.",
+    "answer": "Social media management starts with what your audience needs to understand about the business. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "A social content plan with a clear editorial purpose",
+      "A manageable approval workflow for distributed teams",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/seo-content-marketing",
+    "label": "SEO & Content Marketing",
+    "group": "Digital Marketing & Growth",
+    "title": "SEO Services & Content Marketing Strategy",
+    "description": "Technical SEO, search intent planning and useful website content for businesses, agencies and startups. Build a focused organic discovery plan with VELAUR LABS.",
+    "keywords": [
+      "SEO services",
+      "content marketing services",
+      "technical SEO services",
+      "SEO agency for software companies",
+      "B2B content strategy",
+      "service page SEO",
+      "organic search optimization"
+    ],
+    "sections": [
+      {
+        "heading": "What do seo services include?",
+        "body": "SEO planning begins with crawlability, page purpose and the searches relevant to your actual offer. We review titles, descriptions, canonical URLs, internal links and indexable content before proposing changes. Content work can include service-page improvements, topic planning and useful articles supported by real knowledge. Keyword research guides coverage; it is not a reason to repeat phrases unnaturally or create duplicate pages."
+      },
+      {
+        "heading": "Measure discovery and inquiries without ranking promises",
+        "body": "Organic work needs a baseline and a realistic way to review progress. With authorized access, Search Console and appropriate analytics can show indexing, search queries and inquiry activity. We separate implemented technical changes from Google's later crawling and ranking decisions. External account access, content approvals and genuine subject expertise are part of the working plan, and no position or traffic level is guaranteed."
+      }
+    ],
+    "noIndex": false,
+    "headline": "SEO services",
+    "definition": "SEO planning begins with crawlability, page purpose and the searches relevant to your actual offer.",
+    "answer": "SEO planning begins with crawlability, page purpose and the searches relevant to your actual offer. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Connect technical SEO with the questions buyers ask",
+      "Measure discovery and inquiries without ranking promises",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/landing-pages-conversion-rate-optimization",
+    "label": "Landing Pages & Conversion Rate Optimization",
+    "group": "Digital Marketing & Growth",
+    "title": "Landing Page Design Services & CRO Support",
+    "description": "Improve the path from campaign click to qualified inquiry with VELAUR LABS landing-page design, form UX and conversion rate optimization support.",
+    "keywords": [
+      "landing page design services",
+      "conversion rate optimization services",
+      "landing page development",
+      "CRO services",
+      "B2B lead generation landing page",
+      "ecommerce landing page optimization",
+      "website conversion audit"
+    ],
+    "sections": [
+      {
+        "heading": "What do landing page design services include?",
+        "body": "A landing page should connect the promise of a campaign to the action a visitor can take. We review audience intent, page hierarchy, proof, form fields and mobile behavior before changing the experience. Scope may include a new page, a focused redesign or an audit of an existing conversion path. Claims and proof stay consistent with what the business can actually substantiate."
+      },
+      {
+        "heading": "Use evidence to guide conversion improvements",
+        "body": "Conversion rate optimization begins with a measurable question, such as whether visitors understand the offer or can complete an inquiry. We agree event definitions, the available baseline and how changes will be reviewed. Experimentation is scoped only when traffic and measurement make it useful. A design improvement or test does not guarantee a higher conversion rate for every audience."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Landing page design services",
+    "definition": "A landing page should connect the promise of a campaign to the action a visitor can take.",
+    "answer": "A landing page should connect the promise of a campaign to the action a visitor can take. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Design landing pages around one clear next step",
+      "Use evidence to guide conversion improvements",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/branding-creative-strategy",
+    "label": "Branding & Creative Strategy",
+    "group": "Digital Marketing & Growth",
+    "title": "Branding Services & Digital Creative Strategy",
+    "description": "Clarify positioning, messaging and visual direction with VELAUR LABS. Branding and creative strategy for startups, agencies, brands and product launches.",
+    "keywords": [
+      "branding services",
+      "creative strategy services",
+      "brand positioning strategy",
+      "brand messaging services",
+      "visual identity design",
+      "startup branding agency",
+      "digital brand strategy"
+    ],
+    "sections": [
+      {
+        "heading": "What do branding services include?",
+        "body": "Brand strategy begins with the audience, the problem you solve and the reasons a buyer should consider your offer. We review current materials and business priorities before developing positioning, messaging and visual direction. Scope may include identity guidance or campaign concepts. Any market claims, testimonials or credentials need real evidence supplied by the business rather than being created for presentation."
+      },
+      {
+        "heading": "Translate strategy into usable digital materials",
+        "body": "A useful creative direction should guide the website, sales material and campaign assets your team actually produces. We agree which deliverables and usage guidelines are needed, then review them through a shared remote process. Existing brand elements can be retained where appropriate. Production formats, asset ownership and any third-party licensing are discussed before final handoff."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Branding services",
+    "definition": "Brand strategy begins with the audience, the problem you solve and the reasons a buyer should consider your offer.",
+    "answer": "Brand strategy begins with the audience, the problem you solve and the reasons a buyer should consider your offer. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "A brand direction that explains your value clearly",
+      "Translate strategy into usable digital materials",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions/b2b-client-acquisition-system",
+    "label": "B2B Client Acquisition System",
+    "group": "Growth Solutions",
+    "title": "B2B Client Acquisition Systems for Agencies",
+    "description": "Connect B2B lead research, outreach, appointment setting and CRM workflows with VELAUR LABS. Plan a scoped remote client acquisition engagement for your team.",
+    "keywords": [
+      "B2B client acquisition",
+      "client acquisition for software houses",
+      "agency client acquisition",
+      "B2B outbound sales system",
+      "outsourced business development team",
+      "lead generation and appointment setting",
+      "remote client acquisition partner"
+    ],
+    "sections": [
+      {
+        "heading": "What does b2b client acquisition include?",
+        "body": "A B2B client acquisition system brings several distinct responsibilities into one agreed workflow. We define your ideal customer profile, offer, research criteria and outreach channels, then decide how interested replies reach the sales owner. Lead generation, appointment setting and CRM automation can be combined where relevant. Every stage has an owner and a clear handoff so activity does not become an unqualified contact list."
+      },
+      {
+        "heading": "A phased engagement for international service businesses",
+        "body": "Start with the audience and offer rather than launching every channel at once. The first phase can validate account fit, message relevance and the team's response process. Later work depends on what the review shows and what your delivery team can support. Public case-study evidence is linked only when available; a client acquisition framework is not a promise of a certain number of customers."
+      }
+    ],
+    "noIndex": false,
+    "headline": "B2B client acquisition",
+    "definition": "A B2B client acquisition system brings several distinct responsibilities into one agreed workflow.",
+    "answer": "A B2B client acquisition system brings several distinct responsibilities into one agreed workflow. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Connect prospecting, outreach and sales ownership",
+      "A phased engagement for international service businesses",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions/e-commerce-growth-system",
+    "label": "E-commerce Growth System",
+    "group": "Growth Solutions",
+    "title": "Ecommerce Growth Services for Online Stores",
+    "description": "Connect e-commerce landing pages, paid campaigns, lifecycle emails and measurement in a scoped growth engagement for online brands with VELAUR LABS.",
+    "keywords": [
+      "ecommerce growth services",
+      "ecommerce marketing agency",
+      "online store growth strategy",
+      "ecommerce landing pages",
+      "ecommerce email automation",
+      "Meta ads for ecommerce",
+      "conversion optimization for online stores"
+    ],
+    "sections": [
+      {
+        "heading": "What do e-commerce growth services include?",
+        "body": "An e-commerce growth engagement reviews how shoppers discover products, evaluate an offer and complete a purchase. We identify which parts of that journey need attention before choosing services. The plan may connect landing-page improvements, Meta or Google campaigns and lifecycle email. Product information, creative assets, fulfillment constraints and account readiness guide what can be delivered responsibly."
+      },
+      {
+        "heading": "Prioritize a measurable first phase",
+        "body": "A store does not need every marketing channel activated at the same time. We agree the immediate question, available baseline and required access, then define a manageable first scope. Reporting separates actual sales data from attribution estimates. Advertising budgets, platform subscriptions and production work are discussed separately; revenue and return on ad spend depend on factors beyond implementation alone."
+      }
+    ],
+    "noIndex": false,
+    "headline": "E-commerce growth services",
+    "definition": "An e-commerce growth engagement reviews how shoppers discover products, evaluate an offer and complete a purchase.",
+    "answer": "An e-commerce growth engagement reviews how shoppers discover products, evaluate an offer and complete a purchase. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Coordinate the store experience with acquisition channels",
+      "Prioritize a measurable first phase",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions/startup-launch-system",
+    "label": "Startup Launch System",
+    "group": "Growth Solutions",
+    "title": "Startup Launch Services for Digital Products",
+    "description": "Plan a startup launch with connected product development, branding, landing pages and go-to-market support. Scope the next phase remotely with VELAUR LABS.",
+    "keywords": [
+      "startup launch services",
+      "startup product development",
+      "startup go to market support",
+      "MVP design and development",
+      "startup branding and website",
+      "startup launch agency",
+      "remote startup development partner"
+    ],
+    "sections": [
+      {
+        "heading": "What do startup launch services include?",
+        "body": "A startup launch combines product decisions with a clear explanation of who the product is for. We review the intended users, core problem and required workflows before selecting design, development and launch services. The first scope might include a product prototype, an MVP or a focused landing page. Brand messaging and inquiry handling are considered alongside the implementation rather than added after delivery."
+      },
+      {
+        "heading": "Release a useful first version with shared acceptance criteria",
+        "body": "International founders need a delivery plan that makes decisions visible across time zones. We agree scope boundaries, review checkpoints and who owns product, content and accounts. Launch readiness depends on the actual acceptance criteria and external dependencies. This service supports a considered release; it does not imply product-market fit, investment readiness, fundraising success or guaranteed customer demand."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Startup launch services",
+    "definition": "A startup launch combines product decisions with a clear explanation of who the product is for.",
+    "answer": "A startup launch combines product decisions with a clear explanation of who the product is for. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Bring product and launch decisions into one plan",
+      "Release a useful first version with shared acceptance criteria",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions/ai-powered-business-automation",
+    "label": "AI-Powered Business Automation",
+    "group": "Growth Solutions",
+    "title": "AI-Powered Business Automation Services",
+    "description": "Plan AI-assisted business automation across CRM, applications and operational workflows. Work with VELAUR LABS on scoped pilots and human review.",
+    "keywords": [
+      "AI powered business automation",
+      "business automation services",
+      "AI CRM workflow automation",
+      "operations automation consulting",
+      "AI assisted business workflows",
+      "workflow integration services",
+      "remote business automation team"
+    ],
+    "sections": [
+      {
+        "heading": "What is ai-powered business automation?",
+        "body": "Business automation connects processes that often span a CRM, internal application and several human decisions. We map the inputs, owners and exceptions before deciding where conventional rules or AI assistance are appropriate. The scope may combine software integration, document workflows and lead-routing tasks. Account permissions and data-handling decisions are agreed with the system owner before access is connected."
+      },
+      {
+        "heading": "Make pilots reviewable before expanding them",
+        "body": "A first phase should be small enough to evaluate with representative business inputs. We agree what counts as a useful result, where review is required and what should happen when a system cannot complete a task. Remote reviews compare actual behavior with the intended process. Further automation is based on those findings rather than an assumed productivity or cost-saving percentage."
+      }
+    ],
+    "noIndex": false,
+    "headline": "AI-powered business automation",
+    "definition": "Business automation connects processes that often span a CRM, internal application and several human decisions.",
+    "answer": "Business automation connects processes that often span a CRM, internal application and several human decisions. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Combine automation with the right system boundaries",
+      "Make pilots reviewable before expanding them",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions/agency-freelancer-growth-system",
+    "label": "Agency & Freelancer Growth System",
+    "group": "Growth Solutions",
+    "title": "Agency Growth Services & Freelancer Support",
+    "description": "Connect positioning, portfolio presentation, Upwork support, B2B outreach and CRM workflows for agencies and freelancers working with VELAUR LABS.",
+    "keywords": [
+      "agency growth services",
+      "freelancer business development",
+      "Upwork agency growth",
+      "client acquisition for freelancers",
+      "software agency business development",
+      "agency portfolio positioning",
+      "freelancer outreach support"
+    ],
+    "sections": [
+      {
+        "heading": "What do agency growth services include?",
+        "body": "Agencies and freelancers need a clear offer, credible work examples and a practical route to relevant buyers. We review positioning and delivery capacity before selecting services such as profile optimization, proposal support, prospect research or outreach planning. The engagement should make genuine experience easier to evaluate. It does not create fake credentials or suggest that every opportunity is worth bidding on."
+      },
+      {
+        "heading": "Keep account access and sales handoffs explicit",
+        "body": "Where Upwork is part of the plan, freelancers retain account control and agencies use supported roles for proposal responsibilities. Other outreach channels have their own access and consent considerations. We agree who reviews messages, responds to prospects and owns the next sales step. Remote collaboration supports that process, while contract wins and commercial results remain outcomes to evaluate rather than guarantee."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Agency growth services",
+    "definition": "Agencies and freelancers need a clear offer, credible work examples and a practical route to relevant buyers.",
+    "answer": "Agencies and freelancers need a clear offer, credible work examples and a practical route to relevant buyers. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Choose growth work that matches your real capabilities",
+      "Keep account access and sales handoffs explicit",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/ai-software-development",
+    "label": "AI & Software Development",
+    "group": "Service categories",
+    "title": "AI & Software Development Services Worldwide",
+    "description": "Explore AI and software development with VELAUR LABS: websites, mobile apps, automation, integrations, UI/UX, testing and maintenance for remote teams.",
+    "keywords": [
+      "AI and software development services",
+      "remote software development agency",
+      "outsourced software development",
+      "digital product development",
+      "software development partner",
+      "AI development team"
+    ],
+    "sections": [
+      {
+        "heading": "What do ai and software development services include?",
+        "body": "Choose a capability around the work your product needs next: design a flow, build an application, connect an AI feature, review quality or prepare a release. Existing systems and delivery responsibilities guide the scope. We can discuss a focused project or collaboration alongside your internal team, with remote reviews and documented decisions."
+      },
+      {
+        "heading": "Keep engineering choices connected to business needs",
+        "body": "Different teams need different levels of design, implementation and ongoing support. The service pages below describe individual scopes and available project examples. If several capabilities are required, a coordinated engagement can define the order, owners and acceptance criteria without assuming that every service belongs in the first phase."
+      }
+    ],
+    "noIndex": false,
+    "headline": "AI and software development services",
+    "definition": "Choose a capability around the work your product needs next: design a flow, build an application, connect an AI feature, review quality or prepare a release.",
+    "answer": "Choose a capability around the work your product needs next: design a flow, build an application, connect an AI feature, review quality or prepare a release. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "A technology partner across the product lifecycle",
+      "Keep engineering choices connected to business needs",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/business-development",
+    "label": "Business Development",
+    "group": "Service categories",
+    "title": "Business Development Services for B2B Teams",
+    "description": "Explore business development services from VELAUR LABS: B2B lead generation, outreach, appointment setting, Upwork handling and CRM support for remote teams.",
+    "keywords": [
+      "business development services",
+      "outsourced business development",
+      "business development for software houses",
+      "business development for agencies",
+      "Upwork handling agency",
+      "B2B outreach services",
+      "remote sales development"
+    ],
+    "sections": [
+      {
+        "heading": "What do business development services include?",
+        "body": "Business development connects what you can deliver with the organizations that may need it. Our service scopes cover prospect research, LinkedIn and email outreach planning, appointment workflows, Upwork profile and proposal support, and CRM automation. We define audience fit and sales ownership before selecting channels so the next step is clear for both your team and an interested prospect."
+      },
+      {
+        "heading": "Support international acquisition without losing focus",
+        "body": "A remote sales process needs a specific offer and practical follow-up responsibilities. Start with the audience, relevant proof and available capacity, then choose the service that addresses the current gap. Each page explains its deliverables and boundaries. A researched lead, a reply, a scheduled call and a signed contract are different stages, and reporting should keep them distinct."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Business development services",
+    "definition": "Business development connects what you can deliver with the organizations that may need it.",
+    "answer": "Business development connects what you can deliver with the organizations that may need it. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Business development from offer to qualified conversation",
+      "Support international acquisition without losing focus",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services/digital-marketing-growth",
+    "label": "Digital Marketing",
+    "group": "Service categories",
+    "title": "Digital Marketing Services for Remote Brands",
+    "description": "Explore digital marketing from VELAUR LABS: paid ads, email, social media, SEO, landing pages and branding. Plan a scoped remote engagement for your business.",
+    "keywords": [
+      "digital marketing services",
+      "digital marketing agency",
+      "remote marketing agency",
+      "outsourced digital marketing",
+      "growth marketing services",
+      "B2B digital marketing",
+      "ecommerce digital marketing"
+    ],
+    "sections": [
+      {
+        "heading": "What do digital marketing services include?",
+        "body": "Digital marketing should connect a clear offer with the channels your audience uses and a website experience that supports the next step. Choose from paid advertising, email journeys, social content, organic search, landing-page optimization and brand strategy. We review existing assets, measurement and business constraints before defining the scope rather than activating every channel by default."
+      },
+      {
+        "heading": "A practical marketing workflow for distributed teams",
+        "body": "Remote delivery requires clear creative approvals, account ownership and reporting access. We agree those responsibilities before campaigns or content go live. Each service page describes the work available and the evidence needed to evaluate it. Media spend and subscriptions are separate scope decisions, and performance claims are only made when supported by actual approved data."
+      }
+    ],
+    "noIndex": false,
+    "headline": "Digital marketing services",
+    "definition": "Digital marketing should connect a clear offer with the channels your audience uses and a website experience that supports the next step.",
+    "answer": "Digital marketing should connect a clear offer with the channels your audience uses and a website experience that supports the next step. VELAUR LABS works with remote and international teams to agree deliverables, access, responsibilities and review points before delivery. Explore the scope below, then share your requirements to plan a suitable first phase.",
+    "takeaways": [
+      "Connect brand, acquisition and the conversion journey",
+      "A practical marketing workflow for distributed teams",
+      "Scope, responsibilities and review checkpoints are agreed before delivery."
+    ],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/",
+    "label": "Home",
+    "group": "Main website",
+    "title": "Remote Software & Digital Growth Agency",
+    "description": "VELAUR LABS connects AI and software development, B2B business development and digital marketing for international startups, agencies and brands.",
+    "keywords": [
+      "velaur",
+      "velaurlabs",
+      "velaur labs",
+      "remote software development agency",
+      "business development agency",
+      "digital growth agency"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/services",
+    "label": "Services",
+    "group": "Main website",
+    "title": "Software, Business & Digital Growth Services",
+    "description": "Explore 21 services across AI and software, B2B business development and digital marketing, plus connected Growth Solutions for remote teams.",
+    "keywords": [
+      "software development services",
+      "business development services",
+      "digital marketing services",
+      "outsourced agency services",
+      "remote technology partner"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/growth-solutions",
+    "label": "Growth Solutions",
+    "group": "Main website",
+    "title": "Business Growth Solutions for Remote Teams",
+    "description": "Explore five VELAUR LABS growth solutions for B2B acquisition, e-commerce, startup launch, AI automation and agency growth. Plan a scoped remote engagement.",
+    "keywords": [
+      "business growth solutions",
+      "B2B growth services",
+      "agency growth systems",
+      "startup growth support",
+      "connected digital services"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/about",
+    "label": "About",
+    "group": "Main website",
+    "title": "About Our Remote Software & Growth Agency",
+    "description": "Meet VELAUR LABS and our approach to software development, business development and digital growth for agencies, brands and startups worldwide.",
+    "keywords": [
+      "about velaur labs",
+      "remote technology agency",
+      "international development partner",
+      "software and growth agency"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/work",
+    "label": "Our Work",
+    "group": "Main website",
+    "title": "Website, Web App & Mobile Project Portfolio",
+    "description": "Explore VELAUR LABS website, web application and mobile app projects. Review available screenshots, live references and service context for your next project.",
+    "keywords": [
+      "velaur labs portfolio",
+      "website development portfolio",
+      "mobile app development projects",
+      "web application examples",
+      "software agency work"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/blog",
+    "label": "Blog",
+    "group": "Main website",
+    "title": "Software & Digital Business Growth Insights",
+    "description": "Read practical VELAUR LABS insights on AI, software development, B2B client acquisition and digital marketing for product and business teams.",
+    "keywords": [
+      "software development insights",
+      "B2B business development insights",
+      "digital marketing articles",
+      "AI workflow guides"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/contact",
+    "label": "Contact",
+    "group": "Main website",
+    "title": "Contact Our Remote Software & Growth Team",
+    "description": "Contact VELAUR LABS about development, Upwork support, B2B outreach, automation or digital marketing. Start a remote discovery conversation.",
+    "keywords": [
+      "contact velaur labs",
+      "hire remote development team",
+      "discuss business development",
+      "digital marketing inquiry",
+      "Upwork handling inquiry"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/work/websites",
+    "label": "Website portfolio",
+    "group": "Main website",
+    "title": "Business Website Design & Project Portfolio",
+    "description": "Review VELAUR LABS website projects, including business websites and brand experiences. Explore screenshots, project context and available live reference links.",
+    "keywords": [
+      "business website portfolio",
+      "website design projects",
+      "web development work examples",
+      "responsive website portfolio"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/work/web-applications",
+    "label": "Web application portfolio",
+    "group": "Main website",
+    "title": "Web Application, CRM & LMS Project Portfolio",
+    "description": "Explore VELAUR LABS web application projects across CRM, LMS, POS and dashboards. Review available screenshots, project context and approved reference links.",
+    "keywords": [
+      "web application portfolio",
+      "CRM development projects",
+      "LMS development portfolio",
+      "POS software examples",
+      "dashboard development work"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/work/mobile-apps",
+    "label": "Mobile app portfolio",
+    "group": "Main website",
+    "title": "Mobile App Design & Development Portfolio",
+    "description": "Browse VELAUR LABS mobile application projects and approved app-store links across available iOS and Android products Discuss the scope with our remote team.",
+    "keywords": [
+      "mobile app portfolio",
+      "iOS application projects",
+      "Android app development portfolio",
+      "mobile product examples"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/privacy-policy",
+    "label": "Privacy",
+    "group": "Main website",
+    "title": "Privacy Policy & Business Contact Details",
+    "description": "Review the published VELAUR LABS privacy information and contact details for questions about data practices Discuss the scope with our remote team.",
+    "keywords": [
+      "velaur labs privacy policy"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/terms-of-service",
+    "label": "Terms",
+    "group": "Main website",
+    "title": "Terms of Service & Project Enquiry Information",
+    "description": "Review the published VELAUR LABS service terms and contact information before discussing a project engagement Discuss the scope with our remote team.",
+    "keywords": [
+      "velaur labs terms of service"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/work/projects/cakes-and-bakes-website",
+    "label": "Cakes and Bakes · Website",
+    "group": "Portfolio projects",
+    "title": "Cakes and Bakes Website Design & Development",
+    "description": "Review the Cakes and Bakes website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Cakes and Bakes website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Cakes and Bakes website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/kips-publications-website",
+    "label": "KIPS Publications · Website",
+    "group": "Portfolio projects",
+    "title": "KIPS Publications Website Design & Development",
+    "description": "Review the KIPS Publications website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "KIPS Publications website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "KIPS Publications website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/bodytalk-system-website",
+    "label": "BodyTalk System · Website",
+    "group": "Portfolio projects",
+    "title": "BodyTalk System Website Design & Development",
+    "description": "Review the BodyTalk System website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "BodyTalk System website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "BodyTalk System website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/booksy-website",
+    "label": "Booksy · Website",
+    "group": "Portfolio projects",
+    "title": "Booksy Website Development Portfolio",
+    "description": "Review the Booksy website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Booksy website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Booksy website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/salesfox-website",
+    "label": "SalesFox · Website",
+    "group": "Portfolio projects",
+    "title": "SalesFox Website Design & Development",
+    "description": "Review the SalesFox website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "SalesFox website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "SalesFox website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/cadence-website",
+    "label": "Cadence · Website",
+    "group": "Portfolio projects",
+    "title": "Cadence Website Design & Development",
+    "description": "Review the Cadence website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Cadence website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Cadence website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/velaur-website",
+    "label": "VELAUR · Website",
+    "group": "Portfolio projects",
+    "title": "VELAUR Website Development Portfolio",
+    "description": "Review the VELAUR website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "VELAUR website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "VELAUR website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/myyogi-website",
+    "label": "MyYogi · Website",
+    "group": "Portfolio projects",
+    "title": "MyYogi Website Development Portfolio",
+    "description": "Review the MyYogi website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "MyYogi website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "MyYogi website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/actimus-website",
+    "label": "Actimus Rehabilitation · Website",
+    "group": "Portfolio projects",
+    "title": "Actimus Rehabilitation Website Portfolio",
+    "description": "Explore Actimus Rehabilitation: a website project in the VELAUR LABS portfolio. Review screenshots, the published project overview and available external links.",
+    "keywords": [
+      "Actimus Rehabilitation website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Actimus Rehabilitation website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/her-golf-website",
+    "label": "Her Golf · Website",
+    "group": "Portfolio projects",
+    "title": "Her Golf Website Design & Development",
+    "description": "Review the Her Golf website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Her Golf website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Her Golf website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/tj-s-pizza-website",
+    "label": "TJ's Pizza · Website",
+    "group": "Portfolio projects",
+    "title": "TJ's Pizza Website Design & Development",
+    "description": "Review the TJ's Pizza website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "TJ's Pizza website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "TJ's Pizza website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/rootpointers-website",
+    "label": "RootPointers — Our Team · Website",
+    "group": "Portfolio projects",
+    "title": "RootPointers Team Website Project Portfolio",
+    "description": "Review the RootPointers team website project in the VELAUR LABS portfolio. Explore its published overview, available screenshots and approved reference link.",
+    "keywords": [
+      "RootPointers — Our Team website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "RootPointers — Our Team website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/the-ufaq-website",
+    "label": "The Ufaq · Website",
+    "group": "Portfolio projects",
+    "title": "The Ufaq Website Design & Development",
+    "description": "Review the The Ufaq website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "The Ufaq website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "The Ufaq website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/top-music-website",
+    "label": "Top Music · Website",
+    "group": "Portfolio projects",
+    "title": "Top Music Website Design & Development",
+    "description": "Review the Top Music website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Top Music website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Top Music website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/evolve-training-website",
+    "label": "Evolve Training App · Website",
+    "group": "Portfolio projects",
+    "title": "Evolve Training App Website Portfolio Project",
+    "description": "Review the Evolve Training App website project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Evolve Training App website project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Evolve Training App website project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/stellar-driveway-web-app",
+    "label": "Stellar Driveway · Web App",
+    "group": "Portfolio projects",
+    "title": "Stellar Driveway Web App Design & Development",
+    "description": "Review the Stellar Driveway web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Stellar Driveway web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Stellar Driveway web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/trader-metrix-web-app",
+    "label": "Trader Metrix · Web App",
+    "group": "Portfolio projects",
+    "title": "Trader Metrix Web App Design & Development",
+    "description": "Review the Trader Metrix web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Trader Metrix web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Trader Metrix web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/nextbanka-web-app",
+    "label": "NextBanka · Web App",
+    "group": "Portfolio projects",
+    "title": "NextBanka Web App Design & Development",
+    "description": "Review the NextBanka web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "NextBanka web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "NextBanka web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/iba-lms-web-app",
+    "label": "IBA LMS · Web App",
+    "group": "Portfolio projects",
+    "title": "IBA LMS Web App Design & Development",
+    "description": "Review the IBA LMS web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "IBA LMS web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "IBA LMS web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/iba-lms-admin-web-app",
+    "label": "IBA LMS Admin · Web App",
+    "group": "Portfolio projects",
+    "title": "IBA LMS Admin Web App Design & Development",
+    "description": "Review the IBA LMS Admin web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "IBA LMS Admin web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "IBA LMS Admin web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/lec-crm-web-app",
+    "label": "LEC CRM · Web App",
+    "group": "Portfolio projects",
+    "title": "LEC CRM Web App Design & Development",
+    "description": "Review the LEC CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "LEC CRM web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "LEC CRM web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/kit-shoes-pos-web-app",
+    "label": "Kit Shoes POS · Web App",
+    "group": "Portfolio projects",
+    "title": "Kit Shoes POS Web App Design & Development",
+    "description": "Review the Kit Shoes POS web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Kit Shoes POS web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Kit Shoes POS web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/animation-project-web-app",
+    "label": "Animation Project · Web App",
+    "group": "Portfolio projects",
+    "title": "Animation Project Web App Design & Development",
+    "description": "Review the Animation Project web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Animation Project web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Animation Project web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/my-lummo-shop-web-app",
+    "label": "My LumMo Shop · Web App",
+    "group": "Portfolio projects",
+    "title": "My LumMo Shop Web App Design & Development",
+    "description": "Review the My LumMo Shop web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "My LumMo Shop web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "My LumMo Shop web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/embold-web-app",
+    "label": "Embold · Web App",
+    "group": "Portfolio projects",
+    "title": "Embold Web App Development Portfolio",
+    "description": "Review the Embold web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Embold web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Embold web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/sudduth-realty-crm-web-app",
+    "label": "Sudduth Realty CRM · Web App",
+    "group": "Portfolio projects",
+    "title": "Sudduth Realty CRM Web App Portfolio Project",
+    "description": "Review the Sudduth Realty CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Sudduth Realty CRM web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Sudduth Realty CRM web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/wevoz-crm-web-app",
+    "label": "Wevoz CRM · Web App",
+    "group": "Portfolio projects",
+    "title": "Wevoz CRM Web App Design & Development",
+    "description": "Review the Wevoz CRM web app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Wevoz CRM web app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Wevoz CRM web app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/topmusic-mobile-app",
+    "label": "TopMusic · Mobile App",
+    "group": "Portfolio projects",
+    "title": "TopMusic Mobile App Design & Development",
+    "description": "Review the TopMusic mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "TopMusic mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "TopMusic mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/evolve-training-mobile-app",
+    "label": "Evolve Training App · Mobile App",
+    "group": "Portfolio projects",
+    "title": "Evolve Training Mobile App Project Portfolio",
+    "description": "Explore Evolve Training App: a mobile app project in the VELAUR LABS portfolio. Review screenshots, the published project overview and available external links.",
+    "keywords": [
+      "Evolve Training App mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Evolve Training App mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/oparko-mobile-app",
+    "label": "OPARKO · Mobile App",
+    "group": "Portfolio projects",
+    "title": "OPARKO Mobile App Design & Development",
+    "description": "Review the OPARKO mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "OPARKO mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "OPARKO mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/hellobible-mobile-app",
+    "label": "HelloBible · Mobile App",
+    "group": "Portfolio projects",
+    "title": "HelloBible Mobile App Design & Development",
+    "description": "Review the HelloBible mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "HelloBible mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "HelloBible mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/f-r-y-mobile-app",
+    "label": "F.R.Y. · Mobile App",
+    "group": "Portfolio projects",
+    "title": "F.R.Y. Mobile App Design & Development",
+    "description": "Review the F.R.Y. mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "F.R.Y. mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "F.R.Y. mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/the-octagon-mobile-app",
+    "label": "The Octagon by Champs MMA · Mobile App",
+    "group": "Portfolio projects",
+    "title": "The Octagon by Champs MMA App Portfolio",
+    "description": "Review The Octagon by Champs MMA mobile app in the VELAUR LABS portfolio, including the published project overview, screenshots and approved app-store links.",
+    "keywords": [
+      "The Octagon by Champs MMA mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "The Octagon by Champs MMA mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/rootscare-mobile-app",
+    "label": "RootsCare Patient App · Mobile App",
+    "group": "Portfolio projects",
+    "title": "RootsCare Patient App Development Portfolio",
+    "description": "Explore the RootsCare Patient App in the VELAUR LABS mobile portfolio. Review its published project overview, available screenshots and approved store links.",
+    "keywords": [
+      "RootsCare Patient App mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "RootsCare Patient App mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/myyogi-mobile-app",
+    "label": "MyYogi App · Mobile App",
+    "group": "Portfolio projects",
+    "title": "MyYogi App Mobile App Design & Development",
+    "description": "Review the MyYogi App mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "MyYogi App mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "MyYogi App mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/serveu-mobile-app",
+    "label": "ServeU · Mobile App",
+    "group": "Portfolio projects",
+    "title": "ServeU Mobile App Design & Development",
+    "description": "Review the ServeU mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "ServeU mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "ServeU mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/actimus-mobile-app",
+    "label": "Actimus App · Mobile App",
+    "group": "Portfolio projects",
+    "title": "Actimus App Mobile App Design & Development",
+    "description": "Review the Actimus App mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "Actimus App mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Actimus App mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/work/projects/salesfox-mobile-app",
+    "label": "SalesFox · Mobile App",
+    "group": "Portfolio projects",
+    "title": "SalesFox Mobile App Design & Development",
+    "description": "Review the SalesFox mobile app project in the VELAUR LABS portfolio, with available screenshots, project context and approved external reference links.",
+    "keywords": [
+      "SalesFox mobile app project"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "SalesFox mobile app project",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": ""
+  },
+  {
+    "path": "/blog/how-ai-automation-is-transforming-modern-businesses",
+    "label": "AI Automation for Business: A Practical Guide",
+    "group": "Articles",
+    "title": "AI Automation for Business: A Practical Guide",
+    "description": "Plan a practical AI automation project with VELAUR LABS. Learn how to choose workflows, define human review, check reliability and evaluate a scoped pilot.",
+    "keywords": [
+      "AI automation"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "AI Automation for Business: A Practical Guide",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/blog/website-vs-web-application-what-does-your-business-need",
+    "label": "Website vs Web Application: A Business Guide",
+    "group": "Articles",
+    "title": "Website vs Web Application: A Business Guide",
+    "description": "Compare a website and web application by user needs, account access, workflows and maintenance. Use this practical VELAUR LABS guide to scope your project.",
+    "keywords": [
+      "website vs web application"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Website vs Web Application: A Business Guide",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+    "label": "Mobile App Development: From Idea to Launch",
+    "group": "Articles",
+    "title": "Mobile App Development: From Idea to Launch",
+    "description": "Plan mobile app development from user research to release. Review product scope, prototypes, accessibility, testing and ownership with this VELAUR LABS guide.",
+    "keywords": [
+      "mobile app development"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "Mobile App Development: From Idea to Launch",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  },
+  {
+    "path": "/blog/ai-agents-vs-traditional-chatbots",
+    "label": "AI Agents vs Chatbots: A Practical Comparison",
+    "group": "Articles",
+    "title": "AI Agents vs Chatbots: A Practical Comparison",
+    "description": "Compare AI agents and chatbots by workflow, tool access and review needs. Learn how to scope a useful business application with this VELAUR LABS guide.",
+    "keywords": [
+      "AI agents vs chatbots"
+    ],
+    "sections": [],
+    "noIndex": false,
+    "headline": "AI Agents vs Chatbots: A Practical Comparison",
+    "answer": "",
+    "definition": "",
+    "takeaways": [],
+    "reviewedAt": "2026-10-16"
+  }
+]

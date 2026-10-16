@@ -1,0 +1,9650 @@
+[
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-software-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/web-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/mobile-app-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/ai-integration",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/ui-ux-design",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/software-testing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/deployment-maintenance",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/business-development",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/b2b-lead-generation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/linkedin-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/cold-email-outreach",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/appointment-setting",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/upwork-profile-bidding-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/crm-sales-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/digital-marketing-growth",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/meta-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/google-ads-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/email-marketing-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/social-media-management",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/seo-content-marketing",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/landing-pages-conversion-rate-optimization",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services/branding-creative-strategy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/b2b-client-acquisition-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/e-commerce-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/startup-launch-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/ai-powered-business-automation",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions/agency-freelancer-growth-system",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/services",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/growth-solutions",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/about",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/work",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/blog",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/contact",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/work/websites",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/work/web-applications",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/work/mobile-apps",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/privacy-policy",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "route": "/terms-of-service",
+    "brokenLoadedImages": [],
+    "clippedContent": false,
+    "gap": "30px",
+    "h1": 1,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "theme": "dark",
+    "width": 390
+  }
+]

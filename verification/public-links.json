@@ -1,0 +1,478 @@
+{
+  "completedAt": "2026-10-16T13:23:22.192Z",
+  "pagesInspected": 83,
+  "internalDestinations": 117,
+  "invalidAnchors": [],
+  "passed": true,
+  "checks": [
+    {
+      "target": "/",
+      "status": 200
+    },
+    {
+      "target": "/about",
+      "status": 200
+    },
+    {
+      "target": "/services",
+      "status": 200
+    },
+    {
+      "target": "/services/ai-software-development",
+      "status": 200
+    },
+    {
+      "target": "/services/ai-development",
+      "status": 200
+    },
+    {
+      "target": "/services/web-development",
+      "status": 200
+    },
+    {
+      "target": "/services/mobile-app-development",
+      "status": 200
+    },
+    {
+      "target": "/services/ai-automation",
+      "status": 200
+    },
+    {
+      "target": "/services/ai-integration",
+      "status": 200
+    },
+    {
+      "target": "/services/ui-ux-design",
+      "status": 200
+    },
+    {
+      "target": "/services/software-testing",
+      "status": 200
+    },
+    {
+      "target": "/services/deployment-maintenance",
+      "status": 200
+    },
+    {
+      "target": "/services/business-development",
+      "status": 200
+    },
+    {
+      "target": "/services/b2b-lead-generation",
+      "status": 200
+    },
+    {
+      "target": "/services/linkedin-outreach",
+      "status": 200
+    },
+    {
+      "target": "/services/cold-email-outreach",
+      "status": 200
+    },
+    {
+      "target": "/services/appointment-setting",
+      "status": 200
+    },
+    {
+      "target": "/services/upwork-profile-bidding-management",
+      "status": 200
+    },
+    {
+      "target": "/services/crm-sales-automation",
+      "status": 200
+    },
+    {
+      "target": "/services/digital-marketing-growth",
+      "status": 200
+    },
+    {
+      "target": "/services/meta-ads-management",
+      "status": 200
+    },
+    {
+      "target": "/services/google-ads-management",
+      "status": 200
+    },
+    {
+      "target": "/services/email-marketing-automation",
+      "status": 200
+    },
+    {
+      "target": "/services/social-media-management",
+      "status": 200
+    },
+    {
+      "target": "/services/seo-content-marketing",
+      "status": 200
+    },
+    {
+      "target": "/services/landing-pages-conversion-rate-optimization",
+      "status": 200
+    },
+    {
+      "target": "/services/branding-creative-strategy",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions/b2b-client-acquisition-system",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions/e-commerce-growth-system",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions/startup-launch-system",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions/ai-powered-business-automation",
+      "status": 200
+    },
+    {
+      "target": "/growth-solutions/agency-freelancer-growth-system",
+      "status": 200
+    },
+    {
+      "target": "/work",
+      "status": 200
+    },
+    {
+      "target": "/blog",
+      "status": 200
+    },
+    {
+      "target": "/contact",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/lec-crm-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/salesfox-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/evolve-training-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/myyogi-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "status": 200
+    },
+    {
+      "target": "/blog/website-vs-web-application-what-does-your-business-need",
+      "status": 200
+    },
+    {
+      "target": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "status": 200
+    },
+    {
+      "target": "/privacy-policy",
+      "status": 200
+    },
+    {
+      "target": "/terms-of-service",
+      "status": 200
+    },
+    {
+      "target": "/work/websites",
+      "status": 200
+    },
+    {
+      "target": "/work/web-applications",
+      "status": 200
+    },
+    {
+      "target": "/work/mobile-apps",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/cakes-and-bakes-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/kips-publications-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/bodytalk-system-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/booksy-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/rootpointers-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/cadence-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/velaur-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/myyogi-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/actimus-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/her-golf-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/tj-s-pizza-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/the-ufaq-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/top-music-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/evolve-training-website",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/stellar-driveway-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/trader-metrix-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/nextbanka-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/iba-lms-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/iba-lms-admin-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/kit-shoes-pos-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/animation-project-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/my-lummo-shop-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/embold-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/sudduth-realty-crm-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/wevoz-crm-web-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/topmusic-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/oparko-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/hellobible-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/f-r-y-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/the-octagon-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/rootscare-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/serveu-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/actimus-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/work/projects/salesfox-mobile-app",
+      "status": 200
+    },
+    {
+      "target": "/blog?category=AI%20%26%20Automation",
+      "status": 200
+    },
+    {
+      "target": "/blog?category=Web%20Development",
+      "status": 200
+    },
+    {
+      "target": "/blog?category=Mobile%20Development",
+      "status": 200
+    },
+    {
+      "target": "/blog?category=Artificial%20Intelligence",
+      "status": 200
+    },
+    {
+      "target": "/blog/ai-agents-vs-traditional-chatbots",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=AI%20Development#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Web%20Development#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Mobile%20App%20Development#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=AI%20Automation#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=AI%20Integration#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=UI%2FUX%20Design#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Software%20Testing%20%26%20QA#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Deployment%20%26%20Maintenance#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=B2B%20Lead%20Generation#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=LinkedIn%20Outreach#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Cold%20Email%20Outreach#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Appointment%20Setting#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Upwork%20Profile%20%26%20Bidding%20Management#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=CRM%20%26%20Sales%20Automation#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Meta%20Ads%20Management#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Google%20Ads%20Management#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Email%20Marketing%20%26%20Automation#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Social%20Media%20Management#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=SEO%20%26%20Content%20Marketing#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Landing%20Pages%20%26%20Conversion%20Rate%20Optimization#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Branding%20%26%20Creative%20Strategy#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=AI%20%26%20Software%20Development#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Business%20Development#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Digital%20Marketing%20%26%20Growth#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=B2B%20Client%20Acquisition%20System#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=E-commerce%20Growth%20System#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Startup%20Launch%20System#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=AI-Powered%20Business%20Automation#inquiry-form",
+      "status": 200
+    },
+    {
+      "target": "/contact?service=Agency%20%26%20Freelancer%20Growth%20System#inquiry-form",
+      "status": 200
+    }
+  ],
+  "limitations": "External portfolio URLs retain previous verification status; no booking or hosted integration submission performed."
+}

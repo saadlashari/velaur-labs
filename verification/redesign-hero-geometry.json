@@ -1,0 +1,29 @@
+[
+  {
+    "capabilityCards": 4,
+    "height": 720,
+    "heroBottom": 593.0937957763672,
+    "heroTextBottom": 506.03126525878906,
+    "processSteps": 5,
+    "whyHeaders": 6,
+    "width": 1265
+  },
+  {
+    "capabilityCards": 4,
+    "height": 900,
+    "heroBottom": 646.8021087646484,
+    "heroTextBottom": 559.7396087646484,
+    "processSteps": 5,
+    "whyHeaders": 6,
+    "width": 1425
+  },
+  {
+    "capabilityCards": 4,
+    "height": 1080,
+    "heroBottom": 653.8750457763672,
+    "heroTextBottom": 566.8125152587891,
+    "processSteps": 5,
+    "whyHeaders": 6,
+    "width": 1905
+  }
+]

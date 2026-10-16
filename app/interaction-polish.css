@@ -1,0 +1,44 @@
+/* Shared public interactions. Keep content, image framing and the 30px rhythm intact. */
+.public-site{--hover-edge:color-mix(in srgb,var(--pub-blue,#8b9cff) 65%,var(--pub-border));--hover-shadow:0 12px 30px #02081740;--hover-wash:color-mix(in srgb,var(--pub-blue,#8b9cff) 9%,var(--pub-panel));}
+.public-site[data-theme="light"]{--hover-shadow:0 12px 30px #243b721a;}
+.public-site :is(.service-card,.service-outcome-card,.reason-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.work-service-group,.project-case-study-panel,.mission-vision-grid article,.agency-context>div,.agency-category-jump>a,.editorial-cards>.builder-card,.builder-card,.deliverables-panel){transition:border-color .2s ease,box-shadow .2s ease,transform .2s ease,background-color .2s ease;}
+.public-site :is(a,button,summary){-webkit-tap-highlight-color:color-mix(in srgb,var(--pub-blue,#8b9cff) 18%,transparent);}
+.public-site :is(.button-primary,.button-secondary,.nav-cta,.nav-mobile-cta,.text-link,.service-detail-link,.seo-related-links a,.portfolio-filter-tabs button,.blog-category-tabs a,.page-sharing a,.page-sharing button,.theme-toggle,.mobile-menu-toggle,.nav-dropdown-trigger,.agency-group-toggle){transition:color .18s ease,background-color .18s ease,border-color .18s ease,box-shadow .18s ease,transform .18s ease,filter .18s ease;}
+.public-site :is(.footer-links a,.footer-bottom a,.agency-breadcrumbs a,.editorial-article a,.legal-copy a,.agency-home-links a,.work-service-group a,.service-faq summary,.builder-faq summary,.work-service-group summary){text-underline-offset:4px;text-decoration-thickness:1px;transition:color .18s ease,background-color .18s ease,border-color .18s ease;}
+.public-site :is(.text-link,.service-detail-link){text-underline-offset:5px;text-decoration-thickness:1px;}
+.public-site :is(.builder-card-link,.editorial-cards .builder-card>a,.brand-logo-link,.site-brand){transition:color .18s ease,opacity .18s ease;text-underline-offset:5px;}
+.public-site :is(.featured-editorial-card,.delivery-detail-card){transition:border-color .2s ease,box-shadow .2s ease;}
+.public-site :is(.service-card,.service-outcome-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.work-service-group,.agency-category-jump>a,.editorial-cards>.builder-card,.builder-card):focus-within{border-color:var(--hover-edge);box-shadow:var(--hover-shadow);}
+.public-site :is(.text-link,.service-detail-link,.seo-related-links a,.footer-links a,.footer-bottom a,.agency-breadcrumbs a,.editorial-article a,.legal-copy a,.agency-home-links a,.work-service-group a):focus-visible{text-decoration-line:underline;}
+.public-site :is(.service-faq summary,.builder-faq summary,.work-service-group summary,.delivery-details summary):focus-visible{color:var(--pub-blue);outline:2px solid var(--pub-blue);outline-offset:4px;border-radius:6px;}
+
+@media(hover:hover) and (pointer:fine){
+ .public-site :is(.featured-editorial-card,.delivery-detail-card):hover{border-color:var(--hover-edge);box-shadow:var(--hover-shadow);}
+ .public-site :is(.builder-card-link,.editorial-cards .builder-card>a,.contact-form a):hover,.public-site .portfolio-category-card:hover .portfolio-category-link{color:var(--pub-blue);text-decoration:underline;text-underline-offset:5px;}
+ .public-site :is(.brand-logo-link,.site-brand):hover{opacity:.88;}
+ .public-site :is(.service-card,.service-outcome-card,.reason-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.work-service-group,.project-case-study-panel,.mission-vision-grid article,.agency-context>div,.agency-category-jump>a,.editorial-cards>.builder-card,.builder-card,.deliverables-panel):hover{border-color:var(--hover-edge);box-shadow:var(--hover-shadow);}
+ .public-site :is(.service-card,.service-outcome-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.agency-category-jump>a,.editorial-cards>.builder-card):hover{transform:translateY(-3px);}
+ .public-site :is(.service-card,.service-outcome-card):hover{background:var(--hover-wash);}
+ .public-site :is(.button-primary,.nav-cta,.nav-mobile-cta):not(:disabled):hover{transform:translateY(-2px);filter:brightness(1.1);box-shadow:0 8px 24px #5478ff40;}
+ .public-site .button-secondary:not(:disabled):hover{border-color:var(--pub-blue);background:var(--hover-wash);transform:translateY(-2px);box-shadow:var(--hover-shadow);}
+ .public-site :is(.text-link,.service-detail-link,.footer-links a,.footer-bottom a,.agency-breadcrumbs a,.editorial-article a:not(.button-primary):not(.button-secondary),.legal-copy a,.agency-home-links a,.work-service-group a):hover{color:var(--pub-blue);text-decoration-line:underline;}
+ .public-site[data-theme] :is(.text-link,.service-detail-link):hover{color:var(--pub-blue)!important;}
+ .public-site[data-theme] .site-nav>a:not(.nav-mobile-cta):hover,.public-site[data-theme] :is(.nav-services-link,.nav-dropdown-trigger):hover{color:var(--pub-blue)!important;}
+ .public-site :is(.agency-menu-group-heading>a,.nav-services-link):hover{text-decoration:underline;text-underline-offset:5px;}
+ .public-site :is(.theme-toggle,.mobile-menu-toggle,.nav-dropdown-trigger,.agency-group-toggle):not(:disabled):hover{border-color:var(--hover-edge);background:var(--hover-wash);}
+ .public-site :is(.seo-related-links a,.portfolio-filter-tabs button:not([aria-pressed="true"]),.blog-category-tabs a:not(.active),.page-sharing a,.page-sharing button):not(:disabled):hover{background:var(--hover-wash);border-color:var(--hover-edge);color:var(--pub-blue);}
+ .public-site .portfolio-filter-tabs button[aria-pressed="true"]:hover{filter:brightness(1.1);box-shadow:0 4px 14px #5478ff30;}
+ .public-site :is(.service-faq summary,.builder-faq summary,.work-service-group summary,.delivery-details summary):hover{color:var(--pub-blue);text-decoration:underline;text-underline-offset:4px;}
+ .public-site .contact-detail-row:is(a,:has(a)):hover>span{border-color:var(--hover-edge);background:var(--hover-wash);}
+}
+
+.public-site button:disabled:is(:hover,:active){transform:none;filter:none;box-shadow:none;cursor:not-allowed;}
+.public-site :is(.button-primary,.button-secondary,.nav-cta,.nav-mobile-cta):not(:disabled):active{transform:translateY(0);}
+@media(hover:none){
+ .public-site :is(.button-primary,.button-secondary,.nav-cta,.nav-mobile-cta,.service-card,.service-outcome-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.agency-category-jump>a,.footer-socials a):hover{transform:none;}
+}
+@media(prefers-reduced-motion:reduce){
+ .public-site :is(.featured-editorial-card,.delivery-detail-card){transition:none;}
+ .public-site :is(a,button,summary,.service-card,.service-outcome-card,.reason-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.work-service-group,.project-case-study-panel,.mission-vision-grid article,.agency-context>div,.agency-category-jump>a,.builder-card,.deliverables-panel){transition:none;}
+ .public-site :is(.button-primary,.button-secondary,.nav-cta,.nav-mobile-cta,.service-card,.service-outcome-card,.portfolio-project-card,.portfolio-category-card,.capability-reference-card,.agency-service-card,.home-featured-project,.agency-category-jump>a,.footer-socials a):hover{transform:none;}
+}

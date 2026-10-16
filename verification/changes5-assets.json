@@ -1,0 +1,125 @@
+{
+  "velaur-wordmark-transparent.png": {
+    "size": [
+      860,
+      198
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixels": 137658
+  },
+  "velaur-wordmark-light-transparent.png": {
+    "size": [
+      860,
+      198
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixels": 137658
+  },
+  "velaur-symbol-transparent.png": {
+    "size": [
+      504,
+      302
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixels": 85229
+  },
+  "favicon-512.png": {
+    "size": [
+      512,
+      512
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "transparentPixels": 192992
+  },
+  "socialPngs": {
+    "facebook": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "instagram": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "linkedin": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "pinterest": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "tiktok": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "whatsapp": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    },
+    "youtube": {
+      "size": [
+        96,
+        96
+      ],
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "httpStatus": 200
+    }
+  }
+}

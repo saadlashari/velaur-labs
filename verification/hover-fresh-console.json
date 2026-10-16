@@ -1,0 +1,334 @@
+[
+  {
+    "path": "/",
+    "logs": []
+  },
+  {
+    "path": "/about",
+    "logs": []
+  },
+  {
+    "path": "/contact",
+    "logs": []
+  },
+  {
+    "path": "/services",
+    "logs": []
+  },
+  {
+    "path": "/work",
+    "logs": []
+  },
+  {
+    "path": "/work/websites",
+    "logs": []
+  },
+  {
+    "path": "/work/web-applications",
+    "logs": []
+  },
+  {
+    "path": "/work/mobile-apps",
+    "logs": []
+  },
+  {
+    "path": "/blog",
+    "logs": []
+  },
+  {
+    "path": "/privacy-policy",
+    "logs": []
+  },
+  {
+    "path": "/terms-of-service",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions",
+    "logs": []
+  },
+  {
+    "path": "/services/ai-software-development",
+    "logs": []
+  },
+  {
+    "path": "/services/business-development",
+    "logs": []
+  },
+  {
+    "path": "/services/digital-marketing-growth",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions/b2b-client-acquisition-system",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions/e-commerce-growth-system",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions/startup-launch-system",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions/ai-powered-business-automation",
+    "logs": []
+  },
+  {
+    "path": "/growth-solutions/agency-freelancer-growth-system",
+    "logs": []
+  },
+  {
+    "path": "/services/ai-development",
+    "logs": []
+  },
+  {
+    "path": "/services/web-development",
+    "logs": []
+  },
+  {
+    "path": "/services/mobile-app-development",
+    "logs": []
+  },
+  {
+    "path": "/services/ai-automation",
+    "logs": []
+  },
+  {
+    "path": "/services/ai-integration",
+    "logs": []
+  },
+  {
+    "path": "/services/ui-ux-design",
+    "logs": []
+  },
+  {
+    "path": "/services/software-testing",
+    "logs": []
+  },
+  {
+    "path": "/services/deployment-maintenance",
+    "logs": []
+  },
+  {
+    "path": "/services/b2b-lead-generation",
+    "logs": []
+  },
+  {
+    "path": "/services/linkedin-outreach",
+    "logs": []
+  },
+  {
+    "path": "/services/cold-email-outreach",
+    "logs": []
+  },
+  {
+    "path": "/services/appointment-setting",
+    "logs": []
+  },
+  {
+    "path": "/services/upwork-profile-bidding-management",
+    "logs": []
+  },
+  {
+    "path": "/services/crm-sales-automation",
+    "logs": []
+  },
+  {
+    "path": "/services/meta-ads-management",
+    "logs": []
+  },
+  {
+    "path": "/services/google-ads-management",
+    "logs": []
+  },
+  {
+    "path": "/services/email-marketing-automation",
+    "logs": []
+  },
+  {
+    "path": "/services/social-media-management",
+    "logs": []
+  },
+  {
+    "path": "/services/seo-content-marketing",
+    "logs": []
+  },
+  {
+    "path": "/services/landing-pages-conversion-rate-optimization",
+    "logs": []
+  },
+  {
+    "path": "/services/branding-creative-strategy",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/cakes-and-bakes-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/kips-publications-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/bodytalk-system-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/booksy-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/salesfox-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/rootpointers-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/cadence-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/velaur-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/myyogi-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/actimus-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/her-golf-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/tj-s-pizza-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/the-ufaq-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/top-music-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/evolve-training-website",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/stellar-driveway-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/trader-metrix-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/nextbanka-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/iba-lms-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/iba-lms-admin-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/lec-crm-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/kit-shoes-pos-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/animation-project-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/my-lummo-shop-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/embold-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/sudduth-realty-crm-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/wevoz-crm-web-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/topmusic-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/evolve-training-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/oparko-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/hellobible-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/f-r-y-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/the-octagon-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/rootscare-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/myyogi-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/serveu-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/actimus-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/work/projects/salesfox-mobile-app",
+    "logs": []
+  },
+  {
+    "path": "/blog/how-ai-automation-is-transforming-modern-businesses",
+    "logs": []
+  },
+  {
+    "path": "/blog/website-vs-web-application-what-does-your-business-need",
+    "logs": []
+  },
+  {
+    "path": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+    "logs": []
+  },
+  {
+    "path": "/blog/ai-agents-vs-traditional-chatbots",
+    "logs": []
+  }
+]

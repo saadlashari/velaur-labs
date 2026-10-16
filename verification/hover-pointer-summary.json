@@ -1,0 +1,571 @@
+{
+  "passed": true,
+  "families": 24,
+  "verifiedStates": 48,
+  "rawAttempts": 52,
+  "selection": "Last completed sample per component label and theme. Raw attempts retained, including early off-screen target samples and the pre-fix disclosure sample.",
+  "cases": [
+    {
+      "label": "Service card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".service-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Service text link",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".service-detail-link",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border",
+        "decoration"
+      ]
+    },
+    {
+      "label": "Secondary CTA",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".button-secondary",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Header CTA",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".nav-cta",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform",
+        "filter"
+      ]
+    },
+    {
+      "label": "Discovery CTA",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".button-primary",
+      "hovered": true,
+      "changedProperties": [
+        "shadow",
+        "transform",
+        "filter"
+      ]
+    },
+    {
+      "label": "Scope card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".service-outcome-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Related service pill",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".seo-related-links a",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "FAQ summary",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".service-faq summary",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border"
+      ]
+    },
+    {
+      "label": "Category overview card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services",
+      "selector": ".agency-category-jump>a",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Service disclosure",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".work-service-group summary",
+      "hovered": true,
+      "changedProperties": [
+        "decoration"
+      ]
+    },
+    {
+      "label": "Portfolio category card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-category-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Project filter",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-filter-tabs button",
+      "hovered": true,
+      "changedProperties": [
+        "shadow",
+        "filter"
+      ]
+    },
+    {
+      "label": "Portfolio project card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-project-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Article sharing control",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".page-sharing button",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "Footer link",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".footer-links>a",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border",
+        "decoration"
+      ]
+    },
+    {
+      "label": "Social brand PNG",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".footer-socials a.social-linkedin",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "transform",
+        "png"
+      ]
+    },
+    {
+      "label": "Home capability card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".capability-reference-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Featured project",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".home-featured-project",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Reason card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".reason-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow"
+      ]
+    },
+    {
+      "label": "Article preview card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".editorial-cards .builder-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Article preview link",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".editorial-cards .builder-card>a",
+      "hovered": true,
+      "changedProperties": [
+        "decoration"
+      ]
+    },
+    {
+      "label": "Mission card",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/about",
+      "selector": ".mission-vision-grid article",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow"
+      ]
+    },
+    {
+      "label": "Header CTA",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".nav-cta",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform",
+        "filter"
+      ]
+    },
+    {
+      "label": "Discovery CTA",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".button-primary",
+      "hovered": true,
+      "changedProperties": [
+        "shadow",
+        "transform",
+        "filter"
+      ]
+    },
+    {
+      "label": "Secondary CTA",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".button-secondary",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Home capability card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".capability-reference-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Featured project",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".home-featured-project",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Reason card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".reason-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow"
+      ]
+    },
+    {
+      "label": "Article preview card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".editorial-cards .builder-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Article preview link",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/",
+      "selector": ".editorial-cards .builder-card>a",
+      "hovered": true,
+      "changedProperties": [
+        "decoration"
+      ]
+    },
+    {
+      "label": "Service card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth",
+      "selector": ".service-card",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Service text link",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth",
+      "selector": ".service-detail-link",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border",
+        "decoration"
+      ]
+    },
+    {
+      "label": "Scope card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".service-outcome-card",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Related service pill",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".seo-related-links a",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "FAQ summary",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+      "selector": ".service-faq summary",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border"
+      ]
+    },
+    {
+      "label": "Portfolio category card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-category-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Project filter",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-filter-tabs button",
+      "hovered": true,
+      "changedProperties": [
+        "shadow",
+        "filter"
+      ]
+    },
+    {
+      "label": "Portfolio project card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".portfolio-project-card",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    },
+    {
+      "label": "Article sharing control",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".page-sharing button",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "Footer link",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".footer-links>a",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border",
+        "decoration"
+      ]
+    },
+    {
+      "label": "Social brand PNG",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+      "selector": ".footer-socials a.social-linkedin",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "transform",
+        "png"
+      ]
+    },
+    {
+      "label": "Mission card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/about",
+      "selector": ".mission-vision-grid article",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow"
+      ]
+    },
+    {
+      "label": "Main navigation link",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/about",
+      "selector": ".site-nav>a[href=\"/about\"]",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border"
+      ]
+    },
+    {
+      "label": "Service disclosure",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/work",
+      "selector": ".work-service-group summary",
+      "hovered": true,
+      "changedProperties": [
+        "decoration"
+      ]
+    },
+    {
+      "label": "Theme control",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".theme-toggle",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "Main navigation link",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".site-nav>a[href=\"/about\"]",
+      "hovered": true,
+      "changedProperties": [
+        "color",
+        "border"
+      ]
+    },
+    {
+      "label": "Theme control",
+      "theme": "light",
+      "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+      "selector": ".theme-toggle",
+      "hovered": true,
+      "changedProperties": [
+        "background",
+        "border"
+      ]
+    },
+    {
+      "label": "Category overview card",
+      "theme": "dark",
+      "path": "http://127.0.0.1:3000/services",
+      "selector": ".agency-category-jump>a",
+      "hovered": true,
+      "changedProperties": [
+        "border",
+        "shadow",
+        "transform"
+      ]
+    }
+  ]
+}

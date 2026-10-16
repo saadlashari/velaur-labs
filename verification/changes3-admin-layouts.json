@@ -1,0 +1,22 @@
+[
+  {
+    "scrollWidth": 375,
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "scrollWidth": 375,
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "scrollWidth": 1425,
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "scrollWidth": 1425,
+    "theme": "light",
+    "width": 1440
+  }
+]

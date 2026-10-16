@@ -1,0 +1,10 @@
+{
+  "completedAt": "2026-10-15T07:57:21.603Z",
+  "freshProductionTabErrors": [],
+  "earlierTabNote": "Earlier RSC prefetch failures occurred while the owned local server was stopped for rebuilding. Fresh final-build navigation retested.",
+  "flows": [
+    "Services mega-menu to B2B service",
+    "Discovery CTA to prefilled contact",
+    "Growth Solutions mega-menu to B2B acquisition page"
+  ]
+}

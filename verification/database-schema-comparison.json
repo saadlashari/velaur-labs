@@ -1,0 +1,6 @@
+{
+  "comparedWith": "VELAUR-LABS-admin-preview-build-fixes-20261014.zip",
+  "unchanged": true,
+  "sha256": "678a1e2f7f2cbd573ffc17b5a19188be50108eac1c53c08191c15bfe50cc8c3f",
+  "conclusion": "No database schema migration was introduced in this release. Existing compatible schema is required; new structure and design settings use existing JSONB storage."
+}

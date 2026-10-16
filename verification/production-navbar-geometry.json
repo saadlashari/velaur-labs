@@ -1,0 +1,261 @@
+{
+  "completedAt": "2026-10-14T09:44:37.173Z",
+  "measurements": [
+    {
+      "client": 305,
+      "cta": {
+        "center": 251.7031364440918,
+        "left": 210.73959350585935,
+        "right": 292.6666793823242,
+        "width": 81.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 65,
+        "left": 12,
+        "right": 118,
+        "width": 106
+      },
+      "logoImage": {
+        "center": 79,
+        "left": 40,
+        "right": 118,
+        "width": 78
+      },
+      "menu": {
+        "center": 152.33334350585938,
+        "left": 130.33334350585938,
+        "right": 174.33334350585938,
+        "width": 44
+      },
+      "scroll": 305,
+      "width": 320
+    },
+    {
+      "client": 345,
+      "cta": {
+        "center": 291.7031364440918,
+        "left": 250.73959350585935,
+        "right": 332.6666793823242,
+        "width": 81.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 65,
+        "left": 12,
+        "right": 118,
+        "width": 106
+      },
+      "logoImage": {
+        "center": 79,
+        "left": 40,
+        "right": 118,
+        "width": 78
+      },
+      "menu": {
+        "center": 172.33334350585938,
+        "left": 150.33334350585938,
+        "right": 194.33334350585935,
+        "width": 44
+      },
+      "scroll": 345,
+      "width": 360
+    },
+    {
+      "client": 375,
+      "cta": {
+        "center": 314.7031364440918,
+        "left": 270.7395935058594,
+        "right": 358.6666793823242,
+        "width": 87.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 78.39583587646484,
+        "left": 16,
+        "right": 140.7916717529297,
+        "width": 124.79167175292967
+      },
+      "logoImage": {
+        "center": 96.39583587646484,
+        "left": 52,
+        "right": 140.7916717529297,
+        "width": 88.79167175292969
+      },
+      "menu": {
+        "center": 187.33334350585935,
+        "left": 165.33334350585938,
+        "right": 209.33334350585935,
+        "width": 44
+      },
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "client": 753,
+      "cta": {
+        "center": 692.7031669616699,
+        "left": 648.7396240234375,
+        "right": 736.6667098999023,
+        "width": 87.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 82,
+        "left": 16,
+        "right": 148,
+        "width": 132
+      },
+      "logoImage": {
+        "center": 103,
+        "left": 58,
+        "right": 148,
+        "width": 90
+      },
+      "menu": {
+        "center": 376.3333435058594,
+        "left": 354.3333435058594,
+        "right": 398.3333435058594,
+        "width": 44
+      },
+      "scroll": 753,
+      "width": 768
+    },
+    {
+      "client": 786,
+      "cta": {
+        "center": 721.0364799499512,
+        "left": 676.0729370117188,
+        "right": 766.0000228881836,
+        "width": 89.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 95,
+        "left": 20,
+        "right": 170,
+        "width": 150
+      },
+      "logoImage": {
+        "center": 122.5,
+        "left": 75,
+        "right": 170,
+        "width": 95
+      },
+      "menu": {
+        "center": 0,
+        "left": 0,
+        "right": 0,
+        "width": 0
+      },
+      "scroll": 786,
+      "width": 801
+    },
+    {
+      "client": 1009,
+      "cta": {
+        "center": 943.70316696167,
+        "left": 898.7396240234375,
+        "right": 988.6667098999023,
+        "width": 89.92708587646484
+      },
+      "ctaFont": "14px",
+      "logo": {
+        "center": 95,
+        "left": 20,
+        "right": 170,
+        "width": 150
+      },
+      "logoImage": {
+        "center": 122.5,
+        "left": 75,
+        "right": 170,
+        "width": 95
+      },
+      "menu": {
+        "center": 0,
+        "left": 0,
+        "right": 0,
+        "width": 0
+      },
+      "scroll": 1009,
+      "width": 1024
+    },
+    {
+      "client": 1425,
+      "cta": {
+        "center": 1270.1354179382324,
+        "left": 1217.9375,
+        "right": 1322.3333358764648,
+        "width": 104.39583587646484
+      },
+      "ctaFont": "15px",
+      "logo": {
+        "center": 195.33333587646484,
+        "left": 102.33333587646484,
+        "right": 288.33333587646484,
+        "width": 186
+      },
+      "logoImage": {
+        "center": 222.83334350585935,
+        "left": 157.33334350585938,
+        "right": 288.3333435058594,
+        "width": 131
+      },
+      "menu": {
+        "center": 0,
+        "left": 0,
+        "right": 0,
+        "width": 0
+      },
+      "scroll": 1425,
+      "width": 1440
+    },
+    {
+      "client": 1905,
+      "cta": {
+        "center": 1510.1354179382324,
+        "left": 1457.9375,
+        "right": 1562.3333358764648,
+        "width": 104.39583587646484
+      },
+      "ctaFont": "15px",
+      "logo": {
+        "center": 435.3333435058594,
+        "left": 342.3333435058594,
+        "right": 528.3333435058594,
+        "width": 186
+      },
+      "logoImage": {
+        "center": 462.8333435058594,
+        "left": 397.3333435058594,
+        "right": 528.3333435058594,
+        "width": 131
+      },
+      "menu": {
+        "center": 0,
+        "left": 0,
+        "right": 0,
+        "width": 0
+      },
+      "scroll": 1905,
+      "width": 1920
+    }
+  ],
+  "passed": true,
+  "scroll": {
+    "headerTop": 0,
+    "darkTopAlpha": 0.62,
+    "darkScrolledAlpha": 0.94,
+    "lightTopAlpha": 0.64,
+    "lightScrolledAlpha": 0.95
+  },
+  "interactions": [
+    "Mobile and desktop dropdown open/close",
+    "Eight service destinations",
+    "Escape restores menu focus",
+    "Appearance synchronization",
+    "Mobile portfolio search and filtering",
+    "Admin show/hide password"
+  ]
+}

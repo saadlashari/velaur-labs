@@ -1,0 +1,5166 @@
+{
+  "completedAt": "2026-10-15T09:12:47.573Z",
+  "cases": 498,
+  "results": [
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        },
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        },
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/about",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/websites",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/web-applications",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/contact",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/privacy-policy",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/terms-of-service",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/web-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-integration",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/software-testing",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/social-media-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/business-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        },
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        },
+        {
+          "height": 198.17709350585935,
+          "width": 344.66668701171875
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/about",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/websites",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/web-applications",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        },
+        {
+          "height": 189.36459350585935,
+          "width": 329.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/contact",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/privacy-policy",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/terms-of-service",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/web-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-integration",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/software-testing",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/social-media-management",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/business-development",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        },
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        },
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/about",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/websites",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/web-applications",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/contact",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/privacy-policy",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/terms-of-service",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/web-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-integration",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/software-testing",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/social-media-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/business-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        },
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        },
+        {
+          "height": 178.8229217529297,
+          "width": 311
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/about",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/websites",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/web-applications",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        },
+        {
+          "height": 178.25,
+          "width": 310
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/contact",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/privacy-policy",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/terms-of-service",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/web-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-integration",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/software-testing",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/social-media-management",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/business-development",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 805,
+      "width": 805
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        },
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        },
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/about",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/websites",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/web-applications",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/contact",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/privacy-policy",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/terms-of-service",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/web-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-integration",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/software-testing",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/social-media-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/business-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "light",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        },
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        },
+        {
+          "height": 164.0625,
+          "width": 285.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/about",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/websites",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/web-applications",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/mobile-apps",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        },
+        {
+          "height": 165.20834350585938,
+          "width": 287.3333435058594
+        }
+      ],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/contact",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/privacy-policy",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/terms-of-service",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/web-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/mobile-app-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-integration",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ui-ux-design",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/software-testing",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/deployment-maintenance",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/b2b-lead-generation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/linkedin-outreach",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/cold-email-outreach",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/appointment-setting",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/upwork-profile-bidding-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/crm-sales-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/meta-ads-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/google-ads-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/email-marketing-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/social-media-management",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/seo-content-marketing",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/branding-creative-strategy",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/ai-software-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/business-development",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/services/digital-marketing-growth",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/startup-launch-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cakes-and-bakes-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kips-publications-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/bodytalk-system-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/booksy-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/cadence-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/velaur-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/her-golf-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/tj-s-pizza-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootpointers-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-ufaq-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/top-music-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-website",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/stellar-driveway-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/trader-metrix-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/nextbanka-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/iba-lms-admin-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/lec-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/kit-shoes-pos-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/animation-project-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/my-lummo-shop-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/embold-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/sudduth-realty-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/wevoz-crm-web-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/topmusic-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/evolve-training-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/oparko-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/hellobible-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/f-r-y-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/the-octagon-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/rootscare-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/myyogi-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/serveu-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/actimus-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/work/projects/salesfox-mobile-app",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/website-vs-web-application-what-does-your-business-need",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "brokenLoadedImages": [],
+      "clipped": [],
+      "covers": [],
+      "h1": 1,
+      "mode": "dark",
+      "route": "/blog/ai-agents-vs-traditional-chatbots",
+      "scrollWidth": 375,
+      "width": 375
+    }
+  ]
+}

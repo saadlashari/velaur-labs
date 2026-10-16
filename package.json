@@ -1,0 +1,55 @@
+{
+  "name": "velaur-labs-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "verify:source": "node scripts/verify-source.mjs",
+    "verify:export": "node scripts/verify-content-export.mjs",
+    "backup:db": "node scripts/database-backup.mjs",
+    "restore:db": "node scripts/database-restore.mjs",
+    "verify:restore": "node scripts/test-restore-content.mjs",
+    "restore:content": "node scripts/restore-content-export.mjs",
+    "portfolio:preview": "node scripts/seed-portfolio-drafts.mjs",
+    "portfolio:seed": "node scripts/seed-portfolio-drafts.mjs --apply",
+    "verify:bespoke-settings": "node scripts/test-bespoke-settings.mjs",
+    "verify:bespoke": "node scripts/test-bespoke-page-preservation.mjs",
+    "verify:sections": "node scripts/test-section-content-validation.mjs",
+    "build:portable": "node scripts/build-portable.cjs",
+    "test:integration": "node scripts/test-integration.mjs",
+    "portfolio:approved": "node scripts/seed-approved-portfolio.mjs",
+    "portfolio:publish-approved": "node scripts/seed-approved-portfolio.mjs --apply --publish-approved",
+    "test:builder": "node scripts/test-builder-ui.mjs",
+    "test:public": "node scripts/test-public-rendering.mjs",
+    "test": "node scripts/test-all.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^15.5.0",
+    "pg": "^8.16.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.9",
+    "@eslint/eslintrc": "^3.3.1",
+    "@netlify/plugin-nextjs": "^5.15.5",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.8",
+    "@types/node": "20.17.6",
+    "@types/pg": "^8.15.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.5.0",
+    "jsdom": "^29.1.1",
+    "typescript": "5.8.2"
+  },
+  "overrides": {
+    "postcss": "8.5.30"
+  }
+}

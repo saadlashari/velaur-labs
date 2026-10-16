@@ -1,0 +1,378 @@
+{
+  "checkedAt": "2026-10-13T20:35:18.149Z",
+  "results": [
+    {
+      "project": "Cakes and Bakes",
+      "field": "live_url",
+      "url": "https://cakesandbakes.com/",
+      "status": 200,
+      "finalOrigin": "https://cakesandbakes.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "KIPS Publications",
+      "field": "live_url",
+      "url": "https://kipspublications.com/",
+      "status": 200,
+      "finalOrigin": "https://kipspublications.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "BodyTalk System",
+      "field": "live_url",
+      "url": "https://bodytalksystem.com/",
+      "status": 200,
+      "finalOrigin": "https://bodytalksystem.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "Booksy",
+      "field": "live_url",
+      "url": "https://booksy.com/en-us/",
+      "status": 200,
+      "finalOrigin": "https://booksy.com",
+      "finalPath": "/en-us/"
+    },
+    {
+      "project": "SalesFox",
+      "field": "live_url",
+      "url": "https://salesfox.io/",
+      "status": "unverified",
+      "error": "TypeError"
+    },
+    {
+      "project": "Cadence",
+      "field": "live_url",
+      "url": "https://cadenceme.com/",
+      "status": 200,
+      "finalOrigin": "https://cadenceme.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "VELAUR",
+      "field": "live_url",
+      "url": "https://www.velaur.shop/",
+      "status": 200,
+      "finalOrigin": "https://velaur.shop",
+      "finalPath": "/"
+    },
+    {
+      "project": "MyYogi",
+      "field": "live_url",
+      "url": "https://myyogi.yoga/",
+      "status": 200,
+      "finalOrigin": "https://myyogi.yoga",
+      "finalPath": "/"
+    },
+    {
+      "project": "Actimus Rehabilitation",
+      "field": "live_url",
+      "url": "https://actimusrehabilitation.com/",
+      "status": 200,
+      "finalOrigin": "https://actimusrehabilitation.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "Her Golf",
+      "field": "live_url",
+      "url": "https://www.her-golf.com/",
+      "status": 200,
+      "finalOrigin": "https://www.her-golf.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "TJ's Pizza",
+      "field": "live_url",
+      "url": "https://tjspizza.ca/",
+      "status": 403,
+      "finalOrigin": "https://tjspizza.ca",
+      "finalPath": "/"
+    },
+    {
+      "project": "RootPointers — Our Team",
+      "field": "live_url",
+      "url": "https://www.rootpointers.com/our-team.html",
+      "status": "unverified",
+      "error": "TypeError"
+    },
+    {
+      "project": "The Ufaq",
+      "field": "live_url",
+      "url": "https://www.theufaq.com/",
+      "status": 200,
+      "finalOrigin": "https://www.theufaq.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "Top Music",
+      "field": "live_url",
+      "url": "https://www.topmusic.net/",
+      "status": 200,
+      "finalOrigin": "https://www.topmusic.net",
+      "finalPath": "/"
+    },
+    {
+      "project": "Evolve Training App",
+      "field": "live_url",
+      "url": "https://www.evolvetrainingapp.com/",
+      "status": 200,
+      "finalOrigin": "https://www.evolvetrainingapp.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "Stellar Driveway",
+      "field": "live_url",
+      "url": "https://stellardriveway.vercel.app/",
+      "status": 200,
+      "finalOrigin": "https://stellardriveway.vercel.app",
+      "finalPath": "/"
+    },
+    {
+      "project": "Trader Metrix",
+      "field": "live_url",
+      "url": "https://tradermetrix.cipherdevelopers.com/",
+      "status": "unverified",
+      "error": "TypeError"
+    },
+    {
+      "project": "NextBanka",
+      "field": "live_url",
+      "url": "https://nextbanka-ec745.web.app/",
+      "status": 200,
+      "finalOrigin": "https://nextbanka-ec745.web.app",
+      "finalPath": "/"
+    },
+    {
+      "project": "IBA LMS",
+      "field": "live_url",
+      "url": "https://bodytalksystem.com/",
+      "status": 200,
+      "finalOrigin": "https://bodytalksystem.com",
+      "finalPath": "/"
+    },
+    {
+      "project": "IBA LMS Admin",
+      "field": "live_url",
+      "url": "https://admin.bodytalksystem.com/login",
+      "status": 200,
+      "finalOrigin": "https://admin.bodytalksystem.com",
+      "finalPath": "/login"
+    },
+    {
+      "project": "LEC CRM",
+      "field": "live_url",
+      "url": "https://lecweb.web.app/#/sign-in",
+      "status": 200,
+      "finalOrigin": "https://lecweb.web.app",
+      "finalPath": "/"
+    },
+    {
+      "project": "Kit Shoes POS",
+      "field": "live_url",
+      "url": "https://pos.kitshoes.com.pk/#/login",
+      "status": 200,
+      "finalOrigin": "https://pos.kitshoes.com.pk",
+      "finalPath": "/"
+    },
+    {
+      "project": "Animation Project",
+      "field": "live_url",
+      "url": "https://animation-project-0400123123.web.app/",
+      "status": 200,
+      "finalOrigin": "https://animation-project-0400123123.web.app",
+      "finalPath": "/"
+    },
+    {
+      "project": "My LumMo Shop",
+      "field": "live_url",
+      "url": "https://mylummoshop.web.app/",
+      "status": 200,
+      "finalOrigin": "https://mylummoshop.web.app",
+      "finalPath": "/"
+    },
+    {
+      "project": "Embold",
+      "field": "live_url",
+      "url": "https://app.embold.co/",
+      "status": 200,
+      "finalOrigin": "https://app.embold.co",
+      "finalPath": "/"
+    },
+    {
+      "project": "Sudduth Realty CRM",
+      "field": "live_url",
+      "url": "https://crm.sudduthrealty.com/login",
+      "status": 200,
+      "finalOrigin": "https://app.sudduthrealty.com",
+      "finalPath": "/login"
+    },
+    {
+      "project": "Wevoz CRM",
+      "field": "live_url",
+      "url": "https://wevoz-fronted.web.app/login",
+      "status": 200,
+      "finalOrigin": "https://wevoz-fronted.web.app",
+      "finalPath": "/login"
+    },
+    {
+      "project": "TopMusic",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.topchretien.topmusic&hl=fr&gl=US",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "Evolve Training App",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/evolve-training-app/id1631174176",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/evolve-training-app/id1631174176"
+    },
+    {
+      "project": "Evolve Training App",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.skynetcoaching.expertsystem&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "OPARKO",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/no/app/oparko/id6446219531",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/no/app/oparko/id6446219531"
+    },
+    {
+      "project": "OPARKO",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.parkeringskompagniet.parkeringskompagniet&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "HelloBible",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/hellobible-bible-chat/id6502768944",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/hellobible-bible-chat/id6502768944"
+    },
+    {
+      "project": "HelloBible",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.hellobible.app&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "F.R.Y.",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/fry/id1591961330",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/fry/id1591961330"
+    },
+    {
+      "project": "F.R.Y.",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.yogacustomer",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "The Octagon by Champs MMA",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/the-octagon-by-champs-mma/id6454899362",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/the-octagon-by-champs-mma/id6454899362"
+    },
+    {
+      "project": "The Octagon by Champs MMA",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.champsmmatheoctagon&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "RootsCare Patient App",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/developer/roots-care-home-health-services/id1628106275",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/developer/roots-care-home-health-services/id1628106275"
+    },
+    {
+      "project": "RootsCare Patient App",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.rootscare",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "MyYogi App",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/myyogi-app/id6466390099",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/myyogi-app/id6466390099"
+    },
+    {
+      "project": "MyYogi App",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.myyogi.app",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "ServeU",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/serveu-hire-get-services/id6746564453",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/serveu-hire-get-services/id6746564453"
+    },
+    {
+      "project": "ServeU",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=com.serveu.app&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    },
+    {
+      "project": "Actimus App",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/us/app/actimus/id6748683894",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/us/app/actimus/id6748683894"
+    },
+    {
+      "project": "SalesFox",
+      "field": "app_store_url",
+      "url": "https://apps.apple.com/in/app/salesfox/id6480517537",
+      "status": 200,
+      "finalOrigin": "https://apps.apple.com",
+      "finalPath": "/in/app/salesfox/id6480517537"
+    },
+    {
+      "project": "SalesFox",
+      "field": "play_store_url",
+      "url": "https://play.google.com/store/apps/details?id=io.salesfox.app&hl=en",
+      "status": 200,
+      "finalOrigin": "https://play.google.com",
+      "finalPath": "/store/apps/details"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "focusVisible": true,
+    "focused": "A",
+    "outline": "rgb(93, 152, 255) solid 2.5px",
+    "theme": "dark"
+  },
+  {
+    "focusVisible": true,
+    "focused": "A",
+    "outline": "rgb(56, 92, 214) solid 2.5px",
+    "theme": "light"
+  }
+]

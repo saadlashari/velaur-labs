@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
+import {validateExport} from './verify-content-export.mjs';
+const names=['pages','page_sections','services','projects','blog_posts','global_settings','inquiries','media_assets','redirects'];
+const tables=Object.fromEntries(names.map(n=>[n,n==='pages'?[{id:1,title:'Example'}]:[]]));
+const counts=Object.fromEntries(names.map(n=>[n,tables[n].length]));
+const checksums=Object.fromEntries(names.map(n=>[n,createHash('sha256').update(JSON.stringify(tables[n])).digest('hex')]));
+const doc={format:'VELAUR-CONTENT-EXPORT-v2',counts,checksums,tables};
+assert.equal(validateExport(doc).valid,true);
+const broken=structuredClone(doc);broken.tables.pages[0].title='Tampered';
+assert.equal(validateExport(broken).valid,false);
+const missing=structuredClone(doc);delete missing.tables.projects;
+assert.equal(validateExport(missing).valid,false);
+const wrong=structuredClone(doc);wrong.counts.pages=99;
+assert.equal(validateExport(wrong).valid,false);
+console.log('Export verifier: 4 integrity tests passed');

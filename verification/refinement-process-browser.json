@@ -1,0 +1,182 @@
+[
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Discovery & Strategy",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Design & Planning",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Development & Integration",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Testing & Quality Assurance",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Deployment & Support",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Discovery & Strategy",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Design & Planning",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Development & Integration",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Testing & Quality Assurance",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Deployment & Support",
+    "width": 1425
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Discovery & Strategy",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Design & Planning",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Development & Integration",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Testing & Quality Assurance",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Deployment & Support",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Discovery & Strategy",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Design & Planning",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Development & Integration",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Testing & Quality Assurance",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Deployment & Support",
+    "width": 805
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Discovery & Strategy",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Design & Planning",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Development & Integration",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Testing & Quality Assurance",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "light",
+    "title": "Deployment & Support",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Discovery & Strategy",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Design & Planning",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Development & Integration",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Testing & Quality Assurance",
+    "width": 375
+  },
+  {
+    "correctPanel": true,
+    "mode": "dark",
+    "title": "Deployment & Support",
+    "width": 375
+  }
+]

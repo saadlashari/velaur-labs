@@ -1,0 +1,15 @@
+/* Public light theme: readable chrome, content and forms across all pages. */
+.public-site[data-theme="light"]{--pub-bg:var(--brand-light,#f5f7fc);--pub-text:var(--brand-light-text,#10162a);--pub-copy:#43516b;--pub-muted:#53617b;--pub-panel:#fff;--pub-panel-2:#edf1fa;--pub-border:#ccd5e6;--text:#10162a;--text-2:#43516b;--muted:#53617b;--border-strong:#bcc8df;--readable-muted:#43516b;}
+.public-site[data-theme="light"] :is(.site-nav>a,.nav-services-link,.nav-dropdown-trigger,.mobile-menu-toggle){color:var(--pub-text)!important;}
+.public-site[data-theme="light"] :is(.site-nav.is-open,.nav-dropdown,.site-footer,.work-section,.why-section,.trust-strip,.final-cta,.inner-final-cta){background:#edf1fa;color:var(--pub-text);}
+.public-site[data-theme="light"] :is(.service-card,.reason-card,.featured-editorial-card,.project-card,.portfolio-card,.blog-card,.service-outcome-card,.deliverables-panel,.contact-details,.mission-vision-grid article,.mega-service-card){background:#fff;color:var(--pub-text);border-color:var(--pub-border);}
+.public-site[data-theme="light"] :is(h1,h2,h3,h4){color:var(--pub-text);}
+.public-site[data-theme="light"] :is(p,.hero-copy,.section-heading p,.inner-hero>p,.process-step>p,.contact-note p,.form-fine-print){color:var(--pub-copy)!important;}
+.public-site[data-theme="light"] :is(.eyebrow,.hero-eyebrow,.hero-bottom-line,.hero-note,.cta-email,.footer-bottom,.footer-links>a,.footer-links>span,.footer-socials a,.trust-strip,.mega-menu-head,.mega-menu-head span,.featured-card-number,.featured-card-category,.portfolio-disclaimer,.deliverable,.contact-detail-row,.contact-detail-row small,.contact-note b,.contact-form label,.contact-form .consent-check){color:#43516b;}
+.public-site[data-theme="light"] :is(.button-secondary,.text-link,.service-card-link,.portfolio-tabs a,.blog-category-tabs a){color:#263b78!important;border-color:#a6b6d9;}
+.public-site[data-theme="light"] :is(.button-primary,.nav-cta,.nav-mobile-cta){color:#fff!important;}
+.public-site[data-theme="light"] :is(.contact-form input:not([type=checkbox]),.contact-form select,.contact-form textarea,.blog-search input){background:#fff;color:#10162a;border-color:#b8c5dc;}
+.public-site[data-theme="light"] .brand-logo-img,.public-site[data-theme="light"] .footer-logo-img{padding:4px;background:#080c17;border-radius:5px;}
+.public-site[data-theme="light"] .inner-hero{background:radial-gradient(ellipse at 78% 20%,#dfe4ff,transparent 55%),var(--pub-bg);}
+.public-site[data-theme="light"] .portfolio-category-card{background:linear-gradient(135deg,#fff,#e8edfa);border-color:var(--pub-border);}
+.public-site[data-theme="light"] :is(.portfolio-category-link,.portfolio-category-icon,.inner-hero h1 span,.about-story h2 span){color:#4d46a5;}

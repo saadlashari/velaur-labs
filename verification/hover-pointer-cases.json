@@ -1,0 +1,2579 @@
+[
+  {
+    "label": "Service card",
+    "selector": ".service-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 581.5104064941406,
+        "height": 379.8046875,
+        "width": 276.9921875,
+        "x": 120.41666412353516,
+        "y": 201.70571899414065
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 578.5104370117188,
+        "height": 379.8047180175781,
+        "width": 276.9921875,
+        "x": 120.41666412353516,
+        "y": 198.70571899414065
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Service text link",
+    "selector": ".service-detail-link",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border",
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(62, 68, 143)",
+      "color": "rgb(62, 68, 143)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 527.033130645752,
+        "height": 43.99739456176758,
+        "width": 112.734375,
+        "x": 142.2395782470703,
+        "y": 483.0357360839844
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 526.088550567627,
+        "height": 43.99739456176758,
+        "width": 112.734375,
+        "x": 142.2395782470703,
+        "y": 482.0911560058594
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Secondary CTA",
+    "selector": ".button-secondary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgba(255, 255, 255, 0.533) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(166, 182, 217)",
+      "color": "rgb(38, 59, 120)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 426.3281135559082,
+        "height": 45.98958206176758,
+        "width": 218.8802032470703,
+        "x": 705.1953125,
+        "y": 380.3385314941406
+      },
+      "shadow": "rgba(35, 55, 85, 0.02) 0px 5px 15px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.929765 0.942471 0.985529) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(38, 59, 120)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 424.3281135559082,
+        "height": 45.98958206176758,
+        "width": 218.8802032470703,
+        "x": 705.1953125,
+        "y": 378.3385314941406
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Header CTA",
+    "selector": ".nav-cta",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform",
+      "filter"
+    ],
+    "before": {
+      "background": "rgb(84, 120, 255) linear-gradient(120deg, rgba(59, 130, 246, 0.18), rgba(139, 92, 246, 0.14)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 157, 255, 0.35)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 59.98697757720947,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 1215.703125,
+        "y": 13.997395515441896
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(84, 120, 255) linear-gradient(120deg, rgba(59, 130, 246, 0.18), rgba(139, 92, 246, 0.14)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 157, 255, 0.7)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 57.98697757720947,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 1215.703125,
+        "y": 11.997395515441896
+      },
+      "shadow": "rgba(84, 120, 255, 0.25) 0px 8px 24px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Discovery CTA",
+    "selector": ".button-primary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "shadow",
+      "transform",
+      "filter"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) linear-gradient(115deg, rgb(57, 124, 232), rgb(101, 89, 216)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 159, 255, 0.45)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 643.6458320617676,
+        "height": 45.98958206176758,
+        "width": 194.44009399414065,
+        "x": 496.7578125,
+        "y": 597.65625
+      },
+      "shadow": "rgba(53, 104, 218, 0.22) 0px 10px 35px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) linear-gradient(115deg, rgb(57, 124, 232), rgb(101, 89, 216)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 159, 255, 0.45)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 641.6457710266113,
+        "height": 45.98958206176758,
+        "width": 194.44009399414065,
+        "x": 496.7578125,
+        "y": 595.6561889648438
+      },
+      "shadow": "rgba(84, 120, 255, 0.25) 0px 8px 24px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Scope card",
+    "selector": ".service-outcome-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": false,
+    "changed": [],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 205.2604217529297,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 120.41666412353516,
+        "y": -163.3333282470703
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 205.2604217529297,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 120.41666412353516,
+        "y": -163.3333282470703
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Related service pill",
+    "selector": ".seo-related-links a",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(16, 22, 42)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 254.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 120.41666412353516,
+        "y": 229.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.929765 0.942471 0.985529) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 254.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 120.41666412353516,
+        "y": 229.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "FAQ summary",
+    "selector": ".service-faq summary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(16, 22, 42)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 526.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 120.41666412353516,
+        "y": 463.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 213)",
+      "color": "rgb(56, 92, 213)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 526.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 120.41666412353516,
+        "y": 463.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Category overview card",
+    "selector": ".agency-category-jump>a",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 1010.2734375,
+        "height": 382.6171875,
+        "width": 380,
+        "x": 120.41666412353516,
+        "y": 627.65625
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "oklab(0.649415 -0.0017969 -0.129958)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 1000,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 1007.28515625,
+        "height": 382.6171875,
+        "width": 380,
+        "x": 120.41666412353516,
+        "y": 624.66796875
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 11.953px 29.8826px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2.98826)"
+    }
+  },
+  {
+    "label": "Service disclosure",
+    "selector": ".work-service-group summary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 513.5025939941406,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 464.6744689941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 513.5025939941406,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 464.6744689941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Portfolio category card",
+    "selector": ".portfolio-category-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 689.3619689941406,
+        "height": 270,
+        "width": 380,
+        "x": 200.41665649414065,
+        "y": 419.3619689941406
+      },
+      "shadow": "rgba(38, 56, 91, 0.047) 0px 12px 32px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 686.3619995117188,
+        "height": 270.0000305175781,
+        "width": 380,
+        "x": 200.41665649414065,
+        "y": 416.3619689941406
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Project filter",
+    "selector": ".portfolio-filter-tabs button",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "shadow",
+      "filter"
+    ],
+    "before": {
+      "background": "rgb(76, 88, 198) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(40, 104, 215)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 391.1458129882813,
+        "height": 45.6640625,
+        "width": 107.79947662353516,
+        "x": 200.41665649414065,
+        "y": 345.48175048828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(76, 88, 198) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(40, 104, 215)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 391.1458129882813,
+        "height": 45.6640625,
+        "width": 107.79947662353516,
+        "x": 200.41665649414065,
+        "y": 345.48175048828125
+      },
+      "shadow": "rgba(84, 120, 255, 0.19) 0px 4px 14px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Portfolio project card",
+    "selector": ".portfolio-project-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(196, 207, 226)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 972.2135009765624,
+        "height": 501.4192504882813,
+        "width": 378.671875,
+        "x": 200.41665649414065,
+        "y": 470.7942504882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 969.2135314941406,
+        "height": 501.4192504882813,
+        "width": 378.671875,
+        "x": 200.41665649414065,
+        "y": 467.7942810058594
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Scope card",
+    "selector": ".service-outcome-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 330.2604179382324,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 200.41665649414065,
+        "y": -38.33333206176758
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 327.2604179382324,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 200.41665649414065,
+        "y": -41.33333206176758
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Related service pill",
+    "selector": ".seo-related-links a",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(16, 22, 42)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 379.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 200.41665649414065,
+        "y": 354.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.929765 0.942471 0.985529) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 379.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 200.41665649414065,
+        "y": 354.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "FAQ summary",
+    "selector": ".service-faq summary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(16, 22, 42)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 776.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 200.41665649414065,
+        "y": 713.2551879882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 776.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 200.41665649414065,
+        "y": 713.2551879882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Article sharing control",
+    "selector": ".page-sharing button",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 561.6145629882812,
+        "height": 42.5,
+        "width": 138.4895782470703,
+        "x": 850.9895629882812,
+        "y": 519.1145629882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.929765 0.942471 0.985529) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 561.6145629882812,
+        "height": 42.5,
+        "width": 138.4895782470703,
+        "x": 850.9895629882812,
+        "y": 519.1145629882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Footer link",
+    "selector": ".footer-links>a",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border",
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(67, 81, 107)",
+      "color": "rgb(67, 81, 107)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 303.3853950500488,
+        "height": 24.739582061767575,
+        "width": 173.38540649414062,
+        "x": 908.75,
+        "y": 278.64581298828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 303.3853950500488,
+        "height": 24.739582061767575,
+        "width": 173.38540649414062,
+        "x": 908.75,
+        "y": 278.64581298828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Social brand PNG",
+    "selector": ".footer-socials a.social-linkedin",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "transform",
+      "png"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(70, 85, 111)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": "grayscale(1)",
+      "rect": {
+        "bottom": 424.0755004882813,
+        "height": 41.9921875,
+        "width": 41.9921875,
+        "x": 284.4010314941406,
+        "y": 382.0833129882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(10, 102, 194)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": "none",
+      "rect": {
+        "bottom": 421.0755004882813,
+        "height": 41.9921875,
+        "width": 41.9921875,
+        "x": 284.4010314941406,
+        "y": 379.0833129882813
+      },
+      "shadow": "none",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Home capability card",
+    "selector": ".capability-reference-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 893.4114074707031,
+        "height": 336.7838439941406,
+        "width": 277.9947814941406,
+        "x": 204.4140625,
+        "y": 556.6275634765625
+      },
+      "shadow": "rgba(38, 56, 91, 0.047) 0px 12px 32px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 890.4114685058594,
+        "height": 336.7838439941406,
+        "width": 277.9947814941406,
+        "x": 204.4140625,
+        "y": 553.6276245117188
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Featured project",
+    "selector": ".home-featured-project",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 983.4244384765624,
+        "height": 360,
+        "width": 598.9973754882812,
+        "x": 180.41665649414065,
+        "y": 623.4244384765625
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 980.4244995117188,
+        "height": 360,
+        "width": 598.9973754882812,
+        "x": 180.41665649414065,
+        "y": 620.4244995117188
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Reason card",
+    "selector": ".reason-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 363.8802032470703,
+        "height": 207.6302032470703,
+        "width": 331.49737548828125,
+        "x": 713.4114379882812,
+        "y": 156.25
+      },
+      "shadow": "rgba(36, 56, 87, 0.03) 0px 12px 36px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 363.8802032470703,
+        "height": 207.6302032470703,
+        "width": 331.49737548828125,
+        "x": 713.4114379882812,
+        "y": 156.25
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Article preview card",
+    "selector": ".editorial-cards .builder-card",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(212, 222, 237)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 959.5181884765624,
+        "height": 517.0051879882812,
+        "width": 396.0025939941406,
+        "x": 180.41665649414065,
+        "y": 442.5130004882813
+      },
+      "shadow": "rgba(38, 56, 91, 0.047) 0px 12px 32px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 956.5182189941406,
+        "height": 517.0051879882812,
+        "width": 396.0025939941406,
+        "x": 180.41665649414065,
+        "y": 439.5130310058594
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Article preview link",
+    "selector": ".editorial-cards .builder-card>a",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 371.1209487915039,
+        "height": 53.65885162353515,
+        "width": 344.3359375,
+        "x": 206.25,
+        "y": 317.46209716796875
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 368.1849136352539,
+        "height": 53.65885162353515,
+        "width": 344.3359375,
+        "x": 206.25,
+        "y": 314.52606201171875
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Mission card",
+    "selector": ".mission-vision-grid article",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/about",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow"
+    ],
+    "before": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "oklab(0.773959 -0.00322765 -0.0761334)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 147.9166717529297,
+        "height": 293.6328125,
+        "width": 775.4166259765625,
+        "x": 0,
+        "y": -145.7161407470703
+      },
+      "shadow": "rgba(36, 58, 108, 0.067) 0px 12px 33.0238px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.433726 0.539216 0.870784)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 147.9166717529297,
+        "height": 293.6328125,
+        "width": 775.4166259765625,
+        "x": 0,
+        "y": -145.7161407470703
+      },
+      "shadow": "rgba(36, 59, 114, 0.1) 0px 12px 30px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Header CTA",
+    "selector": ".nav-cta",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform",
+      "filter"
+    ],
+    "before": {
+      "background": "rgb(84, 120, 255) linear-gradient(120deg, rgba(59, 130, 246, 0.18), rgba(139, 92, 246, 0.14)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 157, 255, 0.35)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 59.98697757720947,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 1295.703125,
+        "y": 13.997395515441896
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(84, 120, 255) linear-gradient(120deg, rgba(59, 130, 246, 0.18), rgba(139, 92, 246, 0.14)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 157, 255, 0.7)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 57.98697757720947,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 1295.703125,
+        "y": 11.997395515441896
+      },
+      "shadow": "rgba(84, 120, 255, 0.25) 0px 8px 24px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Discovery CTA",
+    "selector": ".button-primary",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "shadow",
+      "transform",
+      "filter"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) linear-gradient(115deg, rgb(57, 124, 232), rgb(101, 89, 216)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 159, 255, 0.45)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 499.5312385559082,
+        "height": 45.98958206176758,
+        "width": 165.5989532470703,
+        "x": 180.41665649414065,
+        "y": 453.5416564941406
+      },
+      "shadow": "rgba(53, 104, 218, 0.22) 0px 10px 35px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) linear-gradient(115deg, rgb(57, 124, 232), rgb(101, 89, 216)) repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(119, 159, 255, 0.45)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 497.5312080383301,
+        "height": 45.98958206176758,
+        "width": 165.5989532470703,
+        "x": 180.41665649414065,
+        "y": 451.5416259765625
+      },
+      "shadow": "rgba(84, 120, 255, 0.25) 0px 8px 24px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Secondary CTA",
+    "selector": ".button-secondary",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgba(255, 255, 255, 0.024) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(161, 177, 216, 0.2)",
+      "color": "rgb(224, 230, 244)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 499.5312385559082,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 358.0078125,
+        "y": 453.5416564941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.0899216 0.146431 0.24702) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(224, 230, 244)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 497.5312080383301,
+        "height": 45.98958206176758,
+        "width": 104.71353912353516,
+        "x": 358.0078125,
+        "y": 451.5416259765625
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -2)"
+    }
+  },
+  {
+    "label": "Home capability card",
+    "selector": ".capability-reference-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 893.4114074707031,
+        "height": 336.7838439941406,
+        "width": 277.9947814941406,
+        "x": 204.4140625,
+        "y": 556.6275634765625
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 890.4114685058594,
+        "height": 336.7838439941406,
+        "width": 277.9947814941406,
+        "x": 204.4140625,
+        "y": 553.6276245117188
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Featured project",
+    "selector": ".home-featured-project",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 983.4244384765624,
+        "height": 360,
+        "width": 598.9973754882812,
+        "x": 180.41665649414065,
+        "y": 623.4244384765625
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 980.4244995117188,
+        "height": 360,
+        "width": 598.9973754882812,
+        "x": 180.41665649414065,
+        "y": 620.4244995117188
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Reason card",
+    "selector": ".reason-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 926.3802032470704,
+        "height": 207.6302032470703,
+        "width": 331.49737548828125,
+        "x": 713.4114379882812,
+        "y": 718.75
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 926.3802032470704,
+        "height": 207.6302032470703,
+        "width": 331.49737548828125,
+        "x": 713.4114379882812,
+        "y": 718.75
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Article preview card",
+    "selector": ".editorial-cards .builder-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 959.5181884765624,
+        "height": 517.0051879882812,
+        "width": 396.0025939941406,
+        "x": 180.41665649414065,
+        "y": 442.5130004882813
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 956.5182189941406,
+        "height": 517.0051879882812,
+        "width": 396.0025939941406,
+        "x": 180.41665649414065,
+        "y": 439.5130310058594
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Article preview link",
+    "selector": ".editorial-cards .builder-card>a",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/",
+    "hovered": true,
+    "changed": [
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 371.1848831176758,
+        "height": 53.65885162353515,
+        "width": 344.3359375,
+        "x": 206.25,
+        "y": 317.5260314941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 368.1849136352539,
+        "height": 53.65885162353515,
+        "width": 344.3359375,
+        "x": 206.25,
+        "y": 314.52606201171875
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Service card",
+    "selector": ".service-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 939.0885009765624,
+        "height": 379.8046875,
+        "width": 276.9921875,
+        "x": 200.41665649414065,
+        "y": 559.2838134765625
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.0899216 0.146431 0.24702) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 936.0885620117188,
+        "height": 379.8046875,
+        "width": 276.9921875,
+        "x": 200.41665649414065,
+        "y": 556.2838745117188
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Service text link",
+    "selector": ".service-detail-link",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border",
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(199, 201, 255)",
+      "color": "rgb(199, 201, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 324.1666450500488,
+        "height": 43.99739456176758,
+        "width": 112.734375,
+        "x": 222.2395782470703,
+        "y": 280.16925048828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 321.1666450500488,
+        "height": 43.99739456176758,
+        "width": 112.734375,
+        "x": 222.2395782470703,
+        "y": 277.16925048828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Scope card",
+    "selector": ".service-outcome-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 892.7603759765625,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 200.41665649414065,
+        "y": 524.1666259765625
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.0899216 0.146431 0.24702) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 889.7604370117188,
+        "height": 368.59375,
+        "width": 577.9947509765625,
+        "x": 200.41665649414065,
+        "y": 521.1666870117188
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Related service pill",
+    "selector": ".seo-related-links a",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(245, 247, 255)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 379.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 200.41665649414065,
+        "y": 354.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "oklab(0.267038 -0.00790158 -0.0515064 / 0.996932) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "oklab(0.575626 -0.0210778 -0.127061)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 379.8567695617676,
+        "height": 25.598957061767575,
+        "width": 155.625,
+        "x": 200.41665649414065,
+        "y": 354.2578125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "FAQ summary",
+    "selector": ".service-faq summary",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/upwork-profile-bidding-management",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(242, 245, 252)",
+      "color": "rgb(242, 245, 252)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 776.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 200.41665649414065,
+        "y": 713.2551879882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 776.2369575500488,
+        "height": 62.98176956176758,
+        "width": 1180,
+        "x": 200.41665649414065,
+        "y": 713.2551879882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Portfolio category card",
+    "selector": ".portfolio-category-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 126.86198425292967,
+        "height": 270,
+        "width": 380,
+        "x": 200.41665649414065,
+        "y": -143.1380157470703
+      },
+      "shadow": "rgba(0, 0, 0, 0.1) 0px 16px 42px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 123.86198425292967,
+        "height": 270,
+        "width": 380,
+        "x": 200.41665649414065,
+        "y": -146.1380157470703
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Project filter",
+    "selector": ".portfolio-filter-tabs button",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "shadow",
+      "filter"
+    ],
+    "before": {
+      "background": "rgb(40, 104, 215) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(40, 104, 215)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 391.1458129882813,
+        "height": 45.6640625,
+        "width": 107.79947662353516,
+        "x": 200.41665649414065,
+        "y": 345.48175048828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(40, 104, 215) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(40, 104, 215)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "none",
+      "filter": "brightness(1.1)",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 391.1458129882813,
+        "height": 45.6640625,
+        "width": 107.79947662353516,
+        "x": 200.41665649414065,
+        "y": 345.48175048828125
+      },
+      "shadow": "rgba(84, 120, 255, 0.19) 0px 4px 14px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Portfolio project card",
+    "selector": ".portfolio-project-card",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgba(100, 112, 174, 0.07) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(157, 175, 220, 0.22)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 972.2135009765624,
+        "height": 501.4192504882813,
+        "width": 378.671875,
+        "x": 200.41665649414065,
+        "y": 470.7942504882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(100, 112, 174, 0.07) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 969.2135314941406,
+        "height": 501.4192504882813,
+        "width": 378.671875,
+        "x": 200.41665649414065,
+        "y": 467.7942810058594
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  },
+  {
+    "label": "Article sharing control",
+    "selector": ".page-sharing button",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 561.6145629882812,
+        "height": 42.5,
+        "width": 138.4895782470703,
+        "x": 850.9895629882812,
+        "y": 519.1145629882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.0899216 0.146431 0.24702) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 561.6145629882812,
+        "height": 42.5,
+        "width": 138.4895782470703,
+        "x": 850.9895629882812,
+        "y": 519.1145629882812
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Footer link",
+    "selector": ".footer-links>a",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border",
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(137, 150, 173)",
+      "color": "rgb(137, 150, 173)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 303.3853950500488,
+        "height": 24.739582061767575,
+        "width": 173.38540649414062,
+        "x": 908.75,
+        "y": 278.64581298828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 303.3853950500488,
+        "height": 24.739582061767575,
+        "width": 173.38540649414062,
+        "x": 908.75,
+        "y": 278.64581298828125
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Social brand PNG",
+    "selector": ".footer-socials a.social-linkedin",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/blog/ai-agents-vs-traditional-chatbots",
+    "hovered": true,
+    "changed": [
+      "color",
+      "transform",
+      "png"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(178, 190, 212)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": "grayscale(1)",
+      "rect": {
+        "bottom": 424.0755004882813,
+        "height": 41.9921875,
+        "width": 41.9921875,
+        "x": 284.4010314941406,
+        "y": 382.0833129882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(10, 102, 194)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": "grayscale(0.00306996)",
+      "rect": {
+        "bottom": 421.1251220703125,
+        "height": 41.9921875,
+        "width": 41.9921875,
+        "x": 284.4010314941406,
+        "y": 379.1329345703125
+      },
+      "shadow": "none",
+      "transform": "matrix(1, 0, 0, 1, 0, -2.9504)"
+    }
+  },
+  {
+    "label": "Mission card",
+    "selector": ".mission-vision-grid article",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/about",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow"
+    ],
+    "before": {
+      "background": "rgb(10, 14, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "oklab(0.850981 -0.00593683 -0.0472152)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 146.24998474121094,
+        "height": 291.96612548828125,
+        "width": 775.4166259765625,
+        "x": 0,
+        "y": -145.7161407470703
+      },
+      "shadow": "rgba(2, 8, 23, 0.08) 0px 3.76235px 9.40588px 0px",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(10, 14, 24) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 146.24998474121094,
+        "height": 291.96612548828125,
+        "width": 775.4166259765625,
+        "x": 0,
+        "y": -145.7161407470703
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Main navigation link",
+    "selector": ".site-nav>a[href=\"/about\"]",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/about",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(245, 247, 255)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 46.9921875,
+        "height": 20,
+        "width": 42.72135162353515,
+        "x": 651.5625,
+        "y": 26.9921875
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 46.9921875,
+        "height": 20,
+        "width": 42.72135162353515,
+        "x": 651.5625,
+        "y": 26.9921875
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Service disclosure",
+    "selector": ".work-service-group summary",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 513.5025939941406,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 464.6744689941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 513.5025939941406,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 464.6744689941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Service disclosure",
+    "selector": ".work-service-group summary",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/work",
+    "hovered": true,
+    "changed": [
+      "decoration"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 900,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 410.1692504882813,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 361.3411254882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(93, 152, 255)",
+      "color": "rgb(93, 152, 255)",
+      "decoration": "underline",
+      "filter": "none",
+      "height": 900,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 410.1692504882813,
+        "height": 48.828125,
+        "width": 520.3385009765625,
+        "x": 229.24478149414065,
+        "y": 361.3411254882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Theme control",
+    "selector": ".theme-toggle",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(15, 22, 43, 0.35) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(155, 168, 199, 0.28)",
+      "color": "rgb(178, 190, 212)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 447.2525825500488,
+        "height": 43.99739456176758,
+        "width": 43.99739456176758,
+        "x": 593.1640625,
+        "y": 403.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "color(srgb 0.0899216 0.146431 0.24702) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(178, 190, 212)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 447.2525825500488,
+        "height": 43.99739456176758,
+        "width": 43.99739456176758,
+        "x": 593.1640625,
+        "y": 403.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Main navigation link",
+    "selector": ".site-nav>a[href=\"/about\"]",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "color",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(16, 22, 42) rgb(16, 22, 42) rgba(160, 177, 220, 0.07)",
+      "color": "rgb(16, 22, 42)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 184.9739570617676,
+        "height": 48.48958206176758,
+        "width": 614.3228759765625,
+        "x": 22.83854103088379,
+        "y": 136.484375
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(56, 92, 214) rgb(56, 92, 214) rgba(160, 177, 220, 0.07)",
+      "color": "rgb(56, 92, 214)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 184.9739570617676,
+        "height": 48.48958206176758,
+        "width": 614.3228759765625,
+        "x": 22.83854103088379,
+        "y": 136.484375
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Theme control",
+    "selector": ".theme-toggle",
+    "theme": "light",
+    "path": "http://127.0.0.1:3000/services/digital-marketing-growth#category-services",
+    "hovered": true,
+    "changed": [
+      "background",
+      "border"
+    ],
+    "before": {
+      "background": "rgba(255, 255, 255, 0.85) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgba(155, 168, 199, 0.28)",
+      "color": "rgb(27, 37, 64)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 447.2525825500488,
+        "height": 43.99739456176758,
+        "width": 43.99739456176758,
+        "x": 593.1640625,
+        "y": 403.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "oklab(0.957049 0.000800868 -0.0150086 / 0.99918) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "oklab(0.648568 -0.00178636 -0.130252 / 0.996029)",
+      "color": "rgb(27, 37, 64)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 447.2525825500488,
+        "height": 43.99739456176758,
+        "width": 43.99739456176758,
+        "x": 593.1640625,
+        "y": 403.2551879882813
+      },
+      "shadow": "none",
+      "transform": "none"
+    }
+  },
+  {
+    "label": "Category overview card",
+    "selector": ".agency-category-jump>a",
+    "theme": "dark",
+    "path": "http://127.0.0.1:3000/services",
+    "hovered": true,
+    "changed": [
+      "border",
+      "shadow",
+      "transform"
+    ],
+    "before": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "rgb(41, 59, 87)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": false,
+      "png": null,
+      "rect": {
+        "bottom": 728.1900939941406,
+        "height": 308.2421875,
+        "width": 621.9921875,
+        "x": 18.997394561767575,
+        "y": 419.9479064941406
+      },
+      "shadow": "none",
+      "transform": "none"
+    },
+    "after": {
+      "background": "rgb(16, 26, 44) none repeat scroll 0% 0% / auto padding-box border-box",
+      "border": "color(srgb 0.293333 0.468431 0.769412)",
+      "color": "rgb(245, 247, 255)",
+      "decoration": "none",
+      "filter": "none",
+      "height": 655,
+      "hovered": true,
+      "png": null,
+      "rect": {
+        "bottom": 725.1901245117188,
+        "height": 308.2422180175781,
+        "width": 621.9921875,
+        "x": 18.997394561767575,
+        "y": 416.9479064941406
+      },
+      "shadow": "rgba(2, 8, 23, 0.25) 0px 12px 30px 0px",
+      "transform": "matrix(1, 0, 0, 1, 0, -3)"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "lib/homepage-content.ts",
+    "unchanged": true,
+    "sha256": "608b3a230d341c81bc01477f1f1b324c99280bdfa647676f7cb467e77ec6cf93"
+  },
+  {
+    "path": "lib/launch-articles.ts",
+    "unchanged": true,
+    "sha256": "d94a14e7f4f6946d029c2466fb32037b1cc7bad89bbd2ee9d36c3294623cb321"
+  },
+  {
+    "path": "lib/service-catalog.ts",
+    "unchanged": true,
+    "sha256": "d8c29061348ac5a59d59959acd730b930bc031d02b8f67b2829a3e3753d8539f"
+  },
+  {
+    "path": "lib/agency-catalog.ts",
+    "unchanged": true,
+    "sha256": "357962c81b69b5f1c909559dc3ecb60eb40c5dff2dbc3c5d39261b9cea0dd72d"
+  },
+  {
+    "path": "db/schema.sql",
+    "unchanged": true,
+    "sha256": "678a1e2f7f2cbd573ffc17b5a19188be50108eac1c53c08191c15bfe50cc8c3f"
+  },
+  {
+    "path": "package-lock.json",
+    "unchanged": true,
+    "sha256": "1a496cadff969a5d6c50d34c74ca3b59883a45290f66734aaa87b4d7ed4f233b"
+  },
+  {
+    "path": "netlify.toml",
+    "unchanged": true,
+    "sha256": "6436d33daadacc432a0cae04c5d8e461498305c892178367434d74259f853068"
+  },
+  {
+    "path": "public/project-media/salesfox-user-dashboard.png",
+    "unchanged": true,
+    "sha256": "012a1661e356c2b9c43db34f4cfce22dd6d8856c1504053aece78218d8504ccf"
+  }
+]

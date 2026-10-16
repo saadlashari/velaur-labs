@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "path": "db/schema.sql",
+      "unchanged": true,
+      "sha256": "678a1e2f7f2cbd573ffc17b5a19188be50108eac1c53c08191c15bfe50cc8c3f"
+    },
+    {
+      "path": "package.json",
+      "unchanged": true,
+      "sha256": "d1a15c9ccb6234829bcbb69365d76aed31c9952e798da586bd29c0b48b729ec7"
+    },
+    {
+      "path": "package-lock.json",
+      "unchanged": true,
+      "sha256": "1a496cadff969a5d6c50d34c74ca3b59883a45290f66734aaa87b4d7ed4f233b"
+    },
+    {
+      "path": "data/portfolio.json",
+      "unchanged": true,
+      "sha256": "6ea6683abb6a79d2ab77304327bce3db1d445a96752b991adebd4b5925e4152e"
+    },
+    {
+      "path": "data/agency-services.json",
+      "unchanged": true,
+      "sha256": "91438f9dbef3327bb6fad2bf764a51e7e906dbb08ffe6e578768ba1b3d9f4c99"
+    },
+    {
+      "path": "data/growth-solutions.json",
+      "unchanged": true,
+      "sha256": "3d9dd728bab35f3aa4a6cf761b62f597a6245f5c733471674a21327a4f823375"
+    },
+    {
+      "path": "app/components/process-experience.tsx",
+      "unchanged": true,
+      "sha256": "bfbd6cd21ff12ce96b692f26a641884397731e8c47e21f168adb97681d5cb287"
+    },
+    {
+      "path": "lib/homepage-content.ts",
+      "unchanged": true,
+      "sha256": "608b3a230d341c81bc01477f1f1b324c99280bdfa647676f7cb467e77ec6cf93"
+    }
+  ]
+}

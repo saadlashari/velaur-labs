@@ -1,0 +1,8 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const base=process.env.VELAUR_TEST_BASE_URL||'http://127.0.0.1:3000';
+const routes=JSON.parse(fs.readFileSync('verification/production-http.json','utf8')).results.map(result=>result.route).filter(route=>!route.startsWith('/api')&&!route.endsWith('.xml')&&!route.endsWith('.txt'));
+const destinations=new Set(),invalid=[];
+for(const route of routes){const response=await fetch(base+route,{signal:AbortSignal.timeout(15000)});assert.equal(response.status,200,route);const html=await response.text();for(const match of html.matchAll(/<a\b[^>]*\bhref="([^"]*)"/g)){const href=match[1].replaceAll('&amp;','&');if(!href||href==='#'||/^javascript:/i.test(href))invalid.push({route,href});if(href.startsWith('/')&&!href.startsWith('//'))destinations.add(href);}}
+assert.equal(invalid.length,0,'Empty or nonfunctional public anchors');
+const checks=[];for(const target of destinations){const response=await fetch(new URL(target,base),{redirect:'follow',signal:AbortSignal.timeout(15000)});assert.equal(response.status,200,target);checks.push({target,status:response.status});}
+const result={completedAt:new Date().toISOString(),pagesInspected:routes.length,internalDestinations:checks.length,invalidAnchors:invalid,passed:true,checks,limitations:'External portfolio URLs retain previous verification status; no booking or hosted integration submission performed.'};fs.writeFileSync('verification/public-links.json',JSON.stringify(result,null,2));console.log(JSON.stringify({pages:routes.length,internalDestinations:checks.length,passed:true}));

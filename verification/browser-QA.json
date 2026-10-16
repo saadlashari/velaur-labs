@@ -1,0 +1,55 @@
+{
+  "completedAt": "2026-10-14T09:45:50.320Z",
+  "browser": "Codex in-app Chromium",
+  "routeMeasurements": 122,
+  "routeMeasurementsPassed": true,
+  "navbarViewports": [
+    320,
+    360,
+    390,
+    768,
+    801,
+    1024,
+    1440,
+    1920
+  ],
+  "navbarPassed": true,
+  "internalDestinations": 65,
+  "internalLinksPassed": true,
+  "visualViews": [
+    "Homepage desktop and mobile, both themes",
+    "Tablet homepage",
+    "About desktop",
+    "Portfolio mobile",
+    "MyYogi project gallery mobile",
+    "Contact mobile",
+    "Mobile navigation panel",
+    "Admin login mobile"
+  ],
+  "interactions": [
+    "Mobile navigation opens/closes",
+    "Desktop and mobile services menu toggles both ways",
+    "Escape closes menu and restores focus",
+    "Portfolio filter/search navigates to the correct project",
+    "Shared theme state updates between menu and desktop controls",
+    "Password show/hide works without entering credentials",
+    "Contact failure/retry/success/timeout tested with controlled React fixtures"
+  ],
+  "scroll": {
+    "headerTop": 0,
+    "darkAlpha": [
+      0.62,
+      0.94
+    ],
+    "lightAlpha": [
+      0.64,
+      0.95
+    ]
+  },
+  "limitations": [
+    "All-route geometry sweep used development preview; final representative browser tests used production server",
+    "No authenticated admin session available",
+    "No hosted provider delivery or upload tested",
+    "No Safari/Firefox, physical-device, complete WCAG or performance audit"
+  ]
+}

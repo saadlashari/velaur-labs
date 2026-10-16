@@ -1,0 +1,20 @@
+'use client';
+import {useId,useState} from 'react';
+import {blockTypes,createBlock,type BuilderBlock,type BlockType} from '@/lib/builder-blocks';
+import {MediaPicker} from './media-picker';
+export default function BlockEditor({blocks,onChange,depth=0}:{blocks:BuilderBlock[];onChange:(blocks:BuilderBlock[])=>void;depth?:number}){
+ const [type,setType]=useState<BlockType>('TEXT');
+ const dragType='application/velaur-block-'+useId().replace(/[^a-z0-9]/gi,'').toLowerCase();
+ const change=(index:number,patch:Partial<BuilderBlock>)=>onChange(blocks.map((block,i)=>i===index?{...block,...patch}:block));
+ const move=(index:number,target:number)=>{if(target<0||target>=blocks.length)return;const next=[...blocks];next.splice(target,0,next.splice(index,1)[0]);onChange(next);};
+ return <div className="block-tree-editor"><div className="cms-section-tools"><select aria-label="New block type" value={type} onChange={event=>setType(event.target.value as BlockType)}>{blockTypes.filter(t=>depth<5||t!=='CONTAINER').map(type=><option key={type}>{type}</option>)}</select><button type="button" onClick={()=>onChange([...blocks,createBlock(type)])}>Add block</button></div>
+  {blocks.map((block,index)=><details key={block.id} className="block-tree-node" open onDragOver={event=>event.preventDefault()} onDrop={event=>{event.preventDefault();event.stopPropagation();const from=Number(event.dataTransfer.getData(dragType));if(event.dataTransfer.types.includes(dragType))move(from,index);}}>
+   <summary>{index+1} · {block.type}</summary><div className="cms-section-tools"><button type="button" draggable onDragStart={event=>{event.stopPropagation();event.dataTransfer.setData(dragType,String(index));}} aria-label="Drag block">↕</button><button type="button" disabled={index===0} onClick={()=>move(index,index-1)}>Move up</button><button type="button" disabled={index===blocks.length-1} onClick={()=>move(index,index+1)}>Move down</button><button type="button" onClick={()=>onChange(blocks.filter((_,i)=>i!==index))}>Delete</button></div>
+   {['HEADING','TEXT','BUTTON'].includes(block.type)&&<label>Text<textarea value={block.text||''} onChange={event=>change(index,{text:event.target.value})}/></label>}
+   {['IMAGE','BUTTON'].includes(block.type)&&<label>URL<input value={block.url||''} onChange={event=>change(index,{url:event.target.value})}/></label>}
+   {block.type==='IMAGE'&&<><MediaPicker onSelect={asset=>change(index,{url:asset.url,alt:asset.alt})}/><label>Alt text<input value={block.alt||''} onChange={event=>change(index,{alt:event.target.value})}/></label></>}
+   <details><summary>Design and breakpoints</summary><div className="cms-fields">{['fontSize','tabletFontSize','mobileFontSize','padding','tabletPadding','mobilePadding','gap','radius','height',...(block.type==='CONTAINER'?['columns','tabletColumns','mobileColumns']:[])].map(key=><label key={key}>{key.replace(/([A-Z])/g,' $1')}<input type="number" min={key.endsWith('Columns')||key==='columns'?1:0} max={key.endsWith('Columns')||key==='columns'?4:600} value={String(block.style?.[key]??'')} onChange={event=>{const style={...block.style};if(event.target.value==='')delete style[key];else style[key]=Number(event.target.value);change(index,{style});}}/></label>)}{['color','background','borderColor'].map(key=><label key={key}>{key}<input type="color" value={String(block.style?.[key]||'#ffffff')} onChange={event=>change(index,{style:{...block.style,[key]:event.target.value}})}/></label>)}<label>Alignment<select value={String(block.style?.align||'left')} onChange={event=>change(index,{style:{...block.style,align:event.target.value}})}>{['left','center','right'].map(value=><option key={value}>{value}</option>)}</select></label>{['Desktop','Tablet','Mobile'].map(device=><label key={device}><input type="checkbox" checked={block.style?.['hideOn'+device]===true} onChange={event=>change(index,{style:{...block.style,['hideOn'+device]:event.target.checked}})}/>Hide on {device}</label>)}</div></details>
+   {block.type==='CONTAINER'&&depth<6&&<BlockEditor blocks={block.children||[]} depth={depth+1} onChange={children=>change(index,{children})}/>}
+  </details>)}
+ </div>;
+}

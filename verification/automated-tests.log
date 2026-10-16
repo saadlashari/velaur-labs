@@ -1,0 +1,319 @@
+
+verify-source.mjs (exit 0)
+{
+  "filesInspected": 139,
+  "requiredRoutesChecked": 12,
+  "errors": []
+}
+
+test-reference-redesign.mjs (exit 0)
+{"suite":"Reference redesign content and persistence regressions","passed":22}
+
+test-refinement-ui.mjs (exit 0)
+{"suite":"Scroll process, CMS fields, social validation and icon regressions","passed":38}
+
+test-bespoke-page-preservation.mjs (exit 0)
+PASS: about preserves bespoke content and appends optional CMS sections
+PASS: services preserves bespoke content and appends optional CMS sections
+PASS: work preserves bespoke content and appends optional CMS sections
+PASS: blog preserves bespoke content and appends optional CMS sections
+
+test-bespoke-settings.mjs (exit 0)
+PASS: 10 settings across API, admin UI and three public pages
+
+test-blog-content.mjs (exit 0)
+PASS: blog editor, cover, sections, API validation, list/detail/home wiring
+
+test-home-section-style-wiring.mjs (exit 0)
+PASS: 8 bespoke homepage sections, editor, server validation, and public style wiring verified
+
+test-section-content-validation.mjs (exit 0)
+PASS: URL scheme, credentials, item links, alt text and valid-content tests (12 cases)
+
+test-export-integrity.mjs (exit 0)
+Export verifier: 4 integrity tests passed
+
+test-restore-content.mjs (exit 0)
+Restore CLI: 3 safety tests passed (offline validation, confirmation gate, tamper rejection).
+
+test-portfolio-browser.mjs (exit 0)
+5 portfolio filtering tests passed
+
+test-integration.mjs (exit 0)
+PASS initial administrator bootstrap
+PASS bootstrap cannot create a second administrator
+PASS super admin cannot bypass 2FA enrollment
+PASS TOTP enrollment transaction
+PASS ten recovery codes returned once
+PASS foreign-origin login rejected
+PASS malformed login fields rejected
+PASS password and TOTP sign-in
+PASS TOTP replay rejected
+PASS recovery-code sign-in
+PASS recovery code cannot be reused
+PASS page creation
+PASS atomic page publication
+PASS isolated draft save
+PASS autosave leaves public content unchanged
+PASS stale save conflicts instead of overwriting
+PASS duplicate section keys rejected
+PASS unsafe links rejected
+PASS snapshot content export
+PASS security settings excluded from content export
+PASS export checksums and counts verified
+PASS restore creates a draft
+PASS restoring a revision leaves live content unchanged
+PASS prepare isolated draft for review
+PASS submit isolated page draft for approval
+PASS review cannot publish changes made after submission
+PASS stale review can be resubmitted
+PASS approval publishes the reviewed draft atomically
+PASS approved draft becomes public
+PASS contact inquiry is saved with no email provider
+PASS unconfigured email delivery is recorded without losing inquiry
+PASS inquiry accepts AI Development
+PASS inquiry accepts Web Development
+PASS inquiry accepts Mobile App Development
+PASS inquiry accepts AI Automation
+PASS inquiry accepts AI Integration
+PASS inquiry accepts UI/UX Design
+PASS inquiry accepts Software Testing & QA
+PASS inquiry accepts Deployment & Maintenance
+PASS inquiry accepts B2B Lead Generation
+PASS inquiry accepts LinkedIn Outreach
+PASS inquiry accepts Cold Email Outreach
+PASS inquiry accepts Appointment Setting
+PASS inquiry accepts Upwork Profile & Bidding Management
+PASS inquiry accepts CRM & Sales Automation
+PASS inquiry accepts Meta Ads Management
+PASS inquiry accepts Google Ads Management
+PASS inquiry accepts Email Marketing & Automation
+PASS inquiry accepts Social Media Management
+PASS inquiry accepts SEO & Content Marketing
+PASS inquiry accepts Landing Pages & Conversion Rate Optimization
+PASS inquiry accepts Branding & Creative Strategy
+PASS inquiry accepts B2B Client Acquisition System
+PASS inquiry accepts E-commerce Growth System
+PASS inquiry accepts Startup Launch System
+PASS inquiry accepts AI-Powered Business Automation
+PASS inquiry accepts Agency & Freelancer Growth System
+PASS inquiry accepts AI & Software Development
+PASS inquiry accepts Business Development
+PASS inquiry accepts Digital Marketing & Growth
+PASS inquiry accepts Other
+PASS business website persists in inquiry details without a schema change
+PASS unsafe business website rejected
+PASS honeypot does not report false success
+PASS contact requires consent
+PASS foreign-origin contact rejected
+PASS nested layout validates
+PASS layout images require alt text
+PASS SVG disguised as PNG rejected
+PASS PNG signature recognized
+PASS approved catalog has exactly 38 entries
+PASS approved project URLs are unique
+PASS approved catalog renders without seeded database projects
+PASS CMS draft overrides approved fallback and stays private
+PASS draft override is excluded from public listing
+PASS overview counts the same visible portfolio as the public website
+PASS overview includes visible original articles as well as saved articles
+PASS all existing and new service defaults appear in content library
+PASS owner can hide original service without prior seeding
+PASS hidden default service stays hidden
+PASS hidden service detail cannot resurface fallback
+PASS custom service creation
+PASS new service appears in public service listing
+PASS new custom service has a working detail page
+PASS owner can hide original article with its bundled image
+PASS draft article overrides static fallback
+PASS hidden original article absent from public listing
+PASS original article can be shown again
+PASS restored original article is public
+PASS original article moves to trash
+PASS deleted original article does not reappear from fallback
+PASS bundled editorial notes validate
+PASS article source executable URL rejected
+PASS approved editorial content publishes through actual content API
+PASS public article reads saved editorial text rather than bundled defaults
+PASS primary source survives database round trip
+PASS disposable PostgreSQL filesystem backup restores page data
+PASS disposable PostgreSQL backup restores authentication data
+PASS database limiter rejects attempt eleven
+PASS SEO draft saves independently
+PASS SEO draft does not leak to public settings
+PASS SEO stale draft rejected
+PASS SEO endpoint cannot alter unrelated site settings
+PASS SEO endpoint rejects unknown routes
+PASS SEO foreign-origin save rejected
+PASS SEO publication succeeds atomically
+PASS published SEO title follows saved settings
+PASS published H1 follows SEO workspace
+PASS published takeaway survives draft and publish
+PASS SEO noindex applied to public metadata
+PASS SEO noindex removes URL from sitemap
+PASS SEO defaults restored without changing original content
+PASS sharing image rejects executable URL
+PASS sharing image requires HTTPS
+PASS sharing image rejects URL credentials
+PASS sharing image rejects protocol-relative URLs
+PASS invalid legacy image falls back to original premium card
+PASS SEO editor receives published default sharing image
+PASS SEO API rejects insecure sharing image
+PASS sharing image draft saves
+PASS image draft stays private
+PASS image draft reloads into editor
+PASS sharing image publishes through permission-checked API
+PASS published Open Graph image /
+PASS published image alt /
+PASS published Twitter image /
+PASS custom image dimensions not invented /
+PASS published Open Graph image /services/upwork-profile-bidding-management
+PASS published image alt /services/upwork-profile-bidding-management
+PASS published Twitter image /services/upwork-profile-bidding-management
+PASS custom image dimensions not invented /services/upwork-profile-bidding-management
+PASS published Open Graph image /work/projects/salesfox-website
+PASS published image alt /work/projects/salesfox-website
+PASS published Twitter image /work/projects/salesfox-website
+PASS custom image dimensions not invented /work/projects/salesfox-website
+PASS published Open Graph image /blog/ai-agents-vs-traditional-chatbots
+PASS published image alt /blog/ai-agents-vs-traditional-chatbots
+PASS published Twitter image /blog/ai-agents-vs-traditional-chatbots
+PASS custom image dimensions not invented /blog/ai-agents-vs-traditional-chatbots
+PASS original premium sharing image restored
+PASS original sharing image has verified width
+PASS original-page design draft accepts complete settings
+PASS original-page draft is isolated from public settings
+PASS element overrides stay private in draft
+PASS designer API rejects unsafe selectors
+PASS original-page preview reads scoped draft settings
+PASS preview context cannot leak into public requests
+PASS category pages remain available in authenticated designer
+PASS growth solution pages remain available in authenticated designer
+PASS authenticated preview receives unsaved original-page settings
+PASS original-page draft detects another editor save
+PASS original-page design publishes atomically
+PASS published original-page settings become public
+PASS new scroll process detail fields publish
+PASS footer grouping publishes
+PASS configured social URL publishes
+PASS new homepage colors and spacing publish through actual CMS API
+PASS capability title and visibility publish through actual CMS API
+PASS approved element graph publishes with settings transaction
+PASS optional topbar publishes with site structure
+PASS header visibility publishes
+PASS footer visibility publishes
+PASS structure links reject script URLs
+PASS original-page revision exposes prior content only to owner
+PASS loading old original-page design leaves publication unchanged
+PASS live settings write uses shared publish lock
+PASS designer cannot overwrite later live settings changes
+PASS sub-admin supports all modules exposed by permissions UI
+PASS creation cannot grant super-admin role
+PASS super admin can disable sub-admin
+PASS disabling sub-admin revokes sessions
+PASS creator cannot hide default service without publishing permission
+PASS creator cannot shadow original article without publishing permission
+PASS creator cannot shadow approved portfolio without publishing permission
+PASS sub admin cannot export sensitive data
+PASS sub admin cannot publish
+PASS editor can prepare draft of published page
+PASS SEO view requires settings permission
+PASS logout revokes session
+PASS revoked session cannot authenticate
+PASS SEO anonymous read rejected
+PASS anonymous original-page draft preview rejected
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":182,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
+
+test-builder-ui.mjs (exit 0)
+PASS hidden sections excluded from canvas
+PASS canvas selection exposes editable fields
+PASS canvas text updates public renderer
+PASS keyboard-friendly section reorder
+PASS create nested container
+PASS insert heading into container
+PASS edit nested heading
+PASS insert nested button
+PASS reorder sibling blocks
+PASS responsive property edits persist
+PASS remove nested block without removing container
+PASS editor produces a valid layout tree
+PASS reject active block URLs
+PASS reject unsupported arbitrary CSS
+PASS reject duplicate block IDs
+PASS original-page designer saves draft explicitly
+PASS original-page designer preserves edited text
+PASS original-page preview switches to mobile frame
+PASS designer undo preserves history
+PASS designer redo restores history
+PASS publishing requires a separate explicit action
+PASS designer restores revision into editable draft
+{"suite":"React DOM interactions in jsdom","passed":22,"limitation":"DOM behavior verified; not a browser visual, real iframe or pointer-drag geometry test"}
+PASS safe element graph accepted
+PASS selectors restricted to public site
+PASS arbitrary CSS rejected
+PASS active image URLs rejected
+PASS element text escaped as plain text
+PASS desktop element style applied
+PASS mobile override selected on resize
+PASS mutation observer preserves active inline editing
+PASS reset restores original element text
+PASS reset restores original element style
+PASS element inspector edits text
+PASS element inspector persists breakpoint style
+PASS prominent alignment control persists mobile style
+PASS text formatting is visible without advanced menus
+PASS element inspector reset
+Element controls included; total 37 assertions passed.
+PASS contextual content properties accepted
+PASS active button destinations rejected
+PASS visibility requires boolean
+PASS hide removes original element from visual layout
+PASS button destination updates
+PASS create content renders beside existing element
+PASS created button works
+PASS soft delete hides selected element
+PASS changing graph cleans inserted content
+PASS show restores original display
+PASS reset restores original button destination
+Contextual actions included; total 48 assertions passed.
+PASS original components reorder without replacing their markup
+PASS reset restores original component order
+PASS negative component positions rejected
+PASS mobile navigation opens
+PASS Escape closes navigation
+PASS Escape returns keyboard focus to menu
+PASS current-page link also closes mobile navigation
+PASS outside click closes navigation
+PASS service dropdown opens on click
+PASS mobile service category accordion opens accessibly
+PASS mega menu includes new business development service
+PASS service category accordion closes
+PASS service dropdown closes on second click
+PASS menu and desktop appearance controls stay synchronized
+PASS scroll switches header surface
+Public navigation included; total 63 assertions passed.
+PASS service inquiry preselects the originating service
+PASS real website field is separate from hidden spam field
+PASS failed inquiry retains entered information
+PASS successful inquiry shows server reference
+PASS new inquiry clears the completed form
+PASS timeout retains inquiry for retry
+Contact interactions included; total 69 assertions passed.
+PASS library starts with context actions instead of an open form
+PASS hide requests a private draft
+PASS visibility changes carry record version
+PASS show explicitly requests publication
+PASS delete uses server DELETE permission gate
+PASS trash supports restoring content
+PASS new content generates a readable address
+PASS new content stays private by default
+Content library interactions included; total 77 assertions passed.
+PASS hiding an unsaved website default creates its controlling row
+PASS default visibility preserves its original address
+PASS hiding a default preserves its approved content
+PASS editing a virtual default never sends an invalid UUID patch
+PASS default edits save the actual editor values
+Default content interactions included; total 82 assertions passed.
+
+test-public-rendering.mjs (exit 0)
+{"suite":"Public route components rendered with real React SSR","passed":111,"routes":83,"limitations":["Next Link/Image/navigation adapters used","No HTTP transport, hydration or browser geometry checked","Database-independent approved catalog checked"]}

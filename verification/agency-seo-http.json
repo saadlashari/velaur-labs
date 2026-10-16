@@ -1,0 +1,225 @@
+{
+  "completedAt": "2026-10-16T11:46:04.101Z",
+  "passed": true,
+  "checks": 31,
+  "results": [
+    {
+      "route": "/services",
+      "status": 200,
+      "title": "Technology, Business Development &amp; Digital Marketing Services | VELAUR LABS",
+      "description": "Explore 21 services across AI and software, B2B business development and digital marketing, plus connected Growth Solutions for remote teams.",
+      "canonical": "https://velaurlabs.com/services"
+    },
+    {
+      "route": "/services/ai-software-development",
+      "status": 200,
+      "title": "AI &amp; Software Development Services for Remote Teams | VELAUR LABS",
+      "description": "Explore AI development, websites, mobile apps, automation, integrations, UI/UX, software testing and maintenance with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/ai-software-development"
+    },
+    {
+      "route": "/services/business-development",
+      "status": 200,
+      "title": "Business Development Services for Agencies &amp; B2B Teams | VELAUR LABS",
+      "description": "B2B lead generation, LinkedIn outreach, cold email, appointment setting, Upwork handling and CRM sales automation for remote businesses.",
+      "canonical": "https://velaurlabs.com/services/business-development"
+    },
+    {
+      "route": "/services/digital-marketing-growth",
+      "status": 200,
+      "title": "Digital Marketing Services for Brands, Startups &amp; Agencies | VELAUR LABS",
+      "description": "Explore Meta ads, Google Ads, email automation, social media, SEO, landing pages and branding with a remote digital marketing partner.",
+      "canonical": "https://velaurlabs.com/services/digital-marketing-growth"
+    },
+    {
+      "route": "/growth-solutions",
+      "status": 200,
+      "title": "Connected Growth Solutions for Agencies, Brands &amp; Startups | VELAUR LABS",
+      "description": "Explore five scoped solutions for B2B client acquisition, e-commerce growth, startup launch, AI automation and agency or freelancer growth.",
+      "canonical": "https://velaurlabs.com/growth-solutions"
+    },
+    {
+      "route": "/services/ai-development",
+      "status": 200,
+      "title": "AI Development Services for Products &amp; Businesses | VELAUR LABS",
+      "description": "Build practical AI products with VELAUR LABS: AI application development, LLM workflows, intelligent assistants and evaluation for remote teams.",
+      "canonical": "https://velaurlabs.com/services/ai-development"
+    },
+    {
+      "route": "/services/web-development",
+      "status": 200,
+      "title": "Web Development Services &amp; Custom Web Applications | VELAUR LABS",
+      "description": "Custom website and web application development for startups, agencies and businesses. Work remotely with VELAUR LABS from planning through launch.",
+      "canonical": "https://velaurlabs.com/services/web-development"
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "status": 200,
+      "title": "Mobile App Development Services for iOS &amp; Android | VELAUR LABS",
+      "description": "Plan, design and develop mobile apps for iOS and Android with VELAUR LABS. Remote collaboration, connected backends, testing and release support.",
+      "canonical": "https://velaurlabs.com/services/mobile-app-development"
+    },
+    {
+      "route": "/services/ai-automation",
+      "status": 200,
+      "title": "AI Automation Services &amp; Business Workflow Automation | VELAUR LABS",
+      "description": "Connect repetitive business workflows with practical AI automation. VELAUR LABS helps scope document processing, routing, handoffs and review steps.",
+      "canonical": "https://velaurlabs.com/services/ai-automation"
+    },
+    {
+      "route": "/services/ai-integration",
+      "status": 200,
+      "title": "AI Integration Services for Existing Software | VELAUR LABS",
+      "description": "Add AI capabilities to your existing website, application or CRM. VELAUR LABS scopes APIs, data access, evaluation and human review with your team.",
+      "canonical": "https://velaurlabs.com/services/ai-integration"
+    },
+    {
+      "route": "/services/ui-ux-design",
+      "status": 200,
+      "title": "UI/UX Design Services for Websites &amp; Digital Products | VELAUR LABS",
+      "description": "User experience research, interface design and responsive product flows for websites and applications. Collaborate remotely with VELAUR LABS designers.",
+      "canonical": "https://velaurlabs.com/services/ui-ux-design"
+    },
+    {
+      "route": "/services/software-testing",
+      "status": 200,
+      "title": "Software Testing &amp; QA Services for Web &amp; Mobile | VELAUR LABS",
+      "description": "Practical software testing and quality assurance for web applications, mobile apps and releases. Define coverage, reproduce issues and review fixes remotely.",
+      "canonical": "https://velaurlabs.com/services/software-testing"
+    },
+    {
+      "route": "/services/deployment-maintenance",
+      "status": 200,
+      "title": "Deployment &amp; Website Maintenance Services | VELAUR LABS",
+      "description": "Launch and maintain websites and applications with a clear operational plan. VELAUR LABS scopes deployments, updates, backups and ongoing support.",
+      "canonical": "https://velaurlabs.com/services/deployment-maintenance"
+    },
+    {
+      "route": "/services/b2b-lead-generation",
+      "status": 200,
+      "title": "B2B Lead Generation Services for Agencies &amp; Businesses | VELAUR LABS",
+      "description": "Build a focused B2B prospecting pipeline with VELAUR LABS: ideal customer research, account lists, qualification criteria and sales handoff support.",
+      "canonical": "https://velaurlabs.com/services/b2b-lead-generation"
+    },
+    {
+      "route": "/services/linkedin-outreach",
+      "status": 200,
+      "title": "LinkedIn Outreach Services &amp; B2B Prospecting Support | VELAUR LABS",
+      "description": "Plan relevant LinkedIn prospecting and outreach for B2B services. VELAUR LABS supports audience research, messaging, response workflows and sales handoffs.",
+      "canonical": "https://velaurlabs.com/services/linkedin-outreach"
+    },
+    {
+      "route": "/services/cold-email-outreach",
+      "status": 200,
+      "title": "Cold Email Outreach Services for B2B Teams | VELAUR LABS",
+      "description": "Plan B2B cold email campaigns with audience research, offer messaging, deliverability review and response workflows. Work remotely with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/cold-email-outreach"
+    },
+    {
+      "route": "/services/appointment-setting",
+      "status": 200,
+      "title": "B2B Appointment Setting Services &amp; Meeting Qualification | VELAUR LABS",
+      "description": "Create a clear route from prospect interest to a qualified sales conversation. VELAUR LABS supports appointment setting, scheduling and CRM handoffs.",
+      "canonical": "https://velaurlabs.com/services/appointment-setting"
+    },
+    {
+      "route": "/services/upwork-profile-bidding-management",
+      "status": 200,
+      "title": "Upwork Profile Optimization &amp; Bidding Management Services | VELAUR LABS",
+      "description": "Upwork handling for freelancers and agencies: profile positioning, opportunity research, proposal writing and bidding support through authorized workflows.",
+      "canonical": "https://velaurlabs.com/services/upwork-profile-bidding-management"
+    },
+    {
+      "route": "/services/crm-sales-automation",
+      "status": 200,
+      "title": "CRM &amp; Sales Automation Services for B2B Teams | VELAUR LABS",
+      "description": "Connect lead capture, pipeline stages, follow-ups and sales handoffs. VELAUR LABS scopes CRM setup, workflow automation and reporting for remote teams.",
+      "canonical": "https://velaurlabs.com/services/crm-sales-automation"
+    },
+    {
+      "route": "/services/meta-ads-management",
+      "status": 200,
+      "title": "Meta Ads Management Services for Facebook &amp; Instagram | VELAUR LABS",
+      "description": "Plan and manage Facebook and Instagram advertising with VELAUR LABS. Audience strategy, creative testing, landing-page alignment and reporting.",
+      "canonical": "https://velaurlabs.com/services/meta-ads-management"
+    },
+    {
+      "route": "/services/google-ads-management",
+      "status": 200,
+      "title": "Google Ads Management Services &amp; PPC Campaign Support | VELAUR LABS",
+      "description": "Google Ads campaign planning, search intent mapping, landing-page alignment and conversion measurement support for businesses working with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/google-ads-management"
+    },
+    {
+      "route": "/services/email-marketing-automation",
+      "status": 200,
+      "title": "Email Marketing &amp; Automation Services for Brands | VELAUR LABS",
+      "description": "Plan lifecycle emails, newsletters and automated customer journeys with VELAUR LABS. Segmentation, message design, workflow setup and reporting.",
+      "canonical": "https://velaurlabs.com/services/email-marketing-automation"
+    },
+    {
+      "route": "/services/social-media-management",
+      "status": 200,
+      "title": "Social Media Management Services for Businesses &amp; Agencies | VELAUR LABS",
+      "description": "Organize social content, brand messaging and publishing workflows with VELAUR LABS. Practical social media management for remote businesses and teams.",
+      "canonical": "https://velaurlabs.com/services/social-media-management"
+    },
+    {
+      "route": "/services/seo-content-marketing",
+      "status": 200,
+      "title": "SEO &amp; Content Marketing Services for Organic Discovery | VELAUR LABS",
+      "description": "Technical SEO, search intent planning and useful website content for businesses, agencies and startups. Build a focused organic discovery plan with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/services/seo-content-marketing"
+    },
+    {
+      "route": "/services/landing-pages-conversion-rate-optimization",
+      "status": 200,
+      "title": "Landing Page Design &amp; Conversion Rate Optimization | VELAUR LABS",
+      "description": "Improve the path from campaign click to qualified inquiry with VELAUR LABS landing-page design, form UX and conversion rate optimization support.",
+      "canonical": "https://velaurlabs.com/services/landing-pages-conversion-rate-optimization"
+    },
+    {
+      "route": "/services/branding-creative-strategy",
+      "status": 200,
+      "title": "Branding &amp; Creative Strategy Services for Digital Businesses | VELAUR LABS",
+      "description": "Clarify positioning, messaging and visual direction with VELAUR LABS. Branding and creative strategy for startups, agencies, brands and product launches.",
+      "canonical": "https://velaurlabs.com/services/branding-creative-strategy"
+    },
+    {
+      "route": "/growth-solutions/b2b-client-acquisition-system",
+      "status": 200,
+      "title": "B2B Client Acquisition System for Agencies &amp; Software Houses | VELAUR LABS",
+      "description": "Connect B2B lead research, outreach, appointment setting and CRM workflows in one scoped client acquisition engagement with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/b2b-client-acquisition-system"
+    },
+    {
+      "route": "/growth-solutions/e-commerce-growth-system",
+      "status": 200,
+      "title": "E-commerce Growth Services &amp; Connected Marketing Systems | VELAUR LABS",
+      "description": "Connect e-commerce landing pages, paid campaigns, lifecycle emails and measurement in a scoped growth engagement for online brands with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/e-commerce-growth-system"
+    },
+    {
+      "route": "/growth-solutions/startup-launch-system",
+      "status": 200,
+      "title": "Startup Launch Services from Product to Go-to-Market | VELAUR LABS",
+      "description": "Plan a startup launch with connected product development, branding, landing pages and go-to-market support. Scope the next phase remotely with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/startup-launch-system"
+    },
+    {
+      "route": "/growth-solutions/ai-powered-business-automation",
+      "status": 200,
+      "title": "AI-Powered Business Automation &amp; Connected Workflows | VELAUR LABS",
+      "description": "Plan AI-assisted business automation across CRM, applications and operational workflows. Work with VELAUR LABS on scoped pilots and human review.",
+      "canonical": "https://velaurlabs.com/growth-solutions/ai-powered-business-automation"
+    },
+    {
+      "route": "/growth-solutions/agency-freelancer-growth-system",
+      "status": 200,
+      "title": "Agency &amp; Freelancer Growth Services and Business Development | VELAUR LABS",
+      "description": "Connect positioning, portfolio presentation, Upwork support, B2B outreach and CRM workflows for agencies and freelancers working with VELAUR LABS.",
+      "canonical": "https://velaurlabs.com/growth-solutions/agency-freelancer-growth-system"
+    }
+  ],
+  "limits": "Local production HTML, metadata, breadcrumbs, sitemap and fragment checks; not search-engine indexing or real provider delivery."
+}

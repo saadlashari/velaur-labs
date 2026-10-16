@@ -1,0 +1,12 @@
+import {BrainCircuit,Users,Code2,Smartphone,TrendingUp,MessageCircle,BookOpen,ShieldCheck,Palette} from 'lucide-react';
+export function heroTopic(text:string){const value=text.toLowerCase();if(/about|who we are/.test(value))return 'about';if(/privacy|terms/.test(value))return 'legal';if(/contact/.test(value))return 'contact';if(/mobile|yoga|yogi|training app/.test(value))return 'mobile';if(/marketing|ads |seo|brand|content|conversion/.test(value))return 'marketing';if(/outreach|lead generation|appointment|crm|bidding|business development/.test(value))return 'business';if(/growth|launch system|acquisition/.test(value))return 'growth';if(/insights|article|chatbot|agents vs/.test(value))return 'insights';if(/design/.test(value))return 'design';if(/ai |automation|integration|intelligent/.test(value))return 'ai';return 'software';}
+export default function HeroVisual({text}:{text:string}){
+ const topic=heroTopic(text),Icon={about:Users,legal:ShieldCheck,contact:MessageCircle,mobile:Smartphone,marketing:TrendingUp,business:Users,growth:TrendingUp,insights:BookOpen,design:Palette,ai:BrainCircuit,software:Code2}[topic];
+ const labels={about:['People','Purpose','Possibility'],legal:['Clarity','Trust','Responsibility'],contact:['Your idea','A conversation','Next steps'],mobile:['Experience','Interaction','On the move'],marketing:['Audience','Message','Conversion'],business:['Research','Conversation','Pipeline'],growth:['Technology','Business','Growth'],insights:['Ideas','Perspective','Practice'],design:['Explore','Shape','Refine'],ai:['Context','Intelligence','Action'],software:['Interface','Logic','Connection']}[topic];
+ return <div className={`inner-hero-visual visual-${topic}`} role="img" aria-label={`${topic==='about'?'Connected people and ideas':topic+' capabilities'} illustration`}>
+  <div className="hero-visual-halo"/><div className="hero-visual-grid"/>
+  <div className="hero-visual-window"><div className="visual-window-bar"><i/><i/><i/><span>VELAUR LABS</span></div><div className="visual-main-icon"><Icon size={58}/></div>
+  {topic==='mobile'?<div className="visual-phone-pair"><div><i/><b/><span/><span/></div><div><i/><b/><span/><span/></div></div>:topic==='about'||topic==='business'?<div className="visual-people"><i/><i/><i/><span/><span/><span/></div>:topic==='marketing'||topic==='growth'?<div className="visual-growth"><i/><i/><i/><i/><i/></div>:<div className="visual-panels"><i/><i/><i/><span/><span/></div>}
+  </div><div className="visual-topic-tags">{labels.map(label=><span key={label}>{label}</span>)}</div>
+ </div>;
+}

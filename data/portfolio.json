@@ -1,0 +1,2157 @@
+[
+  {
+    "slug": "cakes-and-bakes-website",
+    "title": "Cakes and Bakes",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A bakery storefront with product discovery and location-based ordering.",
+    "content": {
+      "paragraphs": [
+        "A bakery storefront with product discovery and location-based ordering."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/cakes-and-bakes-website-public.jpg",
+          "alt": "Cakes and Bakes — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/cakes-and-bakes-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Bakery customers need to discover suitable products and understand where and how to place an order.",
+      "solution": "A bakery storefront connects product discovery with location and ordering information, keeping the customer journey focused on the next useful action.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://cakesandbakes.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 1,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "cakes-and-bakes-website-public.jpg",
+        "url": "https://cakesandbakes.com/",
+        "provider": "Automattic mShots",
+        "sha256": "53977864ba8a1385f9c7c0b04e0417a5368f745d972c42fe20234c952ac6026d",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "kips-publications-website",
+    "title": "KIPS Publications",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "An educational publishing storefront for discovering books and exam preparation resources.",
+    "content": {
+      "paragraphs": [
+        "An educational publishing storefront for discovering books and exam preparation resources."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/kips-publications-website-public.jpg",
+          "alt": "KIPS Publications — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/kips-publications-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Students and buyers need to find publications that match their study and exam-preparation needs.",
+      "solution": "The publishing storefront presents books and preparation resources as a browsable product offering, with the approved public website available for further exploration.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://kipspublications.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 2,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "kips-publications-website-public.jpg",
+        "url": "https://kipspublications.com/",
+        "provider": "Automattic mShots",
+        "sha256": "5a06f238979aedcb7d83b829a73a4fe68726e81c7ce801914223f72679613234",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "bodytalk-system-website",
+    "title": "BodyTalk System",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A wellness education website with courses, practitioner information and member access.",
+    "content": {
+      "paragraphs": [
+        "A wellness education website with courses, practitioner information and member access."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/bodytalk-system-website-public.jpg",
+          "alt": "BodyTalk System — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/bodytalk-system-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Visitors need a clear way to understand a wellness education offering, explore courses and find member or practitioner information.",
+      "solution": "The public education website brings course discovery, practitioner information and account entry into one branded experience.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://bodytalksystem.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 3,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "bodytalk-system-website-public.jpg",
+        "url": "https://bodytalksystem.com/",
+        "provider": "Automattic mShots",
+        "sha256": "66426d608426d7ba57f3b0508a7eddf2edde7b29126312c58e20ddb6c314f91c",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "booksy-website",
+    "title": "Booksy",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A service discovery and appointment booking website.",
+    "content": {
+      "paragraphs": [
+        "A service discovery and appointment booking website."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/booksy-website-public.jpg",
+          "alt": "Booksy — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/booksy-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "People looking for a service need to connect discovery with a suitable appointment-booking journey.",
+      "solution": "The supplied service-discovery website provides a public route from finding a provider to exploring booking options.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://booksy.com/en-us/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 4,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "booksy-website-public.jpg",
+        "url": "https://booksy.com/en-us/",
+        "provider": "Automattic mShots",
+        "sha256": "e0b775ab5320442356990e87aeb4b195b10d97729bfbdd14168d31134091df11",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "salesfox-website",
+    "title": "SalesFox",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A sales training product centered on practice and roleplay.",
+    "content": {
+      "paragraphs": [
+        "A sales training product centered on practice and roleplay."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/salesfox-user-dashboard.png",
+          "alt": "SalesFox dashboard screenshot supplied by the project owner",
+          "caption": "User-supplied SalesFox dashboard. Displayed figures belong to the interface screenshot and are not claimed project results."
+        }
+      ],
+      "artwork": "/portfolio/salesfox-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Sales-training teams need to connect practice activity with courses, learners and progress information.",
+      "solution": "The user-supplied dashboard shows an analytics overview with training time, course information and account-management navigation. It complements the approved description of a sales practice and roleplay product; figures in the screenshot are interface content, not delivery results.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference.",
+      "featured_summary": "Sales practice and roleplay, supported by a dashboard for learners, courses and training activity."
+    },
+    "live_url": "https://salesfox.io/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 5,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "User-supplied dashboard screenshot",
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims.",
+    "media_sources": [
+      {
+        "file": "salesfox-user-dashboard.png",
+        "url": "user-provided:Salesfox1.png",
+        "provider": "Project owner attachment",
+        "sha256": "012a1661e356c2b9c43db34f4cfce22dd6d8856c1504053aece78218d8504ccf",
+        "review": "Supplied directly by the user with the updated visual brief."
+      }
+    ]
+  },
+  {
+    "slug": "cadence-website",
+    "title": "Cadence",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A business website presenting AI and revenue operations services with a clear booking call to action.",
+    "content": {
+      "paragraphs": [
+        "A business website presenting AI and revenue operations services with a clear booking call to action."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/cadence-website-public.jpg",
+          "alt": "Cadence — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/cadence-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Business visitors need to understand an AI and revenue-operations offer before deciding whether to arrange a conversation.",
+      "solution": "The business website presents its services with a clear booking call to action, supporting the transition from understanding the offer to making contact.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://cadenceme.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 6,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "cadence-website-public.jpg",
+        "url": "https://cadenceme.com/",
+        "provider": "Automattic mShots",
+        "sha256": "b83530808b3f8cf7472f67d7e0f983f2e6f5f75f2589cff50be3f342b87ad337",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "velaur-website",
+    "title": "VELAUR",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "An online storefront for car fragrance products with a distinct visual identity.",
+    "content": {
+      "paragraphs": [
+        "An online storefront for car fragrance products with a distinct visual identity."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/velaur-website-public.jpg",
+          "alt": "VELAUR — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/velaur-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Shoppers need to understand a car-fragrance offering and navigate an online storefront with a recognizable brand identity.",
+      "solution": "The approved storefront pairs product presentation with a distinct visual direction, giving visitors a focused route into the fragrance range.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.velaur.shop/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 7,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "velaur-website-public.jpg",
+        "url": "https://www.velaur.shop/",
+        "provider": "Automattic mShots",
+        "sha256": "03c6f9d4a35dae8fc1ca3a09ffe1cefc08ffb578f88d6b9c5f024b74fed6949f",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "myyogi-website",
+    "title": "MyYogi",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A yoga website connecting people with classes and professional instructors.",
+    "content": {
+      "paragraphs": [
+        "A yoga website connecting people with classes and professional instructors."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/myyogi-website-public.jpg",
+          "alt": "MyYogi — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/myyogi-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "People seeking yoga support need to connect classes and professional instructors with their interests.",
+      "solution": "The public yoga website presents the class and instructor offering as the entry point to the wider MyYogi experience.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://myyogi.yoga/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 8,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "myyogi-website-public.jpg",
+        "url": "https://myyogi.yoga/",
+        "provider": "Automattic mShots",
+        "sha256": "a3eedb87ebd6a71ddcc4182a0c461035273ac599947076e2867c11916a0d423f",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "actimus-website",
+    "title": "Actimus Rehabilitation",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A product website presenting rehabilitation hardware and its connected mobile experience.",
+    "content": {
+      "paragraphs": [
+        "A product website presenting rehabilitation hardware and its connected mobile experience."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/actimus-website-public.jpg",
+          "alt": "Actimus Rehabilitation — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/actimus-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Visitors need to understand how a rehabilitation product relates to its hardware and connected mobile experience.",
+      "solution": "The product website introduces the rehabilitation hardware and companion experience together, helping users understand the relationship before exploring further.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://actimusrehabilitation.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 9,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "actimus-website-public.jpg",
+        "url": "https://actimusrehabilitation.com/",
+        "provider": "Automattic mShots",
+        "sha256": "4fdd97df3768b390b49a6f5247e9d02583323c8f78c97817db05c592573b5483",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "her-golf-website",
+    "title": "Her Golf",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A golf website bringing together coaching, club information and golf experiences.",
+    "content": {
+      "paragraphs": [
+        "A golf website bringing together coaching, club information and golf experiences."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/her-golf-website-public.jpg",
+          "alt": "Her Golf — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/her-golf-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Golf audiences need to find relevant coaching, club information and experiences in one place.",
+      "solution": "The supplied golf website brings these areas into a coordinated public presentation rather than treating each offering as an unrelated destination.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.her-golf.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 10,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "her-golf-website-public.jpg",
+        "url": "https://www.her-golf.com/",
+        "provider": "Automattic mShots",
+        "sha256": "568296ba49bb1ef73cc12f657a327fa3ecd21cb0bb44fd965397098cb489ee53",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "tj-s-pizza-website",
+    "title": "TJ's Pizza",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A restaurant website connecting menus, locations and online ordering.",
+    "content": {
+      "paragraphs": [
+        "A restaurant website connecting menus, locations and online ordering."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/tj-s-pizza-website-public.jpg",
+          "alt": "TJ's Pizza — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/tj-s-pizza-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Restaurant customers need to move from finding a menu and location to the appropriate ordering route.",
+      "solution": "The approved restaurant reference connects menus, locations and online-ordering information. Its supplied URL is retained; earlier direct availability checks returned a restriction.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://tjspizza.ca/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 11,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 403
+      }
+    },
+    "media_sources": [
+      {
+        "file": "tj-s-pizza-website-public.jpg",
+        "url": "https://tjspizza.ca/",
+        "provider": "Automattic mShots",
+        "sha256": "4ffb4aec9352b3b477b3f41ba3ef4d9fff2ff37cf760a3864cba746d80601041",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "rootpointers-website",
+    "title": "RootPointers — Our Team",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A team presentation page introducing the people and roles behind a technology company.",
+    "content": {
+      "paragraphs": [
+        "A team presentation page introducing the people and roles behind a technology company."
+      ],
+      "gallery": [],
+      "artwork": "/portfolio/rootpointers-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Visitors evaluating a technology company need to understand the people and roles behind it.",
+      "solution": "The approved team-page reference provides a dedicated place for introducing the company team. A reliable public screenshot was unavailable, so the portfolio uses labelled title artwork.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.rootpointers.com/our-team.html",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 12,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Title artwork; capture returned an error page and was rejected",
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "the-ufaq-website",
+    "title": "The Ufaq",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A consultancy website presenting business services and a clear contact journey.",
+    "content": {
+      "paragraphs": [
+        "A consultancy website presenting business services and a clear contact journey."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/the-ufaq-website-public.jpg",
+          "alt": "The Ufaq — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/the-ufaq-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Potential customers need a clear explanation of consultancy services and an obvious way to make contact.",
+      "solution": "The business-services website combines an overview of the offering with a contact journey suited to an initial inquiry.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.theufaq.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 13,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "the-ufaq-website-public.jpg",
+        "url": "https://www.theufaq.com/",
+        "provider": "Automattic mShots",
+        "sha256": "e93b2148a92a873ec1952ebdc11f8100c7e23e01f6b85a10d982253f5e89e16f",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "top-music-website",
+    "title": "Top Music",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A music streaming website introducing the catalog and its companion mobile app.",
+    "content": {
+      "paragraphs": [
+        "A music streaming website introducing the catalog and its companion mobile app."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/top-music-website-public.jpg",
+          "alt": "Top Music — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/top-music-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Music listeners need an introduction to the available catalog and a clear connection to the companion app.",
+      "solution": "The public streaming website presents the music offering alongside the mobile experience, making the relationship between the two channels visible.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.topmusic.net/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 14,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "top-music-website-public.jpg",
+        "url": "https://www.topmusic.net/",
+        "provider": "Automattic mShots",
+        "sha256": "26da964250011e81eb90fdb86c12caff25a84cb3a2e6954505c6a9564095398d",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "evolve-training-website",
+    "title": "Evolve Training App",
+    "category": "WEBSITE",
+    "page_type": "SIMPLE",
+    "summary": "A fitness product offering individualized strength training through its website and mobile app.",
+    "content": {
+      "paragraphs": [
+        "A fitness product offering individualized strength training through its website and mobile app."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/evolve-training-website-public.jpg",
+          "alt": "Evolve Training App — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/evolve-training-website.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "People exploring strength training need to understand the individualized offering and its mobile companion.",
+      "solution": "The website introduces the training product and connects the public presentation with the associated mobile application.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://www.evolvetrainingapp.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 15,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "evolve-training-website-public.jpg",
+        "url": "https://www.evolvetrainingapp.com/",
+        "provider": "Automattic mShots",
+        "sha256": "a25e8dd9b912d0f0453eab11af53cac8deee9a9ae431da2860f47662ef67b190",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "stellar-driveway-web-app",
+    "title": "Stellar Driveway",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A vehicle marketplace interface with inventory discovery and a strong automotive visual direction.",
+    "content": {
+      "paragraphs": [
+        "A vehicle marketplace interface with inventory discovery and a strong automotive visual direction."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/stellar-driveway-web-app-public.jpg",
+          "alt": "Stellar Driveway — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/stellar-driveway-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Vehicle shoppers need a clear way to discover inventory within an automotive product interface.",
+      "solution": "The approved marketplace interface combines inventory discovery with an automotive visual direction. The public preview is provided as the project reference.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://stellardriveway.vercel.app/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 1,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "stellar-driveway-web-app-public.jpg",
+        "url": "https://stellardriveway.vercel.app/",
+        "provider": "Automattic mShots",
+        "sha256": "d0bf065d0919b9099c1405e760ec6508eff4ed24fb8a375d74069d8c88a5b737",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "trader-metrix-web-app",
+    "title": "Trader Metrix",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A trading-focused web application.",
+    "content": {
+      "paragraphs": [
+        "A trading-focused web application."
+      ],
+      "gallery": [],
+      "artwork": "/portfolio/trader-metrix-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "A trading-focused product needs an identifiable web entry point for its intended users.",
+      "solution": "The supplied reference identifies a trading web application. Detailed workflows were not available in the approved material, so this overview does not claim trading tools, financial outcomes or private functionality.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://tradermetrix.cipherdevelopers.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 2,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Title artwork; capture returned an error page and was rejected",
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "nextbanka-web-app",
+    "title": "NextBanka",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A digital finance product interface presenting cards and related product features.",
+    "content": {
+      "paragraphs": [
+        "A digital finance product interface presenting cards and related product features."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/nextbanka-web-app-public.jpg",
+          "alt": "NextBanka — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/nextbanka-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Visitors need a coherent introduction to a digital-finance product and its card-related offering.",
+      "solution": "The public product interface presents cards and related features in a coordinated experience. This portfolio entry does not claim regulated capabilities or financial results.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://nextbanka-ec745.web.app/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 3,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "nextbanka-web-app-public.jpg",
+        "url": "https://nextbanka-ec745.web.app/",
+        "provider": "Automattic mShots",
+        "sha256": "cfb34e4116c465457f35a8e5ad6fb844a640a3dcf4f8f2fd245ada821f2ba755",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "iba-lms-web-app",
+    "title": "IBA LMS",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A learning platform connecting course discovery with member access.",
+    "content": {
+      "paragraphs": [
+        "A learning platform connecting course discovery with member access."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/iba-lms-web-app-public.jpg",
+          "alt": "IBA LMS — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/iba-lms-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Learners need to connect course discovery with the appropriate member-access route.",
+      "solution": "The approved learning-platform reference presents the relationship between public course information and account-based learning access.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://bodytalksystem.com/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 4,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "iba-lms-web-app-public.jpg",
+        "url": "https://bodytalksystem.com/",
+        "provider": "Automattic mShots",
+        "sha256": "66426d608426d7ba57f3b0508a7eddf2edde7b29126312c58e20ddb6c314f91c",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "iba-lms-admin-web-app",
+    "title": "IBA LMS Admin",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "An administration interface for a learning platform, accessed through a dedicated sign-in page.",
+    "content": {
+      "paragraphs": [
+        "An administration interface for a learning platform, accessed through a dedicated sign-in page."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/iba-lms-admin-web-app-public.jpg",
+          "alt": "IBA LMS Admin — public website snapshot",
+          "caption": "Public sign-in page"
+        }
+      ],
+      "artwork": "/portfolio/iba-lms-admin-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Authorized learning-platform staff need a dedicated entry point that is separate from public learner content.",
+      "solution": "The supplied reference shows an administration sign-in page. Private learning-management tools, permissions and operational screens are outside the publicly available evidence.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected."
+    },
+    "live_url": "https://admin.bodytalksystem.com/login",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 5,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "iba-lms-admin-web-app-public.jpg",
+        "url": "https://admin.bodytalksystem.com/login",
+        "provider": "Automattic mShots",
+        "sha256": "a58a4750fb659a9f7149631d7f958299162c615adca62013bae9ecd1ff7464c3",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "lec-crm-web-app",
+    "title": "LEC CRM",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A customer relationship management application with a dedicated account sign-in experience.",
+    "content": {
+      "paragraphs": [
+        "A customer relationship management application with a dedicated account sign-in experience."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/lec-crm-web-app-public.jpg",
+          "alt": "LEC CRM — public website snapshot",
+          "caption": "Public sign-in page"
+        }
+      ],
+      "artwork": "/portfolio/lec-crm-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Account holders need a recognizable entry point into a customer relationship management product.",
+      "solution": "The supplied public reference shows dedicated CRM account access. The project screenshot documents that entry experience; private customer data and pipeline workflows are not represented.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected.",
+      "featured_summary": "A dedicated entry point to the LEC CRM workspace, with a focused account sign-in experience."
+    },
+    "live_url": "https://lecweb.web.app/#/sign-in",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 6,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "lec-crm-web-app-public.jpg",
+        "url": "https://lecweb.web.app/#/sign-in",
+        "provider": "Automattic mShots",
+        "sha256": "946534149ca4bde1b67c6d4d7c64b721c880963f4a47bd1b7c47ee5812e0d1c8",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "kit-shoes-pos-web-app",
+    "title": "Kit Shoes POS",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A retail point-of-sale application for a footwear business.",
+    "content": {
+      "paragraphs": [
+        "A retail point-of-sale application for a footwear business."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/kit-shoes-pos-web-app-public.jpg",
+          "alt": "Kit Shoes POS — public website snapshot",
+          "caption": "Public sign-in page"
+        }
+      ],
+      "artwork": "/portfolio/kit-shoes-pos-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "A footwear retail team needs an account-based entry to its point-of-sale application.",
+      "solution": "The approved reference identifies a retail POS product and its public login. Transaction, inventory and reporting details are not inferred from the sign-in screen.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected."
+    },
+    "live_url": "https://pos.kitshoes.com.pk/#/login",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 7,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "kit-shoes-pos-web-app-public.jpg",
+        "url": "https://pos.kitshoes.com.pk/#/login",
+        "provider": "Automattic mShots",
+        "sha256": "b2979c3e61897f8eb94f067367b2ebeec4ed3e92a3f11e36c6a189e455430bf1",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "animation-project-web-app",
+    "title": "Animation Project",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A music-themed web experience with a vivid visual identity.",
+    "content": {
+      "paragraphs": [
+        "A music-themed web experience with a vivid visual identity."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/animation-project-web-app-public.jpg",
+          "alt": "Animation Project — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/animation-project-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "A music-themed web experience needs a visual identity that communicates its subject clearly.",
+      "solution": "The supplied web project uses a vivid music-oriented presentation. The portfolio focuses on the public visual experience rather than asserting undocumented application features.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://animation-project-0400123123.web.app/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 8,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "animation-project-web-app-public.jpg",
+        "url": "https://animation-project-0400123123.web.app/",
+        "provider": "Automattic mShots",
+        "sha256": "6675c88d3c870734a5b82d57149d1780052b211f6cd6f0017b5886849000c36e",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "my-lummo-shop-web-app",
+    "title": "My LumMo Shop",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "An online shop platform presenting storefront creation and business tools.",
+    "content": {
+      "paragraphs": [
+        "An online shop platform presenting storefront creation and business tools."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/my-lummo-shop-web-app-public.jpg",
+          "alt": "My LumMo Shop — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/my-lummo-shop-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Business owners need to understand storefront creation and the tools offered around an online shop.",
+      "solution": "The approved shop-platform reference introduces storefront creation together with business tools, connecting the product proposition with a public starting point.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": "https://mylummoshop.web.app/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 9,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "my-lummo-shop-web-app-public.jpg",
+        "url": "https://mylummoshop.web.app/",
+        "provider": "Automattic mShots",
+        "sha256": "9b934f166e87999d7abe74c0678c0a5307bb1ccbf3cbe79823a8ec52c04c5f3e",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "embold-web-app",
+    "title": "Embold",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A web application with a dedicated account sign-in experience.",
+    "content": {
+      "paragraphs": [
+        "A web application with a dedicated account sign-in experience."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/embold-web-app-public.jpg",
+          "alt": "Embold — public website snapshot",
+          "caption": "Public website snapshot"
+        }
+      ],
+      "artwork": "/portfolio/embold-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Existing users need a dedicated and recognizable account-entry experience for the Embold application.",
+      "solution": "The supplied material documents a public sign-in experience. Features behind authentication are not available in the approved reference and are not invented in this overview.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected."
+    },
+    "live_url": "https://app.embold.co/",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 10,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "embold-web-app-public.jpg",
+        "url": "https://app.embold.co/",
+        "provider": "Automattic mShots",
+        "sha256": "8e8ab7e7e9d4ab1ed4234d0f6658c1b2b5c1d24a66e52139543912e22e2cc23f",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "sudduth-realty-crm-web-app",
+    "title": "Sudduth Realty CRM",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A real estate customer relationship management application.",
+    "content": {
+      "paragraphs": [
+        "A real estate customer relationship management application."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/sudduth-realty-crm-web-app-public.jpg",
+          "alt": "Sudduth Realty CRM — public website snapshot",
+          "caption": "Public sign-in page"
+        }
+      ],
+      "artwork": "/portfolio/sudduth-realty-crm-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "Real-estate teams need an identifiable account entry for a relationship-management workspace.",
+      "solution": "The approved reference identifies a real-estate CRM and its login route. Private lead, listing or customer-management functionality is not claimed from that public view.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected."
+    },
+    "live_url": "https://crm.sudduthrealty.com/login",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 11,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "sudduth-realty-crm-web-app-public.jpg",
+        "url": "https://crm.sudduthrealty.com/login",
+        "provider": "Automattic mShots",
+        "sha256": "fe2a4503ecea277248bf2cfe635039488ea04f5fa67a8244e80bb6d20e890f57",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "wevoz-crm-web-app",
+    "title": "Wevoz CRM",
+    "category": "WEB_APPLICATION",
+    "page_type": "SIMPLE",
+    "summary": "A CRM application with a dedicated account access interface.",
+    "content": {
+      "paragraphs": [
+        "A CRM application with a dedicated account access interface."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/wevoz-crm-web-app-public.jpg",
+          "alt": "Wevoz CRM — public website snapshot",
+          "caption": "Public sign-in page"
+        }
+      ],
+      "artwork": "/portfolio/wevoz-crm-web-app.svg",
+      "service_slugs": [
+        "web-development"
+      ],
+      "challenge": "CRM users need a clear, branded route into their account-based application.",
+      "solution": "The available public material shows the account-access interface. The portfolio describes that entry point without exposing or inventing the private workspace.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "The linked public reference is an account-entry screen; private workflows have not been inspected."
+    },
+    "live_url": "https://wevoz-fronted.web.app/login",
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": null,
+    "position": 12,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "Visually reviewed public-page snapshot",
+    "link_checks": {
+      "live_url": {
+        "status": 200
+      }
+    },
+    "media_sources": [
+      {
+        "file": "wevoz-crm-web-app-public.jpg",
+        "url": "https://wevoz-fronted.web.app/login",
+        "provider": "Automattic mShots",
+        "sha256": "4dce705c49337a17792cb2f6f1b96e61d811b78e85d40cbfc47ac0458fd76081",
+        "review": "Visually inspected; error-page captures rejected"
+      }
+    ],
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "topmusic-mobile-app",
+    "title": "TopMusic",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile music streaming app for discovering and listening to a music catalog.",
+    "content": {
+      "paragraphs": [
+        "A mobile music streaming app for discovering and listening to a music catalog."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/topmusic-mobile-app-play-1.png",
+          "alt": "TopMusic — Google Play screenshot 1",
+          "caption": "Google Play screenshot"
+        },
+        {
+          "url": "/project-media/topmusic-mobile-app-play-2.png",
+          "alt": "TopMusic — Google Play screenshot 2",
+          "caption": "Google Play screenshot"
+        },
+        {
+          "url": "/project-media/topmusic-mobile-app-play-3.png",
+          "alt": "TopMusic — Google Play screenshot 3",
+          "caption": "Google Play screenshot"
+        }
+      ],
+      "artwork": "/portfolio/topmusic-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "Listeners need to discover and listen to a music catalog from a mobile device.",
+      "solution": "The approved mobile product centers on catalog discovery and listening. Available store screenshots and the supplied Google Play destination document the product context.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": null,
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.topchretien.topmusic&hl=fr&gl=US",
+    "position": 1,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine Google Play screenshots",
+    "media_sources": [
+      {
+        "file": "topmusic-mobile-app-play-1.png",
+        "listing": "https://play.google.com/store/apps/details?id=com.topchretien.topmusic",
+        "url": "https://play-lh.googleusercontent.com/RNltkqDdyiWMh1ZrPWHx_lFXurXfZxupLL1Y9YYyQ2bNog-WzbwkrUg3kUaVNEI4fgRRVVdCjbErBmmu1pmwkA=w526-h296",
+        "sha256": "f81ae3f0dbc7ae43e6286c01b7968cef18febfadee26f3d90a819781d4db1c03"
+      },
+      {
+        "file": "topmusic-mobile-app-play-2.png",
+        "listing": "https://play.google.com/store/apps/details?id=com.topchretien.topmusic",
+        "url": "https://play-lh.googleusercontent.com/I_YbgVk9yE7sWbS9L8HxHuO9ommuYZhOaByDwWhvQF-OI_OKbox0VqeVam0wOIb1zKjQD9IOQ7PhlVdNrnM=w526-h296",
+        "sha256": "6918c1b1ef83afe850457c7cfe7ce13af70c16e725137fbef24c1abd86c676cb"
+      },
+      {
+        "file": "topmusic-mobile-app-play-3.png",
+        "listing": "https://play.google.com/store/apps/details?id=com.topchretien.topmusic",
+        "url": "https://play-lh.googleusercontent.com/Vf1bpQtJ5V7eL5fpNS7Gz3Wnr43NIyJqHAbwNms1PwY1CWE-w95orkYd6Q48REv96tfuK0OJ8x6gZpj3uTMpyw=w526-h296",
+        "sha256": "99fdac2411aa7c754ecd7ab0bf3925507399f12be981c5497195850b4d657919"
+      }
+    ],
+    "link_checks": {
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "evolve-training-mobile-app",
+    "title": "Evolve Training App",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A fitness product offering individualized strength training through its website and mobile app.",
+    "content": {
+      "paragraphs": [
+        "A fitness product offering individualized strength training through its website and mobile app."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/evolve-training-mobile-app-1.webp",
+          "alt": "Evolve Training App — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/evolve-training-mobile-app-2.webp",
+          "alt": "Evolve Training App — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/evolve-training-mobile-app-3.webp",
+          "alt": "Evolve Training App — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/evolve-training-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "Strength-training users need a mobile experience that supports an individualized training offering.",
+      "solution": "The companion application carries the training product into a mobile context. Approved store references are shown alongside the related website entry.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference.",
+      "featured_summary": "Individualized strength training brought into a mobile experience, with the product also available through its website."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/evolve-training-app/id1631174176",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.skynetcoaching.expertsystem&hl=en",
+    "position": 2,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "evolve-training-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/us/app/evolve-training-app/id1631174176",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/2c/aa/7e2caa1e-bfc6-7781-e178-9d8d983b64a0/Apple_6.5__-_Slide_25.jpg/600x1200bb.webp",
+        "sha256": "9b4012e6bb47636017393adecd8307137f2054f6f5f42357167a1cc14d72129c"
+      },
+      {
+        "file": "evolve-training-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/us/app/evolve-training-app/id1631174176",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/78/3a/ef783a20-8e26-7419-9ada-305adc43216d/Apple_6.5__-_Slide_19.jpg/600x1200bb.webp",
+        "sha256": "e44cd1915c5c6eab83936405a0b1f38c74ab55cf03e69ce226fa59a115190dc0"
+      },
+      {
+        "file": "evolve-training-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/us/app/evolve-training-app/id1631174176",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/82/fd/7482fdcb-7e3d-a179-15c1-4ab5b41e0aa9/Apple_6.5__-_Slide_20.jpg/600x1200bb.webp",
+        "sha256": "18c46389393a5c876fe1c9187945e0bc09716b32b9f518b5e49df94092ee5cc4"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "oparko-mobile-app",
+    "title": "OPARKO",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile application for managing private parking spaces and parking permissions.",
+    "content": {
+      "paragraphs": [
+        "A mobile application for managing private parking spaces and parking permissions."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/oparko-mobile-app-1.webp",
+          "alt": "OPARKO — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/oparko-mobile-app-2.webp",
+          "alt": "OPARKO — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/oparko-mobile-app-3.webp",
+          "alt": "OPARKO — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/oparko-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "People managing private parking need to connect parking spaces with the appropriate permissions.",
+      "solution": "The approved application description and store references present a mobile product for private parking and parking-permission management.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/no/app/oparko/id6446219531",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.parkeringskompagniet.parkeringskompagniet&hl=en",
+    "position": 3,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "oparko-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/dk/app/oparko/id6446219531",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/e0/ef/c2e0efab-cbb7-aadf-4852-ff21bb645bd2/526494d7-de10-4b5f-b080-e930bccc1ff9_Simulator_Screen_Shot_-_iPhone_14_Plus_-_2023-07-13_at_13.49.27.png/600x1200bb.webp",
+        "sha256": "5c0e4c8f1b58b44d8aad125f1e63134972af28e9b2f3bf5dae352aa2a8aa5050"
+      },
+      {
+        "file": "oparko-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/dk/app/oparko/id6446219531",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6d/22/97/6d2297fa-bc9e-4503-61e3-2cfc05e59a9a/768c995d-6c69-4f19-b055-23617526a720_Simulator_Screen_Shot_-_iPhone_14_Plus_-_2023-07-13_at_13.49.36.png/600x1200bb.webp",
+        "sha256": "733e1b17ccc2a6a978c010aae76160f8d109d1476e8c357fe4d018e7a1dc1752"
+      },
+      {
+        "file": "oparko-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/dk/app/oparko/id6446219531",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2b/50/ac/2b50ac39-30ca-902b-6f43-fbb6655f800f/d393824a-529d-4002-8c82-dc1cf295e190_Simulator_Screen_Shot_-_iPhone_14_Plus_-_2023-07-13_at_13.50.34.png/600x1200bb.webp",
+        "sha256": "619ae204a38d42fb2641e9604b19bbe692cf63ab75b925f53b02ec5517140d9f"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "hellobible-mobile-app",
+    "title": "HelloBible",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A Bible-focused mobile application with reading and conversational experiences.",
+    "content": {
+      "paragraphs": [
+        "A Bible-focused mobile application with reading and conversational experiences."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/hellobible-mobile-app-1.webp",
+          "alt": "HelloBible — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/hellobible-mobile-app-2.webp",
+          "alt": "HelloBible — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/hellobible-mobile-app-3.webp",
+          "alt": "HelloBible — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/hellobible-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "Readers need a mobile entry point that connects Bible reading with conversational exploration.",
+      "solution": "The supplied app references present Bible-focused reading and conversation as part of one mobile experience. No spiritual, health or performance outcomes are claimed.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/hellobible-bible-chat/id6502768944",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.hellobible.app&hl=en",
+    "position": 4,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "hellobible-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/fr/app/hellobible-bible-interactive/id6502768944",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/46/38/b4/4638b4d9-f9e0-2c3a-def9-d177e9d75530/FR_APPLE_Fiche_1_-_Accueil.png/600x1200bb.webp",
+        "sha256": "1a9b837c6cb774c6b9d82c7f279706fad41e880036e8043e3d83c51f7296e186"
+      },
+      {
+        "file": "hellobible-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/fr/app/hellobible-bible-interactive/id6502768944",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/e5/40/50e540db-504c-5b63-1ec1-9baf9c67ad97/FR_APPLE_Fiche_6_-_Te_U0301moignages.png/600x1200bb.webp",
+        "sha256": "5d173da68fc22d854d4e1aec457ebaff4d4747f54e9b0f68a94ceb19b30196b1"
+      },
+      {
+        "file": "hellobible-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/fr/app/hellobible-bible-interactive/id6502768944",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/31/d8/7331d870-06ac-e4f0-cb25-2e3a0ddd123c/FR_APPLE_Fiche_2_-_Chat.png/600x1200bb.webp",
+        "sha256": "201763b6a1b1c8827e9e8ed50cbb8ef2bf46e343455c14414ed219b15c79d6e8"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "f-r-y-mobile-app",
+    "title": "F.R.Y.",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile yoga and well-being resource designed for first responders.",
+    "content": {
+      "paragraphs": [
+        "A mobile yoga and well-being resource designed for first responders."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/f-r-y-mobile-app-1.webp",
+          "alt": "F.R.Y. — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/f-r-y-mobile-app-2.webp",
+          "alt": "F.R.Y. — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/f-r-y-mobile-app-3.webp",
+          "alt": "F.R.Y. — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/f-r-y-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "First responders need an accessible mobile resource for yoga and well-being material.",
+      "solution": "The approved product description identifies a first-responder-focused yoga and well-being resource. Store destinations are retained exactly as supplied, without inventing health outcomes.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/fry/id1591961330",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.yogacustomer",
+    "position": 5,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "f-r-y-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/us/app/fry/id1591961330",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/53/a2/5d/53a25d8f-c8d6-67cb-dc93-246acf024ac3/86a575ec-8c4e-4211-aa81-7c37ad4f0ff1_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-10-26_at_12.17.03.png/600x1200bb.webp",
+        "sha256": "078bf8f0dbeb11c74911a9a55c3f5dad994717173d7340582705c95cd23756dc"
+      },
+      {
+        "file": "f-r-y-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/us/app/fry/id1591961330",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b7/c4/d9/b7c4d9f8-d3bf-46cd-94bc-25f58d1716a8/35f0c56c-53ef-4b1e-8794-095bde628ba8_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-10-26_at_12.17.23.png/600x1200bb.webp",
+        "sha256": "ad15c84b247eb3c646cd49c9e3425991712d977c9831244afc7caf063bfbd333"
+      },
+      {
+        "file": "f-r-y-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/us/app/fry/id1591961330",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e2/d2/99/e2d29937-22a8-9bb3-bd4e-598d9eb82276/a7a0e7f7-1a09-4362-9e60-1a09dd797718_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2021-10-26_at_12.18.01.png/600x1200bb.webp",
+        "sha256": "58d8e346def5ece6bda75425bd04515506106cfe9146427f74b3ef3b442ee0cd"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "the-octagon-mobile-app",
+    "title": "The Octagon by Champs MMA",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile mixed martial arts training experience.",
+    "content": {
+      "paragraphs": [
+        "A mobile mixed martial arts training experience."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/the-octagon-mobile-app-1.webp",
+          "alt": "The Octagon by Champs MMA — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/the-octagon-mobile-app-2.webp",
+          "alt": "The Octagon by Champs MMA — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/the-octagon-mobile-app-3.webp",
+          "alt": "The Octagon by Champs MMA — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/the-octagon-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "People interested in mixed martial arts training need a mobile experience organized around that training context.",
+      "solution": "The approved Octagon application references present an MMA training experience. Available store media provides product context without claims about individual training results.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/the-octagon-by-champs-mma/id6454899362",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.champsmmatheoctagon&hl=en",
+    "position": 6,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "the-octagon-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/us/app/the-octagon-by-champs-mma/id6454899362",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/5d/a5/055da556-de7e-c9f1-7140-f84b914b2bd4/0853ad1c-dd5d-48eb-a9df-46c507aef2c3_octagon-1.jpg/600x1200bb.webp",
+        "sha256": "290fca904bc3a3202639f5efcd35a72d267e1f47212e36220980eecdab847aa8"
+      },
+      {
+        "file": "the-octagon-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/us/app/the-octagon-by-champs-mma/id6454899362",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/0a/f9/000af921-992b-0529-7bc7-0be63020f9c3/e2df5078-c140-47bf-8785-765f1aa2937c_octagon-2.jpg/600x1200bb.webp",
+        "sha256": "ce17f0fc419c904e1749a4e6388bc54840c1e6a90e64970e200c05a7ef40c383"
+      },
+      {
+        "file": "the-octagon-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/us/app/the-octagon-by-champs-mma/id6454899362",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/30/b3/7130b38b-18e1-a5da-733e-654528368146/ab1e1184-5d13-4d7d-af3e-665f50eca08d_octagon-3.jpg/600x1200bb.webp",
+        "sha256": "9b880239ca3486ff514dcb25615e1cc63d770566fb4dd6edab3a725620af01ab"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "rootscare-mobile-app",
+    "title": "RootsCare Patient App",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile platform for finding care services and managing appointment requests.",
+    "content": {
+      "paragraphs": [
+        "A mobile platform for finding care services and managing appointment requests."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/rootscare-mobile-app-play-1.jpg",
+          "alt": "RootsCare Patient App — Google Play screenshot 1",
+          "caption": "Google Play screenshot"
+        },
+        {
+          "url": "/project-media/rootscare-mobile-app-play-2.jpg",
+          "alt": "RootsCare Patient App — Google Play screenshot 2",
+          "caption": "Google Play screenshot"
+        },
+        {
+          "url": "/project-media/rootscare-mobile-app-play-3.jpg",
+          "alt": "RootsCare Patient App — Google Play screenshot 3",
+          "caption": "Google Play screenshot"
+        }
+      ],
+      "artwork": "/portfolio/rootscare-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "People exploring care services need to connect service discovery with appointment requests.",
+      "solution": "The mobile platform presents care-service discovery and appointment-request management. The supplied Apple destination remains labelled as a developer page rather than an individual app listing.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/developer/roots-care-home-health-services/id1628106275",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.rootscare",
+    "position": 7,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine Google Play screenshots",
+    "media_sources": [
+      {
+        "file": "rootscare-mobile-app-play-1.jpg",
+        "listing": "https://play.google.com/store/apps/details?id=com.rootscare",
+        "url": "https://play-lh.googleusercontent.com/tb6GaucxwLQvd9u43bDg5gYtFUwEwNWCAG_e-7VItBRob8pz6Enx6E_lmAbXGLRtfYDw-t2hsd54h5M7CJ4v4g=w526-h296",
+        "sha256": "6169658ca0d59d491a204df847295ffbf903ebfe5fd6105605f1b65357dd2cb7"
+      },
+      {
+        "file": "rootscare-mobile-app-play-2.jpg",
+        "listing": "https://play.google.com/store/apps/details?id=com.rootscare",
+        "url": "https://play-lh.googleusercontent.com/CA6McocwKnTQCM5kUs17vzncK-WPO52wABG8DuBy53HIYdlSj1IaddGIU3BdiKfFQjgEVczMKEDjvDMimPic=w526-h296",
+        "sha256": "2dfadfc48d8dd9430a20699a27df6ee1460b0fc0a1bab1ef551c63c07e27b0ba"
+      },
+      {
+        "file": "rootscare-mobile-app-play-3.jpg",
+        "listing": "https://play.google.com/store/apps/details?id=com.rootscare",
+        "url": "https://play-lh.googleusercontent.com/eY99HLO1XnMTbrCJR8hwbOyNOQwBSrC9wfYPL-2wdO6rA6TP5tAOlJM3P8koKwRJYC1LFKbg9XU7KmoviQ1Tg6A=w526-h296",
+        "sha256": "5a435152e74fbbdcb711697b40f0e613489dd7474574fa903be100fcb277b27f"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "myyogi-mobile-app",
+    "title": "MyYogi App",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile yoga platform connecting instructors, classes and bookings.",
+    "content": {
+      "paragraphs": [
+        "A mobile yoga platform connecting instructors, classes and bookings."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/myyogi-mobile-app-1.webp",
+          "alt": "MyYogi App — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/myyogi-mobile-app-2.webp",
+          "alt": "MyYogi App — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/myyogi-mobile-app-3.webp",
+          "alt": "MyYogi App — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/myyogi-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "Yoga participants need to connect instructors and classes with a booking journey on mobile.",
+      "solution": "The approved mobile platform brings instructors, class discovery and bookings into the same product context, with supplied store links and screenshots.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference.",
+      "featured_summary": "A yoga platform that brings instructors, classes and bookings together in a dedicated mobile app."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/myyogi-app/id6466390099",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.myyogi.app",
+    "position": 8,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "myyogi-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/br/app/myyogi-app/id6466390099",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/3d/b5/783db59a-3129-37f2-2347-092f80dca6fb/eb572b3b-4080-4899-9c8e-49de90a2bbff_iPhone_6.5-1.png/600x1200bb.webp",
+        "sha256": "2e0fe0db3bb6ace39bd4cb982350644ca9ee3e8f3acaea60af703cf28b343908"
+      },
+      {
+        "file": "myyogi-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/br/app/myyogi-app/id6466390099",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/76/94/be7694fb-db18-8bd5-e4e4-dc765e1fd57a/3beed9c8-7f11-4edb-bfab-c1e18b11b5a6_iPhone_6.5-2__U2013_2.png/600x1200bb.webp",
+        "sha256": "5d753a9a75123a8dffd3428f5e16a1f4574074d797761fae75255faa68664b12"
+      },
+      {
+        "file": "myyogi-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/br/app/myyogi-app/id6466390099",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/85/76/43857641-7c3b-2cf7-6595-873253a19e5b/1d40957e-8842-4865-8ab5-839c7c6e25b9_iPhone_6.5-3__U2013_2.png/600x1200bb.webp",
+        "sha256": "2c72cd75f16ca15c580569edde40a9c19d346ba232d6f6661502218c088548e8"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "serveu-mobile-app",
+    "title": "ServeU",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A mobile application for hiring and accessing everyday services.",
+    "content": {
+      "paragraphs": [
+        "A mobile application for hiring and accessing everyday services."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/serveu-mobile-app-1.webp",
+          "alt": "ServeU — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/serveu-mobile-app-2.webp",
+          "alt": "ServeU — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/serveu-mobile-app-3.webp",
+          "alt": "ServeU — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/serveu-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "People seeking everyday services need a mobile route to finding and hiring relevant providers.",
+      "solution": "The approved product description presents service discovery and hiring through a mobile application. The portfolio does not invent provider availability or service-quality guarantees.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/serveu-hire-get-services/id6746564453",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.serveu.app&hl=en",
+    "position": 9,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "serveu-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/us/app/serveu-hire-get-services/id6746564453",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/bf/30/aabf307c-bbe4-7602-279a-29f8f2ab0074/12.png/600x1200bb.webp",
+        "sha256": "b677d46650797d6ca8b5f09cb779f137291a4e2c2ebbb2c7d2e397ee1fb43ff0"
+      },
+      {
+        "file": "serveu-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/us/app/serveu-hire-get-services/id6746564453",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/18/34/d118344b-a3e4-14b4-9a22-d238a91714e2/11.png/600x1200bb.webp",
+        "sha256": "5a5282eb0054b38f6b292446f2e36fbdafb240513cc0b88d8674ec3b430ea196"
+      },
+      {
+        "file": "serveu-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/us/app/serveu-hire-get-services/id6746564453",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/9c/39/989c398d-5713-cab4-c7b4-0e5bef5677e8/10.png/600x1200bb.webp",
+        "sha256": "c64caf3cea807847a3d45fc7b0542a1dd469cf3cde0c3a17162737623fb8b94a"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "actimus-mobile-app",
+    "title": "Actimus App",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A rehabilitation companion app with interactive activities and a connected product experience.",
+    "content": {
+      "paragraphs": [
+        "A rehabilitation companion app with interactive activities and a connected product experience."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/actimus-mobile-app-1.webp",
+          "alt": "Actimus App — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/actimus-mobile-app-2.webp",
+          "alt": "Actimus App — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/actimus-mobile-app-3.webp",
+          "alt": "Actimus App — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/actimus-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "A rehabilitation product needs a companion mobile experience that connects activities with the wider product.",
+      "solution": "The approved Actimus app reference presents interactive activities within a connected rehabilitation experience. No clinical effectiveness or individual recovery results are claimed.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/us/app/actimus/id6748683894",
+    "play_store_url": null,
+    "position": 10,
+    "is_featured": false,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "actimus-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/gb/app/actimus/id6748683894",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/87/39/bf873956-26cd-bc24-23b8-57a5d1f03605/Screenshot1.png/600x1200bb.webp",
+        "sha256": "4755b234c019268635daeb55df536c28873b330ea7f71ae00ab1eda36aadf4e2"
+      },
+      {
+        "file": "actimus-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/gb/app/actimus/id6748683894",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a9/76/40/a976402c-fc28-290e-1ac3-c1287176c224/Screenshot6.png/600x1200bb.webp",
+        "sha256": "1832f34e6091e86a521d6a4eeb6aaf3ad3547ccc5b4b27d7c0864ed5fcb9bd1c"
+      },
+      {
+        "file": "actimus-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/gb/app/actimus/id6748683894",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/6f/be/b76fbe80-447c-41ec-7f62-85d7f87f1c3d/Screenshot5.png/600x1200bb.webp",
+        "sha256": "aa34015acd99a6bf59fac7648f83c331330548937f00f78b76ad74dc77f8fd20"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  },
+  {
+    "slug": "salesfox-mobile-app",
+    "title": "SalesFox",
+    "category": "MOBILE_APP",
+    "page_type": "SIMPLE",
+    "summary": "A sales training product centered on practice and roleplay.",
+    "content": {
+      "paragraphs": [
+        "A sales training product centered on practice and roleplay."
+      ],
+      "gallery": [
+        {
+          "url": "/project-media/salesfox-mobile-app-1.webp",
+          "alt": "SalesFox — App Store screenshot 1",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/salesfox-mobile-app-2.webp",
+          "alt": "SalesFox — App Store screenshot 2",
+          "caption": "App Store screenshot"
+        },
+        {
+          "url": "/project-media/salesfox-mobile-app-3.webp",
+          "alt": "SalesFox — App Store screenshot 3",
+          "caption": "App Store screenshot"
+        }
+      ],
+      "artwork": "/portfolio/salesfox-mobile-app.svg",
+      "service_slugs": [
+        "mobile-app-development"
+      ],
+      "challenge": "Sales learners need a mobile experience focused on practice and roleplay.",
+      "solution": "The approved SalesFox mobile references present the training product in a phone-based context. Its store screenshots remain separate from the newly supplied web dashboard image.",
+      "scope_note": "Product overview based on the approved project description, supplied links and available public media. These sections describe the product need and approach; a historical client brief, implementation stack and measured delivery results have not been provided.",
+      "access_notes": "Use the supplied project and store links below to explore the available public product reference."
+    },
+    "live_url": null,
+    "figma_url": null,
+    "app_store_url": "https://apps.apple.com/in/app/salesfox/id6480517537",
+    "play_store_url": "https://play.google.com/store/apps/details?id=io.salesfox.app&hl=en",
+    "position": 11,
+    "is_featured": true,
+    "approval": "User confirmed ownership and supplied these exact links on 2026-10-14",
+    "link_provenance": "Exact user-supplied URL; www-only websites normalized to HTTPS",
+    "media_status": "3 genuine App Store screenshots",
+    "media_sources": [
+      {
+        "file": "salesfox-mobile-app-1.webp",
+        "listing": "https://apps.apple.com/in/app/salesfox/id6480517537",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/9b/cf/be9bcff6-faf6-6ee8-ff9c-af5da69b3dee/50.jpg/600x1200bb.webp",
+        "sha256": "13c9c8005898f0d3de3c3566c1e81ccc59ed528474e442bf4524af7f8905a50e"
+      },
+      {
+        "file": "salesfox-mobile-app-2.webp",
+        "listing": "https://apps.apple.com/in/app/salesfox/id6480517537",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/94/0b/da940b0d-56de-8509-562d-af448d684069/46.jpg/600x1200bb.webp",
+        "sha256": "8096c839551796ec07fb3edf15e0261c16c8a16f6acd3145454d6ee046ab537d"
+      },
+      {
+        "file": "salesfox-mobile-app-3.webp",
+        "listing": "https://apps.apple.com/in/app/salesfox/id6480517537",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/3a/17/923a17d8-d86e-a26f-0a08-8d3af92ce8bb/49.jpg/600x1200bb.webp",
+        "sha256": "0b799d1045ad07d0392c3d70696bf3fea64a189e35845069de4cb09699d4729b"
+      }
+    ],
+    "link_checks": {
+      "app_store_url": {
+        "status": 200
+      },
+      "play_store_url": {
+        "status": 200
+      }
+    },
+    "description_provenance": "Neutral product overview based on supplied project identity, public-page snapshot or primary store listing. No implementation, performance or client-result claims."
+  }
+]

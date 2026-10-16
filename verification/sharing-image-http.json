@@ -1,0 +1,512 @@
+{
+  "completedAt": "2026-10-16T18:33:14.050Z",
+  "passed": true,
+  "pages": 83,
+  "image": {
+    "width": 1200,
+    "height": 630,
+    "bytes": 158563,
+    "format": "png"
+  },
+  "records": [
+    {
+      "path": "/services/ai-development",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/web-development",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/mobile-app-development",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/ai-automation",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/ai-integration",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/ui-ux-design",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/software-testing",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/deployment-maintenance",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/b2b-lead-generation",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/linkedin-outreach",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/cold-email-outreach",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/appointment-setting",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/upwork-profile-bidding-management",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/crm-sales-automation",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/meta-ads-management",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/google-ads-management",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/email-marketing-automation",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/social-media-management",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/seo-content-marketing",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/landing-pages-conversion-rate-optimization",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/branding-creative-strategy",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions/b2b-client-acquisition-system",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions/e-commerce-growth-system",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions/startup-launch-system",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions/ai-powered-business-automation",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions/agency-freelancer-growth-system",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/ai-software-development",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/business-development",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services/digital-marketing-growth",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/services",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/growth-solutions",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/about",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/blog",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/contact",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/websites",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/web-applications",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/mobile-apps",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/privacy-policy",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/terms-of-service",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/cakes-and-bakes-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/kips-publications-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/bodytalk-system-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/booksy-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/salesfox-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/cadence-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/velaur-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/myyogi-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/actimus-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/her-golf-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/tj-s-pizza-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/rootpointers-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/the-ufaq-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/top-music-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/evolve-training-website",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/stellar-driveway-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/trader-metrix-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/nextbanka-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/iba-lms-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/iba-lms-admin-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/lec-crm-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/kit-shoes-pos-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/animation-project-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/my-lummo-shop-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/embold-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/sudduth-realty-crm-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/wevoz-crm-web-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/topmusic-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/evolve-training-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/oparko-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/hellobible-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/f-r-y-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/the-octagon-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/rootscare-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/myyogi-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/serveu-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/actimus-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/work/projects/salesfox-mobile-app",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/blog/website-vs-web-application-what-does-your-business-need",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    },
+    {
+      "path": "/blog/ai-agents-vs-traditional-chatbots",
+      "og": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "twitter": "https://velaurlabs.com/brand/social-preview-premium.png",
+      "alt": "VELAUR LABS — Your Digital Partner. Technology, business development and digital growth."
+    }
+  ],
+  "limits": "Local production metadata and public image delivery checked. No message sent through WhatsApp/LinkedIn; platform cache refresh and production deployment not performed."
+}

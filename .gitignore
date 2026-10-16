@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+
+# Local secrets and private backup data
+.env.*
+!.env.example
+private-backups/
+*.pem
+*.key

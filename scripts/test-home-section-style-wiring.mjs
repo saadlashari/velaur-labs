@@ -1,0 +1,18 @@
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+const read = path=>readFileSync(new URL('../'+path,import.meta.url),'utf8');
+const schema=read('lib/home-section-styles.ts');
+const home=read('app/page.tsx');
+const editor=read('app/admin/homepage-content/page.tsx');
+const api=read('app/api/admin/settings/route.ts');
+const settings=read('lib/site-settings.ts');
+const css=read('app/globals.css');
+for (const section of ['hero','capabilities','services','work','process','why','insights','cta']) assert.ok(schema.includes(`'${section}'`),`missing ${section}`);
+for(const field of ['background','headingColor','headingSize','spacing']) assert.ok(schema.includes(field));
+assert.match(schema,/validHomeSectionStyles/);assert.match(api,/validHomeSectionStyles\(JSON.parse\(value\)\)/);
+assert.match(api,/'home_section_styles'/);assert.match(settings,/home_section_styles:string/);
+assert.match(home,/parseHomeSectionStyles\(settings.home_section_styles\)/);
+assert.match(editor,/redirect\('\/admin\/settings'\)/);
+const workspace=read('app/admin/design/workspace.tsx');assert.match(workspace,/home_section_styles/);assert.match(workspace,/home_presentation/);assert.match(workspace,/home_capability_groups/);
+assert.match(css,/\[style\*="--home-heading-size"\]/);
+console.log('PASS: 8 bespoke homepage sections, editor, server validation, and public style wiring verified');

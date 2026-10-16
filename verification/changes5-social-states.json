@@ -1,0 +1,174 @@
+{
+  "placeholders": {
+    "YouTube": "https://www.youtube.com/",
+    "Pinterest": "https://www.pinterest.com/"
+  },
+  "pngStates": [
+    {
+      "theme": "light",
+      "name": "WhatsApp",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/whatsapp.png"
+    },
+    {
+      "theme": "light",
+      "name": "LinkedIn",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/linkedin.png"
+    },
+    {
+      "theme": "light",
+      "name": "Instagram",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/instagram.png"
+    },
+    {
+      "theme": "light",
+      "name": "Facebook",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/facebook.png"
+    },
+    {
+      "theme": "light",
+      "name": "YouTube",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/youtube.png"
+    },
+    {
+      "theme": "light",
+      "name": "Pinterest",
+      "normalBackground": "rgb(255, 255, 255)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(255, 255, 255)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/pinterest.png"
+    },
+    {
+      "theme": "dark",
+      "name": "WhatsApp",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/whatsapp.png"
+    },
+    {
+      "theme": "dark",
+      "name": "LinkedIn",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/linkedin.png"
+    },
+    {
+      "theme": "dark",
+      "name": "Instagram",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/instagram.png"
+    },
+    {
+      "theme": "dark",
+      "name": "Facebook",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/facebook.png"
+    },
+    {
+      "theme": "dark",
+      "name": "YouTube",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/youtube.png"
+    },
+    {
+      "theme": "dark",
+      "name": "Pinterest",
+      "normalBackground": "rgb(16, 26, 44)",
+      "normalFilter": "grayscale(1)",
+      "normalFocused": false,
+      "normalHovered": false,
+      "activeFilter": "none",
+      "background": "rgb(16, 26, 44)",
+      "complete": true,
+      "naturalWidth": 96,
+      "src": "/social-icons/pinterest.png"
+    }
+  ],
+  "actualHover": [
+    {
+      "background": "rgb(255, 255, 255)",
+      "hover": true
+    },
+    {
+      "background": "rgb(16, 26, 44)",
+      "hover": true
+    }
+  ]
+}

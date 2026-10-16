@@ -1,0 +1,13 @@
+[
+  {
+    "level": "error",
+    "message": "Uncaught (in promise) TypeError: Cannot use 'in' operator to search for 'animation' in undefined",
+    "timestamp": "2026-10-16T18:30:24.863Z"
+  },
+  {
+    "level": "error",
+    "message": "Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.\n    at rD (http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:35057)\n    at oq (http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:84561)\n    at iw (http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:114956)\n    at http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:110317\n    at iu (http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:110826)\n    at iX (http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js:1:132929)\n    at MessagePort.w (http://127.0.0.1:3000/_next/static/chunks/1255-5cd2fe06309409a0.js:1:114974)",
+    "timestamp": "2026-10-16T18:35:38.103Z",
+    "url": "http://127.0.0.1:3000/_next/static/chunks/4bd1b696-f785427dddbba9fb.js"
+  }
+]

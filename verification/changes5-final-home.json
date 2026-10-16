@@ -1,0 +1,692 @@
+[
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "contain",
+      "contain",
+      "contain",
+      "contain"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ],
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ]
+    ],
+    "theme": "light",
+    "width": 320
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "contain",
+      "contain",
+      "contain",
+      "contain"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ],
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ]
+    ],
+    "theme": "dark",
+    "width": 320
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "contain",
+      "contain",
+      "contain",
+      "contain"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ],
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ]
+    ],
+    "theme": "light",
+    "width": 390
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "contain",
+      "contain",
+      "contain",
+      "contain"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ],
+      [
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242,
+        37.66666793823242
+      ]
+    ],
+    "theme": "dark",
+    "width": 390
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        590.0208740234375,
+        590.0208740234375,
+        590.0208740234375,
+        590.0104370117188
+      ],
+      [
+        590.0208740234375,
+        590.0208740234375,
+        590.0208740234375,
+        590.0104370117188
+      ]
+    ],
+    "theme": "light",
+    "width": 820
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        590.0208740234375,
+        590.0208740234375,
+        590.0208740234375,
+        590.0104370117188
+      ],
+      [
+        590.0208740234375,
+        590.0208740234375,
+        590.0208740234375,
+        590.0104370117188
+      ]
+    ],
+    "theme": "dark",
+    "width": 820
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4479370117188
+      ],
+      [
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4479370117188
+      ]
+    ],
+    "theme": "light",
+    "width": 1440
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4479370117188
+      ],
+      [
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4583740234376,
+        1017.4479370117188
+      ]
+    ],
+    "theme": "dark",
+    "width": 1440
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.447998046875
+      ],
+      [
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.447998046875
+      ]
+    ],
+    "theme": "light",
+    "width": 1920
+  },
+  {
+    "footerLinks": 7,
+    "gaps": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "imageFits": [
+      "cover",
+      "cover",
+      "cover",
+      "cover"
+    ],
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      },
+      {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    ],
+    "textEdges": [
+      [
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.447998046875
+      ],
+      [
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.4583740234375,
+        1257.447998046875
+      ]
+    ],
+    "theme": "dark",
+    "width": 1920
+  }
+]

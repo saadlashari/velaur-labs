@@ -1,0 +1,18 @@
+'use client';
+import {useEffect,useState} from 'react';
+import Link from 'next/link';
+const fields=[
+ ['about_hero_title','Hero heading'],['about_hero_copy','Hero introduction'],
+ ['about_story_title','Who we are heading'],['about_story_lead','Who we are lead'],['about_story_body','Who we are body'],
+ ['about_mission_title','Mission title'],['about_mission_copy','Mission text'],
+ ['about_vision_title','Vision title'],['about_vision_copy','Vision text'],
+ ['about_principles_title','Principles heading'],['about_cta_title','Final CTA heading'],['about_cta_copy','Final CTA description']
+] as const;
+type Principle={title:string;copy:string};
+export default function AboutContentEditor(){
+ const [values,setValues]=useState<Record<string,string>>({});const [principles,setPrinciples]=useState<Principle[]>([]);
+ const [busy,setBusy]=useState(true),[saving,setSaving]=useState(false),[error,setError]=useState(''),[success,setSuccess]=useState('');
+ useEffect(()=>{fetch('/api/admin/settings',{cache:'no-store'}).then(async r=>{const d=await r.json();if(!r.ok)throw Error(d.error||'Unable to load settings');const next:Record<string,string>={};for(const [key] of fields)next[key]=String(d.settings?.[key]??'');setValues(next);const p=JSON.parse(d.settings?.about_principles||'[]');setPrinciples(Array.isArray(p)&&p.length===4?p:[]);}).catch(e=>setError(e instanceof Error?e.message:'Unable to load')).finally(()=>setBusy(false));},[]);
+ async function save(){setError('');setSuccess('');if(fields.some(([key])=>!values[key]?.trim())||principles.length!==4||principles.some(p=>!p.title.trim()||!p.copy.trim())){setError('Complete every About section and four principles.');return;}setSaving(true);try{const response=await fetch('/api/admin/settings',{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({...values,about_principles:JSON.stringify(principles)})});const d=await response.json();if(!response.ok)throw Error(d.error||'Could not save About content');setSuccess('About page content saved.');}catch(e){setError(e instanceof Error?e.message:'Save failed');}finally{setSaving(false);}}
+ return <main className="cms-workspace"><div className="cms-top"><Link href="/admin">Back to Dashboard</Link><h1>About Page Content</h1><p>Edit the approved About page without replacing its bespoke layout.</p></div>{error&&<p role="alert" className="cms-error">{error}</p>}{success&&<p role="status" className="cms-success">{success}</p>}{busy?<p>Loading…</p>:<><section className="homepage-section-editor"><div className="cms-fields">{fields.map(([key,label])=><label key={key}><span>{label}</span>{key.endsWith('_title')?<input maxLength={150} value={values[key]||''} onChange={e=>setValues(v=>({...v,[key]:e.target.value}))}/>:<textarea rows={4} maxLength={1200} value={values[key]||''} onChange={e=>setValues(v=>({...v,[key]:e.target.value}))}/>}</label>)}</div></section><section className="homepage-section-editor"><h2>Four principles</h2><div className="cms-fields">{principles.map((p,i)=><fieldset className="cms-content-fieldset" key={i}><legend>Principle {i+1}</legend><label><span>Title</span><input maxLength={100} value={p.title} onChange={e=>setPrinciples(a=>a.map((x,j)=>j===i?{...x,title:e.target.value}:x))}/></label><label><span>Description</span><textarea maxLength={400} rows={3} value={p.copy} onChange={e=>setPrinciples(a=>a.map((x,j)=>j===i?{...x,copy:e.target.value}:x))}/></label></fieldset>)}</div></section><div className="cms-editor-actions"><button className="cms-save" type="button" disabled={saving} onClick={()=>void save()}>{saving?'Saving…':'Save About page'}</button></div></>}</main>;
+}

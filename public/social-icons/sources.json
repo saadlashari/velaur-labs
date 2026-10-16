@@ -1,0 +1,51 @@
+[
+  {
+    "name": "facebook",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg",
+    "brandSource": "https://about.meta.com/brand/resources/facebook/logo",
+    "catalogHex": "0866FF",
+    "downloadedAssetSha256": "b06d18d844ed621b89faffb1a33440cc0ec4f1ffea9f36191f50db19a47c59a6"
+  },
+  {
+    "name": "instagram",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg",
+    "brandSource": "https://about.meta.com/brand/resources/instagram",
+    "catalogHex": "FF0069",
+    "downloadedAssetSha256": "f53af2d1fc5292ba1433b5c1faf50005ce6a997fa302d1816989929f379a59dc"
+  },
+  {
+    "name": "whatsapp",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg",
+    "brandSource": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
+    "catalogHex": "25D366",
+    "downloadedAssetSha256": "8fb209a53a61618c3483594b3e070481a35575d6aaecbe00a6fe386670c8fb1c"
+  },
+  {
+    "name": "youtube",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg",
+    "brandSource": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+    "catalogHex": "FF0000",
+    "downloadedAssetSha256": "5038808acbbc4e6edda16cbeb1cc6dec80e4e4ee4e227e039c41229fa222aa8c"
+  },
+  {
+    "name": "pinterest",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinterest.svg",
+    "brandSource": "https://business.pinterest.com/en/brand-guidelines",
+    "catalogHex": "BD081C",
+    "downloadedAssetSha256": "d0736c4b1390f895ed9bc156cc887d3bd65c5b66258c00ad07888e9ec7d729ad"
+  },
+  {
+    "name": "tiktok",
+    "assetSource": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg",
+    "brandSource": "https://tiktok.com",
+    "catalogHex": "000000",
+    "downloadedAssetSha256": "6f54ac8d325faacea8935bdc44cbed60206a6b408641799e5fea1cba7c1a0af7"
+  },
+  {
+    "name": "linkedin",
+    "assetSource": "https://raw.githubusercontent.com/twbs/icons/main/icons/linkedin.svg",
+    "brandSource": "https://brand.linkedin.com/downloads",
+    "catalogHex": "0A66C2",
+    "downloadedAssetSha256": "ddcbb2735eea12f090ea0ee371d1b9a3462531dc11efd0e944adc2d38c71e2df"
+  }
+]

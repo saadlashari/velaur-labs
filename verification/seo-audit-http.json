@@ -1,0 +1,990 @@
+{
+  "completedAt": "2026-10-16T18:32:57.416Z",
+  "passed": true,
+  "pages": 83,
+  "uniqueTitles": 83,
+  "uniqueDescriptions": 83,
+  "internalDestinations": 83,
+  "aliasRedirects": 9,
+  "optimizedImages": 58,
+  "headingWarnings": [],
+  "records": [
+    {
+      "path": "/services/ai-development",
+      "title": "AI Development Services for Remote Teams | VELAUR LABS",
+      "titleLength": 54,
+      "descriptionLength": 144,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/web-development",
+      "title": "Web Development Services for Your Business | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 146,
+      "links": 128,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/mobile-app-development",
+      "title": "Mobile App Development Services Worldwide | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 145,
+      "links": 112,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/ai-automation",
+      "title": "AI Automation Services for Business Teams | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 148,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/ai-integration",
+      "title": "AI Integration Services for Your Software | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 147,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/ui-ux-design",
+      "title": "UI/UX Design Services for Digital Products | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 151,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/software-testing",
+      "title": "Software Testing Services & Quality Assurance | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 157,
+      "links": 100,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/deployment-maintenance",
+      "title": "Website Maintenance Services & Deployment | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 146,
+      "links": 100,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/b2b-lead-generation",
+      "title": "B2B Lead Generation Services for Agencies | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 148,
+      "links": 102,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/linkedin-outreach",
+      "title": "LinkedIn Outreach Services for B2B Teams | VELAUR LABS",
+      "titleLength": 54,
+      "descriptionLength": 155,
+      "links": 102,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/cold-email-outreach",
+      "title": "Cold Email Outreach Services for B2B Teams | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 148,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/appointment-setting",
+      "title": "Appointment Setting Services for B2B Sales | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 149,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/upwork-profile-bidding-management",
+      "title": "Upwork Handling Services & Proposal Support | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 155,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/crm-sales-automation",
+      "title": "CRM Automation Services for Sales Teams | VELAUR LABS",
+      "titleLength": 53,
+      "descriptionLength": 151,
+      "links": 102,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/meta-ads-management",
+      "title": "Meta Ads Management Services for Businesses | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 143,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/google-ads-management",
+      "title": "Google Ads Management Services for Brands | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 151,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/email-marketing-automation",
+      "title": "Email Marketing Services & Automation | VELAUR LABS",
+      "titleLength": 51,
+      "descriptionLength": 144,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/social-media-management",
+      "title": "Social Media Management Services for Brands | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 150,
+      "links": 100,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/seo-content-marketing",
+      "title": "SEO Services & Content Marketing Strategy | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 160,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/landing-pages-conversion-rate-optimization",
+      "title": "Landing Page Design Services & CRO Support | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 145,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/branding-creative-strategy",
+      "title": "Branding Services & Digital Creative Strategy | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 153,
+      "links": 102,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions/b2b-client-acquisition-system",
+      "title": "B2B Client Acquisition Systems for Agencies | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 158,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions/e-commerce-growth-system",
+      "title": "Ecommerce Growth Services for Online Stores | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 148,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions/startup-launch-system",
+      "title": "Startup Launch Services for Digital Products | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 155,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions/ai-powered-business-automation",
+      "title": "AI-Powered Business Automation Services | VELAUR LABS",
+      "titleLength": 53,
+      "descriptionLength": 145,
+      "links": 100,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions/agency-freelancer-growth-system",
+      "title": "Agency Growth Services & Freelancer Support | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 146,
+      "links": 101,
+      "schemas": [
+        "FAQPage",
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/ai-software-development",
+      "title": "AI & Software Development Services Worldwide | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 151,
+      "links": 100,
+      "schemas": [
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/business-development",
+      "title": "Business Development Services for B2B Teams | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 157,
+      "links": 98,
+      "schemas": [
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services/digital-marketing-growth",
+      "title": "Digital Marketing Services for Remote Brands | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 158,
+      "links": 99,
+      "schemas": [
+        "BreadcrumbList",
+        "Service"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/",
+      "title": "Remote Software & Digital Growth Agency | VELAUR LABS",
+      "titleLength": 53,
+      "descriptionLength": 145,
+      "links": 103,
+      "schemas": [
+        "@graph"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/services",
+      "title": "Software, Business & Digital Growth Services | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 141,
+      "links": 120,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/growth-solutions",
+      "title": "Business Growth Solutions for Remote Teams | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 156,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/about",
+      "title": "About Our Remote Software & Growth Agency | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 143,
+      "links": 91,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work",
+      "title": "Website, Web App & Mobile Project Portfolio | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 158,
+      "links": 147,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/blog",
+      "title": "Software & Digital Business Growth Insights | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 141,
+      "links": 99,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/contact",
+      "title": "Contact Our Remote Software & Growth Team | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 140,
+      "links": 91,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/websites",
+      "title": "Business Website Design & Project Portfolio | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 160,
+      "links": 123,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/web-applications",
+      "title": "Web Application, CRM & LMS Project Portfolio | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 157,
+      "links": 117,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/mobile-apps",
+      "title": "Mobile App Design & Development Portfolio | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 157,
+      "links": 115,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/privacy-policy",
+      "title": "Privacy Policy & Business Contact Details | VELAUR LABS",
+      "titleLength": 55,
+      "descriptionLength": 147,
+      "links": 90,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/terms-of-service",
+      "title": "Terms of Service & Project Enquiry Information | VELAUR LABS",
+      "titleLength": 60,
+      "descriptionLength": 149,
+      "links": 90,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/cakes-and-bakes-website",
+      "title": "Cakes and Bakes Website Design & Development | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 155,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/kips-publications-website",
+      "title": "KIPS Publications Website Design & Development | VELAUR LABS",
+      "titleLength": 60,
+      "descriptionLength": 157,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/bodytalk-system-website",
+      "title": "BodyTalk System Website Design & Development | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 155,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/booksy-website",
+      "title": "Booksy Website Development Portfolio | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 146,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/salesfox-website",
+      "title": "SalesFox Website Design & Development | VELAUR LABS",
+      "titleLength": 51,
+      "descriptionLength": 148,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/cadence-website",
+      "title": "Cadence Website Design & Development | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 147,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/velaur-website",
+      "title": "VELAUR Website Development Portfolio | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 146,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/myyogi-website",
+      "title": "MyYogi Website Development Portfolio | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 146,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/actimus-website",
+      "title": "Actimus Rehabilitation Website Portfolio | VELAUR LABS",
+      "titleLength": 54,
+      "descriptionLength": 160,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/her-golf-website",
+      "title": "Her Golf Website Design & Development | VELAUR LABS",
+      "titleLength": 51,
+      "descriptionLength": 148,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/tj-s-pizza-website",
+      "title": "TJ's Pizza Website Design & Development | VELAUR LABS",
+      "titleLength": 53,
+      "descriptionLength": 150,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/rootpointers-website",
+      "title": "RootPointers Team Website Project Portfolio | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 157,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/the-ufaq-website",
+      "title": "The Ufaq Website Design & Development | VELAUR LABS",
+      "titleLength": 51,
+      "descriptionLength": 148,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/top-music-website",
+      "title": "Top Music Website Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/evolve-training-website",
+      "title": "Evolve Training App Website Portfolio Project | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 159,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/stellar-driveway-web-app",
+      "title": "Stellar Driveway Web App Design & Development | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 156,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/trader-metrix-web-app",
+      "title": "Trader Metrix Web App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/nextbanka-web-app",
+      "title": "NextBanka Web App Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/iba-lms-web-app",
+      "title": "IBA LMS Web App Design & Development | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 147,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/iba-lms-admin-web-app",
+      "title": "IBA LMS Admin Web App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/lec-crm-web-app",
+      "title": "LEC CRM Web App Design & Development | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 147,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/kit-shoes-pos-web-app",
+      "title": "Kit Shoes POS Web App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/animation-project-web-app",
+      "title": "Animation Project Web App Design & Development | VELAUR LABS",
+      "titleLength": 60,
+      "descriptionLength": 157,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/my-lummo-shop-web-app",
+      "title": "My LumMo Shop Web App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/embold-web-app",
+      "title": "Embold Web App Development Portfolio | VELAUR LABS",
+      "titleLength": 50,
+      "descriptionLength": 146,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/sudduth-realty-crm-web-app",
+      "title": "Sudduth Realty CRM Web App Portfolio Project | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 158,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/wevoz-crm-web-app",
+      "title": "Wevoz CRM Web App Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/topmusic-mobile-app",
+      "title": "TopMusic Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 54,
+      "descriptionLength": 151,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/evolve-training-mobile-app",
+      "title": "Evolve Training Mobile App Project Portfolio | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 160,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/oparko-mobile-app",
+      "title": "OPARKO Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/hellobible-mobile-app",
+      "title": "HelloBible Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/f-r-y-mobile-app",
+      "title": "F.R.Y. Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/the-octagon-mobile-app",
+      "title": "The Octagon by Champs MMA App Portfolio | VELAUR LABS",
+      "titleLength": 53,
+      "descriptionLength": 157,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/rootscare-mobile-app",
+      "title": "RootsCare Patient App Development Portfolio | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 157,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/myyogi-mobile-app",
+      "title": "MyYogi App Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 56,
+      "descriptionLength": 153,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/serveu-mobile-app",
+      "title": "ServeU Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 52,
+      "descriptionLength": 149,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/actimus-mobile-app",
+      "title": "Actimus App Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 154,
+      "links": 93,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/work/projects/salesfox-mobile-app",
+      "title": "SalesFox Mobile App Design & Development | VELAUR LABS",
+      "titleLength": 54,
+      "descriptionLength": 151,
+      "links": 94,
+      "schemas": [
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/blog/how-ai-automation-is-transforming-modern-businesses",
+      "title": "AI Automation for Business: A Practical Guide | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 155,
+      "links": 98,
+      "schemas": [
+        "BlogPosting",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/blog/website-vs-web-application-what-does-your-business-need",
+      "title": "Website vs Web Application: A Business Guide | VELAUR LABS",
+      "titleLength": 58,
+      "descriptionLength": 155,
+      "links": 98,
+      "schemas": [
+        "BlogPosting",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/blog/building-a-successful-mobile-app-from-idea-to-launch",
+      "title": "Mobile App Development: From Idea to Launch | VELAUR LABS",
+      "titleLength": 57,
+      "descriptionLength": 158,
+      "links": 98,
+      "schemas": [
+        "BlogPosting",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    },
+    {
+      "path": "/blog/ai-agents-vs-traditional-chatbots",
+      "title": "AI Agents vs Chatbots: A Practical Comparison | VELAUR LABS",
+      "titleLength": 59,
+      "descriptionLength": 151,
+      "links": 99,
+      "schemas": [
+        "BlogPosting",
+        "FAQPage",
+        "BreadcrumbList"
+      ],
+      "h1": 1
+    }
+  ],
+  "limits": "Local production HTML and asset checks. Not Google Rich Results validation, external indexing, SERP averages or ranking verification."
+}
