@@ -1,3 +1,7 @@
+# Current fix: Custom-domain admin origin — 21 October 2026
+
+Read `CUSTOM-DOMAIN-LOGIN-FIX.md`. Exact same-app VELAUR HTTPS aliases now pass the configured origin guard without trusting forwarded headers or arbitrary Netlify sites. Password/2FA checks remain required. Build, TypeScript, 14 suites/215 API assertions and 12 built HTTP checks pass. Production deployment is pending owner approval. Older release reports below are historical.
+
 # Current release: Process connectors and card alignment — 17 October 2026
 
 Read `PROCESS-ALIGNMENT-REPORT.md` for the current release. Connected phase lines, linked arc/heading hover, keyboard focus and mobile-width selection are implemented with unchanged process content. Shared card tracks align headings, copy and CTAs. Final build, TypeScript, 14 suites, 20 distinct linked hover cases and 498 responsive page/theme/width cases passed. Lint has zero errors and 23 warnings. No production deployment or database migration performed. Historical reports follow below.

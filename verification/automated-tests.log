@@ -42,6 +42,36 @@ test-portfolio-browser.mjs (exit 0)
 test-integration.mjs (exit 0)
 PASS initial administrator bootstrap
 PASS bootstrap cannot create a second administrator
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: https://foreign.example
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com.evil.test
+PASS untrusted/malformed origin remains blocked: https://evil.velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://other.netlify.app
+PASS untrusted/malformed origin remains blocked: https://deploy-preview-1--velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: http://velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com:444
+PASS untrusted/malformed origin remains blocked: https://user@velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com/path
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com?query=1
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com#fragment
+PASS untrusted/malformed origin remains blocked: null
+PASS untrusted/malformed origin remains blocked: javascript:alert(1)
+PASS untrusted/malformed origin remains blocked: not-a-url
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com, https://foreign.example
+PASS missing Origin remains blocked
+PASS missing APP_URL fails closed even for known aliases
+PASS invalid APP_URL fails closed
+PASS VELAUR aliases are disabled for a different deployment
+PASS other deployments retain their exact configured origin
+PASS localhost does not implicitly trust production origins
 PASS super admin cannot bypass 2FA enrollment
 PASS TOTP enrollment transaction
 PASS ten recovery codes returned once
@@ -51,6 +81,9 @@ PASS password and TOTP sign-in
 PASS TOTP replay rejected
 PASS recovery-code sign-in
 PASS recovery code cannot be reused
+PASS custom-domain password and recovery-code sign-in works with Netlify APP_URL
+PASS authenticated custom-domain CMS request reaches field validation
+PASS authenticated foreign-origin CMS request remains blocked
 PASS page creation
 PASS atomic page publication
 PASS isolated draft save
@@ -222,7 +255,7 @@ PASS logout revokes session
 PASS revoked session cannot authenticate
 PASS SEO anonymous read rejected
 PASS anonymous original-page draft preview rejected
-{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":182,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":215,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
 
 test-builder-ui.mjs (exit 0)
 PASS hidden sections excluded from canvas

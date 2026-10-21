@@ -37,6 +37,33 @@ try{
  check(created.status,201,'initial administrator bootstrap');const setup=await created.json();
  check((await bootstrap.POST(req('/api/auth/bootstrap','POST',{email:'other@example.test',displayName:'Other',password}))).status,409,'bootstrap cannot create a second administrator');
  const login=load('app/api/auth/login/route.ts');
+ const originGuard=load('lib/request-security.ts');
+ const localAppUrl=process.env.APP_URL;
+ try {
+  const aliases=['https://velaurlabs.com','https://www.velaurlabs.com','https://velaurlabs.netlify.app'];
+  for(const primary of aliases){
+   process.env.APP_URL=primary;
+   for(const origin of aliases){
+    const request=new NextRequest(origin+'/api/auth/login',{method:'POST',headers:{origin,'Content-Type':'application/json'},body:'{}'});
+    check((await login.POST(request)).status,400,`same-app alias reaches login validation: ${primary} -> ${origin}`);
+   }
+  }
+  process.env.APP_URL='https://velaurlabs.netlify.app';
+  for(const origin of ['https://foreign.example','https://velaurlabs.com.evil.test','https://evil.velaurlabs.com','https://other.netlify.app','https://deploy-preview-1--velaurlabs.netlify.app','http://velaurlabs.com','https://velaurlabs.com:444','https://user@velaurlabs.com','https://velaurlabs.com/path','https://velaurlabs.com?query=1','https://velaurlabs.com#fragment','null','javascript:alert(1)','not-a-url','https://velaurlabs.com, https://foreign.example']){
+   const request=new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST',headers:{origin,host:'velaurlabs.com','x-forwarded-host':'velaurlabs.com','x-forwarded-proto':'https'},body:'{}'});
+   check((await login.POST(request)).status,403,`untrusted/malformed origin remains blocked: ${origin}`);
+  }
+  check(originGuard.hasValidOrigin(new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST'})),false,'missing Origin remains blocked');
+  delete process.env.APP_URL;
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'missing APP_URL fails closed even for known aliases');
+  process.env.APP_URL='not-a-url';
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'invalid APP_URL fails closed');
+  process.env.APP_URL='https://unrelated.example';
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'VELAUR aliases are disabled for a different deployment');
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://unrelated.example')),true,'other deployments retain their exact configured origin');
+  process.env.APP_URL=localAppUrl;
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'localhost does not implicitly trust production origins');
+ } finally { process.env.APP_URL=localAppUrl; }
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password}))).status,403,'super admin cannot bypass 2FA enrollment');
  const twoFactor=load('app/api/auth/setup-2fa/route.ts');
  // Discover the current six-digit TOTP using the same RFC counter encoding, independently from verifyTotp.
@@ -53,6 +80,14 @@ try{
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code}))).status,401,'TOTP replay rejected');
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code:recovery.recoveryCodes[0]}))).status,200,'recovery-code sign-in');
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code:recovery.recoveryCodes[0]}))).status,401,'recovery code cannot be reused');
+ try {
+  process.env.APP_URL='https://velaurlabs.netlify.app';
+  const customLogin=new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST',headers:{origin:'https://velaurlabs.com','Content-Type':'application/json'},body:JSON.stringify({email:'owner@example.test',password,code:recovery.recoveryCodes[1]})});
+  check((await login.POST(customLogin)).status,200,'custom-domain password and recovery-code sign-in works with Netlify APP_URL');
+  const customPages=load('app/api/admin/pages/route.ts');
+  check((await customPages.POST(req('/api/admin/pages','POST',{},'https://velaurlabs.com'))).status,400,'authenticated custom-domain CMS request reaches field validation');
+  check((await customPages.POST(req('/api/admin/pages','POST',{},'https://foreign.example'))).status,403,'authenticated foreign-origin CMS request remains blocked');
+ } finally { process.env.APP_URL=localAppUrl; }
  const pages=load('app/api/admin/pages/route.ts');
  const pageResponse=await pages.POST(req('/api/admin/pages','POST',{title:'Integration test',slug:'integration-test'}));check(pageResponse.status,201,'page creation');
  let page=(await pageResponse.json()).item;page.updated_at=new Date(page.updated_at).toISOString();

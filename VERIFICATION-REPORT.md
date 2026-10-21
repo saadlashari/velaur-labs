@@ -1,30 +1,27 @@
-# Process connectors, linked hover and card alignment — 17 October 2026
+# Custom-domain origin validation fix — 21 October 2026
 
-The requested connector lines remain in the delivery diagram. Instead of disconnected, fixed-angle CSS strokes, a responsive SVG layer now measures each phase heading and its matching segment. Elbow paths and endpoint dots stay outside the content bounds. A ResizeObserver updates their positions when labels wrap, fonts/layout change, or the viewport resizes. Desktop labels use a consistent heading area; tablet/mobile cards align their heading, deliverable and paragraph tracks.
+## Observed problem
 
-Hovering any of the five arc segments highlights the matching segment, phase heading and connector. Hovering the text phase highlights the same trio. Pointer leave restores the scroll-selected phase, or current keyboard focus. Keyboard focus takes precedence over a stationary previous hover. Selecting a segment also changes the active phase for mobile-width use. The existing scroll observer remains active. Original content, supporting detail lists, admin design IDs and CMS inputs remain in place.
+Credential-free live POST requests to `/api/auth/login` reproduced the reported behavior: `https://velaurlabs.com` returned 403 `Invalid request origin.`, while `https://velaurlabs.netlify.app` returned 400 field validation. The original guard trusted only the single `APP_URL` origin. The live deployment's secret/environment configuration was not read; the results are consistent with a Netlify primary APP_URL that does not match the custom domain.
 
-Shared CSS subgrid tracks align headings, descriptions and CTA endpoints within card rows: service cards, capability cards, reasons, article previews, category cards, growth/related service cards, portfolio project cards, delivery detail cards and featured projects. The original featured portfolio image quadrants remain; their text uses a consistent left or right column. No copy is shortened, no line clamping is added, and the 30px section gap is preserved. Existing layouts remain the fallback on browsers without CSS subgrid support; that fallback is not claimed to have identical row alignment.
+## Change
 
-## Verified
+The guard retains an explicit valid APP_URL requirement. When that URL belongs to this VELAUR deployment, the exact HTTPS origins `https://velaurlabs.com`, `https://www.velaurlabs.com` and `https://velaurlabs.netlify.app` are accepted. Other deployments continue to trust only their exact configured origin. There is no wildcard for Netlify sites, subdomains or previews, and no Host/X-Forwarded-Host-based trust. Missing, opaque, malformed, credential-bearing or path/query/fragment-bearing Origin headers are rejected. A production APP_URL must be a root HTTP(S) URL, not a page URL.
 
-- Final production build and standalone TypeScript check passed.
-- Lint: zero errors, 23 existing warnings.
-- Full regression suite: 14/14 passed. Process/CMS regression suite now has 46 checks, including hover in both directions, scroll restoration, keyboard focus overriding a stationary pointer, original copy preservation, and CMS copy updates.
-- Browser layout matrix: all 83 public routes at actual CSS widths 390, 820 and 1440px, in light and dark themes: 498 cases. No horizontal overflow or measured row-alignment failures. Across these cases, 500 multi-card rows were compared for heading/copy/CTA alignment. Text overflow and section-gap checks were additionally recorded for the mobile/tablet cases.
-- Real pointer: all five arc segments and all five text phases in both themes, 20 distinct cases; matching arc, heading state and connector agreed. Screenshots are retained alongside the raw measurements.
-- Connector routing: five paths at actual desktop widths 1102, 1280, 1440 and 1920px, in both themes; sampled segments crossed no phase text bounds. The first requested size rounded to 1102px because of browser zoom. Paths retain visible normal and highlighted strokes.
-- Mobile-width selection: selecting stage four at 390px activated its matching phase in both themes; no overflow. Long desktop leader lines remain hidden in the existing compact mobile/tablet layout.
-- Real keyboard Tab check: visible focus on phase two and matching arc/heading state on the final build.
-- No warning/error console entries captured in the final process/layout QA tab.
-- Preserved data hashes: original process copy/details, approved portfolio/service/solution data, sharing image, schema and dependency manifests match the previous release.
+The shared guard fixes login and the authenticated CMS mutation endpoints that use the same validation, as well as public inquiry submissions. Password validation, mandatory Super Admin two-factor authentication, recovery-code single use, session cookie flags, permissions and database rate limiting remain in place. No database migration, secret reset, password reset or 2FA reset is required. No UI or website content is changed.
 
-Evidence is in `verification/process-*.json`, `process-alignment-*.log`, `process-desktop-*.png`, `process-mobile-*.png`, `cards-desktop-light.png` and the current `automated-tests.json`/`.log`. Browser zoom was accounted for in actual CSS viewport sizes and screenshot coordinate scaling.
+## Verification
 
-31 initial navigation samples were read before the public root/theme was present. Those incomplete samples were repeated after network idle and replaced with complete measurements, marked `recheckedAfterLoad` in the final matrix. The final coverage assertion requires all 83 routes in each requested width/theme combination.
+- Production build passed on Next.js 15.5.27.
+- Standalone TypeScript check passed.
+- Full lint: zero errors, 23 existing warnings.
+- All 14 regression suites passed, including 215 actual API/CMS assertions against disposable PGlite data.
+- Added 33 integration assertions: all 9 primary/alias combinations, malformed/foreign/lookalike origins, proxy-header spoofing, missing/invalid APP_URL, deployment isolation, actual custom-domain password/recovery-code sign-in, an authenticated custom-domain CMS request reaching validation, and foreign CMS requests remaining blocked.
+- Built application tested over real local HTTP with APP_URL set to the Netlify domain: 12 checks across login and inquiry endpoints. All three aliases reach field validation; foreign/lookalike/other-Netlify origins return 403 even with spoofed forwarded headers.
+- Real production credentials and the screenshot's authenticator code were never used. Actual production account sign-in must be verified by the owner after publishing with a fresh authenticator code.
 
-## Limits and local preview
+Evidence: `verification/origin-fix-live-before.json`, `origin-fix-http.json`, `origin-fix-build.log`, `origin-fix-typecheck.log`, `origin-fix-lint.log`, `origin-fix-tests.log`, and `automated-tests.json`/`.log`. `origin-fix-integration.log` is the preliminary 212-check run; the final full suite contains 215 assertions.
 
-These are Chromium viewport and pointer/keyboard checks, plus React component/CMS/API regression tests. Mobile selection was exercised through browser input at a mobile viewport; a physical touch device and other browser engines were not separately certified. Arbitrary future CMS content may require a new layout review. No production deployment, real provider email/upload, real Neon access, or external social sharing-cache test was performed. The existing database-backed settings and admin preview use the same shared component/styles; no new database migration or content field was required. Local QA uses disposable data and contains no production credentials.
+## Publish status
 
-Open `http://127.0.0.1:3000/#process` for live review. The consolidated ZIP includes earlier approved updates. GitHub source is synchronized separately after package verification. Older reports and evidence remain as history; their dates and limitations still apply to their original releases.
+The source is prepared on a dedicated GitHub fix branch for review. Production has not been changed automatically, in accordance with the owner's earlier instruction. Merge the fix and publish a new Netlify deploy to apply it. A Netlify deploy is required even if only environment variables are changed: https://docs.netlify.com/build/functions/environment-variables/ . Once published, repeat the credential-free checks (custom domain should return field validation rather than origin rejection), then sign in normally. Keep the existing database, AUTH_SECRET and 2FA configuration.

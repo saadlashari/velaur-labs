@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T19:48:19.580998+00:00",
-  "release": "process-alignment-20261017",
+  "generatedAt": "2026-10-21T18:23:18.242434+00:00",
+  "release": "custom-domain-origin-20261021",
   "files": [
     {
       "path": ".env.example",
-      "bytes": 694,
-      "sha256": "08cb0a8134c13a4005ccb6c3d7211a3306405503066dd02ca547655bba5d9f19"
+      "bytes": 914,
+      "sha256": "b02bce489969b8e38235a7f50d2469333558317c58f62e61fecc4bb3fa03d15e"
     },
     {
       "path": ".gitignore",
@@ -21,6 +21,11 @@
       "path": "CONSISTENCY-REFINEMENT-REPORT.md",
       "bytes": 8158,
       "sha256": "28d45e629586faee277db45aa0766b68a23ed6adc79d137acef89c6dbfbf9610"
+    },
+    {
+      "path": "CUSTOM-DOMAIN-LOGIN-FIX.md",
+      "bytes": 3574,
+      "sha256": "a9e7381e607b17ef6e434702579a4c46bef0850a6900cd3ef329856568c423dc"
     },
     {
       "path": "HOVER-INTERACTION-REPORT.md",
@@ -44,8 +49,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8069,
-      "sha256": "77fa5b8b6ad4a842850485d5a5901af2fbfa71ba804dfd46da075c1dd460f3da"
+      "bytes": 8517,
+      "sha256": "e81a1aef0df67c549fa558d1d94c8fe8c5d07d76abb3138eadd27bb18de41229"
     },
     {
       "path": "SEO-AUDIT-FIXES-REPORT.md",
@@ -64,8 +69,8 @@
     },
     {
       "path": "VERIFICATION-REPORT.md",
-      "bytes": 5062,
-      "sha256": "e3d5c786a3e1588c5e2c6fd7904148ba2f079a530296c6adf539982fef34d28b"
+      "bytes": 3574,
+      "sha256": "a9e7381e607b17ef6e434702579a4c46bef0850a6900cd3ef329856568c423dc"
     },
     {
       "path": "VISUAL-REDESIGN-REPORT.md",
@@ -1209,8 +1214,8 @@
     },
     {
       "path": "lib/request-security.ts",
-      "bytes": 2037,
-      "sha256": "8ba55e5a7ba68e2a40c10b4c0f3118a2160f01e6d30f89d08c8367868cd8c37c"
+      "bytes": 2796,
+      "sha256": "3a62ac67bdcf61cb1abb24447a157975f72ea8442f7376d27f8127c0d65d3fec"
     },
     {
       "path": "lib/section-content-validation.ts",
@@ -2374,8 +2379,8 @@
     },
     {
       "path": "scripts/test-integration.mjs",
-      "bytes": 34948,
-      "sha256": "98f509cec71543c33267aba9ce7a70f230711aac2ec7112d4792ffa83d10f599"
+      "bytes": 38404,
+      "sha256": "2ced13e71463a332ad163811564c8789d4f890b1ef7fe793694c95a0493cfecb"
     },
     {
       "path": "scripts/test-portfolio-browser.mjs",
@@ -2560,12 +2565,12 @@
     {
       "path": "verification/automated-tests.json",
       "bytes": 1200,
-      "sha256": "6842d6712cf714d99b9defa1a41cf4b1a77c71f015f2bc1fef5a35f03200663c"
+      "sha256": "726389bc5e41795ea0261b3a39c9868150776331bf01afbe2c9c17657db6f0e8"
     },
     {
       "path": "verification/automated-tests.log",
-      "bytes": 14812,
-      "sha256": "c9088e810f8429014fc5fa726161da3f23c93c4e23caf0d158b8d775cd5b9f4c"
+      "bytes": 17405,
+      "sha256": "f5077ae3c9bdc60698154536d3a7b54300618ffb024591b5b21e223707327d56"
     },
     {
       "path": "verification/browser-QA.json",
@@ -3061,6 +3066,41 @@
       "path": "verification/media-integrity.json",
       "bytes": 11925,
       "sha256": "3fe47b342b34afdc97044ed2a1660ed96c5acaaf52e5256f3e6d7ecd9790b852"
+    },
+    {
+      "path": "verification/origin-fix-build.log",
+      "bytes": 11819,
+      "sha256": "379733de05089ad240ae380da212293483d6746468b957fd2b71127c54b3ccc1"
+    },
+    {
+      "path": "verification/origin-fix-http.json",
+      "bytes": 3057,
+      "sha256": "556c625d4794cb37898689e5899c9862ec1ca750c7c7e504f13f71a618ad3695"
+    },
+    {
+      "path": "verification/origin-fix-integration.log",
+      "bytes": 11548,
+      "sha256": "6da18159265c711aebaf85327338bbf1aa5415f1dd1ba5ae5779858ac8a9dc06"
+    },
+    {
+      "path": "verification/origin-fix-lint.log",
+      "bytes": 7441,
+      "sha256": "b8fc0a08fffee453d56ea179fb16732d9992187d05fa95874af19f92d0b3d045"
+    },
+    {
+      "path": "verification/origin-fix-live-before.json",
+      "bytes": 457,
+      "sha256": "0cdfbe478c283e055690cfcee7eef153488b4749b2bd6b98c8bf0d6edb88f571"
+    },
+    {
+      "path": "verification/origin-fix-tests.log",
+      "bytes": 452,
+      "sha256": "e89adf07c5c132098ea54242470eabacd5c94f2ddbfaca9e74f057892b4ac728"
+    },
+    {
+      "path": "verification/origin-fix-typecheck.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "verification/premium-admin-browser-audit.json",

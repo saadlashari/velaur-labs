@@ -2,15 +2,33 @@ import { createHash } from 'node:crypto';
 import type { NextRequest } from 'next/server';
 import { db } from './db';
 
-/** Reject malformed and foreign origins without throwing or trusting proxy headers. */
-export function hasValidOrigin(request: NextRequest): boolean {
+// These are exact aliases of this application, not a wildcard for Netlify sites.
+const siteOrigins = new Set([
+  'https://velaurlabs.com',
+  'https://www.velaurlabs.com',
+  'https://velaurlabs.netlify.app',
+]);
+
+function httpOrigin(value: string): string | null {
   try {
-    const expected = process.env.APP_URL;
-    const origin = request.headers.get('origin');
-    if (!expected || !origin) return false;
-    const a = new URL(expected), b = new URL(origin);
-    return ['http:', 'https:'].includes(a.protocol) && a.origin === b.origin;
-  } catch { return false; }
+    const url = new URL(value);
+    if (!['http:', 'https:'].includes(url.protocol) || url.username || url.password ||
+        url.pathname !== '/' || url.search || url.hash) return null;
+    return url.origin;
+  } catch { return null; }
+}
+
+/** Require an explicit primary URL; never derive trust from request/proxy headers. */
+export function hasValidOrigin(request: NextRequest): boolean {
+  const configured = process.env.APP_URL?.trim();
+  const origin = request.headers.get('origin');
+  if (!configured || !origin) return false;
+  const expected = httpOrigin(configured), actual = httpOrigin(origin);
+  // A browser Origin is a serialized origin, never a URL with a path or credentials.
+  if (!expected || !actual || actual !== origin) return false;
+  if (actual === expected) return true;
+  // Only enable these aliases when APP_URL identifies this same VELAUR deployment.
+  return siteOrigins.has(expected) && siteOrigins.has(actual);
 }
 
 /** Atomic, database-backed limits work across multiple server instances. */
