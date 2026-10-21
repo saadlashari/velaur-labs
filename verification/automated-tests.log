@@ -1,7 +1,7 @@
 
 verify-source.mjs (exit 0)
 {
-  "filesInspected": 139,
+  "filesInspected": 140,
   "requiredRoutesChecked": 12,
   "errors": []
 }
@@ -143,6 +143,54 @@ PASS nested layout validates
 PASS layout images require alt text
 PASS SVG disguised as PNG rejected
 PASS PNG signature recognized
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS profile image saves after provider success
+PASS uploaded profile URL persists
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS media library uses shared signed upload
+PASS provider rejection HTTP status STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection safe code STORAGE_CREDENTIALS_REJECTED
+PASS provider details remain private STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection HTTP status STORAGE_SIGNATURE_REJECTED
+PASS provider rejection safe code STORAGE_SIGNATURE_REJECTED
+PASS provider details remain private STORAGE_SIGNATURE_REJECTED
+PASS provider rejection HTTP status STORAGE_ACCESS_DENIED
+PASS provider rejection safe code STORAGE_ACCESS_DENIED
+PASS provider details remain private STORAGE_ACCESS_DENIED
+PASS provider rejection HTTP status STORAGE_LIMIT_REACHED
+PASS provider rejection safe code STORAGE_LIMIT_REACHED
+PASS provider details remain private STORAGE_LIMIT_REACHED
+PASS provider rejection HTTP status STORAGE_FILE_TOO_LARGE
+PASS provider rejection safe code STORAGE_FILE_TOO_LARGE
+PASS provider details remain private STORAGE_FILE_TOO_LARGE
+PASS provider rejection HTTP status STORAGE_IMAGE_REJECTED
+PASS provider rejection safe code STORAGE_IMAGE_REJECTED
+PASS provider details remain private STORAGE_IMAGE_REJECTED
+PASS provider rejection HTTP status STORAGE_UPLOAD_FAILED
+PASS provider rejection safe code STORAGE_UPLOAD_FAILED
+PASS provider details remain private STORAGE_UPLOAD_FAILED
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS non-JSON provider failure handled
+PASS transport failure status TimeoutError
+PASS transport failure safe code TimeoutError
+PASS transport failure status TypeError
+PASS transport failure safe code TypeError
+PASS media provider rejection does not report success
+PASS failed media upload never creates database asset
+PASS foreign-origin profile upload blocked
+PASS disguised avatar rejected before storage
+PASS oversized avatar rejected before storage
+PASS missing storage configuration handled
+PASS invalid requests never reach Cloudinary
+PASS all rejected uploads preserve saved avatar
 PASS approved catalog has exactly 38 entries
 PASS approved project URLs are unique
 PASS approved catalog renders without seeded database projects
@@ -255,7 +303,7 @@ PASS logout revokes session
 PASS revoked session cannot authenticate
 PASS SEO anonymous read rejected
 PASS anonymous original-page draft preview rejected
-{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":215,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":263,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
 
 test-builder-ui.mjs (exit 0)
 PASS hidden sections excluded from canvas
@@ -347,6 +395,17 @@ PASS hiding a default preserves its approved content
 PASS editing a virtual default never sends an invalid UUID patch
 PASS default edits save the actual editor values
 Default content interactions included; total 82 assertions passed.
+PASS avatar input disabled while uploading
+PASS avatar upload progress is visible
+PASS failed avatar upload retains previous image
+PASS failed avatar input resets for same-file retry
+PASS failed upload has no success message
+PASS same image can be retried
+PASS successful upload updates preview
+PASS successful retry clears previous error
+PASS incomplete success response never shows success
+PASS incomplete success preserves preview
+Profile upload interactions included; total 92 assertions passed.
 
 test-public-rendering.mjs (exit 0)
 {"suite":"Public route components rendered with real React SSR","passed":111,"routes":83,"limitations":["Next Link/Image/navigation adapters used","No HTTP transport, hydration or browser geometry checked","Database-independent approved catalog checked"]}

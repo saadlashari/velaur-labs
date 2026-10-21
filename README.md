@@ -1,3 +1,7 @@
+# Current admin changes — 21 October 2026
+
+Read `ADMIN-LOGIN-UPLOAD-VERIFICATION.md` for the combined custom-domain login fix, shared signed image upload handling, completed tests and remaining live-provider verification. All 14 suites pass (263 API assertions); build and TypeScript pass; lint has zero errors. Production has not been deployed. Actual hosted Cloudinary upload remains unverified. Earlier release notes below are historical.
+
 # Current fix: Custom-domain admin origin — 21 October 2026
 
 Read `CUSTOM-DOMAIN-LOGIN-FIX.md`. Exact same-app VELAUR HTTPS aliases now pass the configured origin guard without trusting forwarded headers or arbitrary Netlify sites. Password/2FA checks remain required. Build, TypeScript, 14 suites/215 API assertions and 12 built HTTP checks pass. Production deployment is pending owner approval. Older release reports below are historical.

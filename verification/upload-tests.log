@@ -1,0 +1,14 @@
+PASS verify-source.mjs
+PASS test-reference-redesign.mjs
+PASS test-refinement-ui.mjs
+PASS test-bespoke-page-preservation.mjs
+PASS test-bespoke-settings.mjs
+PASS test-blog-content.mjs
+PASS test-home-section-style-wiring.mjs
+PASS test-section-content-validation.mjs
+PASS test-export-integrity.mjs
+PASS test-restore-content.mjs
+PASS test-portfolio-browser.mjs
+PASS test-integration.mjs
+PASS test-builder-ui.mjs
+PASS test-public-rendering.mjs

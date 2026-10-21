@@ -135,5 +135,21 @@ render(React.createElement(Library));await screen.findByText('Default AI service
 libraryItems=[{id:'default:ai-solutions',is_default:true,title:'Default AI service',slug:'ai-solutions',status:'PUBLISHED',category:'AI',summary:'Approved summary',content:{paragraphs:['Approved detail']}}];
 render(React.createElement(Library));await screen.findByText('Default AI service');await user.click(screen.getByRole('button',{name:'Edit',exact:true}));await user.clear(screen.getByRole('textbox',{name:'title',exact:true}));await user.type(screen.getByRole('textbox',{name:'title',exact:true}),'Updated default service');await user.click(screen.getByRole('button',{name:'Save',exact:true}));await screen.findByText('Changes saved.');check(libraryRequest.method,'POST','editing a virtual default never sends an invalid UUID patch');check(libraryRequest.title,'Updated default service','default edits save the actual editor values');cleanup();globalThis.fetch=libraryFetch;
 console.log('Default content interactions included; total '+tests+' assertions passed.');
+const Profile=load('app/admin/profile/page.tsx').default;
+const profileFetch=globalThis.fetch;let uploadCount=0,completeUpload;
+globalThis.fetch=async(url,options)=>{
+ if(options?.method==='POST'){uploadCount++;return new Promise(resolve=>{completeUpload=resolve;});}
+ return Response.json(url.includes('two-factor')?{enabled:true,recoveryRemaining:10}:{profile:{display_name:'Owner',email:'owner@example.test',theme:'dark',role:'SUPER_ADMIN',avatar_url:'https://example.test/old.png'}});
+};
+render(React.createElement(Profile));await screen.findByDisplayValue('Owner');
+const avatarInput=screen.getByLabelText(/Upload a new profile picture/),avatarFile=new dom.window.File(['image'],'avatar.png',{type:'image/png'});
+await user.upload(avatarInput,avatarFile);check(avatarInput.disabled,true,'avatar input disabled while uploading');check(Boolean(screen.getByText('Updating profile image…')),true,'avatar upload progress is visible');
+await React.act(async()=>completeUpload(Response.json({error:'Cloudinary credentials were rejected.'},{status:503})));
+await screen.findByText('Cloudinary credentials were rejected.');check(screen.getByAltText('Your admin profile').getAttribute('src'),'https://example.test/old.png','failed avatar upload retains previous image');check(avatarInput.value,'','failed avatar input resets for same-file retry');check(screen.queryByText('Profile image updated'),null,'failed upload has no success message');
+await user.upload(avatarInput,avatarFile);check(uploadCount,2,'same image can be retried');
+await React.act(async()=>completeUpload(Response.json({url:'https://example.test/new.png'})));await screen.findByText('Profile image updated');check(screen.getByAltText('Your admin profile').getAttribute('src'),'https://example.test/new.png','successful upload updates preview');check(screen.queryByText('Cloudinary credentials were rejected.'),null,'successful retry clears previous error');
+await user.upload(avatarInput,avatarFile);await React.act(async()=>completeUpload(Response.json({ok:true})));await screen.findByText(/did not return a valid image/);check(screen.queryByText('Profile image updated'),null,'incomplete success response never shows success');check(screen.getByAltText('Your admin profile').getAttribute('src'),'https://example.test/new.png','incomplete success preserves preview');
+cleanup();globalThis.fetch=profileFetch;
+console.log('Profile upload interactions included; total '+tests+' assertions passed.');
 dom.window.close();
 

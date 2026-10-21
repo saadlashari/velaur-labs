@@ -1,27 +1,40 @@
-# Custom-domain origin validation fix — 21 October 2026
+# VELAUR LABS — Admin login and image upload changes
 
-## Observed problem
+Verified locally on 21 October 2026. This consolidated source retains the previous approved website/admin work and adds the changes below. No production deployment or database migration was performed.
 
-Credential-free live POST requests to `/api/auth/login` reproduced the reported behavior: `https://velaurlabs.com` returned 403 `Invalid request origin.`, while `https://velaurlabs.netlify.app` returned 400 field validation. The original guard trusted only the single `APP_URL` origin. The live deployment's secret/environment configuration was not read; the results are consistent with a Netlify primary APP_URL that does not match the custom domain.
+## Custom-domain login
 
-## Change
+The existing live custom-domain login returned `Invalid request origin.` while the Netlify alias reached field validation. The shared request guard now accepts only the three exact HTTPS origins velaurlabs.com, www.velaurlabs.com and velaurlabs.netlify.app when APP_URL identifies this VELAUR deployment. A valid APP_URL remains required. Foreign/lookalike origins, other Netlify sites, preview URLs and proxy-header spoofing remain blocked. Password checks, 2FA, recovery codes, permissions and rate limiting remain enforced.
 
-The guard retains an explicit valid APP_URL requirement. When that URL belongs to this VELAUR deployment, the exact HTTPS origins `https://velaurlabs.com`, `https://www.velaurlabs.com` and `https://velaurlabs.netlify.app` are accepted. Other deployments continue to trust only their exact configured origin. There is no wildcard for Netlify sites, subdomains or previews, and no Host/X-Forwarded-Host-based trust. Missing, opaque, malformed, credential-bearing or path/query/fragment-bearing Origin headers are rejected. A production APP_URL must be a root HTTP(S) URL, not a page URL.
+## Profile and media uploads
 
-The shared guard fixes login and the authenticated CMS mutation endpoints that use the same validation, as well as public inquiry submissions. Password validation, mandatory Super Admin two-factor authentication, recovery-code single use, session cookie flags, permissions and database rate limiting remain in place. No database migration, secret reset, password reset or 2FA reset is required. No UI or website content is changed.
+Both endpoints now share a server-only signed upload helper with trimmed configuration, SHA-256 signing, timeout handling, safe provider error categories and validation of the successful storage response. API secrets and raw provider errors are never returned to the browser. Existing authentication, origin checks, MIME/magic-byte validation and size limits remain. Storage failures do not create media records or replace a saved avatar.
 
-## Verification
+The profile screen shows progress, blocks duplicate submissions, preserves the old image on rejected uploads, clears stale messages and resets the file input so the same image can be retried. Success requires a successful response containing an HTTPS image URL.
 
-- Production build passed on Next.js 15.5.27.
-- Standalone TypeScript check passed.
-- Full lint: zero errors, 23 existing warnings.
-- All 14 regression suites passed, including 215 actual API/CMS assertions against disposable PGlite data.
-- Added 33 integration assertions: all 9 primary/alias combinations, malformed/foreign/lookalike origins, proxy-header spoofing, missing/invalid APP_URL, deployment isolation, actual custom-domain password/recovery-code sign-in, an authenticated custom-domain CMS request reaching validation, and foreign CMS requests remaining blocked.
-- Built application tested over real local HTTP with APP_URL set to the Netlify domain: 12 checks across login and inquiry endpoints. All three aliases reach field validation; foreign/lookalike/other-Netlify origins return 403 even with spoofed forwarded headers.
-- Real production credentials and the screenshot's authenticator code were never used. Actual production account sign-in must be verified by the owner after publishing with a fresh authenticator code.
+These are tested implementation changes, not proof that the screenshot's production storage rejection has disappeared. SHA-1 is supported by Cloudinary by default; changing to SHA-256 is not itself evidence that SHA-1 caused the issue.
 
-Evidence: `verification/origin-fix-live-before.json`, `origin-fix-http.json`, `origin-fix-build.log`, `origin-fix-typecheck.log`, `origin-fix-lint.log`, `origin-fix-tests.log`, and `automated-tests.json`/`.log`. `origin-fix-integration.log` is the preliminary 212-check run; the final full suite contains 215 assertions.
+## Signed-in dashboard findings and verification limit
 
-## Publish status
+The configured cloud name, active API key and secret pair matched between Netlify and Cloudinary. Netlify listed All scopes and the same values for all deploy contexts. No keys, permissions, account policies or environment values were changed. No credential values are included in the evidence, repository or ZIP.
 
-The source is prepared on a dedicated GitHub fix branch for review. Production has not been changed automatically, in accordance with the owner's earlier instruction. Merge the fix and publish a new Netlify deploy to apply it. A Netlify deploy is required even if only environment variables are changed: https://docs.netlify.com/build/functions/environment-variables/ . Once published, repeat the credential-free checks (custom domain should return field validation rather than origin rejection), then sign in normally. Keep the existing database, AUTH_SECRET and 2FA configuration.
+The actual signed upload probe could not complete because the restricted verification runtime could not reach Cloudinary, and private IPC to the network-enabled host was unavailable. No test image was uploaded. The old production handler discards the provider error, so the exact production rejection remains unconfirmed. Real account upload and owner sign-in must therefore be retested after publishing. If Cloudinary still rejects the image, the new safe error code distinguishes credentials, signature, account access, limits, invalid images and transient failures. Live upload is NOT reported as passing.
+
+## Checks completed
+
+- Production build: passed, Next.js 15.5.27.
+- TypeScript: passed.
+- Lint: 0 errors, 23 existing warnings.
+- Full regression run: all 14 suites passed.
+- Actual API/CMS handlers against disposable PGlite data: 263 assertions, including 48 new upload assertions and custom-domain password/recovery-code sign-in. Storage responses are mocked; these checks validate signing, handlers, persistence and error behavior, not the hosted provider.
+- React DOM interactions: 92 assertions in total, including 10 new profile upload checks. JSDOM verifies behavior, not real browser geometry or mobile/desktop appearance.
+- Public React server rendering: 111 assertions across 83 routes, using Next component adapters.
+- Final built server HTTP origin checks: 12/12 passed across login/inquiries. The server used a dummy database connection string; these empty requests exercise origin/field validation before database access.
+
+Evidence is under `verification/`: `automated-tests.json`, `automated-tests.log`, `upload-tests.log`, `upload-integration.log`, `upload-ui.log`, `upload-build.log`, `upload-typecheck.log`, `upload-lint.log`, `upload-built-http.json`, and `cloudinary-dashboard-check.json`. Earlier reports/evidence remain as historical records. No new browser visual/mobile audit or real Cloudinary upload is claimed.
+
+## GitHub and publishing
+
+Changes are on `fix/custom-domain-login-origin`, draft PR https://github.com/saadlashari/velaur-labs/pull/1 . Production was left unchanged in accordance with the earlier no-auto-deploy instruction. The dashboard showed the currently published release as a drop deployment; pushing this branch alone does not publish that release. Publish a fresh Next.js build with the existing Netlify environment after review. Keep the existing database, AUTH_SECRET and 2FA configuration; no Neon schema update is needed for these changes.
+
+The ZIP is a complete source package with reports and a SHA-256 file manifest, excluding node_modules, build output, Git history, private backups and real environment files. Install locked dependencies and build it using the included Netlify configuration. It is not a prebuilt static drag-and-drop website.

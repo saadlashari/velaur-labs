@@ -138,6 +138,37 @@ try{
  const image=load('lib/image-validation.ts');
  check(await image.isRasterImage(new File(['<svg></svg>'],'disguised.png',{type:'image/png'})),false,'SVG disguised as PNG rejected');
  check(await image.isRasterImage(new File([new Uint8Array([137,80,78,71,13,10,26,10])],'header.png',{type:'image/png'})),true,'PNG signature recognized');
+ // Exercise the real upload handlers, persistence and failure handling without real credentials.
+ const profileUpload=load('app/api/admin/profile/route.ts'),mediaUpload=load('app/api/admin/media/route.ts');
+ const savedFetch=globalThis.fetch,storageKeys=['CLOUDINARY_CLOUD_NAME','CLOUDINARY_API_KEY','CLOUDINARY_API_SECRET'];
+ const savedStorage=storageKeys.map(key=>process.env[key]);
+ const png=new File([Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=','base64')],'avatar.png',{type:'image/png'});
+ const uploadReq=(file=png,origin='http://localhost:3000')=>{const body=new FormData();body.set('file',file);body.set('alt_text','Test image');return new NextRequest('http://localhost:3000/api/admin/profile',{method:'POST',headers:{origin},body});};
+ let providerCalls=0;
+ try{
+  process.env.CLOUDINARY_CLOUD_NAME=' test-cloud \n';process.env.CLOUDINARY_API_KEY=' test-key \n';process.env.CLOUDINARY_API_SECRET=' test-secret \n';
+  const {createHash}=await import('node:crypto');
+  globalThis.fetch=async(url,options)=>{providerCalls++;check(url,'https://api.cloudinary.com/v1_1/test-cloud/image/upload','storage cloud name trimmed');const form=options.body;check(form.get('api_key'),'test-key','storage API key trimmed');check(form.get('signature'),createHash('sha256').update(`folder=${form.get('folder')}&timestamp=${form.get('timestamp')}test-secret`).digest('hex'),'exact sorted SHA-256 signature uses trimmed secret');check(form.has('api_secret'),false,'storage secret never transmitted');return Response.json({secure_url:'https://res.cloudinary.com/test-cloud/image/upload/test.png',public_id:'test-image'});};
+  check((await profileUpload.POST(uploadReq())).status,200,'profile image saves after provider success');
+  const avatar=(await (await profileUpload.GET(req('/api/admin/profile','GET'))).json()).profile.avatar_url;
+  check(avatar,'https://res.cloudinary.com/test-cloud/image/upload/test.png','uploaded profile URL persists');
+  check((await mediaUpload.POST(uploadReq())).status,201,'media library uses shared signed upload');
+  const mediaCount=(await query('SELECT count(*)::int AS count FROM media_assets')).rows[0].count;
+  const rejections=[[401,'Invalid API key test-key',503,'STORAGE_CREDENTIALS_REJECTED'],[400,'Invalid Signature test-secret',503,'STORAGE_SIGNATURE_REJECTED'],[403,'Not allowed',503,'STORAGE_ACCESS_DENIED'],[429,'Rate limit',503,'STORAGE_LIMIT_REACHED'],[413,'File size too large',400,'STORAGE_FILE_TOO_LARGE'],[400,'Invalid image file',400,'STORAGE_IMAGE_REJECTED'],[500,'Internal error test-secret',502,'STORAGE_UPLOAD_FAILED']];
+  for(const [status,message,expected,code] of rejections){globalThis.fetch=async()=>{providerCalls++;return Response.json({error:{message}},{status});};const response=await profileUpload.POST(uploadReq()),body=await response.json();check(response.status,expected,'provider rejection HTTP status '+code);check(body.code,code,'provider rejection safe code '+code);check(JSON.stringify(body).includes('test-secret')||JSON.stringify(body).includes('test-key'),false,'provider details remain private '+code);}
+  for(const data of [{},{secure_url:'http://unsafe.test/image',public_id:'test'},{secure_url:'https://user:pass@unsafe.test/image',public_id:'test'}]){globalThis.fetch=async()=>Response.json(data);check((await profileUpload.POST(uploadReq())).status,502,'incomplete or unsafe storage success rejected');}
+  globalThis.fetch=async()=>new Response('not JSON',{status:502});check((await profileUpload.POST(uploadReq())).status,502,'non-JSON provider failure handled');
+  for(const [name,status,code] of [['TimeoutError',504,'STORAGE_TIMEOUT'],['TypeError',502,'STORAGE_UNREACHABLE']]){globalThis.fetch=async()=>{const error=new Error('private transport detail');error.name=name;throw error;};const response=await profileUpload.POST(uploadReq());check(response.status,status,'transport failure status '+name);check((await response.json()).code,code,'transport failure safe code '+name);}
+  globalThis.fetch=async()=>{providerCalls++;return Response.json({error:{message:'Invalid Signature'}},{status:401});};
+  check((await mediaUpload.POST(uploadReq())).status,503,'media provider rejection does not report success');check((await query('SELECT count(*)::int AS count FROM media_assets')).rows[0].count,mediaCount,'failed media upload never creates database asset');
+  const before=providerCalls;
+  check((await profileUpload.POST(uploadReq(png,'https://foreign.example'))).status,403,'foreign-origin profile upload blocked');
+  check((await profileUpload.POST(uploadReq(new File(['<svg/>'],'fake.png',{type:'image/png'})))).status,400,'disguised avatar rejected before storage');
+  check((await profileUpload.POST(uploadReq(new File([new Uint8Array(3*1024*1024+1)],'large.png',{type:'image/png'})))).status,400,'oversized avatar rejected before storage');
+  delete process.env.CLOUDINARY_API_SECRET;check((await profileUpload.POST(uploadReq())).status,503,'missing storage configuration handled');
+  check(providerCalls,before,'invalid requests never reach Cloudinary');
+  check((await (await profileUpload.GET(req('/api/admin/profile','GET'))).json()).profile.avatar_url,avatar,'all rejected uploads preserve saved avatar');
+ }finally{globalThis.fetch=savedFetch;storageKeys.forEach((key,index)=>{if(savedStorage[index]===undefined)delete process.env[key];else process.env[key]=savedStorage[index];});}
  const catalog=require(path.resolve('data/portfolio.json'));
  check(catalog.length,38,'approved catalog has exactly 38 entries');check(new Set(catalog.map(x=>x.slug)).size,38,'approved project URLs are unique');
  const portfolio=load('lib/public-content.ts');check((await portfolio.getPublishedProjects()).length,38,'approved catalog renders without seeded database projects');
