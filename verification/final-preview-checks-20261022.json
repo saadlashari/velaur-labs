@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-22T08:57:03.420Z",
+  "comparisons": [
+    {
+      "route": "/",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/work",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/work/websites",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/work/web-applications",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/work/mobile-apps",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/services/web-development",
+      "status": 200,
+      "unchanged": true
+    },
+    {
+      "route": "/services/mobile-app-development",
+      "status": 200,
+      "unchanged": true
+    }
+  ],
+  "passed": true,
+  "browserClicks": [
+    {
+      "viewport": "desktop dark",
+      "card": "BodyTalk System",
+      "actualPath": "/work/projects/bodytalk-system-website",
+      "passed": true
+    },
+    {
+      "viewport": "390x844 light",
+      "card": "TopMusic",
+      "actualPath": "/work/projects/topmusic-mobile-app",
+      "passed": true,
+      "noHorizontalOverflow": true
+    }
+  ]
+}

@@ -1,6 +1,6 @@
-# Current admin changes — 21 October 2026
+# Current release — 22 October 2026
 
-Read `ADMIN-LOGIN-UPLOAD-VERIFICATION.md` for the combined custom-domain login fix, shared signed image upload handling, completed tests and remaining live-provider verification. All 14 suites pass (263 API assertions); build and TypeScript pass; lint has zero errors. Production has not been deployed. Actual hosted Cloudinary upload remains unverified. Earlier release notes below are historical.
+Custom-domain login, real Cloudinary uploads, homepage edited-link navigation and the admin Link destination control are implemented. The tested build is published to the existing Netlify site. Read VERIFICATION-REPORT.md for actual tests, live preservation checks and limits. Earlier notes below are historical. Live CMS content stays in the existing database; this source package contains no secrets or database dump.
 
 # Current fix: Custom-domain admin origin — 21 October 2026
 

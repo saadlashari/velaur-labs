@@ -13,3 +13,4 @@ node_modules/
 private-backups/
 *.pem
 *.key
+.netlify/

@@ -196,6 +196,15 @@ PASS approved project URLs are unique
 PASS approved catalog renders without seeded database projects
 PASS CMS draft overrides approved fallback and stays private
 PASS draft override is excluded from public listing
+PASS hidden project excluded from its public category: cakes-and-bakes-website
+PASS hidden direct project page stays unavailable: cakes-and-bakes-website
+PASS hidden project excluded from sitemap: cakes-and-bakes-website
+PASS hidden project excluded from its public category: stellar-driveway-web-app
+PASS hidden direct project page stays unavailable: stellar-driveway-web-app
+PASS hidden project excluded from sitemap: stellar-driveway-web-app
+PASS hidden project excluded from its public category: topmusic-mobile-app
+PASS hidden direct project page stays unavailable: topmusic-mobile-app
+PASS hidden project excluded from sitemap: topmusic-mobile-app
 PASS overview counts the same visible portfolio as the public website
 PASS overview includes visible original articles as well as saved articles
 PASS all existing and new service defaults appear in content library
@@ -303,7 +312,7 @@ PASS logout revokes session
 PASS revoked session cannot authenticate
 PASS SEO anonymous read rejected
 PASS anonymous original-page draft preview rejected
-{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":263,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":272,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
 
 test-builder-ui.mjs (exit 0)
 PASS hidden sections excluded from canvas
@@ -395,6 +404,25 @@ PASS hiding a default preserves its approved content
 PASS editing a virtual default never sends an invalid UUID patch
 PASS default edits save the actual editor values
 Default content interactions included; total 82 assertions passed.
+PASS image selection exposes its surrounding link
+PASS card heading selects the same destination
+PASS card container exposes its single content link
+PASS link editor reads saved surrounding-link override
+PASS empty link cannot replace the saved destination
+PASS unsafe link cannot be applied
+PASS image link edit saves against its real anchor
+PASS link change preserves parent card styling
+PASS link change preserves edited card text
+PASS link change preserves hidden content
+PASS link editing uses the existing explicit draft workflow
+PASS saved destination applies to the actual public link
+PASS public link update keeps hidden content hidden
+PASS saved link bypasses stale React navigation handler
+PASS native link receives the saved destination
+PASS reset removes saved-link interception
+PASS reset restores the original destination
+PASS design preview retains its own click selection behavior
+Contextual link editing included; total 100 assertions passed.
 PASS avatar input disabled while uploading
 PASS avatar upload progress is visible
 PASS failed avatar upload retains previous image
@@ -405,7 +433,7 @@ PASS successful upload updates preview
 PASS successful retry clears previous error
 PASS incomplete success response never shows success
 PASS incomplete success preserves preview
-Profile upload interactions included; total 92 assertions passed.
+Profile upload interactions included; total 110 assertions passed.
 
 test-public-rendering.mjs (exit 0)
 {"suite":"Public route components rendered with real React SSR","passed":111,"routes":83,"limitations":["Next Link/Image/navigation adapters used","No HTTP transport, hydration or browser geometry checked","Database-independent approved catalog checked"]}

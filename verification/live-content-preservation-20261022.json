@@ -1,0 +1,41 @@
+{
+  "recordedAt": "2026-10-22T08:58:04.149Z",
+  "comparisons": [
+    {
+      "table": "projects",
+      "rows": 0,
+      "unchanged": true
+    },
+    {
+      "table": "global_settings",
+      "rows": 129,
+      "unchanged": true
+    },
+    {
+      "table": "pages",
+      "rows": 0,
+      "unchanged": true
+    },
+    {
+      "table": "page_sections",
+      "rows": 0,
+      "unchanged": true
+    },
+    {
+      "table": "services",
+      "rows": 0,
+      "unchanged": true
+    },
+    {
+      "table": "blog_posts",
+      "rows": 0,
+      "unchanged": true
+    },
+    {
+      "table": "redirects",
+      "rows": 0,
+      "unchanged": true
+    }
+  ],
+  "passed": true
+}

@@ -1,13 +1,9 @@
 {
-  "checkedAt": "2026-10-21T18:47:54.212680+00:00",
-  "cloudNameMatches": true,
-  "apiKeyMatchesActiveCloudinaryKey": true,
-  "apiSecretPairMatches": true,
-  "netlifyEnvironmentScopes": "All scopes; same value in all deploy contexts",
-  "publishedDeployType": "Build from drop deployment",
-  "publishedDeployObserved": "17 October 2026 01:04 (dashboard display)",
-  "configurationChanged": false,
-  "credentialsStoredInEvidence": false,
-  "liveUploadProbe": "Not completed: restricted verification runtime could not resolve/reach Cloudinary; local host IPC unavailable. No image was uploaded.",
-  "rootCauseOfProviderRejectionConfirmed": false
+  "checkedAt": "2026-10-22T08:58:18.216452+00:00",
+  "credentialsMatched": true,
+  "rootCause": "Cloudinary active key lacked create permission",
+  "ownerConfirmedPermissionChange": true,
+  "realSignedUploadsPassed": true,
+  "ownerCustomDomainAvatarUploadObserved": true,
+  "credentialsIncluded": false
 }

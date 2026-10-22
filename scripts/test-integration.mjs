@@ -175,6 +175,16 @@ try{
  await query("INSERT INTO projects(slug,title,category,status) VALUES($1,$2,$3,'DRAFT')",[catalog[0].slug,catalog[0].title,catalog[0].category]);
  check(await portfolio.getPublishedProject(catalog[0].slug),null,'CMS draft overrides approved fallback and stays private');
  check((await portfolio.getPublishedProjects()).length,37,'draft override is excluded from public listing');
+ const hiddenProjects=[catalog[0],catalog.find(item=>item.category==='WEB_APPLICATION'),catalog.find(item=>item.category==='MOBILE_APP')];
+ for(const item of hiddenProjects.slice(1))await query("INSERT INTO projects(slug,title,category,status) VALUES($1,$2,$3,'ARCHIVED')",[item.slug,item.title,item.category]);
+ const projectDetail=load('app/work/projects/[slug]/page.tsx').default;
+ const liveSitemap=await load('app/sitemap.ts').default();
+ for(const item of hiddenProjects){
+  check((await portfolio.getPublishedProjects(item.category)).some(project=>project.slug===item.slug),false,'hidden project excluded from its public category: '+item.slug);
+  await assert.rejects(()=>projectDetail({params:Promise.resolve({slug:item.slug})}));tests++;console.log('PASS hidden direct project page stays unavailable: '+item.slug);
+  check(liveSitemap.some(entry=>entry.url.endsWith('/work/projects/'+item.slug)),false,'hidden project excluded from sitemap: '+item.slug);
+ }
+ for(const item of hiddenProjects.slice(1))await query('DELETE FROM projects WHERE slug=$1',[item.slug]);
  const overviewData=await (await load('app/api/admin/overview/route.ts').GET()).json();
  check(overviewData.projects,(await portfolio.getPublishedProjects()).length,'overview counts the same visible portfolio as the public website');
  check(overviewData.blogPosts,(await portfolio.getPublicArticles()).length,'overview includes visible original articles as well as saved articles');
