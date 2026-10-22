@@ -37,6 +37,33 @@ try{
  check(created.status,201,'initial administrator bootstrap');const setup=await created.json();
  check((await bootstrap.POST(req('/api/auth/bootstrap','POST',{email:'other@example.test',displayName:'Other',password}))).status,409,'bootstrap cannot create a second administrator');
  const login=load('app/api/auth/login/route.ts');
+ const originGuard=load('lib/request-security.ts');
+ const localAppUrl=process.env.APP_URL;
+ try {
+  const aliases=['https://velaurlabs.com','https://www.velaurlabs.com','https://velaurlabs.netlify.app'];
+  for(const primary of aliases){
+   process.env.APP_URL=primary;
+   for(const origin of aliases){
+    const request=new NextRequest(origin+'/api/auth/login',{method:'POST',headers:{origin,'Content-Type':'application/json'},body:'{}'});
+    check((await login.POST(request)).status,400,`same-app alias reaches login validation: ${primary} -> ${origin}`);
+   }
+  }
+  process.env.APP_URL='https://velaurlabs.netlify.app';
+  for(const origin of ['https://foreign.example','https://velaurlabs.com.evil.test','https://evil.velaurlabs.com','https://other.netlify.app','https://deploy-preview-1--velaurlabs.netlify.app','http://velaurlabs.com','https://velaurlabs.com:444','https://user@velaurlabs.com','https://velaurlabs.com/path','https://velaurlabs.com?query=1','https://velaurlabs.com#fragment','null','javascript:alert(1)','not-a-url','https://velaurlabs.com, https://foreign.example']){
+   const request=new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST',headers:{origin,host:'velaurlabs.com','x-forwarded-host':'velaurlabs.com','x-forwarded-proto':'https'},body:'{}'});
+   check((await login.POST(request)).status,403,`untrusted/malformed origin remains blocked: ${origin}`);
+  }
+  check(originGuard.hasValidOrigin(new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST'})),false,'missing Origin remains blocked');
+  delete process.env.APP_URL;
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'missing APP_URL fails closed even for known aliases');
+  process.env.APP_URL='not-a-url';
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'invalid APP_URL fails closed');
+  process.env.APP_URL='https://unrelated.example';
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'VELAUR aliases are disabled for a different deployment');
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://unrelated.example')),true,'other deployments retain their exact configured origin');
+  process.env.APP_URL=localAppUrl;
+  check(originGuard.hasValidOrigin(req('/api/auth/login','POST',{},'https://velaurlabs.com')),false,'localhost does not implicitly trust production origins');
+ } finally { process.env.APP_URL=localAppUrl; }
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password}))).status,403,'super admin cannot bypass 2FA enrollment');
  const twoFactor=load('app/api/auth/setup-2fa/route.ts');
  // Discover the current six-digit TOTP using the same RFC counter encoding, independently from verifyTotp.
@@ -53,6 +80,14 @@ try{
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code}))).status,401,'TOTP replay rejected');
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code:recovery.recoveryCodes[0]}))).status,200,'recovery-code sign-in');
  check((await login.POST(req('/api/auth/login','POST',{email:'owner@example.test',password,code:recovery.recoveryCodes[0]}))).status,401,'recovery code cannot be reused');
+ try {
+  process.env.APP_URL='https://velaurlabs.netlify.app';
+  const customLogin=new NextRequest('https://velaurlabs.com/api/auth/login',{method:'POST',headers:{origin:'https://velaurlabs.com','Content-Type':'application/json'},body:JSON.stringify({email:'owner@example.test',password,code:recovery.recoveryCodes[1]})});
+  check((await login.POST(customLogin)).status,200,'custom-domain password and recovery-code sign-in works with Netlify APP_URL');
+  const customPages=load('app/api/admin/pages/route.ts');
+  check((await customPages.POST(req('/api/admin/pages','POST',{},'https://velaurlabs.com'))).status,400,'authenticated custom-domain CMS request reaches field validation');
+  check((await customPages.POST(req('/api/admin/pages','POST',{},'https://foreign.example'))).status,403,'authenticated foreign-origin CMS request remains blocked');
+ } finally { process.env.APP_URL=localAppUrl; }
  const pages=load('app/api/admin/pages/route.ts');
  const pageResponse=await pages.POST(req('/api/admin/pages','POST',{title:'Integration test',slug:'integration-test'}));check(pageResponse.status,201,'page creation');
  let page=(await pageResponse.json()).item;page.updated_at=new Date(page.updated_at).toISOString();
@@ -103,12 +138,53 @@ try{
  const image=load('lib/image-validation.ts');
  check(await image.isRasterImage(new File(['<svg></svg>'],'disguised.png',{type:'image/png'})),false,'SVG disguised as PNG rejected');
  check(await image.isRasterImage(new File([new Uint8Array([137,80,78,71,13,10,26,10])],'header.png',{type:'image/png'})),true,'PNG signature recognized');
+ // Exercise the real upload handlers, persistence and failure handling without real credentials.
+ const profileUpload=load('app/api/admin/profile/route.ts'),mediaUpload=load('app/api/admin/media/route.ts');
+ const savedFetch=globalThis.fetch,storageKeys=['CLOUDINARY_CLOUD_NAME','CLOUDINARY_API_KEY','CLOUDINARY_API_SECRET'];
+ const savedStorage=storageKeys.map(key=>process.env[key]);
+ const png=new File([Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=','base64')],'avatar.png',{type:'image/png'});
+ const uploadReq=(file=png,origin='http://localhost:3000')=>{const body=new FormData();body.set('file',file);body.set('alt_text','Test image');return new NextRequest('http://localhost:3000/api/admin/profile',{method:'POST',headers:{origin},body});};
+ let providerCalls=0;
+ try{
+  process.env.CLOUDINARY_CLOUD_NAME=' test-cloud \n';process.env.CLOUDINARY_API_KEY=' test-key \n';process.env.CLOUDINARY_API_SECRET=' test-secret \n';
+  const {createHash}=await import('node:crypto');
+  globalThis.fetch=async(url,options)=>{providerCalls++;check(url,'https://api.cloudinary.com/v1_1/test-cloud/image/upload','storage cloud name trimmed');const form=options.body;check(form.get('api_key'),'test-key','storage API key trimmed');check(form.get('signature'),createHash('sha256').update(`folder=${form.get('folder')}&timestamp=${form.get('timestamp')}test-secret`).digest('hex'),'exact sorted SHA-256 signature uses trimmed secret');check(form.has('api_secret'),false,'storage secret never transmitted');return Response.json({secure_url:'https://res.cloudinary.com/test-cloud/image/upload/test.png',public_id:'test-image'});};
+  check((await profileUpload.POST(uploadReq())).status,200,'profile image saves after provider success');
+  const avatar=(await (await profileUpload.GET(req('/api/admin/profile','GET'))).json()).profile.avatar_url;
+  check(avatar,'https://res.cloudinary.com/test-cloud/image/upload/test.png','uploaded profile URL persists');
+  check((await mediaUpload.POST(uploadReq())).status,201,'media library uses shared signed upload');
+  const mediaCount=(await query('SELECT count(*)::int AS count FROM media_assets')).rows[0].count;
+  const rejections=[[401,'Invalid API key test-key',503,'STORAGE_CREDENTIALS_REJECTED'],[400,'Invalid Signature test-secret',503,'STORAGE_SIGNATURE_REJECTED'],[403,'Not allowed',503,'STORAGE_ACCESS_DENIED'],[429,'Rate limit',503,'STORAGE_LIMIT_REACHED'],[413,'File size too large',400,'STORAGE_FILE_TOO_LARGE'],[400,'Invalid image file',400,'STORAGE_IMAGE_REJECTED'],[500,'Internal error test-secret',502,'STORAGE_UPLOAD_FAILED']];
+  for(const [status,message,expected,code] of rejections){globalThis.fetch=async()=>{providerCalls++;return Response.json({error:{message}},{status});};const response=await profileUpload.POST(uploadReq()),body=await response.json();check(response.status,expected,'provider rejection HTTP status '+code);check(body.code,code,'provider rejection safe code '+code);check(JSON.stringify(body).includes('test-secret')||JSON.stringify(body).includes('test-key'),false,'provider details remain private '+code);}
+  for(const data of [{},{secure_url:'http://unsafe.test/image',public_id:'test'},{secure_url:'https://user:pass@unsafe.test/image',public_id:'test'}]){globalThis.fetch=async()=>Response.json(data);check((await profileUpload.POST(uploadReq())).status,502,'incomplete or unsafe storage success rejected');}
+  globalThis.fetch=async()=>new Response('not JSON',{status:502});check((await profileUpload.POST(uploadReq())).status,502,'non-JSON provider failure handled');
+  for(const [name,status,code] of [['TimeoutError',504,'STORAGE_TIMEOUT'],['TypeError',502,'STORAGE_UNREACHABLE']]){globalThis.fetch=async()=>{const error=new Error('private transport detail');error.name=name;throw error;};const response=await profileUpload.POST(uploadReq());check(response.status,status,'transport failure status '+name);check((await response.json()).code,code,'transport failure safe code '+name);}
+  globalThis.fetch=async()=>{providerCalls++;return Response.json({error:{message:'Invalid Signature'}},{status:401});};
+  check((await mediaUpload.POST(uploadReq())).status,503,'media provider rejection does not report success');check((await query('SELECT count(*)::int AS count FROM media_assets')).rows[0].count,mediaCount,'failed media upload never creates database asset');
+  const before=providerCalls;
+  check((await profileUpload.POST(uploadReq(png,'https://foreign.example'))).status,403,'foreign-origin profile upload blocked');
+  check((await profileUpload.POST(uploadReq(new File(['<svg/>'],'fake.png',{type:'image/png'})))).status,400,'disguised avatar rejected before storage');
+  check((await profileUpload.POST(uploadReq(new File([new Uint8Array(3*1024*1024+1)],'large.png',{type:'image/png'})))).status,400,'oversized avatar rejected before storage');
+  delete process.env.CLOUDINARY_API_SECRET;check((await profileUpload.POST(uploadReq())).status,503,'missing storage configuration handled');
+  check(providerCalls,before,'invalid requests never reach Cloudinary');
+  check((await (await profileUpload.GET(req('/api/admin/profile','GET'))).json()).profile.avatar_url,avatar,'all rejected uploads preserve saved avatar');
+ }finally{globalThis.fetch=savedFetch;storageKeys.forEach((key,index)=>{if(savedStorage[index]===undefined)delete process.env[key];else process.env[key]=savedStorage[index];});}
  const catalog=require(path.resolve('data/portfolio.json'));
  check(catalog.length,38,'approved catalog has exactly 38 entries');check(new Set(catalog.map(x=>x.slug)).size,38,'approved project URLs are unique');
  const portfolio=load('lib/public-content.ts');check((await portfolio.getPublishedProjects()).length,38,'approved catalog renders without seeded database projects');
  await query("INSERT INTO projects(slug,title,category,status) VALUES($1,$2,$3,'DRAFT')",[catalog[0].slug,catalog[0].title,catalog[0].category]);
  check(await portfolio.getPublishedProject(catalog[0].slug),null,'CMS draft overrides approved fallback and stays private');
  check((await portfolio.getPublishedProjects()).length,37,'draft override is excluded from public listing');
+ const hiddenProjects=[catalog[0],catalog.find(item=>item.category==='WEB_APPLICATION'),catalog.find(item=>item.category==='MOBILE_APP')];
+ for(const item of hiddenProjects.slice(1))await query("INSERT INTO projects(slug,title,category,status) VALUES($1,$2,$3,'ARCHIVED')",[item.slug,item.title,item.category]);
+ const projectDetail=load('app/work/projects/[slug]/page.tsx').default;
+ const liveSitemap=await load('app/sitemap.ts').default();
+ for(const item of hiddenProjects){
+  check((await portfolio.getPublishedProjects(item.category)).some(project=>project.slug===item.slug),false,'hidden project excluded from its public category: '+item.slug);
+  await assert.rejects(()=>projectDetail({params:Promise.resolve({slug:item.slug})}));tests++;console.log('PASS hidden direct project page stays unavailable: '+item.slug);
+  check(liveSitemap.some(entry=>entry.url.endsWith('/work/projects/'+item.slug)),false,'hidden project excluded from sitemap: '+item.slug);
+ }
+ for(const item of hiddenProjects.slice(1))await query('DELETE FROM projects WHERE slug=$1',[item.slug]);
  const overviewData=await (await load('app/api/admin/overview/route.ts').GET()).json();
  check(overviewData.projects,(await portfolio.getPublishedProjects()).length,'overview counts the same visible portfolio as the public website');
  check(overviewData.blogPosts,(await portfolio.getPublicArticles()).length,'overview includes visible original articles as well as saved articles');

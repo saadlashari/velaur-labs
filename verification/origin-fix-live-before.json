@@ -1,0 +1,19 @@
+{
+  "recordedAt": "2026-10-21T18:23:18.126831+00:00",
+  "method": "POST",
+  "path": "/api/auth/login",
+  "body": "{} (no credentials)",
+  "observations": [
+    {
+      "origin": "https://velaurlabs.com",
+      "status": 403,
+      "error": "Invalid request origin."
+    },
+    {
+      "origin": "https://velaurlabs.netlify.app",
+      "status": 400,
+      "error": "Enter your email and password."
+    }
+  ],
+  "productionChanged": false
+}

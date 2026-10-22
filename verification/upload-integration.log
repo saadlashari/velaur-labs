@@ -1,0 +1,264 @@
+PASS initial administrator bootstrap
+PASS bootstrap cannot create a second administrator
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: https://foreign.example
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com.evil.test
+PASS untrusted/malformed origin remains blocked: https://evil.velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://other.netlify.app
+PASS untrusted/malformed origin remains blocked: https://deploy-preview-1--velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: http://velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com:444
+PASS untrusted/malformed origin remains blocked: https://user@velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com/path
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com?query=1
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com#fragment
+PASS untrusted/malformed origin remains blocked: null
+PASS untrusted/malformed origin remains blocked: javascript:alert(1)
+PASS untrusted/malformed origin remains blocked: not-a-url
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com, https://foreign.example
+PASS missing Origin remains blocked
+PASS missing APP_URL fails closed even for known aliases
+PASS invalid APP_URL fails closed
+PASS VELAUR aliases are disabled for a different deployment
+PASS other deployments retain their exact configured origin
+PASS localhost does not implicitly trust production origins
+PASS super admin cannot bypass 2FA enrollment
+PASS TOTP enrollment transaction
+PASS ten recovery codes returned once
+PASS foreign-origin login rejected
+PASS malformed login fields rejected
+PASS password and TOTP sign-in
+PASS TOTP replay rejected
+PASS recovery-code sign-in
+PASS recovery code cannot be reused
+PASS custom-domain password and recovery-code sign-in works with Netlify APP_URL
+PASS authenticated custom-domain CMS request reaches field validation
+PASS authenticated foreign-origin CMS request remains blocked
+PASS page creation
+PASS atomic page publication
+PASS isolated draft save
+PASS autosave leaves public content unchanged
+PASS stale save conflicts instead of overwriting
+PASS duplicate section keys rejected
+PASS unsafe links rejected
+PASS snapshot content export
+PASS security settings excluded from content export
+PASS export checksums and counts verified
+PASS restore creates a draft
+PASS restoring a revision leaves live content unchanged
+PASS prepare isolated draft for review
+PASS submit isolated page draft for approval
+PASS review cannot publish changes made after submission
+PASS stale review can be resubmitted
+PASS approval publishes the reviewed draft atomically
+PASS approved draft becomes public
+PASS contact inquiry is saved with no email provider
+PASS unconfigured email delivery is recorded without losing inquiry
+PASS inquiry accepts AI Development
+PASS inquiry accepts Web Development
+PASS inquiry accepts Mobile App Development
+PASS inquiry accepts AI Automation
+PASS inquiry accepts AI Integration
+PASS inquiry accepts UI/UX Design
+PASS inquiry accepts Software Testing & QA
+PASS inquiry accepts Deployment & Maintenance
+PASS inquiry accepts B2B Lead Generation
+PASS inquiry accepts LinkedIn Outreach
+PASS inquiry accepts Cold Email Outreach
+PASS inquiry accepts Appointment Setting
+PASS inquiry accepts Upwork Profile & Bidding Management
+PASS inquiry accepts CRM & Sales Automation
+PASS inquiry accepts Meta Ads Management
+PASS inquiry accepts Google Ads Management
+PASS inquiry accepts Email Marketing & Automation
+PASS inquiry accepts Social Media Management
+PASS inquiry accepts SEO & Content Marketing
+PASS inquiry accepts Landing Pages & Conversion Rate Optimization
+PASS inquiry accepts Branding & Creative Strategy
+PASS inquiry accepts B2B Client Acquisition System
+PASS inquiry accepts E-commerce Growth System
+PASS inquiry accepts Startup Launch System
+PASS inquiry accepts AI-Powered Business Automation
+PASS inquiry accepts Agency & Freelancer Growth System
+PASS inquiry accepts AI & Software Development
+PASS inquiry accepts Business Development
+PASS inquiry accepts Digital Marketing & Growth
+PASS inquiry accepts Other
+PASS business website persists in inquiry details without a schema change
+PASS unsafe business website rejected
+PASS honeypot does not report false success
+PASS contact requires consent
+PASS foreign-origin contact rejected
+PASS nested layout validates
+PASS layout images require alt text
+PASS SVG disguised as PNG rejected
+PASS PNG signature recognized
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS profile image saves after provider success
+PASS uploaded profile URL persists
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS media library uses shared signed upload
+PASS provider rejection HTTP status STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection safe code STORAGE_CREDENTIALS_REJECTED
+PASS provider details remain private STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection HTTP status STORAGE_SIGNATURE_REJECTED
+PASS provider rejection safe code STORAGE_SIGNATURE_REJECTED
+PASS provider details remain private STORAGE_SIGNATURE_REJECTED
+PASS provider rejection HTTP status STORAGE_ACCESS_DENIED
+PASS provider rejection safe code STORAGE_ACCESS_DENIED
+PASS provider details remain private STORAGE_ACCESS_DENIED
+PASS provider rejection HTTP status STORAGE_LIMIT_REACHED
+PASS provider rejection safe code STORAGE_LIMIT_REACHED
+PASS provider details remain private STORAGE_LIMIT_REACHED
+PASS provider rejection HTTP status STORAGE_FILE_TOO_LARGE
+PASS provider rejection safe code STORAGE_FILE_TOO_LARGE
+PASS provider details remain private STORAGE_FILE_TOO_LARGE
+PASS provider rejection HTTP status STORAGE_IMAGE_REJECTED
+PASS provider rejection safe code STORAGE_IMAGE_REJECTED
+PASS provider details remain private STORAGE_IMAGE_REJECTED
+PASS provider rejection HTTP status STORAGE_UPLOAD_FAILED
+PASS provider rejection safe code STORAGE_UPLOAD_FAILED
+PASS provider details remain private STORAGE_UPLOAD_FAILED
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS non-JSON provider failure handled
+PASS transport failure status TimeoutError
+PASS transport failure safe code TimeoutError
+PASS transport failure status TypeError
+PASS transport failure safe code TypeError
+PASS media provider rejection does not report success
+PASS failed media upload never creates database asset
+PASS foreign-origin profile upload blocked
+PASS disguised avatar rejected before storage
+PASS oversized avatar rejected before storage
+PASS missing storage configuration handled
+PASS invalid requests never reach Cloudinary
+PASS all rejected uploads preserve saved avatar
+PASS approved catalog has exactly 38 entries
+PASS approved project URLs are unique
+PASS approved catalog renders without seeded database projects
+PASS CMS draft overrides approved fallback and stays private
+PASS draft override is excluded from public listing
+PASS overview counts the same visible portfolio as the public website
+PASS overview includes visible original articles as well as saved articles
+PASS all existing and new service defaults appear in content library
+PASS owner can hide original service without prior seeding
+PASS hidden default service stays hidden
+PASS hidden service detail cannot resurface fallback
+PASS custom service creation
+PASS new service appears in public service listing
+PASS new custom service has a working detail page
+PASS owner can hide original article with its bundled image
+PASS draft article overrides static fallback
+PASS hidden original article absent from public listing
+PASS original article can be shown again
+PASS restored original article is public
+PASS original article moves to trash
+PASS deleted original article does not reappear from fallback
+PASS bundled editorial notes validate
+PASS article source executable URL rejected
+PASS approved editorial content publishes through actual content API
+PASS public article reads saved editorial text rather than bundled defaults
+PASS primary source survives database round trip
+PASS disposable PostgreSQL filesystem backup restores page data
+PASS disposable PostgreSQL backup restores authentication data
+PASS database limiter rejects attempt eleven
+PASS SEO draft saves independently
+PASS SEO draft does not leak to public settings
+PASS SEO stale draft rejected
+PASS SEO endpoint cannot alter unrelated site settings
+PASS SEO endpoint rejects unknown routes
+PASS SEO foreign-origin save rejected
+PASS SEO publication succeeds atomically
+PASS published SEO title follows saved settings
+PASS published H1 follows SEO workspace
+PASS published takeaway survives draft and publish
+PASS SEO noindex applied to public metadata
+PASS SEO noindex removes URL from sitemap
+PASS SEO defaults restored without changing original content
+PASS sharing image rejects executable URL
+PASS sharing image requires HTTPS
+PASS sharing image rejects URL credentials
+PASS sharing image rejects protocol-relative URLs
+PASS invalid legacy image falls back to original premium card
+PASS SEO editor receives published default sharing image
+PASS SEO API rejects insecure sharing image
+PASS sharing image draft saves
+PASS image draft stays private
+PASS image draft reloads into editor
+PASS sharing image publishes through permission-checked API
+PASS published Open Graph image /
+PASS published image alt /
+PASS published Twitter image /
+PASS custom image dimensions not invented /
+PASS published Open Graph image /services/upwork-profile-bidding-management
+PASS published image alt /services/upwork-profile-bidding-management
+PASS published Twitter image /services/upwork-profile-bidding-management
+PASS custom image dimensions not invented /services/upwork-profile-bidding-management
+PASS published Open Graph image /work/projects/salesfox-website
+PASS published image alt /work/projects/salesfox-website
+PASS published Twitter image /work/projects/salesfox-website
+PASS custom image dimensions not invented /work/projects/salesfox-website
+PASS published Open Graph image /blog/ai-agents-vs-traditional-chatbots
+PASS published image alt /blog/ai-agents-vs-traditional-chatbots
+PASS published Twitter image /blog/ai-agents-vs-traditional-chatbots
+PASS custom image dimensions not invented /blog/ai-agents-vs-traditional-chatbots
+PASS original premium sharing image restored
+PASS original sharing image has verified width
+PASS original-page design draft accepts complete settings
+PASS original-page draft is isolated from public settings
+PASS element overrides stay private in draft
+PASS designer API rejects unsafe selectors
+PASS original-page preview reads scoped draft settings
+PASS preview context cannot leak into public requests
+PASS category pages remain available in authenticated designer
+PASS growth solution pages remain available in authenticated designer
+PASS authenticated preview receives unsaved original-page settings
+PASS original-page draft detects another editor save
+PASS original-page design publishes atomically
+PASS published original-page settings become public
+PASS new scroll process detail fields publish
+PASS footer grouping publishes
+PASS configured social URL publishes
+PASS new homepage colors and spacing publish through actual CMS API
+PASS capability title and visibility publish through actual CMS API
+PASS approved element graph publishes with settings transaction
+PASS optional topbar publishes with site structure
+PASS header visibility publishes
+PASS footer visibility publishes
+PASS structure links reject script URLs
+PASS original-page revision exposes prior content only to owner
+PASS loading old original-page design leaves publication unchanged
+PASS live settings write uses shared publish lock
+PASS designer cannot overwrite later live settings changes
+PASS sub-admin supports all modules exposed by permissions UI
+PASS creation cannot grant super-admin role
+PASS super admin can disable sub-admin
+PASS disabling sub-admin revokes sessions
+PASS creator cannot hide default service without publishing permission
+PASS creator cannot shadow original article without publishing permission
+PASS creator cannot shadow approved portfolio without publishing permission
+PASS sub admin cannot export sensitive data
+PASS sub admin cannot publish
+PASS editor can prepare draft of published page
+PASS SEO view requires settings permission
+PASS logout revokes session
+PASS revoked session cannot authenticate
+PASS SEO anonymous read rejected
+PASS anonymous original-page draft preview rejected
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":263,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}

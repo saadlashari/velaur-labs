@@ -1,30 +1,39 @@
-# Process connectors, linked hover and card alignment — 17 October 2026
+# VELAUR LABS — Production verification, 22 October 2026
 
-The requested connector lines remain in the delivery diagram. Instead of disconnected, fixed-angle CSS strokes, a responsive SVG layer now measures each phase heading and its matching segment. Elbow paths and endpoint dots stay outside the content bounds. A ResizeObserver updates their positions when labels wrap, fonts/layout change, or the viewport resizes. Desktop labels use a consistent heading area; tablet/mobile cards align their heading, deliverable and paragraph tracks.
+## Delivered changes
 
-Hovering any of the five arc segments highlights the matching segment, phase heading and connector. Hovering the text phase highlights the same trio. Pointer leave restores the scroll-selected phase, or current keyboard focus. Keyboard focus takes precedence over a stationary previous hover. Selecting a segment also changes the active phase for mobile-width use. The existing scroll observer remains active. Original content, supporting detail lists, admin design IDs and CMS inputs remain in place.
+Custom-domain admin login accepts only the configured app's exact trusted HTTPS origins: velaurlabs.com, www.velaurlabs.com and velaurlabs.netlify.app. Foreign origins remain rejected. Password, 2FA, recovery-code, permission and rate-limit checks remain enforced.
 
-Shared CSS subgrid tracks align headings, descriptions and CTA endpoints within card rows: service cards, capability cards, reasons, article previews, category cards, growth/related service cards, portfolio project cards, delivery detail cards and featured projects. The original featured portfolio image quadrants remain; their text uses a consistent left or right column. No copy is shortened, no line clamping is added, and the 30px section gap is preserved. Existing layouts remain the fallback on browsers without CSS subgrid support; that fallback is not claimed to have identical row alignment.
+Profile and media uploads share signed server-side Cloudinary handling, trimmed configuration, timeouts, safe errors and validation of successful image responses. Failed uploads preserve the saved avatar and do not create media records. The profile screen handles progress, retries and incomplete success responses.
 
-## Verified
+The real Cloudinary rejection was `missing permissions (actions=[create])`. The account owner corrected the active key's create permission. Both signed upload probes then returned HTTP 200, and both temporary assets were deleted successfully. The owner signed into the custom-domain admin and uploaded their own profile image: the UI showed success, the database recorded AVATAR_UPDATE, and the saved image returned HTTP 200. The owner's image was preserved. SHA-1 was also tested successfully; the permission issue, not SHA-1 alone, caused the original rejection.
 
-- Final production build and standalone TypeScript check passed.
-- Lint: zero errors, 23 existing warnings.
-- Full regression suite: 14/14 passed. Process/CMS regression suite now has 46 checks, including hover in both directions, scroll restoration, keyboard focus overriding a stationary pointer, original copy preservation, and CMS copy updates.
-- Browser layout matrix: all 83 public routes at actual CSS widths 390, 820 and 1440px, in light and dark themes: 498 cases. No horizontal overflow or measured row-alignment failures. Across these cases, 500 multi-card rows were compared for heading/copy/CTA alignment. Text overflow and section-gap checks were additionally recorded for the mobile/tablet cases.
-- Real pointer: all five arc segments and all five text phases in both themes, 20 distinct cases; matching arc, heading state and connector agreed. Screenshots are retained alongside the raw measurements.
-- Connector routing: five paths at actual desktop widths 1102, 1280, 1440 and 1920px, in both themes; sampled segments crossed no phase text bounds. The first requested size rounded to 1102px because of browser zoom. Paths retain visible normal and highlighted strokes.
-- Mobile-width selection: selecting stage four at 390px activated its matching phase in both themes; no overflow. Long desktop leader lines remain hidden in the existing compact mobile/tablet layout.
-- Real keyboard Tab check: visible focus on phase two and matching arc/heading state on the final build.
-- No warning/error console entries captured in the final process/layout QA tab.
-- Preserved data hashes: original process copy/details, approved portfolio/service/solution data, sharing image, schema and dependency manifests match the previous release.
+Homepage card links edited in the visual builder now navigate to their saved destination. Previously a BodyTalk card's visible href pointed to BodyTalk while Next's retained React destination opened SalesFox. The new behavior follows the edited native anchor and retains modifier/new-tab behavior. The admin inspector now offers **Link destination** and **Apply link** when selecting a link, its image/heading, or a card with one link. Invalid or blank destinations cannot be applied. Existing draft/publish controls remain.
 
-Evidence is in `verification/process-*.json`, `process-alignment-*.log`, `process-desktop-*.png`, `process-mobile-*.png`, `cards-desktop-light.png` and the current `automated-tests.json`/`.log`. Browser zoom was accounted for in actual CSS viewport sizes and screenshot coordinate scaling.
+Use Admin > Design, select the relevant linked element, open Edit, change Link destination, choose Apply link, then save a draft/review/publish. Selecting a container containing several different links does not arbitrarily change one of them.
 
-31 initial navigation samples were read before the public root/theme was present. Those incomplete samples were repeated after network idle and replaced with complete measurements, marked `recheckedAfterLoad` in the final matrix. The final coverage assertion requires all 83 routes in each requested width/theme combination.
+## Preservation
 
-## Limits and local preview
+No production content or design records were written by this maintenance. Before/after hashes match for all 129 public global settings and the projects, pages, page_sections, services, blog_posts and redirects tables. Seven public route snapshots preserve headings, project identities and saved hide rules. The current homepage's BodyTalk/TopMusic edits, copy, images and hidden elements remain saved.
 
-These are Chromium viewport and pointer/keyboard checks, plus React component/CMS/API regression tests. Mobile selection was exercised through browser input at a mobile viewport; a physical touch device and other browser engines were not separately certified. Arbitrary future CMS content may require a new layout review. No production deployment, real provider email/upload, real Neon access, or external social sharing-cache test was performed. The existing database-backed settings and admin preview use the same shared component/styles; no new database migration or content field was required. Local QA uses disposable data and contains no production credentials.
+Nine website/mobile entries remain hidden on the existing /work page: SalesFox website/mobile, MyYogi website/mobile, Actimus website/mobile, Her Golf, TJ's Pizza and ServeU mobile. Existing web-development and mobile-development page hide rules also remain. These are existing route-specific visual overrides; the category listing routes /work/websites and /work/mobile-apps had no equivalent hide rules before this deployment and were left unchanged under the instruction to preserve the live website. This is preservation of the saved state, not a claim of global record-level unpublishing.
 
-Open `http://127.0.0.1:3000/#process` for live review. The consolidated ZIP includes earlier approved updates. GitHub source is synchronized separately after package verification. Older reports and evidence remain as history; their dates and limitations still apply to their original releases.
+The ZIP contains source, approved assets and verification evidence. Live content/settings remain in the existing database. No Neon migration, database reset, secret reset or 2FA reset is needed.
+
+## Verification
+
+- All 14 automated suites passed: 272 API/CMS assertions, 110 React DOM assertions and 111 public rendering assertions covering 83 routes.
+- Tests include link selection, draft persistence, invalid/blank URL handling, preservation of hidden/text/style rules, navigation handler cleanup and preview selection; hidden/archived catalog exclusions are covered separately.
+- Production-context Netlify build and TypeScript checks passed. Build warnings are recorded in the build log; no zero-warning claim is made.
+- Actual final custom-domain empty login POSTs reach field validation (400) on all three trusted hosts; a foreign origin receives 403. These requests alone do not prove password/2FA sign-in; the owner's successful real sign-in and audit record provide that separate evidence.
+- Real custom-domain sign-in and avatar upload were observed on the earlier login/upload deployment. The final deployment retains the same authentication and upload code; subsequent changes concern the link editor/navigation only.
+- Review browser clicks: desktop/dark BodyTalk opens /work/projects/bodytalk-system-website; 390x844 mobile/light TopMusic opens /work/projects/topmusic-mobile-app. The mobile result had no horizontal overflow. Final custom-domain browser clicks also reached both intended project pages in dark/light modes.
+- Seven public route comparisons passed; saved public CMS table hashes remained unchanged.
+
+The last native Chrome signed-in admin visual check could not run because the desktop browser tool could not verify its current URL. The new inspector was functionally tested with React DOM and workspace draft tests; no final signed-in browser visual pass or exhaustive mobile/desktop audit is claimed. Historical screenshots and reports in verification/ describe their own earlier runs and are not new evidence for this release. No 100% coverage claim is made.
+
+## Publishing and evidence
+
+The tested Next.js build is published to the existing VELAUR LABS Netlify site. Exact deploy IDs and timestamps are recorded in verification/final-production-deployment-20261022.json. GitHub changes are on fix/custom-domain-login-origin, PR https://github.com/saadlashari/velaur-labs/pull/1.
+
+Current evidence: automated-tests.json/.log, final-link-ui-20261022.log, final-netlify-build-20261022.log, cloudinary-live-20261022.json, live-login-upload-20261022.json, final-live-checks-20261022.json, final-preview-checks-20261022.json and live-content-preservation-20261022.json. No credential values, raw private database snapshot or personal avatar URL are included. The ZIP excludes .env secrets, .netlify credentials/state, dependencies, build output and Git history; verification/FILE-MANIFEST.json supplies per-file SHA-256 checksums.

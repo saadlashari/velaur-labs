@@ -1,0 +1,91 @@
+{
+  "configuredAppUrl": "https://velaurlabs.netlify.app",
+  "database": "dummy connection string; field validation only, no database access",
+  "tests": [
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://www.velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.netlify.app",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://foreign.example",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.com.evil.test",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://other.netlify.app",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://www.velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.netlify.app",
+      "status": 400,
+      "expected": 400,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://foreign.example",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.com.evil.test",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://other.netlify.app",
+      "status": 403,
+      "expected": 403,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

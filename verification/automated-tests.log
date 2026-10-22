@@ -1,7 +1,7 @@
 
 verify-source.mjs (exit 0)
 {
-  "filesInspected": 139,
+  "filesInspected": 140,
   "requiredRoutesChecked": 12,
   "errors": []
 }
@@ -42,6 +42,36 @@ test-portfolio-browser.mjs (exit 0)
 test-integration.mjs (exit 0)
 PASS initial administrator bootstrap
 PASS bootstrap cannot create a second administrator
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://www.velaurlabs.com -> https://velaurlabs.netlify.app
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://www.velaurlabs.com
+PASS same-app alias reaches login validation: https://velaurlabs.netlify.app -> https://velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: https://foreign.example
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com.evil.test
+PASS untrusted/malformed origin remains blocked: https://evil.velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://other.netlify.app
+PASS untrusted/malformed origin remains blocked: https://deploy-preview-1--velaurlabs.netlify.app
+PASS untrusted/malformed origin remains blocked: http://velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com:444
+PASS untrusted/malformed origin remains blocked: https://user@velaurlabs.com
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com/path
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com?query=1
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com#fragment
+PASS untrusted/malformed origin remains blocked: null
+PASS untrusted/malformed origin remains blocked: javascript:alert(1)
+PASS untrusted/malformed origin remains blocked: not-a-url
+PASS untrusted/malformed origin remains blocked: https://velaurlabs.com, https://foreign.example
+PASS missing Origin remains blocked
+PASS missing APP_URL fails closed even for known aliases
+PASS invalid APP_URL fails closed
+PASS VELAUR aliases are disabled for a different deployment
+PASS other deployments retain their exact configured origin
+PASS localhost does not implicitly trust production origins
 PASS super admin cannot bypass 2FA enrollment
 PASS TOTP enrollment transaction
 PASS ten recovery codes returned once
@@ -51,6 +81,9 @@ PASS password and TOTP sign-in
 PASS TOTP replay rejected
 PASS recovery-code sign-in
 PASS recovery code cannot be reused
+PASS custom-domain password and recovery-code sign-in works with Netlify APP_URL
+PASS authenticated custom-domain CMS request reaches field validation
+PASS authenticated foreign-origin CMS request remains blocked
 PASS page creation
 PASS atomic page publication
 PASS isolated draft save
@@ -110,11 +143,68 @@ PASS nested layout validates
 PASS layout images require alt text
 PASS SVG disguised as PNG rejected
 PASS PNG signature recognized
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS profile image saves after provider success
+PASS uploaded profile URL persists
+PASS storage cloud name trimmed
+PASS storage API key trimmed
+PASS exact sorted SHA-256 signature uses trimmed secret
+PASS storage secret never transmitted
+PASS media library uses shared signed upload
+PASS provider rejection HTTP status STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection safe code STORAGE_CREDENTIALS_REJECTED
+PASS provider details remain private STORAGE_CREDENTIALS_REJECTED
+PASS provider rejection HTTP status STORAGE_SIGNATURE_REJECTED
+PASS provider rejection safe code STORAGE_SIGNATURE_REJECTED
+PASS provider details remain private STORAGE_SIGNATURE_REJECTED
+PASS provider rejection HTTP status STORAGE_ACCESS_DENIED
+PASS provider rejection safe code STORAGE_ACCESS_DENIED
+PASS provider details remain private STORAGE_ACCESS_DENIED
+PASS provider rejection HTTP status STORAGE_LIMIT_REACHED
+PASS provider rejection safe code STORAGE_LIMIT_REACHED
+PASS provider details remain private STORAGE_LIMIT_REACHED
+PASS provider rejection HTTP status STORAGE_FILE_TOO_LARGE
+PASS provider rejection safe code STORAGE_FILE_TOO_LARGE
+PASS provider details remain private STORAGE_FILE_TOO_LARGE
+PASS provider rejection HTTP status STORAGE_IMAGE_REJECTED
+PASS provider rejection safe code STORAGE_IMAGE_REJECTED
+PASS provider details remain private STORAGE_IMAGE_REJECTED
+PASS provider rejection HTTP status STORAGE_UPLOAD_FAILED
+PASS provider rejection safe code STORAGE_UPLOAD_FAILED
+PASS provider details remain private STORAGE_UPLOAD_FAILED
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS incomplete or unsafe storage success rejected
+PASS non-JSON provider failure handled
+PASS transport failure status TimeoutError
+PASS transport failure safe code TimeoutError
+PASS transport failure status TypeError
+PASS transport failure safe code TypeError
+PASS media provider rejection does not report success
+PASS failed media upload never creates database asset
+PASS foreign-origin profile upload blocked
+PASS disguised avatar rejected before storage
+PASS oversized avatar rejected before storage
+PASS missing storage configuration handled
+PASS invalid requests never reach Cloudinary
+PASS all rejected uploads preserve saved avatar
 PASS approved catalog has exactly 38 entries
 PASS approved project URLs are unique
 PASS approved catalog renders without seeded database projects
 PASS CMS draft overrides approved fallback and stays private
 PASS draft override is excluded from public listing
+PASS hidden project excluded from its public category: cakes-and-bakes-website
+PASS hidden direct project page stays unavailable: cakes-and-bakes-website
+PASS hidden project excluded from sitemap: cakes-and-bakes-website
+PASS hidden project excluded from its public category: stellar-driveway-web-app
+PASS hidden direct project page stays unavailable: stellar-driveway-web-app
+PASS hidden project excluded from sitemap: stellar-driveway-web-app
+PASS hidden project excluded from its public category: topmusic-mobile-app
+PASS hidden direct project page stays unavailable: topmusic-mobile-app
+PASS hidden project excluded from sitemap: topmusic-mobile-app
 PASS overview counts the same visible portfolio as the public website
 PASS overview includes visible original articles as well as saved articles
 PASS all existing and new service defaults appear in content library
@@ -222,7 +312,7 @@ PASS logout revokes session
 PASS revoked session cannot authenticate
 PASS SEO anonymous read rejected
 PASS anonymous original-page draft preview rejected
-{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":182,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
+{"suite":"actual API handlers with disposable PGlite PostgreSQL","passed":272,"limitations":["pgcrypto extension unavailable in PGlite; built-in gen_random_uuid used","Next cookie store adapted in memory","No hosted provider calls or browser session covered"]}
 
 test-builder-ui.mjs (exit 0)
 PASS hidden sections excluded from canvas
@@ -314,6 +404,36 @@ PASS hiding a default preserves its approved content
 PASS editing a virtual default never sends an invalid UUID patch
 PASS default edits save the actual editor values
 Default content interactions included; total 82 assertions passed.
+PASS image selection exposes its surrounding link
+PASS card heading selects the same destination
+PASS card container exposes its single content link
+PASS link editor reads saved surrounding-link override
+PASS empty link cannot replace the saved destination
+PASS unsafe link cannot be applied
+PASS image link edit saves against its real anchor
+PASS link change preserves parent card styling
+PASS link change preserves edited card text
+PASS link change preserves hidden content
+PASS link editing uses the existing explicit draft workflow
+PASS saved destination applies to the actual public link
+PASS public link update keeps hidden content hidden
+PASS saved link bypasses stale React navigation handler
+PASS native link receives the saved destination
+PASS reset removes saved-link interception
+PASS reset restores the original destination
+PASS design preview retains its own click selection behavior
+Contextual link editing included; total 100 assertions passed.
+PASS avatar input disabled while uploading
+PASS avatar upload progress is visible
+PASS failed avatar upload retains previous image
+PASS failed avatar input resets for same-file retry
+PASS failed upload has no success message
+PASS same image can be retried
+PASS successful upload updates preview
+PASS successful retry clears previous error
+PASS incomplete success response never shows success
+PASS incomplete success preserves preview
+Profile upload interactions included; total 110 assertions passed.
 
 test-public-rendering.mjs (exit 0)
 {"suite":"Public route components rendered with real React SSR","passed":111,"routes":83,"limitations":["Next Link/Image/navigation adapters used","No HTTP transport, hydration or browser geometry checked","Database-independent approved catalog checked"]}

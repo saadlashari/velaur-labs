@@ -1,0 +1,25 @@
+{
+  "recordedAt": "2026-10-21T20:07:38.375Z",
+  "results": [
+    {
+      "algorithm": "sha1",
+      "status": 200,
+      "success": true
+    },
+    {
+      "algorithm": "sha256",
+      "status": 200,
+      "success": true
+    }
+  ],
+  "cleanup": [
+    {
+      "status": 200,
+      "result": "ok"
+    },
+    {
+      "status": 200,
+      "result": "ok"
+    }
+  ]
+}

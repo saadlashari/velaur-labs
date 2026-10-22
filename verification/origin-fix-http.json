@@ -1,0 +1,126 @@
+{
+  "configuredAppUrl": "https://velaurlabs.netlify.app",
+  "tests": [
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Enter your email and password."
+      }
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://www.velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Enter your email and password."
+      }
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.netlify.app",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Enter your email and password."
+      }
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://foreign.example",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://velaurlabs.com.evil.test",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    },
+    {
+      "path": "/api/auth/login",
+      "origin": "https://other.netlify.app",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Please check the required fields and try again."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://www.velaurlabs.com",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Please check the required fields and try again."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.netlify.app",
+      "status": 400,
+      "expected": 400,
+      "passed": true,
+      "response": {
+        "error": "Please check the required fields and try again."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://foreign.example",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://velaurlabs.com.evil.test",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    },
+    {
+      "path": "/api/inquiries",
+      "origin": "https://other.netlify.app",
+      "status": 403,
+      "expected": 403,
+      "passed": true,
+      "response": {
+        "error": "Invalid request origin."
+      }
+    }
+  ],
+  "passed": true
+}

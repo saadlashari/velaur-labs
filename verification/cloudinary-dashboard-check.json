@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-10-22T08:58:18.216452+00:00",
+  "credentialsMatched": true,
+  "rootCause": "Cloudinary active key lacked create permission",
+  "ownerConfirmedPermissionChange": true,
+  "realSignedUploadsPassed": true,
+  "ownerCustomDomainAvatarUploadObserved": true,
+  "credentialsIncluded": false
+}

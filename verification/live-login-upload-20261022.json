@@ -1,0 +1,22 @@
+{
+  "recordedAt": "2026-10-21T20:20:38.475Z",
+  "customDomain": "https://velaurlabs.com",
+  "avatarPersisted": true,
+  "imageStatus": 200,
+  "contentType": "image/png",
+  "imageBytes": 1856070,
+  "audit": [
+    {
+      "action": "AVATAR_UPDATE",
+      "created_at": "2026-10-21T20:19:18.052Z"
+    },
+    {
+      "action": "LOGIN_SUCCEEDED",
+      "created_at": "2026-10-21T20:16:39.369Z"
+    },
+    {
+      "action": "LOGIN_SUCCEEDED",
+      "created_at": "2026-10-21T18:16:37.164Z"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+​
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+​
+> Version
+  @netlify/build 37.5.1
+​
+> Flags
+  accountId: 6acd37255fa48933c401ed37
+  deployId: 6ad9cf06017289f69b28daa6
+​
+> Current directory
+  C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source
+​
+> Config file
+  C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\netlify.toml
+​
+> Context
+  production
+​
+> Using Next.js Runtime - v5.16.2
+​
+> Outdated plugins
+   - @netlify/plugin-nextjs@5.16.2: latest version is 5.16.3
+     To upgrade this plugin, please update its version in "package.json"
+​
+build.command from netlify.toml                               
+────────────────────────────────────────────────────────────────
+​
+$ npm run build
+
+> velaur-labs-platform@0.1.0 build
+> next build
+
+   ▲ Next.js 15.5.27
+   - Experiments (use with caution):
+     · cpus: 1
+     ⨯ webpackBuildWorker
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 10.9s
+   Linting and checking validity of types ...
+
+./app/admin/content/page.tsx
+45:102  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/admin/media/page.tsx
+11:1231  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/admin/pages/media-picker.tsx
+65:7  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+77:176  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/admin/profile/page.tsx
+22:644  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/blog/page.tsx
+18:1532  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/blog/[slug]/page.tsx
+22:2725  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/components/block-renderer.tsx
+20:346  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/components/portfolio-browser.tsx
+48:11  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/components/portfolio-category.tsx
+20:501  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/components/section-renderer.tsx
+54:154  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/page.tsx
+106:108  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+123:966  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+./app/work/projects/[slug]/page.tsx
+18:2741  Warning: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+   Collecting page data ...
+   Generating static pages (0/69) ...
+   Generating static pages (17/69) 
+   Generating static pages (34/69) 
+   Generating static pages (51/69) 
+ ✓ Generating static pages (69/69)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                               Size  First Load JS
+┌ ƒ /                                                    212 B         128 kB
+├ ○ /_not-found                                          998 B         104 kB
+├ ƒ /about                                               239 B         125 kB
+├ ○ /admin                                                2 kB         108 kB
+├ ○ /admin/about-content                               1.56 kB         108 kB
+├ ○ /admin/approvals                                   1.19 kB         107 kB
+├ ○ /admin/content                                     11.6 kB         121 kB
+├ ○ /admin/design                                        176 B         125 kB
+├ ƒ /admin/design/preview                              4.05 kB         135 kB
+├ ○ /admin/homepage-content                              206 B         103 kB
+├ ○ /admin/inquiries                                    2.6 kB         109 kB
+├ ○ /admin/login                                       4.12 kB         107 kB
+├ ○ /admin/media                                       2.37 kB         109 kB
+├ ○ /admin/operations                                  2.54 kB         109 kB
+├ ○ /admin/pages                                       14.5 kB         124 kB
+├ ○ /admin/profile                                     3.98 kB         110 kB
+├ ○ /admin/seo                                         23.5 kB         139 kB
+├ ○ /admin/settings                                      295 B         125 kB
+├ ○ /admin/users                                       2.97 kB         109 kB
+├ ƒ /api/admin/approvals                                 206 B         103 kB
+├ ƒ /api/admin/audit                                     206 B         103 kB
+├ ƒ /api/admin/backups                                   206 B         103 kB
+├ ƒ /api/admin/content/[module]                          206 B         103 kB
+├ ƒ /api/admin/design                                    206 B         103 kB
+├ ƒ /api/admin/inquiries                                 206 B         103 kB
+├ ƒ /api/admin/media                                     206 B         103 kB
+├ ƒ /api/admin/overview                                  206 B         103 kB
+├ ƒ /api/admin/pages                                     206 B         103 kB
+├ ƒ /api/admin/pages/[id]/revisions                      206 B         103 kB
+├ ƒ /api/admin/pages/[id]/revisions/restore              206 B         103 kB
+├ ƒ /api/admin/pages/[id]/save                           206 B         103 kB
+├ ƒ /api/admin/pages/[id]/sections                       206 B         103 kB
+├ ƒ /api/admin/portfolio/import                          206 B         103 kB
+├ ƒ /api/admin/preferences                               206 B         103 kB
+├ ƒ /api/admin/profile                                   206 B         103 kB
+├ ƒ /api/admin/security/sessions                         206 B         103 kB
+├ ƒ /api/admin/security/two-factor                       206 B         103 kB
+├ ƒ /api/admin/seo                                       206 B         103 kB
+├ ƒ /api/admin/settings                                  206 B         103 kB
+├ ƒ /api/admin/users                                     206 B         103 kB
+├ ƒ /api/auth/bootstrap                                  206 B         103 kB
+├ ƒ /api/auth/login                                      206 B         103 kB
+├ ƒ /api/auth/logout                                     206 B         103 kB
+├ ƒ /api/auth/me                                         206 B         103 kB
+├ ƒ /api/auth/setup-2fa                                  206 B         103 kB
+├ ƒ /api/inquiries                                       206 B         103 kB
+├ ○ /apple-icon.png                                        0 B            0 B
+├ ƒ /blog                                                239 B         125 kB
+├ ƒ /blog/[slug]                                         692 B         126 kB
+├ ƒ /contact                                             212 B         128 kB
+├ ƒ /growth-solutions                                    239 B         125 kB
+├ ● /growth-solutions/[slug]                             239 B         125 kB
+├   ├ /growth-solutions/b2b-client-acquisition-system
+├   ├ /growth-solutions/e-commerce-growth-system
+├   ├ /growth-solutions/startup-launch-system
+├   └ [+2 more paths]
+├ ○ /icon.png                                              0 B            0 B
+├ ƒ /pages/[slug]                                        239 B         125 kB
+├ ƒ /privacy-policy                                      239 B         125 kB
+├ ○ /robots.txt                                          206 B         103 kB
+├ ƒ /services                                            239 B         125 kB
+├ ● /services/[slug]                                   1.52 kB         127 kB
+├   ├ /services/ai-development
+├   ├ /services/web-development
+├   ├ /services/mobile-app-development
+├   └ [+18 more paths]
+├ ƒ /sitemap.xml                                         206 B         103 kB
+├ ƒ /terms-of-service                                    239 B         125 kB
+├ ƒ /work                                              1.52 kB         127 kB
+├ ƒ /work/mobile-apps                                    239 B         125 kB
+├ ƒ /work/projects/[slug]                                239 B         125 kB
+├ ƒ /work/web-applications                               239 B         125 kB
+└ ƒ /work/websites                                       239 B         125 kB
++ First Load JS shared by all                           103 kB
+  ├ chunks/1255-5cd2fe06309409a0.js                    46.5 kB
+  ├ chunks/4bd1b696-f785427dddbba9fb.js                54.2 kB
+  └ other shared chunks (total)                        2.02 kB
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+
+​
+(build.command completed in 1m 22s)
+​
+Functions bundling                                            
+────────────────────────────────────────────────────────────────
+​
+Packaging Functions from .netlify\functions-internal directory:
+ - ___netlify-server-handler\___netlify-server-handler.mjs
+​
+​
+(Functions bundling completed in 7.1s)
+
+Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+[32mDeploy path: [39m       C:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\.next
+[32mConfiguration path: [39mC:\Users\Maaz Khan\Documents\Codex\2026-10-14\continue-and-complete-my-velaur-labs\work\source\netlify.toml
+
+⠋ Uploading blobs to deploy store...
+
+√ Finished uploading blobs to deploy store
+⠋ Preparing deploy...
+⠋ Looking for a functions cache...
+√ Deploying functions from cache (use --skip-functions-cache to override)
+√ Deploying 284 files and 1 function
+⠋ Checking what needs to be uploaded...
+√ Found 1 file and 1 function to upload
+⠋ Uploading 2 files
+√ Finished uploading 2 assets
+⠋ Waiting for deploy to go live...
+√ Deploy is live!
+​
+Netlify Build Complete                                        
+────────────────────────────────────────────────────────────────
+​
+(Netlify Build completed in 2m 36.7s)
+
+🚀 Deploy complete
+────────────────────────────────────────────────────────────────
+
+Draft URL: <https://final-admin-links-20261022--velaurlabs.netlify.app>
+
+Build logs: <https://app.netlify.com/projects/velaurlabs/deploys/6ad9cf06017289f69b28daa6>
+Function logs: <https://app.netlify.com/projects/velaurlabs/logs/functions?scope=deploy:6ad9cf06017289f69b28daa6>
+Edge function logs: <https://app.netlify.com/projects/velaurlabs/logs/edge-functions?scope=deployid:6ad9cf06017289f69b28daa6>
+
+If everything looks good on your draft URL, deploy it to your main project URL with the --prod flag:
+netlify deploy --prod
+

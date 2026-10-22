@@ -1,0 +1,100 @@
+PASS hidden sections excluded from canvas
+PASS canvas selection exposes editable fields
+PASS canvas text updates public renderer
+PASS keyboard-friendly section reorder
+PASS create nested container
+PASS insert heading into container
+PASS edit nested heading
+PASS insert nested button
+PASS reorder sibling blocks
+PASS responsive property edits persist
+PASS remove nested block without removing container
+PASS editor produces a valid layout tree
+PASS reject active block URLs
+PASS reject unsupported arbitrary CSS
+PASS reject duplicate block IDs
+PASS original-page designer saves draft explicitly
+PASS original-page designer preserves edited text
+PASS original-page preview switches to mobile frame
+PASS designer undo preserves history
+PASS designer redo restores history
+PASS publishing requires a separate explicit action
+PASS designer restores revision into editable draft
+{"suite":"React DOM interactions in jsdom","passed":22,"limitation":"DOM behavior verified; not a browser visual, real iframe or pointer-drag geometry test"}
+PASS safe element graph accepted
+PASS selectors restricted to public site
+PASS arbitrary CSS rejected
+PASS active image URLs rejected
+PASS element text escaped as plain text
+PASS desktop element style applied
+PASS mobile override selected on resize
+PASS mutation observer preserves active inline editing
+PASS reset restores original element text
+PASS reset restores original element style
+PASS element inspector edits text
+PASS element inspector persists breakpoint style
+PASS prominent alignment control persists mobile style
+PASS text formatting is visible without advanced menus
+PASS element inspector reset
+Element controls included; total 37 assertions passed.
+PASS contextual content properties accepted
+PASS active button destinations rejected
+PASS visibility requires boolean
+PASS hide removes original element from visual layout
+PASS button destination updates
+PASS create content renders beside existing element
+PASS created button works
+PASS soft delete hides selected element
+PASS changing graph cleans inserted content
+PASS show restores original display
+PASS reset restores original button destination
+Contextual actions included; total 48 assertions passed.
+PASS original components reorder without replacing their markup
+PASS reset restores original component order
+PASS negative component positions rejected
+PASS mobile navigation opens
+PASS Escape closes navigation
+PASS Escape returns keyboard focus to menu
+PASS current-page link also closes mobile navigation
+PASS outside click closes navigation
+PASS service dropdown opens on click
+PASS mobile service category accordion opens accessibly
+PASS mega menu includes new business development service
+PASS service category accordion closes
+PASS service dropdown closes on second click
+PASS menu and desktop appearance controls stay synchronized
+PASS scroll switches header surface
+Public navigation included; total 63 assertions passed.
+PASS service inquiry preselects the originating service
+PASS real website field is separate from hidden spam field
+PASS failed inquiry retains entered information
+PASS successful inquiry shows server reference
+PASS new inquiry clears the completed form
+PASS timeout retains inquiry for retry
+Contact interactions included; total 69 assertions passed.
+PASS library starts with context actions instead of an open form
+PASS hide requests a private draft
+PASS visibility changes carry record version
+PASS show explicitly requests publication
+PASS delete uses server DELETE permission gate
+PASS trash supports restoring content
+PASS new content generates a readable address
+PASS new content stays private by default
+Content library interactions included; total 77 assertions passed.
+PASS hiding an unsaved website default creates its controlling row
+PASS default visibility preserves its original address
+PASS hiding a default preserves its approved content
+PASS editing a virtual default never sends an invalid UUID patch
+PASS default edits save the actual editor values
+Default content interactions included; total 82 assertions passed.
+PASS avatar input disabled while uploading
+PASS avatar upload progress is visible
+PASS failed avatar upload retains previous image
+PASS failed avatar input resets for same-file retry
+PASS failed upload has no success message
+PASS same image can be retried
+PASS successful upload updates preview
+PASS successful retry clears previous error
+PASS incomplete success response never shows success
+PASS incomplete success preserves preview
+Profile upload interactions included; total 92 assertions passed.
